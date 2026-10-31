@@ -37,7 +37,10 @@ body {
     radial-gradient(900px 600px at 50% -10%, rgba(255, 213, 74, 0.06), transparent 70%);
   background-attachment: fixed;
   color: var(--text);
-  font-family: 'Noto Sans JP', system-ui, -apple-system, 'Hiragino Kaku Gothic ProN', 'Yu Gothic', sans-serif;
+  /* OS 標準の日本語ゴシックを使う。Web フォントは読み込まない（docs/03 §4） */
+  font-family:
+    system-ui, -apple-system, 'Hiragino Sans', 'Hiragino Kaku Gothic ProN', 'Noto Sans JP',
+    'Yu Gothic', sans-serif;
   font-size: 1rem;
   line-height: 1.7;
 }

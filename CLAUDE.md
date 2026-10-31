@@ -38,7 +38,7 @@
 - 端末内保存：localStorage（視聴済み作品、表示設定、閲覧履歴、新着スナップショット）
 - テスト：Vitest（**ネタバレ判定ロジックは必ずテストを書く**）
 - データ：`data/` 配下の JSON。`scripts/` で検証・結合してアプリに渡す
-- アイコン：lucide-react（MIT）。フォント：Noto Sans JP（Google Fonts または self-host）
+- アイコン：lucide-react（MIT）。フォントは OS 標準の日本語ゴシック（Web フォントは使わない。03 §4）
 - 外部サーバー・DB・ログイン・解析ツールは使わない（完全にクライアント側で完結）
 - 配信：GitHub Pages（GitHub Actions でビルドしてデプロイ）
 
