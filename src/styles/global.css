@@ -1,34 +1,68 @@
 @import './tokens.css';
 
-*, *::before, *::after { box-sizing: border-box; }
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
 
-html { -webkit-text-size-adjust: 100%; }
+/* 文字サイズ設定（小 14 / 中 16 / 大 18px）。
+   文字まわりの寸法は rem で書き、ここを変えるだけで全体が拡大縮小するようにする。
+   タップ領域やヘッダーの高さは px のままにして、指の大きさに対する当たり判定を保つ。 */
+:root {
+  --font-base: 16px;
+}
+:root[data-font-size='s'] {
+  --font-base: 14px;
+}
+:root[data-font-size='l'] {
+  --font-base: 18px;
+}
+
+html {
+  font-size: var(--font-base);
+  -webkit-text-size-adjust: 100%;
+}
 
 body {
   margin: 0;
   background-color: var(--bg);
   /* 星空は CSS だけで作る（画像なし・アニメーションなし）。docs/03 §4 */
   background-image:
-    radial-gradient(1px 1px at 12% 18%, rgba(255,255,255,.55), transparent 60%),
-    radial-gradient(1px 1px at 68% 9%,  rgba(255,255,255,.40), transparent 60%),
-    radial-gradient(1px 1px at 84% 42%, rgba(255,255,255,.35), transparent 60%),
-    radial-gradient(1px 1px at 27% 61%, rgba(255,255,255,.30), transparent 60%),
-    radial-gradient(1px 1px at 52% 83%, rgba(255,255,255,.28), transparent 60%),
-    radial-gradient(900px 600px at 50% -10%, rgba(255,213,74,.06), transparent 70%);
+    radial-gradient(1px 1px at 12% 18%, rgba(255, 255, 255, 0.55), transparent 60%),
+    radial-gradient(1px 1px at 68% 9%, rgba(255, 255, 255, 0.4), transparent 60%),
+    radial-gradient(1px 1px at 84% 42%, rgba(255, 255, 255, 0.35), transparent 60%),
+    radial-gradient(1px 1px at 27% 61%, rgba(255, 255, 255, 0.3), transparent 60%),
+    radial-gradient(1px 1px at 52% 83%, rgba(255, 255, 255, 0.28), transparent 60%),
+    radial-gradient(900px 600px at 50% -10%, rgba(255, 213, 74, 0.06), transparent 70%);
   background-attachment: fixed;
   color: var(--text);
   font-family: 'Noto Sans JP', system-ui, -apple-system, 'Hiragino Kaku Gothic ProN', 'Yu Gothic', sans-serif;
-  font-size: 16px;
+  font-size: 1rem;
   line-height: 1.7;
 }
 
-h1, h2, h3 { letter-spacing: 0.04em; font-weight: 700; line-height: 1.4; }
+h1,
+h2,
+h3 {
+  letter-spacing: 0.04em;
+  font-weight: 700;
+  line-height: 1.4;
+}
 
-a { color: var(--link); }
+a {
+  color: var(--link);
+}
 
-button { font: inherit; color: inherit; }
+button {
+  font: inherit;
+  color: inherit;
+}
 
-:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 2px;
+}
 
 /* --- アプリの骨格 --- */
 .app {
@@ -39,54 +73,353 @@ button { font: inherit; color: inherit; }
 }
 
 .header {
-  position: sticky; top: 0; z-index: 10;
+  position: sticky;
+  top: 0;
+  z-index: 10;
   height: var(--header-h);
-  display: flex; align-items: center; gap: 8px;
+  display: flex;
+  align-items: center;
+  gap: 8px;
   padding: 0 8px;
-  background: rgba(10,10,15,.88);
+  background: rgba(10, 10, 15, 0.88);
   backdrop-filter: blur(8px);
   border-bottom: 1px solid var(--border);
 }
-.header__title { font-size: 16px; margin: 0; }
+.header__title {
+  font-size: 1rem;
+  margin: 0;
+}
 .header__back {
-  min-width: var(--tap); min-height: var(--tap);
-  display: inline-flex; align-items: center; gap: 4px;
-  background: none; border: 0; cursor: pointer; font-size: 14px;
+  min-width: var(--tap);
+  min-height: var(--tap);
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  background: none;
+  border: 0;
+  cursor: pointer;
+  font-size: 0.875rem;
 }
 
-.main { padding: 16px 16px 24px; }
+/* 「すべて表示」が ON のときの警告帯（docs/03 §3） */
+.spoilerBanner {
+  position: sticky;
+  top: var(--header-h);
+  z-index: 9;
+  margin: 0;
+  padding: 6px 16px;
+  background: var(--danger);
+  color: #2a0000;
+  font-size: 0.8125rem;
+  font-weight: 700;
+  text-align: center;
+}
 
-.page__title { font-size: 20px; margin: 0 0 4px; }
+.main {
+  padding: 16px 16px 24px;
+}
+
+.page__title {
+  font-size: 1.25rem;
+  margin: 0 0 4px;
+}
 .page__title::after {
-  content: ''; display: block; width: 36px; height: 2px;
-  background: var(--accent); margin-top: 6px;
+  content: '';
+  display: block;
+  width: 36px;
+  height: 2px;
+  background: var(--accent);
+  margin-top: 6px;
 }
-.page__note { color: var(--text-sub); font-size: 14px; }
+.page__note {
+  color: var(--text-sub);
+  font-size: 0.875rem;
+}
+
+.section {
+  margin-top: 28px;
+}
+.section__title {
+  font-size: 1rem;
+  margin: 24px 0 8px;
+  padding-left: 10px;
+  border-left: 2px solid var(--accent);
+}
 
 .card {
+  display: block;
   background: var(--surface);
   border: 1px solid var(--border);
   border-radius: var(--radius);
   padding: 16px;
   margin-top: 16px;
 }
+.card--link {
+  text-decoration: none;
+  color: inherit;
+}
+.card--invite {
+  border-color: var(--accent);
+}
+.card__lead {
+  margin: 0 0 4px;
+  font-weight: 700;
+}
+.card .page__note {
+  margin: 0;
+  display: block;
+}
+
+.button {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-height: var(--tap);
+  margin-top: 12px;
+  padding: 0 16px;
+  border: 0;
+  border-radius: var(--radius);
+  background: var(--accent);
+  color: var(--accent-ink);
+  font-weight: 700;
+  text-decoration: none;
+  cursor: pointer;
+}
+.button--quiet {
+  background: var(--surface-2);
+  color: var(--text);
+  border: 1px solid var(--border);
+  font-weight: 400;
+}
+
+/* --- ホームの種類別タイル --- */
+.tiles {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 8px;
+  margin-top: 8px;
+}
+.tile {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 8px;
+  min-height: 56px;
+  padding: 0 14px;
+  border: 1px solid var(--border);
+  border-left: 3px solid var(--tile-accent, var(--border));
+  border-radius: var(--radius);
+  background: var(--surface);
+  color: var(--text);
+  text-decoration: none;
+}
+.tile--empty {
+  opacity: 0.45;
+}
+.tile__label {
+  font-weight: 700;
+  font-size: 0.9375rem;
+}
+.tile__count {
+  color: var(--text-sub);
+  font-variant-numeric: tabular-nums;
+}
+
+/* --- 設定画面 --- */
+.quick {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin: 12px 0 4px;
+}
+.chip {
+  min-height: var(--tap);
+  padding: 0 14px;
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  background: var(--surface-2);
+  cursor: pointer;
+  font-size: 0.875rem;
+}
+
+.settings__group {
+  margin-top: 20px;
+}
+.settings__groupTitle {
+  font-size: 0.8125rem;
+  color: var(--text-sub);
+  letter-spacing: 0.08em;
+  margin: 0 0 6px;
+}
+
+.series {
+  margin-bottom: 8px;
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  overflow: hidden;
+}
+
+.row {
+  display: flex;
+  align-items: flex-start;
+  gap: 12px;
+  min-height: 56px;
+  padding: 10px 14px;
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  background: var(--surface);
+  margin-bottom: 6px;
+  cursor: pointer;
+}
+.series .row {
+  border: 0;
+  border-radius: 0;
+  margin-bottom: 0;
+  border-bottom: 1px solid var(--border);
+}
+.series .row:last-child {
+  border-bottom: 0;
+}
+.row--series {
+  background: var(--surface-2);
+  font-weight: 700;
+  align-items: center;
+}
+.row--nested {
+  padding-left: 32px;
+}
+.row--toggle {
+  align-items: center;
+}
+.row input[type='checkbox'] {
+  flex: none;
+  width: 22px;
+  height: 22px;
+  margin: 6px 0 0;
+  accent-color: var(--accent);
+}
+.row--series input[type='checkbox'],
+.row--toggle input[type='checkbox'] {
+  margin-top: 0;
+}
+.row__body {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  min-width: 0;
+}
+.row__title {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: 8px;
+  line-height: 1.5;
+}
+.row__year {
+  color: var(--text-sub);
+  font-size: 0.8125rem;
+  font-variant-numeric: tabular-nums;
+}
+.row__sub {
+  color: var(--text-sub);
+  font-size: 0.8125rem;
+  line-height: 1.5;
+}
+.row--series .row__sub {
+  margin-left: auto;
+}
+
+.badge {
+  padding: 1px 8px;
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  background: var(--surface-2);
+  color: var(--text-sub);
+  font-size: 0.75rem;
+  font-weight: 400;
+  white-space: nowrap;
+}
+.badge--pending {
+  border-color: transparent;
+  background: #2a2518;
+  color: var(--accent);
+}
+
+.field {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  min-height: 56px;
+}
+.field__label {
+  font-weight: 700;
+}
+.segmented {
+  display: flex;
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  overflow: hidden;
+}
+.segmented__item {
+  min-width: var(--tap);
+  min-height: var(--tap);
+  padding: 0 14px;
+  border: 0;
+  border-left: 1px solid var(--border);
+  background: var(--surface);
+  cursor: pointer;
+}
+.segmented__item:first-child {
+  border-left: 0;
+}
+.segmented__item.is-active {
+  background: var(--accent);
+  color: var(--accent-ink);
+  font-weight: 700;
+}
+
+.meta {
+  display: grid;
+  grid-template-columns: auto 1fr;
+  gap: 4px 16px;
+  margin: 8px 0;
+  font-size: 0.875rem;
+}
+.meta dt {
+  color: var(--text-sub);
+}
+.meta dd {
+  margin: 0;
+}
 
 /* --- 下部タブ --- */
 .tabbar {
-  position: fixed; left: 0; right: 0; bottom: 0; z-index: 20;
-  display: grid; grid-template-columns: repeat(4, 1fr);
+  position: fixed;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 20;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
   height: calc(var(--tabbar-h) + env(safe-area-inset-bottom));
   padding-bottom: env(safe-area-inset-bottom);
-  background: rgba(10,10,15,.94);
+  background: rgba(10, 10, 15, 0.94);
   backdrop-filter: blur(8px);
   border-top: 1px solid var(--border);
 }
 .tabbar__item {
-  display: flex; flex-direction: column; align-items: center; justify-content: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
   gap: 2px;
   min-height: var(--tap);
-  font-size: 11px; line-height: 1.2;
+  font-size: 0.6875rem;
+  line-height: 1.2;
   color: var(--text-sub);
   text-decoration: none;
 }
-.tabbar__item.is-active { color: var(--accent); }
+.tabbar__item.is-active {
+  color: var(--accent);
+}

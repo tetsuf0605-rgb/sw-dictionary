@@ -1,12 +1,92 @@
-// Phase 3 で視聴状況サマリー・種類別の入口・新着カードを入れる（docs/03 §3）。
+// ホーム（docs/03_ui_design.md §3「ホーム」）。
+// 視聴状況のサマリーと、種類別・年表への入口。件数はすべて watched で絞ったもの。
+import { Link } from 'react-router-dom'
+import { TYPE_LABEL, TYPE_ORDER } from '../lib/labels'
+import { unlockedEntities } from '../lib/visibility'
+import { useApp, useDb } from '../store/app'
+
 export default function Home() {
+  const { status, watchedIds, prefs } = useApp()
+  const data = useDb()
+
+  if (status.kind === 'loading') return <p className="page__note">読み込み中…</p>
+  if (status.kind === 'error' || !data) {
+    return (
+      <>
+        <h2 className="page__title">ホーム</h2>
+        <div className="card">
+          <p>データを読み込めませんでした。</p>
+          <p className="page__note">
+            {status.kind === 'error' ? status.message : ''}
+            <br />
+            通信できる状態でもう一度開いてみてください。
+          </p>
+        </div>
+      </>
+    )
+  }
+
+  const { db, index, watched } = data
+  const unlocked = unlockedEntities(index, watched)
+  const counts = new Map(TYPE_ORDER.map((t) => [t, unlocked.filter((e) => e.type === t).length]))
+  const withData = watchedIds.filter((id) => db.works.find((w) => w.id === id)?.hasPack).length
+
+  if (watchedIds.length === 0 && !prefs.showAll) {
+    return (
+      <>
+        <h2 className="page__title">ホロクロン</h2>
+        <div className="card card--invite">
+          <p className="card__lead">まず、視聴済みの作品を選んでください。</p>
+          <p className="page__note">
+            選んだ作品で明かされた情報だけが表示されます。まだ見ていない作品のネタバレは出ません。
+          </p>
+          <Link className="button" to="/settings">
+            視聴済み作品を設定する
+          </Link>
+        </div>
+      </>
+    )
+  }
+
   return (
     <>
-      <h2 className="page__title">ホーム</h2>
-      <p className="page__note">Phase 0：アプリの殻だけができた状態です。</p>
+      <h2 className="page__title">ホロクロン</h2>
+
       <div className="card">
-        <p>視聴済み作品のサマリーと、種類別の入口がここに入ります（Phase 3）。</p>
+        <p className="card__lead">
+          {prefs.showAll ? 'すべて表示中（ネタバレ全開放）' : `視聴済み ${watchedIds.length} 作品`}
+          {!prefs.showAll && <span className="page__note">（データあり {withData} 作品）</span>}
+        </p>
+        <p className="page__note">読める項目は {unlocked.length} 件です。</p>
+        <Link className="button button--quiet" to="/settings">
+          視聴済み作品を変更する
+        </Link>
       </div>
+
+      <h3 className="section__title">辞典</h3>
+      <nav className="tiles" aria-label="種類別の一覧">
+        {TYPE_ORDER.map((type) => {
+          const count = counts.get(type) ?? 0
+          return (
+            <Link
+              key={type}
+              className={'tile' + (count === 0 ? ' tile--empty' : '')}
+              to={`/list/${type}`}
+              style={{ ['--tile-accent' as string]: `var(--type-${type})` }}
+            >
+              <span className="tile__label">{TYPE_LABEL[type]}</span>
+              <span className="tile__count">{count}</span>
+            </Link>
+          )
+        })}
+      </nav>
+
+      <Link className="card card--link" to="/timeline">
+        <span className="card__lead">年表</span>
+        <span className="page__note">
+          読める出来事 {counts.get('event') ?? 0} 件を、作中の年代順に並べます。
+        </span>
+      </Link>
     </>
   )
 }
