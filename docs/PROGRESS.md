@@ -1,17 +1,16 @@
 # 進捗
 
 ## 現在のフェーズ
-Phase 1 完了。次は Phase 2（解放判定ロジックとテスト）
+Phase 2 完了。次は Phase 3（設定画面とホーム）
 
 ## 完了したフェーズ
 - Phase 0（2026-10-31）公開 URL: https://tetsuf0605-rgb.github.io/sw-dictionary/
 - Phase 1（2026-10-31）型・検証・結合・プレビュー。サンプルデータで validate エラー 0
+- Phase 2（2026-10-31）解放判定・リンク・検索とテスト 49 件
 
 ## 次にやること
 - [ ] スマホで実機確認（ホーム画面に追加 → 枠なしで起動 → 機内モードでも起動）
-- [ ] Phase 2（解放判定ロジックとテスト）へ
-- [ ] Phase 2 で `src/lib/visibility.ts` を作ったら、`scripts/preview.mjs` の判定を
-      そちらの import に置き換える（判定を 2 か所に持たないため。Node 24 は .ts を直接読める）
+- [ ] Phase 3（設定画面とホーム）へ
 
 ## 決め待ち
 （なし）
@@ -54,3 +53,18 @@ Phase 1 完了。次は Phase 2（解放判定ロジックとテスト）
   - 確認した受け入れシナリオ: S1（空＝0 件）、S2（ep4 のみ＝人物 7 件・時代区分 2 件・ヨーダなし）、
     S4（ep5 のみ＝オルデランとデス・スターが出ない）
   - わざと壊したコピーで E04 / E05 / E08 / W01 が出ること、終了コード 1 で止まることを確認済み
+- 2026-10-31 Phase 2 実装
+  - `src/lib/visibility.ts` が **watched を見る唯一の場所**。links.ts / search.ts は watched を知らず、
+    links.ts には「解放済みか答える関数」を外から渡す形にした（02 §6 の「判定は 1 か所」）
+  - 出典ラベルの絞り込みも `visibleSources()` として visibility.ts に入れた
+    （preview.mjs が自前で `revealedBy.filter(watched.has)` していたのを移した）
+  - `scripts/preview.mjs` は visibility.ts / links.ts を直接 import する形に変更。
+    Node 24 が .ts の型注釈を読み飛ばせるため、ビルドなしで共有できる。
+    そのため `src/lib/` 内の値 import には拡張子 `.ts` を付けている（Node の解決規則に合わせるため）
+  - TypeScript 設定を 3 つに分けた: app（アプリ）/ node（vite.config）/ **test（テスト。node の型を使う）**。
+    アプリ側に Node の型が混ざらないようにするため。あわせて `tsconfig.app.json` の `strict` を有効化した
+  - テストはサンプルパックを直接読んで build 関数を通す（`src/lib/testdb.ts`）。db.json には依存しない
+  - 仕様になかったので決めたこと:
+    - 年表で `precision: "unknown"` の出来事は年を持たないものとして**末尾**に置き、`order` だけで並べる
+    - 一覧・関連項目の五十音順は `reading`（なければ表示名）を `localeCompare(..., 'ja')` で比較する
+    - `resolveWatched` は works.json にない作品 ID を無視する（作品を消したときに壊れないように）
