@@ -1,16 +1,13 @@
 # 進捗
 
 ## 現在のフェーズ
-Phase 0（環境構築と「空の PWA」を公開する）— 実装完了。コミット・push・Pages 設定・実機確認が残り
+Phase 0 完了（公開まで確認済み）。次は Phase 1
 
 ## 完了したフェーズ
-（なし。Phase 0 は push と実機確認で完了）
+- Phase 0（2026-10-31）公開 URL: https://tetsuf0605-rgb.github.io/sw-dictionary/
 
 ## 次にやること
-- [ ] `git init` → 初回コミット → GitHub へ push
-- [ ] GitHub の Settings → Pages で Source を「GitHub Actions」にする
-- [ ] https://tetsuf0605-rgb.github.io/sw-dictionary/ が開くことを確認
-- [ ] スマホでホーム画面に追加 →（枠なしで起動・機内モードでも起動）を確認
+- [ ] スマホで実機確認（ホーム画面に追加 → 枠なしで起動 → 機内モードでも起動）
 - [ ] Phase 1（データ基盤：型・検証・結合・プレビュー）へ
 
 ## 決め待ち
@@ -33,3 +30,7 @@ Phase 0（環境構築と「空の PWA」を公開する）— 実装完了。�
 - 2026-10-31 アイコンの権利方針を決定：いただいたシルエット画像をそのまま使う。
   これに合わせて `docs/05_content_guide.md` §4 と `CLAUDE.md` のコーディング規約を更新した
   （アプリ内コンテンツに画像を使わない方針は維持。アイコンのみ例外、個人・家族利用にとどめる条件つき）
+- 2026-10-31 公開完了。Pages の Source は `gh api` で build_type=workflow に設定済み
+  （初回 push 時は Pages 未有効で configure-pages が失敗した。リポジトリ作成直後は先に有効化が必要）
+  - 公開後の確認：index / manifest / sw.js / 各アイコンが 200、Service Worker が
+    scope `…/sw-dictionary/` で activated、コンソールエラーなし
