@@ -1,0 +1,24 @@
+/* docs/03_ui_design.md §4 のデザイントークン。色やサイズはここだけで定義する。 */
+:root {
+  --bg: #0a0a0f;            /* ほぼ黒。星空の下地 */
+  --surface: #15161d;       /* カード */
+  --surface-2: #1f2029;     /* 浮いたカード・入力欄 */
+  --border: #2a2b36;
+  --text: #f3f3f5;
+  --text-sub: #a0a3b1;
+  --accent: #ffd54a;        /* 黄。見出しの下線・主要ボタン・選択状態 */
+  --accent-ink: #1a1400;    /* 黄ボタン上の文字 */
+  --link: #8fd0ff;          /* 本文リンク。下線つき */
+  --danger: #ff6b6b;        /* 「すべて表示」警告帯など */
+  --new: #7ee787;           /* NEW バッジ */
+  /* 種類バッジ（彩度低め。勢力色ではない） */
+  --type-character: #6ea8fe; --type-place: #8bd17c; --type-organization: #c8a2ff;
+  --type-species: #ffb86b;   --type-vehicle: #7fd4d4; --type-item: #f0a6c8;
+  --type-concept: #d6c38a;   --type-event: #ff9f68;
+  --radius: 14px;
+  --tap: 44px;
+  /* レイアウト用（docs/03 §4「レイアウト」） */
+  --maxw: 640px;
+  --header-h: 48px;
+  --tabbar-h: 56px;
+}

@@ -1,0 +1,147 @@
+[
+  {
+    "id": "yoda",
+    "type": "character",
+    "names": [
+      { "text": "ヨーダ", "reading": "よーだ", "en": "Yoda" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "[[dagobah]]の沼地にひっそりと暮らす、小柄で高齢のジェダイ・マスター。", "revealedBy": ["ep5"] },
+      { "text": "800年にわたりジェダイを教えてきたと語り、[[luke-skywalker]]を弟子にとった。", "revealedBy": ["ep5"] },
+      { "text": "[[the-force]]は肉体の大きさとは関係なく、信じる心によって引き出せるとルークに教えた。", "revealedBy": ["ep5"] }
+    ]
+  },
+  {
+    "id": "lando-calrissian",
+    "type": "character",
+    "names": [
+      { "text": "ランド・カルリジアン", "reading": "らんど・かるりじあん", "en": "Lando Calrissian" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "[[cloud-city]]の統治者で、[[han-solo]]の古い友人。かつて[[millennium-falcon]]の持ち主だった。", "revealedBy": ["ep5"] },
+      { "text": "帝国に脅されてハンたちを引き渡したが、のちに離反して[[leia-organa]]たちの脱出を助けた。", "revealedBy": ["ep5"] }
+    ]
+  },
+  {
+    "id": "hoth",
+    "type": "place",
+    "names": [
+      { "text": "ホス", "reading": "ほす", "en": "Hoth" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "一面が氷と雪に覆われた惑星。", "revealedBy": ["ep5"] },
+      { "text": "[[rebel-alliance]]が秘密基地を置いたが、[[battle-of-hoth]]で帝国軍に発見され、放棄した。", "revealedBy": ["ep5"] }
+    ]
+  },
+  {
+    "id": "dagobah",
+    "type": "place",
+    "names": [
+      { "text": "ダゴバ", "reading": "だごば", "en": "Dagobah" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "霧と沼に覆われた辺境の惑星。[[yoda]]が隠れ住んでいた。", "revealedBy": ["ep5"] }
+    ]
+  },
+  {
+    "id": "cloud-city",
+    "type": "place",
+    "names": [
+      { "text": "クラウド・シティ", "reading": "くらうど・してぃ", "en": "Cloud City" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "ガス惑星ベスピンの上空に浮かぶ採掘都市。[[lando-calrissian]]が統治していた。", "revealedBy": ["ep5"] },
+      { "text": "[[darth-vader]]はここにハンたちをおびき寄せ、[[luke-skywalker]]を待ち受けた。", "revealedBy": ["ep5"] }
+    ]
+  },
+  {
+    "id": "battle-of-hoth",
+    "type": "event",
+    "names": [
+      { "text": "ホスの戦い", "reading": "ほすのたたかい", "en": "Battle of Hoth" }
+    ],
+    "date": { "year": 3, "precision": "exact" },
+    "facts": [
+      { "kind": "summary", "text": "帝国軍が[[hoth]]の反乱軍基地を襲った戦い。", "revealedBy": ["ep5"] },
+      { "text": "反乱軍は巨大な歩行兵器を相手に時間を稼ぎ、大きな損害を受けながらも脱出した。", "revealedBy": ["ep5"] }
+    ]
+  },
+
+  {
+    "id": "luke-skywalker",
+    "facts": [
+      { "text": "[[hoth]]の反乱軍基地で過ごしたのち、[[dagobah]]で[[yoda]]からジェダイの修行を受けた。", "revealedBy": ["ep5"] },
+      { "text": "仲間の危機を感じ取って修行を中断し、[[cloud-city]]で[[darth-vader]]と戦って右手を失った。", "revealedBy": ["ep5"] },
+      { "text": "ベイダーから、自分こそがお前の父だと告げられた。", "revealedBy": ["ep5"] }
+    ]
+  },
+  {
+    "id": "darth-vader",
+    "facts": [
+      { "text": "[[hoth]]の反乱軍基地を発見し、艦隊を率いて急襲した。", "revealedBy": ["ep5"] },
+      { "id": "ep5-father", "text": "[[luke-skywalker]]の実の父である。", "revealedBy": ["ep5"] },
+      { "text": "[[cloud-city]]でルークと決闘し、右手を切り落としたうえで真実を告げ、共に銀河を治めようと誘った。", "revealedBy": ["ep5"] },
+      { "text": "皇帝の命を受け、ルークをダークサイドへ引き入れようとしている。", "revealedBy": ["ep5"] }
+    ],
+    "sameAs": [
+      { "id": "anakin-skywalker", "revealedBy": ["ep5"], "note": "正体" }
+    ]
+  },
+  {
+    "id": "anakin-skywalker",
+    "facts": [
+      { "text": "実際には死んでおらず、ダークサイドに堕ちて[[darth-vader]]そのものになっていた。", "revealedBy": ["ep5"] }
+    ]
+  },
+  {
+    "id": "obi-wan-kenobi",
+    "facts": [
+      { "text": "死後も霊体となって[[luke-skywalker]]の前に現れ、[[dagobah]]の[[yoda]]を訪ねるよう導いた。", "revealedBy": ["ep5"] }
+    ]
+  },
+  {
+    "id": "han-solo",
+    "facts": [
+      { "text": "ホスからの脱出後、[[millennium-falcon]]のハイパードライブが故障し、帝国の追撃をかわしながら[[cloud-city]]へ逃げ込んだ。", "revealedBy": ["ep5"] },
+      { "text": "[[lando-calrissian]]の裏切りで帝国に捕らえられ、カーボン凍結されて賞金稼ぎに引き渡された。", "revealedBy": ["ep5"] }
+    ]
+  },
+  {
+    "id": "leia-organa",
+    "facts": [
+      { "text": "[[hoth]]の基地からの脱出後、[[han-solo]]と共に帝国の追撃を逃れた。二人は反発しながらも惹かれ合う。", "revealedBy": ["ep5"] },
+      { "text": "[[cloud-city]]で捕らえられたが、[[lando-calrissian]]の離反で脱出し、[[luke-skywalker]]を救い出した。", "revealedBy": ["ep5"] }
+    ]
+  },
+  {
+    "id": "chewbacca",
+    "facts": [
+      { "text": "凍結された[[han-solo]]を取り戻すため、[[lando-calrissian]]と共に[[millennium-falcon]]で旅立った。", "revealedBy": ["ep5"] }
+    ]
+  },
+  {
+    "id": "millennium-falcon",
+    "facts": [
+      { "text": "ホスからの脱出後にハイパードライブが故障し、小惑星帯に身を隠して帝国の追撃をかわした。", "revealedBy": ["ep5"] }
+    ]
+  },
+  {
+    "id": "rebel-alliance",
+    "facts": [
+      { "text": "[[hoth]]に置いた秘密基地を帝国軍に発見され、[[battle-of-hoth]]で大きな損害を受けた。", "revealedBy": ["ep5"] }
+    ]
+  },
+  {
+    "id": "galactic-empire",
+    "facts": [
+      { "text": "皇帝自らがホログラムで[[darth-vader]]に指示を出し、[[luke-skywalker]]を味方に引き入れるよう命じた。", "revealedBy": ["ep5"] }
+    ]
+  },
+  {
+    "id": "the-force",
+    "facts": [
+      { "text": "[[yoda]]はルークに、フォースは生き物の間を流れ、周囲のすべてを結びつけるものだと教えた。", "revealedBy": ["ep5"] },
+      { "text": "フォースに深く通じた者は、死後も霊体として姿を現すことがある。", "revealedBy": ["ep5"] }
+    ]
+  }
+]
