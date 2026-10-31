@@ -12,9 +12,18 @@ import {
   useState,
   type ReactNode,
 } from 'react'
-import { DEFAULT_PREFS, loadPrefs, loadWatched, savePrefs, saveWatched } from '../lib/storage'
+import {
+  DEFAULT_PREFS,
+  HISTORY_MAX,
+  loadHistory,
+  loadPrefs,
+  loadWatched,
+  saveHistory,
+  savePrefs,
+  saveWatched,
+} from '../lib/storage'
 import { createIndex, resolveWatched, type Index, type Watched } from '../lib/visibility'
-import type { Db, Prefs, WorkId } from '../types'
+import type { Db, EntityId, Prefs, WorkId } from '../types'
 
 type Status =
   | { kind: 'loading' }
@@ -28,6 +37,10 @@ interface AppValue {
   prefs: Prefs
   /** 判定に渡す watched。showAll が ON なら全作品が入る */
   watched: Watched
+  /** 閲覧履歴。新しい順（docs/02 §14 sw.history.v1） */
+  history: EntityId[]
+  pushHistory: (id: EntityId) => void
+  clearHistory: () => void
   toggleWork: (id: WorkId, on: boolean) => void
   toggleWorks: (ids: readonly WorkId[], on: boolean) => void
   updatePrefs: (patch: Partial<Prefs>) => void
@@ -39,6 +52,7 @@ export function AppProvider({ children }: { children: ReactNode }) {
   const [status, setStatus] = useState<Status>({ kind: 'loading' })
   const [watchedIds, setWatchedIds] = useState<WorkId[]>(() => loadWatched())
   const [prefs, setPrefs] = useState<Prefs>(() => loadPrefs())
+  const [history, setHistory] = useState<EntityId[]>(() => loadHistory())
 
   // db.json の読み込み（base が /sw-dictionary/ なので BASE_URL を付ける）
   useEffect(() => {
@@ -93,14 +107,39 @@ export function AppProvider({ children }: { children: ReactNode }) {
     })
   }, [])
 
+  const pushHistory = useCallback((id: EntityId) => {
+    setHistory((prev) => {
+      if (prev[0] === id) return prev
+      const next = [id, ...prev.filter((x) => x !== id)].slice(0, HISTORY_MAX)
+      saveHistory(next)
+      return next
+    })
+  }, [])
+
+  const clearHistory = useCallback(() => {
+    setHistory([])
+    saveHistory([])
+  }, [])
+
   const watched = useMemo(
     () => (status.kind === 'ready' ? resolveWatched(status.db, watchedIds, prefs.showAll) : new Set<WorkId>()),
     [status, watchedIds, prefs.showAll],
   )
 
   const value = useMemo<AppValue>(
-    () => ({ status, watchedIds, prefs, watched, toggleWork, toggleWorks, updatePrefs }),
-    [status, watchedIds, prefs, watched, toggleWork, toggleWorks, updatePrefs],
+    () => ({
+      status,
+      watchedIds,
+      prefs,
+      watched,
+      history,
+      pushHistory,
+      clearHistory,
+      toggleWork,
+      toggleWorks,
+      updatePrefs,
+    }),
+    [status, watchedIds, prefs, watched, history, pushHistory, clearHistory, toggleWork, toggleWorks, updatePrefs],
   )
 
   return <AppContext.Provider value={value}>{children}</AppContext.Provider>

@@ -1,12 +1,13 @@
 // ホーム（docs/03_ui_design.md §3「ホーム」）。
 // 視聴状況のサマリーと、種類別・年表への入口。件数はすべて watched で絞ったもの。
+import { Search } from 'lucide-react'
 import { Link } from 'react-router-dom'
 import { TYPE_LABEL, TYPE_ORDER } from '../lib/labels'
-import { unlockedEntities } from '../lib/visibility'
+import { displayName, resolveUnlocked, unlockedEntities } from '../lib/visibility'
 import { useApp, useDb } from '../store/app'
 
 export default function Home() {
-  const { status, watchedIds, prefs } = useApp()
+  const { status, watchedIds, prefs, history } = useApp()
   const data = useDb()
 
   if (status.kind === 'loading') return <p className="page__note">読み込み中…</p>
@@ -30,6 +31,7 @@ export default function Home() {
   const unlocked = unlockedEntities(index, watched)
   const counts = new Map(TYPE_ORDER.map((t) => [t, unlocked.filter((e) => e.type === t).length]))
   const withData = watchedIds.filter((id) => db.works.find((w) => w.id === id)?.hasPack).length
+  const recent = resolveUnlocked(index, history, watched).slice(0, 5)
 
   if (watchedIds.length === 0 && !prefs.showAll) {
     return (
@@ -51,6 +53,11 @@ export default function Home() {
   return (
     <>
       <h2 className="page__title">ホロクロン</h2>
+
+      <Link className="searchEntry" to="/search">
+        <Search size={18} aria-hidden="true" />
+        名前・読み・英語名で検索
+      </Link>
 
       <div className="card">
         <p className="card__lead">
@@ -80,6 +87,19 @@ export default function Home() {
           )
         })}
       </nav>
+
+      {recent.length > 0 && (
+        <>
+          <h3 className="section__title">最近見た項目</h3>
+          <p className="chipList">
+            {recent.map((e) => (
+              <Link key={e.id} className="chip" to={`/e/${e.id}`}>
+                {displayName(e, watched)}
+              </Link>
+            ))}
+          </p>
+        </>
+      )}
 
       <Link className="card card--link" to="/timeline">
         <span className="card__lead">年表</span>

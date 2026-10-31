@@ -145,6 +145,19 @@ export function sortKeyOf(e: DbEntity, watched: Watched): string {
   return main.reading ?? main.text
 }
 
+/**
+ * ID の並び（閲覧履歴・お気に入りなど）から、いま解放されている項目だけを順番どおりに取り出す。
+ * 未解放になった項目は落ちる（docs/03 §2「未解放になった項目は非表示」）。
+ */
+export function resolveUnlocked(index: Index, ids: readonly EntityId[], watched: Watched): DbEntity[] {
+  const out: DbEntity[] = []
+  for (const id of ids) {
+    const e = index.entities.get(id)
+    if (e && isUnlocked(e, watched)) out.push(e)
+  }
+  return out
+}
+
 /** 解放済み項目を五十音順に並べる（一覧画面用） */
 export function sortByReading(entities: readonly DbEntity[], watched: Watched): DbEntity[] {
   return [...entities].sort((a, b) => sortKeyOf(a, watched).localeCompare(sortKeyOf(b, watched), 'ja'))
