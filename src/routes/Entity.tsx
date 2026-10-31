@@ -5,7 +5,7 @@ import { Link, useParams } from 'react-router-dom'
 import FactText from '../components/FactText'
 import Footprints from '../components/Footprints'
 import TypeBadge from '../components/TypeBadge'
-import { shortWorkLabel } from '../lib/labels'
+import { formatEventYear, shortWorkLabel } from '../lib/labels'
 import {
   displayName,
   relatedAndBacklinks,
@@ -17,16 +17,6 @@ import {
   isUnlocked,
 } from '../lib/visibility'
 import { useApp, useDb } from '../store/app'
-import type { EventDate } from '../types'
-
-/** 年代の表記（docs/02 §12） */
-function formatYear(date: EventDate): string {
-  const one = (y: number) =>
-    y < 0 ? `${-y} BBY` : y > 0 ? `${y} ABY` : '0 BBY/ABY（ヤヴィンの戦いの年）'
-  if (date.precision === 'unknown') return '年代不明'
-  const head = date.precision === 'approx' ? '約' : ''
-  return head + (date.yearEnd !== undefined ? `${one(date.year)}〜${one(date.yearEnd)}` : one(date.year))
-}
 
 export default function Entity() {
   const { id = '' } = useParams()
@@ -95,7 +85,7 @@ export default function Entity() {
         )
       })}
 
-      {entity.date && <p className="entity__date">{formatYear(entity.date)}</p>}
+      {entity.date && <p className="entity__date">{formatEventYear(entity.date)}</p>}
 
       <section className="facts">
         {facts.length === 0 && <p className="page__note">この視聴状況で読める記述はまだありません。</p>}

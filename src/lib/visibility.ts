@@ -109,9 +109,14 @@ export function unlockedEntities(index: Index, watched: Watched): DbEntity[] {
 /**
  * 年表に載せる出来事。date の年 → 同年内の order → 読み の順に並べる。
  * precision が unknown のものは年を持たないものとして末尾に置き、order だけで並べる。
+ *
+ * onlyWork を渡すと「その作品で明かされた出来事」だけに絞る（docs/03 §3 の作品チップ）。
+ * 未視聴の作品 ID を渡しても結果は増えない（watched の判定を先に通すため）。
  */
-export function buildTimeline(index: Index, watched: Watched): DbEntity[] {
-  const events = unlockedEntities(index, watched).filter((e) => e.type === 'event' && e.date)
+export function buildTimeline(index: Index, watched: Watched, onlyWork?: WorkId): DbEntity[] {
+  const events = unlockedEntities(index, watched).filter(
+    (e) => e.type === 'event' && e.date && (onlyWork === undefined || e.appearsIn.includes(onlyWork)),
+  )
   return events.sort((a, b) => {
     const ya = a.date!.precision === 'unknown' ? Number.POSITIVE_INFINITY : a.date!.year
     const yb = b.date!.precision === 'unknown' ? Number.POSITIVE_INFINITY : b.date!.year
@@ -121,6 +126,29 @@ export function buildTimeline(index: Index, watched: Watched): DbEntity[] {
       sortKeyOf(a, watched).localeCompare(sortKeyOf(b, watched), 'ja')
     )
   })
+}
+
+/**
+ * 視聴済み作品だけを返す（docs/01 F-11「未視聴作品は出さない」）。
+ * order が 'timeline' なら作中年代順、'publish' なら公開順。
+ * 作中年代を持たない作品（非正史など）は時系列順では末尾に置く。
+ */
+export function watchedWorks(db: Db, watched: Watched, order: 'publish' | 'timeline' = 'publish'): DbWork[] {
+  const list = db.works.filter((w) => watched.has(w.id))
+  if (order === 'publish') return [...list].sort((a, b) => a.publishOrder - b.publishOrder)
+  return [...list].sort((a, b) => {
+    const sa = a.timeline?.start ?? Number.POSITIVE_INFINITY
+    const sb = b.timeline?.start ?? Number.POSITIVE_INFINITY
+    return sa - sb || a.publishOrder - b.publishOrder
+  })
+}
+
+/**
+ * 年表の左端に出す帯（docs/03 §3）。視聴済みかつ作中年代を持つ作品だけ。
+ * 未視聴作品は帯も略称も出さない。
+ */
+export function timelineBands(db: Db, watched: Watched): DbWork[] {
+  return watchedWorks(db, watched, 'timeline').filter((w) => w.timeline !== null)
 }
 
 /** 検索インデックス。解放済み項目の解放済みの名前だけから作る */

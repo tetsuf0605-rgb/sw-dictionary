@@ -1,5 +1,6 @@
 // 設定画面（docs/03_ui_design.md §3「設定」）。
 // 視聴済み作品・表示設定・データ情報の 3 つ。保存はチェックした瞬間に行う。
+import { Link } from 'react-router-dom'
 import WorkChecklist from '../components/WorkChecklist'
 import { useApp, useDb } from '../store/app'
 import type { Prefs } from '../types'
@@ -53,6 +54,12 @@ export default function Settings() {
             すべて解除
           </button>
         </div>
+
+        <p className="chipList">
+          <Link className="chip" to="/works">
+            視聴済みの作品を一覧で見る
+          </Link>
+        </p>
 
         <WorkChecklist works={db.works} />
       </section>

@@ -48,6 +48,16 @@ export function linkedIds(text: string): EntityId[] {
  * - 未解放でラベルあり  → locked（ラベルを文字として表示）
  * - 未解放でラベルなし  → locked（「？？？」。本来はデータの不備で、validate の E08 が防ぐ）
  */
+/** 本文をリンクなしの素のテキストにする（年表のカードなど、1 行で見せたいところ用） */
+export function plainFactText(
+  text: string,
+  deps: { isUnlocked: (id: EntityId) => boolean; displayName: (id: EntityId) => string | null },
+): string {
+  return renderFactText(text, deps)
+    .map((t) => t.text)
+    .join('')
+}
+
 export function renderFactText(
   text: string,
   deps: {
