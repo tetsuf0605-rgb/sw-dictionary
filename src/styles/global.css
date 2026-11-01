@@ -472,7 +472,7 @@ button {
   flex: none;
   display: inline-flex;
   align-items: center;
-  min-height: 36px;
+  min-height: var(--tap);
   padding: 0 14px;
   border: 1px solid var(--border);
   border-radius: 999px;
@@ -546,9 +546,12 @@ button {
   flex-direction: column;
   gap: 1px;
 }
+/* 五十音インデックスは iOS の連絡先と同じ「細い縦のつまみ」。
+   11 行あるので 1 つ 44px にすると画面の高さを超えて使いにくくなるため、
+   ここだけタップ領域の最小値を外し、横幅を広げて押しやすくしている。 */
 .kanaIndex__item {
-  width: 26px;
-  min-height: 26px;
+  width: 32px;
+  min-height: 32px;
   border: 0;
   border-radius: 6px;
   background: none;
@@ -643,7 +646,7 @@ button {
 .chipList .chip {
   display: inline-flex;
   align-items: center;
-  min-height: 36px;
+  min-height: var(--tap);
   color: var(--text);
   text-decoration: none;
 }
@@ -668,7 +671,7 @@ button {
   flex: none;
   display: inline-flex;
   align-items: center;
-  min-height: 32px;
+  min-height: var(--tap);
   padding: 0 12px;
   border: 1px solid var(--border);
   border-radius: 999px;
@@ -835,4 +838,66 @@ button {
 .transfer__error {
   color: var(--danger);
   font-size: 0.875rem;
+}
+
+/* --- 更新案内（docs/01 F-07） --- */
+.updateBar {
+  position: sticky;
+  top: var(--header-h);
+  z-index: 9;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 8px 12px;
+  background: var(--surface-2);
+  border-bottom: 1px solid var(--accent);
+  font-size: 0.875rem;
+}
+.updateBar__apply {
+  margin-left: auto;
+  min-height: var(--tap);
+  padding: 0 14px;
+  border: 0;
+  border-radius: 999px;
+  background: var(--accent);
+  color: var(--accent-ink);
+  font-weight: 700;
+  cursor: pointer;
+}
+.updateBar__later {
+  min-height: var(--tap);
+  padding: 0 10px;
+  border: 0;
+  background: none;
+  color: var(--text-sub);
+  cursor: pointer;
+}
+
+/* --- このアプリについて --- */
+.bullets {
+  margin: 8px 0;
+  padding-left: 1.2em;
+}
+.bullets li {
+  margin-bottom: 6px;
+}
+.changelog {
+  margin-top: 12px;
+  padding: 12px 14px;
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  background: var(--surface);
+}
+.changelog__head {
+  margin: 0 0 6px;
+  font-size: 0.875rem;
+  color: var(--accent);
+}
+.changelog__list {
+  margin: 0;
+  padding-left: 1.2em;
+  font-size: 0.875rem;
+}
+.changelog__list li {
+  margin-bottom: 4px;
 }

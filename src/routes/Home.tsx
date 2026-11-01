@@ -89,6 +89,7 @@ export default function Home() {
               key={type}
               className={'tile' + (count === 0 ? ' tile--empty' : '')}
               to={`/list/${type}`}
+              aria-label={`${TYPE_LABEL[type]} ${count} 件`}
               style={{ ['--tile-accent' as string]: `var(--type-${type})` }}
             >
               <span className="tile__label">{TYPE_LABEL[type]}</span>

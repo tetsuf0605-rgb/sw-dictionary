@@ -73,6 +73,7 @@ export default function Timeline() {
           <button
             type="button"
             className={'chip' + (activeWork === undefined ? ' is-active' : '')}
+            aria-pressed={activeWork === undefined}
             onClick={() => setOnlyWork(null)}
           >
             すべて
@@ -82,6 +83,7 @@ export default function Timeline() {
               key={w.id}
               type="button"
               className={'chip' + (activeWork === w.id ? ' is-active' : '')}
+              aria-pressed={activeWork === w.id}
               onClick={() => setOnlyWork(activeWork === w.id ? null : w.id)}
             >
               {shortWorkLabel(w)}

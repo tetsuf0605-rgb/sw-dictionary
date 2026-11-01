@@ -113,7 +113,11 @@ export default function Settings() {
             {db.entities.length} 件
           </dd>
         </dl>
-        <p className="page__note">更新履歴とこのアプリについては Phase 7 で追加します。</p>
+        <p className="chipList">
+          <Link className="chip" to="/about">
+            更新履歴とこのアプリについて
+          </Link>
+        </p>
       </section>
 
       <section className="section">

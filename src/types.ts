@@ -175,6 +175,8 @@ export interface DbEntity {
 export interface Db {
   dataVersion: string
   updatedAt: string
+  /** data/CHANGELOG.md の本文。about 画面にそのまま出す（docs/01 F-07） */
+  changelog: string
   /** 公開順 */
   works: DbWork[]
   eras: Era[]

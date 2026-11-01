@@ -3,6 +3,7 @@ import { createRoot } from 'react-dom/client'
 import { HashRouter, Route, Routes } from 'react-router-dom'
 import App from './App'
 import ScrollMemory from './components/ScrollMemory'
+import About from './routes/About'
 import Dictionary from './routes/Dictionary'
 import Entity from './routes/Entity'
 import Home from './routes/Home'
@@ -31,6 +32,7 @@ createRoot(document.getElementById('root')!).render(
             <Route path="/timeline" element={<Timeline />} />
             <Route path="/works" element={<Works />} />
             <Route path="/whats-new" element={<WhatsNew />} />
+            <Route path="/about" element={<About />} />
             <Route path="/settings" element={<Settings />} />
             <Route path="*" element={<NotFound />} />
           </Route>

@@ -178,6 +178,11 @@ export function loadRaw(root) {
   }
 
   const meta = read('meta.json', {})
+
+  let changelog = ''
+  const changelogFile = join(dataDir, 'CHANGELOG.md')
+  if (existsSync(changelogFile)) changelog = readFileSync(changelogFile, 'utf8')
+  else errors.push({ file: 'data/CHANGELOG.md', message: 'ファイルがありません' })
   const works = read('works.json', [])
   const eras = read('eras.json', [])
 
@@ -201,7 +206,15 @@ export function loadRaw(root) {
     }
   }
 
-  return { root, meta, works: Array.isArray(works) ? works : [], eras: Array.isArray(eras) ? eras : [], packs, errors }
+  return {
+    root,
+    meta,
+    changelog,
+    works: Array.isArray(works) ? works : [],
+    eras: Array.isArray(eras) ? eras : [],
+    packs,
+    errors,
+  }
 }
 
 /* ---------- 公開順（02 §3「公開順は releaseDate から build が計算する」） ---------- */
@@ -421,6 +434,7 @@ export function buildDb(raw, merged) {
   return {
     dataVersion: raw.meta?.dataVersion ?? '0.0.0',
     updatedAt: raw.meta?.updatedAt ?? '',
+    changelog: raw.changelog ?? '',
     works,
     eras: [...raw.eras].sort((a, b) => (a.start ?? 0) - (b.start ?? 0)),
     entities,

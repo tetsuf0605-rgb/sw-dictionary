@@ -82,6 +82,7 @@ export default function Dictionary() {
                   key={row}
                   type="button"
                   className={'kanaIndex__item' + (has ? '' : ' is-empty')}
+                  aria-label={`${row}行へ移動`}
                   disabled={!has}
                   onClick={() =>
                     document.getElementById(`kana-${row}`)?.scrollIntoView({ block: 'start' })

@@ -12,6 +12,7 @@ export interface RawPack {
 export interface Raw {
   root: string
   meta: { dataVersion?: string; updatedAt?: string }
+  changelog: string
   works: Work[]
   eras: Era[]
   packs: RawPack[]
