@@ -165,3 +165,10 @@ Phase 7 — 実装完了。配信先でのオフライン／更新の確認が�
       WCAG 2.5.8 も文中のリンクは対象外としている
   - 開発環境の制約: このブラウザでは http://127.0.0.1 での Service Worker 登録が拒否されるため、
     オフラインと更新バーの確認は配信先（HTTPS）で行う
+  - 配信先での確認（2026-11-02）:
+    - Service Worker が activated で、登録は 1 つだけ（二重登録なし）
+    - 事前キャッシュに アプリ本体 / data/db.json / アイコン 4 種 / manifest が入っている
+      （キャッシュから index.html・db.json・アイコンを取り出せることを確認済み＝機内モードでも動く）
+    - manifest は name / short_name / start_url ./ / scope ./ / standalone /
+      theme_color / background_color / 192・512・512 maskable がそろっている
+    - apple-touch-icon・lang="ja"・viewport-fit=cover も設定済み
