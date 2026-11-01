@@ -172,3 +172,5 @@ Phase 7 — 実装完了。配信先でのオフライン／更新の確認が�
     - manifest は name / short_name / start_url ./ / scope ./ / standalone /
       theme_color / background_color / 192・512・512 maskable がそろっている
     - apple-touch-icon・lang="ja"・viewport-fit=cover も設定済み
+  - 設定に「アプリの更新を確認」を追加（docs/03 §3 データ節の最後の 1 項目）。
+    登録は `src/lib/swUpdate.ts` に持たせ、UpdatePrompt が登録したものを設定画面から使う

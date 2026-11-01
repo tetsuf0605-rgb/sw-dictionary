@@ -4,6 +4,7 @@
 // 新しい版が用意できたらここで知らせ、ユーザーが押したときだけ切り替える。
 // 黙って入れ替えると、読んでいる途中で画面が作り直される事故が起きるため。
 import { useRegisterSW } from 'virtual:pwa-register/react'
+import { setRegistration } from '../lib/swUpdate'
 
 export default function UpdatePrompt() {
   const {
@@ -11,6 +12,7 @@ export default function UpdatePrompt() {
     updateServiceWorker,
   } = useRegisterSW({
     onRegisteredSW(_url, registration) {
+      setRegistration(registration) // 設定画面の「アプリの更新を確認」から使う
       // 1 時間ごとに更新を確認する（開いたままのときのため）
       if (registration) setInterval(() => void registration.update(), 60 * 60 * 1000)
     },

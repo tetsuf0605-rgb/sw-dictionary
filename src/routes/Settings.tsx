@@ -1,10 +1,20 @@
 // 設定画面（docs/03_ui_design.md §3「設定」）。
 // 視聴済み作品・表示設定・データ情報の 3 つ。保存はチェックした瞬間に行う。
+import { useState } from 'react'
 import { Link } from 'react-router-dom'
+import { checkForUpdate, type UpdateCheck } from '../lib/swUpdate'
 import SettingsTransfer from '../components/SettingsTransfer'
 import WorkChecklist from '../components/WorkChecklist'
 import { useApp, useDb } from '../store/app'
 import type { Prefs } from '../types'
+
+const UPDATE_MESSAGE: Record<UpdateCheck, string> = {
+  unsupported: 'この環境では更新の確認ができません。',
+  checking: '確認中…',
+  found: '新しい版が見つかりました。画面上部の「更新があります」から再読み込みしてください。',
+  latest: '最新の版です。',
+  failed: '確認できませんでした。通信できる状態でもう一度お試しください。',
+}
 
 const FONT_SIZES: { value: Prefs['fontSize']; label: string }[] = [
   { value: 's', label: '小' },
@@ -15,6 +25,7 @@ const FONT_SIZES: { value: Prefs['fontSize']; label: string }[] = [
 export default function Settings() {
   const { status, prefs, watchedIds, updatePrefs, toggleWorks, history, clearHistory } = useApp()
   const data = useDb()
+  const [update, setUpdate] = useState<UpdateCheck | null>(null)
 
   if (status.kind === 'loading') return <p className="page__note">読み込み中…</p>
   if (status.kind === 'error' || !data) {
@@ -117,7 +128,22 @@ export default function Settings() {
           <Link className="chip" to="/about">
             更新履歴とこのアプリについて
           </Link>
+          <button
+            type="button"
+            className="chip"
+            onClick={() => {
+              setUpdate('checking')
+              void checkForUpdate().then(setUpdate)
+            }}
+          >
+            アプリの更新を確認
+          </button>
         </p>
+        {update && (
+          <p className="page__note" role="status">
+            {UPDATE_MESSAGE[update]}
+          </p>
+        )}
       </section>
 
       <section className="section">
