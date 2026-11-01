@@ -1,6 +1,7 @@
 // 項目詳細（docs/03_ui_design.md §3「項目詳細」）。
 // 並びは 1 種類バッジ → 2 見出し → 3 別名 → 4 同一人物 → 5 年代 → 6 記述 → 7 登場作品 → 8 関連項目。
 import { useEffect } from 'react'
+import { Star } from 'lucide-react'
 import { Link, useParams } from 'react-router-dom'
 import FactText from '../components/FactText'
 import Footprints from '../components/Footprints'
@@ -20,14 +21,16 @@ import { useApp, useDb } from '../store/app'
 
 export default function Entity() {
   const { id = '' } = useParams()
-  const { status, pushHistory } = useApp()
+  const { status, pushHistory, markEntityRead, favorites, toggleFavorite } = useApp()
   const data = useDb()
   const entity = data?.index.entities.get(id)
   const unlocked = data && entity ? isUnlocked(entity, data.watched) : false
 
   useEffect(() => {
-    if (unlocked) pushHistory(id)
-  }, [id, unlocked, pushHistory])
+    if (!unlocked) return
+    pushHistory(id)
+    markEntityRead(id) // 開いたら NEW バッジを消す（docs/03 §3「新着」）
+  }, [id, unlocked, pushHistory, markEntityRead])
 
   if (status.kind === 'loading') return <p className="page__note">読み込み中…</p>
   if (!data) {
@@ -119,6 +122,18 @@ export default function Entity() {
           </p>
         </>
       )}
+
+      <p className="chipList">
+        <button
+          type="button"
+          className={'chip' + (favorites.includes(entity.id) ? ' is-active' : '')}
+          aria-pressed={favorites.includes(entity.id)}
+          onClick={() => toggleFavorite(entity.id)}
+        >
+          <Star size={16} aria-hidden="true" />
+          {favorites.includes(entity.id) ? 'お気に入り解除' : 'お気に入りに追加'}
+        </button>
+      </p>
 
       {related.length > 0 && (
         <>

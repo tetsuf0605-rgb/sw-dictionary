@@ -1,6 +1,7 @@
 import { Outlet } from 'react-router-dom'
 import BottomTabs from './components/BottomTabs'
 import Header from './components/Header'
+import Toast from './components/Toast'
 import { useApp } from './store/app'
 
 // アプリの殻。ヘッダー・（警告帯）・本文・下部タブ。
@@ -18,6 +19,7 @@ export default function App() {
       <main className="main">
         <Outlet />
       </main>
+      <Toast />
       <BottomTabs />
     </div>
   )

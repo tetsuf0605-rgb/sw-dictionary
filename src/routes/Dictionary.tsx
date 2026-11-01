@@ -4,6 +4,7 @@ import { Link, useParams } from 'react-router-dom'
 import { KANA_ROWS, kanaRow } from '../lib/kana'
 import { TYPE_LABEL, TYPE_ORDER } from '../lib/labels'
 import { displayName, sortByReading, sortKeyOf, unlockedEntities, visibleNames } from '../lib/visibility'
+import { isNew } from '../lib/unlocks'
 import { useApp, useDb } from '../store/app'
 import type { EntityType } from '../types'
 
@@ -11,7 +12,7 @@ const isEntityType = (v: string): v is EntityType => (TYPE_ORDER as string[]).in
 
 export default function Dictionary() {
   const { type = '' } = useParams()
-  const { status } = useApp()
+  const { status, whatsNew } = useApp()
   const data = useDb()
 
   if (status.kind === 'loading') return <p className="page__note">読み込み中…</p>
@@ -59,7 +60,10 @@ export default function Dictionary() {
                   const names = visibleNames(e, watched)
                   return (
                     <Link key={e.id} className="listRow" to={`/e/${e.id}`}>
-                      <span className="listRow__name">{displayName(e, watched)}</span>
+                      <span className="listRow__name">
+                        {displayName(e, watched)}
+                        {isNew(e, whatsNew) && <span className="newBadge">NEW</span>}
+                      </span>
                       {names.length > 1 && (
                         <span className="listRow__sub">別名：{names.slice(1).map((n) => n.text).join('、')}</span>
                       )}

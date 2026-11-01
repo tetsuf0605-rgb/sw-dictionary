@@ -1,13 +1,13 @@
 // ホーム（docs/03_ui_design.md §3「ホーム」）。
 // 視聴状況のサマリーと、種類別・年表への入口。件数はすべて watched で絞ったもの。
-import { Search } from 'lucide-react'
+import { Search, Star } from 'lucide-react'
 import { Link } from 'react-router-dom'
 import { TYPE_LABEL, TYPE_ORDER } from '../lib/labels'
 import { displayName, resolveUnlocked, unlockedEntities } from '../lib/visibility'
 import { useApp, useDb } from '../store/app'
 
 export default function Home() {
-  const { status, watchedIds, prefs, history } = useApp()
+  const { status, watchedIds, prefs, history, whatsNew, favorites } = useApp()
   const data = useDb()
 
   if (status.kind === 'loading') return <p className="page__note">読み込み中…</p>
@@ -32,6 +32,7 @@ export default function Home() {
   const counts = new Map(TYPE_ORDER.map((t) => [t, unlocked.filter((e) => e.type === t).length]))
   const withData = watchedIds.filter((id) => db.works.find((w) => w.id === id)?.hasPack).length
   const recent = resolveUnlocked(index, history, watched).slice(0, 5)
+  const favoriteItems = resolveUnlocked(index, favorites, watched).slice(0, 8)
 
   if (watchedIds.length === 0 && !prefs.showAll) {
     return (
@@ -70,6 +71,15 @@ export default function Home() {
         </Link>
       </div>
 
+      {whatsNew.total > 0 && (
+        <Link className="card card--link card--new" to="/whats-new">
+          <span className="card__lead">新しく読めるようになった項目（{whatsNew.total} 件）</span>
+          <span className="page__note">
+            新規 {whatsNew.newEntities.length} 件 ／ 記述が増えた項目 {whatsNew.updatedEntities.length} 件
+          </span>
+        </Link>
+      )}
+
       <h3 className="section__title">辞典</h3>
       <nav className="tiles" aria-label="種類別の一覧">
         {TYPE_ORDER.map((type) => {
@@ -87,6 +97,21 @@ export default function Home() {
           )
         })}
       </nav>
+
+      {favoriteItems.length > 0 && (
+        <>
+          <h3 className="section__title">
+            <Star size={14} aria-hidden="true" /> お気に入り
+          </h3>
+          <p className="chipList">
+            {favoriteItems.map((e) => (
+              <Link key={e.id} className="chip" to={`/e/${e.id}`}>
+                {displayName(e, watched)}
+              </Link>
+            ))}
+          </p>
+        </>
+      )}
 
       {recent.length > 0 && (
         <>

@@ -771,3 +771,68 @@ button {
 .listRow--static {
   cursor: default;
 }
+
+/* --- 新着・お気に入り --- */
+.newBadge {
+  padding: 0 6px;
+  border-radius: 4px;
+  background: var(--new);
+  color: #04210a;
+  font-size: 0.625rem;
+  font-weight: 700;
+  letter-spacing: 0.06em;
+}
+.card--new {
+  border-color: var(--new);
+}
+
+.toast {
+  position: fixed;
+  left: 50%;
+  bottom: calc(var(--tabbar-h) + env(safe-area-inset-bottom) + 12px);
+  z-index: 30;
+  transform: translateX(-50%);
+  min-height: var(--tap);
+  max-width: calc(var(--maxw) - 32px);
+  padding: 0 18px;
+  border: 0;
+  border-radius: 999px;
+  background: var(--accent);
+  color: var(--accent-ink);
+  font-weight: 700;
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.45);
+  cursor: pointer;
+}
+
+.chip:disabled,
+.button:disabled {
+  opacity: 0.45;
+  cursor: default;
+}
+.chip svg {
+  margin-right: 4px;
+  vertical-align: -3px;
+}
+.section__title svg {
+  vertical-align: -2px;
+}
+
+/* --- 設定の書き出し・取り込み --- */
+.transfer {
+  display: block;
+  width: 100%;
+  margin: 8px 0;
+  padding: 10px 12px;
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  background: var(--surface-2);
+  color: var(--text);
+  font-family: ui-monospace, SFMono-Regular, Menlo, monospace;
+  font-size: 0.8125rem;
+  line-height: 1.5;
+  resize: vertical;
+}
+.transfer__error {
+  color: var(--danger);
+  font-size: 0.875rem;
+}

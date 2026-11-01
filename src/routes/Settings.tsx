@@ -1,6 +1,7 @@
 // 設定画面（docs/03_ui_design.md §3「設定」）。
 // 視聴済み作品・表示設定・データ情報の 3 つ。保存はチェックした瞬間に行う。
 import { Link } from 'react-router-dom'
+import SettingsTransfer from '../components/SettingsTransfer'
 import WorkChecklist from '../components/WorkChecklist'
 import { useApp, useDb } from '../store/app'
 import type { Prefs } from '../types'
@@ -12,7 +13,7 @@ const FONT_SIZES: { value: Prefs['fontSize']; label: string }[] = [
 ]
 
 export default function Settings() {
-  const { status, prefs, watchedIds, updatePrefs, toggleWorks } = useApp()
+  const { status, prefs, watchedIds, updatePrefs, toggleWorks, history, clearHistory } = useApp()
   const data = useDb()
 
   if (status.kind === 'loading') return <p className="page__note">読み込み中…</p>
@@ -113,6 +114,23 @@ export default function Settings() {
           </dd>
         </dl>
         <p className="page__note">更新履歴とこのアプリについては Phase 7 で追加します。</p>
+      </section>
+
+      <section className="section">
+        <h3 className="section__title">設定の書き出し・取り込み</h3>
+        <SettingsTransfer />
+      </section>
+
+      <section className="section">
+        <h3 className="section__title">その他</h3>
+        <button
+          type="button"
+          className="button button--quiet"
+          disabled={history.length === 0}
+          onClick={clearHistory}
+        >
+          閲覧履歴を消す（{history.length} 件）
+        </button>
       </section>
     </>
   )

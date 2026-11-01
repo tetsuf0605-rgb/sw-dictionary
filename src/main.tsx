@@ -10,6 +10,7 @@ import NotFound from './routes/NotFound'
 import Search from './routes/Search'
 import Settings from './routes/Settings'
 import Timeline from './routes/Timeline'
+import WhatsNew from './routes/WhatsNew'
 import Works from './routes/Works'
 import { AppProvider } from './store/app'
 import './styles/global.css'
@@ -29,6 +30,7 @@ createRoot(document.getElementById('root')!).render(
             <Route path="/e/:id" element={<Entity />} />
             <Route path="/timeline" element={<Timeline />} />
             <Route path="/works" element={<Works />} />
+            <Route path="/whats-new" element={<WhatsNew />} />
             <Route path="/settings" element={<Settings />} />
             <Route path="*" element={<NotFound />} />
           </Route>
