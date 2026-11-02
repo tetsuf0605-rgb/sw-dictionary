@@ -1,0 +1,313 @@
+[
+  {
+    "id": "the-emperor",
+    "type": "character",
+    "names": [
+      { "text": "皇帝", "reading": "こうてい", "en": "the Emperor" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "[[galactic-empire]]の頂点に立つ老いた支配者。[[the-force]]のダークサイドを深く操る。", "revealedBy": ["ep6"] },
+      { "text": "[[darth-vader]]を従え、[[luke-skywalker]]を自分の弟子にしようとした。", "revealedBy": ["ep6"] },
+      { "text": "反乱軍をおびき寄せるため、建造中の[[death-star-2]]に自ら乗り込んで待ち構えた。", "revealedBy": ["ep6"] },
+      { "text": "ルークを怒らせてダークサイドへ堕とそうとし、拒まれると稲妻のような力で痛めつけた。", "revealedBy": ["ep6"] },
+      { "text": "最期はベイダーに抱え上げられ、要塞の奥深くへ投げ落とされた。", "revealedBy": ["ep6"] }
+    ]
+  },
+  {
+    "id": "jabba-the-hutt",
+    "type": "character",
+    "names": [
+      { "text": "ジャバ・ザ・ハット", "reading": "じゃば・ざ・はっと", "en": "Jabba the Hutt" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "[[tatooine]]を拠点に裏の商売を仕切る[[hutt|ハット]]の親玉。", "revealedBy": ["ep6"] },
+      { "text": "カーボン凍結された[[han-solo]]を[[jabbas-palace|宮殿]]の壁に飾り、見せ物にしていた。", "revealedBy": ["ep6"] },
+      { "text": "助けに来た[[luke-skywalker]]たちを[[sarlacc]]に落として処刑しようとした。", "revealedBy": ["ep6"] },
+      { "text": "そばに鎖でつないでいた[[leia-organa]]に、その鎖で絞め殺された。", "revealedBy": ["ep6"] }
+    ]
+  },
+  {
+    "id": "admiral-ackbar",
+    "type": "character",
+    "names": [
+      { "text": "アクバー提督", "reading": "あくばーていとく", "en": "Admiral Ackbar" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "[[rebel-alliance]]の艦隊を率いる提督。", "revealedBy": ["ep6"] },
+      { "text": "[[death-star-2]]への攻撃を指揮したが、帝国のわなだと気づいて一度は退却を命じた。", "revealedBy": ["ep6"], "needsCheck": true }
+    ]
+  },
+  {
+    "id": "mon-mothma",
+    "type": "character",
+    "names": [
+      { "text": "モン・モスマ", "reading": "もん・もすま", "en": "Mon Mothma" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "[[rebel-alliance]]を率いる指導者の一人。", "revealedBy": ["ep6"] },
+      { "text": "[[death-star-2]]の情報を集め、総攻撃の作戦を仲間に説明した。", "revealedBy": ["ep6"], "needsCheck": true }
+    ]
+  },
+  {
+    "id": "boba-fett",
+    "type": "character",
+    "names": [
+      { "text": "ボバ・フェット", "reading": "ぼば・ふぇっと", "en": "Boba Fett" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "緑と赤の装甲に身を包んだ賞金稼ぎ。[[jabba-the-hutt]]のもとに身を寄せていた。", "revealedBy": ["ep6"], "needsCheck": true },
+      { "text": "[[sarlacc]]の大穴での戦いの最中、背中の噴射装置が暴発して穴へ落ちていった。", "revealedBy": ["ep6"] }
+    ]
+  },
+  {
+    "id": "wicket",
+    "type": "character",
+    "names": [
+      { "text": "ウィケット", "reading": "うぃけっと", "en": "Wicket" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "[[endor]]の森で[[leia-organa]]と最初に出会った[[ewok|イウォーク]]。", "revealedBy": ["ep6"] },
+      { "text": "レイアを仲間のもとへ連れて行き、一行と森の住人をつなぐきっかけになった。", "revealedBy": ["ep6"] }
+    ]
+  },
+
+  {
+    "id": "endor",
+    "type": "place",
+    "names": [
+      { "text": "エンドア", "reading": "えんどあ", "en": "Endor" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "深い森に覆われた緑の月。[[ewok|イウォーク]]が暮らしている。", "revealedBy": ["ep6"] },
+      { "text": "帝国が地上に基地を築き、[[death-star-2]]を守る防御シールドを張っていた。", "revealedBy": ["ep6"] },
+      { "text": "[[battle-of-endor]]では、この森が地上戦の舞台になった。", "revealedBy": ["ep6"] }
+    ]
+  },
+  {
+    "id": "jabbas-palace",
+    "type": "place",
+    "names": [
+      { "text": "ジャバの宮殿", "reading": "じゃばのきゅうでん", "en": "Jabba's Palace" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "[[tatooine]]の砂漠に建つ[[jabba-the-hutt]]の砦。", "revealedBy": ["ep6"] },
+      { "text": "[[han-solo]]を救い出すため、[[luke-skywalker]]の仲間たちが一人ずつ忍び込んだ。", "revealedBy": ["ep6"] }
+    ]
+  },
+
+  {
+    "id": "hutt",
+    "type": "species",
+    "names": [
+      { "text": "ハット", "reading": "はっと", "en": "Hutt" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "なめくじのような姿をした大柄な種族。[[jabba-the-hutt]]はこの種族である。", "revealedBy": ["ep6"] }
+    ]
+  },
+  {
+    "id": "ewok",
+    "type": "species",
+    "names": [
+      { "text": "イウォーク", "reading": "いうぉーく", "en": "Ewok" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "[[endor]]の森に暮らす、毛に覆われた小柄な種族。", "revealedBy": ["ep6"], "needsCheck": true },
+      { "text": "はじめは[[luke-skywalker]]たちを捕らえたが、[[c-3po]]を神のようにあがめ、やがて味方になった。", "revealedBy": ["ep6"] },
+      { "text": "丸太や石を使った仕掛けで帝国軍に立ち向かい、地上戦の勝利を助けた。", "revealedBy": ["ep6"] }
+    ]
+  },
+  {
+    "id": "sarlacc",
+    "type": "species",
+    "names": [
+      { "text": "サルラック", "reading": "さるらっく", "en": "Sarlacc" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "[[tatooine]]の砂漠にあいた大穴にひそむ巨大な生き物。", "revealedBy": ["ep6"] },
+      { "text": "落ちた者を千年かけて消化すると語られた。", "revealedBy": ["ep6"], "needsCheck": true }
+    ]
+  },
+
+  {
+    "id": "death-star-2",
+    "type": "vehicle",
+    "names": [
+      { "text": "第2デス・スター", "reading": "だいにです・すたー", "en": "Death Star II" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "[[endor]]の上空で建造されていた、[[death-star]]よりも大きく強力な宇宙要塞。", "revealedBy": ["ep6"] },
+      { "text": "未完成に見せかけながら主砲は動いており、反乱軍の艦船を次々と撃ち抜いた。", "revealedBy": ["ep6"] },
+      { "text": "[[millennium-falcon]]が内部に突入して動力炉を破壊し、[[battle-of-endor]]で爆発した。", "revealedBy": ["ep6"] }
+    ]
+  },
+  {
+    "id": "speeder-bike",
+    "type": "vehicle",
+    "names": [
+      { "text": "スピーダーバイク", "reading": "すぴーだーばいく", "en": "Speeder Bike" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "地面から浮いて高速で走る一人乗りの乗り物。", "revealedBy": ["ep6"] },
+      { "text": "[[endor]]の森では、これに乗った帝国軍と反乱軍が木々の間で追跡戦を繰り広げた。", "revealedBy": ["ep6"] }
+    ]
+  },
+
+  {
+    "id": "battle-of-endor",
+    "type": "event",
+    "names": [
+      { "text": "エンドアの戦い", "reading": "えんどあのたたかい", "en": "Battle of Endor" }
+    ],
+    "date": { "year": 4, "precision": "exact" },
+    "facts": [
+      { "kind": "summary", "text": "[[rebel-alliance]]が[[death-star-2]]を破壊し、[[the-emperor]]を失わせた戦い。", "revealedBy": ["ep6"] },
+      { "text": "地上では[[endor]]の防御シールドを、宇宙では艦隊が帝国軍と戦った。", "revealedBy": ["ep6"] },
+      { "text": "[[luke-skywalker]]は要塞の中で[[darth-vader]]と皇帝に向き合っていた。", "revealedBy": ["ep6"] },
+      { "text": "勝利の知らせは銀河各地に伝わり、帝国の支配が崩れるきっかけになった。", "revealedBy": ["ep6"], "needsCheck": true }
+    ]
+  },
+
+  {
+    "id": "luke-skywalker",
+    "facts": [
+      { "text": "[[jabbas-palace]]に乗り込み、仲間と共に[[han-solo]]を救い出した。", "revealedBy": ["ep6"] },
+      { "text": "[[dagobah]]へ戻り、[[yoda]]から修行の仕上げについて告げられた。", "revealedBy": ["ep6"] },
+      { "text": "緑の刃の[[lightsaber]]を自ら作り上げた。", "revealedBy": ["ep6"] },
+      { "text": "父をダークサイドから取り戻せると信じ、自ら帝国に投降した。", "revealedBy": ["ep6"] },
+      { "text": "[[the-emperor]]の前で[[darth-vader]]と剣を交えたが、最後は武器を捨てて戦いを拒んだ。", "revealedBy": ["ep6"] },
+      { "text": "[[leia-organa]]が自分の双子の妹であると知った。", "revealedBy": ["ep6"] }
+    ]
+  },
+  {
+    "id": "leia-organa",
+    "facts": [
+      { "text": "賞金稼ぎを装って[[jabbas-palace]]に忍び込み、[[han-solo]]の凍結を解いた。", "revealedBy": ["ep6"] },
+      { "text": "[[jabba-the-hutt]]に捕らえられて鎖につながれたが、その鎖で相手を絞め殺した。", "revealedBy": ["ep6"] },
+      { "text": "[[endor]]の地上部隊に加わり、[[wicket]]をはじめとする森の住人と出会った。", "revealedBy": ["ep6"] },
+      { "text": "[[luke-skywalker]]と双子の兄妹であることを知らされた。", "revealedBy": ["ep6"] }
+    ]
+  },
+  {
+    "id": "han-solo",
+    "facts": [
+      { "text": "[[jabbas-palace]]でカーボン凍結を解かれ、仲間に救い出された。", "revealedBy": ["ep6"] },
+      { "text": "将軍として、[[endor]]の防御シールドを破壊する地上部隊を率いた。", "revealedBy": ["ep6"] }
+    ]
+  },
+  {
+    "id": "chewbacca",
+    "facts": [
+      { "text": "[[han-solo]]の救出に加わり、[[endor]]の地上戦でも共に戦った。", "revealedBy": ["ep6"] }
+    ]
+  },
+  {
+    "id": "lando-calrissian",
+    "facts": [
+      { "text": "将軍として[[millennium-falcon]]を駆り、[[death-star-2]]の内部へ突入した。", "revealedBy": ["ep6"] }
+    ]
+  },
+  {
+    "id": "darth-vader",
+    "facts": [
+      { "text": "[[the-emperor]]の命を受け、[[death-star-2]]の完成を急がせた。", "revealedBy": ["ep6"] },
+      { "text": "投降した[[luke-skywalker]]を皇帝の前へ連れて行った。", "revealedBy": ["ep6"] },
+      { "id": "ep6-redemption", "text": "皇帝に息子が痛めつけられるのを見て皇帝を投げ落とし、自らも深手を負った。", "revealedBy": ["ep6"] },
+      { "text": "最期は仮面を外させ、息子に見守られて息を引き取った。", "revealedBy": ["ep6"] }
+    ],
+    "sameAs": [
+      { "id": "anakin-skywalker", "revealedBy": ["ep6"], "note": "正体" }
+    ]
+  },
+  {
+    "id": "anakin-skywalker",
+    "facts": [
+      { "text": "息子を救うためにダークサイドを離れ、ジェダイとして最期を迎えた。", "revealedBy": ["ep6"] },
+      { "text": "死後、[[obi-wan-kenobi]]や[[yoda]]と並んで霊体となって現れた。", "revealedBy": ["ep6"] }
+    ]
+  },
+  {
+    "id": "obi-wan-kenobi",
+    "facts": [
+      { "text": "霊体として再び現れ、父について語ったことは「ある視点から見れば真実だった」と説明した。", "revealedBy": ["ep6"], "needsCheck": true },
+      { "text": "[[leia-organa]]が[[luke-skywalker]]の双子の妹であることを明かした。", "revealedBy": ["ep6"] }
+    ]
+  },
+  {
+    "id": "yoda",
+    "facts": [
+      { "text": "[[luke-skywalker]]に、[[darth-vader]]ともう一度向き合えばジェダイになれると告げた。", "revealedBy": ["ep6"] },
+      { "text": "老いて力尽き、[[dagobah]]で静かに姿を消した。", "revealedBy": ["ep6"] }
+    ]
+  },
+  {
+    "id": "galactic-empire",
+    "facts": [
+      { "text": "[[death-star-2]]の建造を進め、反乱軍をおびき寄せるわなを張った。", "revealedBy": ["ep6"] },
+      { "text": "[[battle-of-endor]]で艦隊と[[the-emperor]]を失い、大きく揺らいだ。", "revealedBy": ["ep6"] }
+    ]
+  },
+  {
+    "id": "rebel-alliance",
+    "facts": [
+      { "text": "艦隊を集結させ、[[death-star-2]]への総攻撃に踏み切った。", "revealedBy": ["ep6"] },
+      { "text": "[[ewok|森の住人]]の助けを得て[[endor]]の地上戦に勝利した。", "revealedBy": ["ep6"] }
+    ]
+  },
+  {
+    "id": "jedi",
+    "facts": [
+      { "text": "[[luke-skywalker]]が修行を終え、ジェダイとして立った。", "revealedBy": ["ep6"] }
+    ]
+  },
+  {
+    "id": "death-star",
+    "facts": [
+      { "text": "破壊されたのち、帝国はさらに大きな[[death-star-2]]の建造を進めていた。", "revealedBy": ["ep6"] }
+    ]
+  },
+  {
+    "id": "millennium-falcon",
+    "facts": [
+      { "text": "[[lando-calrissian]]が操縦し、[[death-star-2]]の内部で動力炉を撃ち抜いた。", "revealedBy": ["ep6"] }
+    ]
+  },
+  {
+    "id": "lightsaber",
+    "facts": [
+      { "text": "[[luke-skywalker]]は自分の手で緑の刃のものを作り上げた。", "revealedBy": ["ep6"] }
+    ]
+  },
+  {
+    "id": "the-force",
+    "facts": [
+      { "text": "ダークサイドに堕ちた者でも、光の側へ立ち返ることができる。", "revealedBy": ["ep6"] }
+    ]
+  },
+  {
+    "id": "tatooine",
+    "facts": [
+      { "text": "[[jabba-the-hutt]]が[[jabbas-palace|宮殿]]を構え、周辺を取り仕切っていた。", "revealedBy": ["ep6"] }
+    ]
+  },
+  {
+    "id": "dagobah",
+    "facts": [
+      { "text": "[[yoda]]はこの星で最期を迎えた。", "revealedBy": ["ep6"] }
+    ]
+  },
+  {
+    "id": "r2-d2",
+    "facts": [
+      { "text": "[[jabbas-palace]]に[[c-3po]]と共に送り込まれ、ルークの[[lightsaber]]を隠し持っていた。", "revealedBy": ["ep6"] },
+      { "text": "[[endor]]の地上戦で被弾しながらも、シールド発生装置の扉を開けようとした。", "revealedBy": ["ep6"] }
+    ]
+  },
+  {
+    "id": "c-3po",
+    "facts": [
+      { "text": "[[ewok|森の住人]]に神のようにあがめられ、一行との橋渡しをした。", "revealedBy": ["ep6"] },
+      { "text": "身ぶりを交えてこれまでの出来事を語り、森の住人を味方に引き入れた。", "revealedBy": ["ep6"] }
+    ]
+  }
+]

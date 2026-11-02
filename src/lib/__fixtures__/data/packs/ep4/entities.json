@@ -1,0 +1,208 @@
+[
+  {
+    "id": "luke-skywalker",
+    "type": "character",
+    "names": [
+      { "text": "ルーク・スカイウォーカー", "reading": "るーく・すかいうぉーかー", "en": "Luke Skywalker" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "砂漠の惑星[[tatooine]]で叔父夫婦に育てられた青年。", "revealedBy": ["ep4"] },
+      { "text": "2体のドロイドとの出会いをきっかけに[[obi-wan-kenobi]]と知り合い、父がジェダイの騎士だったと知らされて[[the-force]]の手ほどきを受けた。", "revealedBy": ["ep4"] },
+      { "text": "[[han-solo]]らと共に[[death-star]]に乗り込み、[[leia-organa]]を救い出した。", "revealedBy": ["ep4"] },
+      { "text": "[[rebel-alliance]]に加わり、[[battle-of-yavin]]でデス・スターを破壊する一撃を放った。", "revealedBy": ["ep4"] }
+    ]
+  },
+  {
+    "id": "leia-organa",
+    "type": "character",
+    "names": [
+      { "text": "レイア・オーガナ", "reading": "れいあ・おーがな", "en": "Leia Organa" },
+      { "text": "レイア姫", "reading": "れいあひめ", "en": "Princess Leia", "revealedBy": ["ep4"], "kind": "title" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "惑星[[alderaan]]の王女で、銀河元老院の議員。[[rebel-alliance]]の指導者の一人。", "revealedBy": ["ep4"] },
+      { "text": "[[death-star]]の設計図を手に入れ、追っ手が迫る中でドロイドに託した。", "revealedBy": ["ep4"] },
+      { "text": "[[darth-vader]]に捕らえられ、目の前で故郷を破壊されたが、[[luke-skywalker]]と[[han-solo]]らに救出された。", "revealedBy": ["ep4"] }
+    ]
+  },
+  {
+    "id": "han-solo",
+    "type": "character",
+    "names": [
+      { "text": "ハン・ソロ", "reading": "はん・そろ", "en": "Han Solo" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "[[millennium-falcon]]の船長を務める密輸業者。相棒は[[chewbacca]]。", "revealedBy": ["ep4"] },
+      { "text": "報酬目当てで[[luke-skywalker]]たちを運ぶ仕事を引き受けたが、最後は[[battle-of-yavin]]に駆けつけてルークを援護した。", "revealedBy": ["ep4"] }
+    ]
+  },
+  {
+    "id": "chewbacca",
+    "type": "character",
+    "names": [
+      { "text": "チューバッカ", "reading": "ちゅーばっか", "en": "Chewbacca" },
+      { "text": "チューイ", "reading": "ちゅーい", "en": "Chewie", "revealedBy": ["ep4"], "kind": "nickname" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "[[han-solo]]の相棒である、毛むくじゃらで大柄なウーキー。[[millennium-falcon]]の副操縦士。", "revealedBy": ["ep4"] }
+    ]
+  },
+  {
+    "id": "obi-wan-kenobi",
+    "type": "character",
+    "names": [
+      { "text": "オビ＝ワン・ケノービ", "reading": "おびわん・けのーび", "en": "Obi-Wan Kenobi" },
+      { "text": "ベン・ケノービ", "reading": "べん・けのーび", "en": "Ben Kenobi", "revealedBy": ["ep4"], "kind": "alias" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "[[tatooine]]の荒野で隠者として暮らしていた老ジェダイ。", "revealedBy": ["ep4"] },
+      { "text": "[[luke-skywalker]]に父の形見の[[lightsaber]]を渡し、[[the-force]]の手ほどきをした。", "revealedBy": ["ep4"] },
+      { "text": "[[darth-vader]]はかつて自分の弟子だったと語った。", "revealedBy": ["ep4"] },
+      { "text": "[[death-star]]でダース・ベイダーと対決し、ルークたちを逃がすために自ら剣を収めて姿を消した。", "revealedBy": ["ep4"] }
+    ]
+  },
+  {
+    "id": "darth-vader",
+    "type": "character",
+    "names": [
+      { "text": "ダース・ベイダー", "reading": "だーす・べいだー", "en": "Darth Vader" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "黒い甲冑と仮面に身を包んだ、[[galactic-empire]]の実力者。[[the-force]]のダークサイドを操る。", "revealedBy": ["ep4"] },
+      { "text": "かつて[[obi-wan-kenobi]]の弟子だった。", "revealedBy": ["ep4"] },
+      { "text": "[[leia-organa]]を捕らえ、[[death-star]]の設計図の行方を追った。", "revealedBy": ["ep4"] },
+      { "text": "デス・スターで[[obi-wan-kenobi]]と再び剣を交え、これを討った。", "revealedBy": ["ep4"] },
+      { "text": "[[battle-of-yavin]]では自ら戦闘機で出撃したが、撃墜は免れて宇宙を漂うことになった。", "revealedBy": ["ep4"] }
+    ]
+  },
+  {
+    "id": "anakin-skywalker",
+    "type": "character",
+    "names": [
+      { "text": "アナキン・スカイウォーカー", "reading": "あなきん・すかいうぉーかー", "en": "Anakin Skywalker" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "[[luke-skywalker]]の父。", "revealedBy": ["ep4"] },
+      { "text": "叔父のオーウェンはルークに、父は貨物船の航海士だったと話していた。", "revealedBy": ["ep4"] },
+      { "text": "[[obi-wan-kenobi]]によれば、銀河一のパイロットであり、ジェダイの騎士であり、よき友だった。", "revealedBy": ["ep4"] },
+      { "text": "オビ＝ワンはルークに、父は[[darth-vader]]に裏切られ、殺されたと語った。", "revealedBy": ["ep4"] }
+    ]
+  },
+  {
+    "id": "tatooine",
+    "type": "place",
+    "names": [
+      { "text": "タトゥイーン", "reading": "たとぅいーん", "en": "Tatooine" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "銀河の外縁にある砂漠の惑星。2つの太陽が昇る。", "revealedBy": ["ep4"] },
+      { "text": "[[luke-skywalker]]が育ち、[[obi-wan-kenobi]]が隠れ住んでいた星。", "revealedBy": ["ep4"] }
+    ]
+  },
+  {
+    "id": "alderaan",
+    "type": "place",
+    "names": [
+      { "text": "オルデラン", "reading": "おるでらん", "en": "Alderaan" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "[[leia-organa]]の故郷。緑豊かで、武器を持たない平和な惑星だった。", "revealedBy": ["ep4"] },
+      { "text": "[[death-star]]の威力を示すための標的にされ、一瞬で破壊された。", "revealedBy": ["ep4"] }
+    ]
+  },
+  {
+    "id": "galactic-empire",
+    "type": "organization",
+    "names": [
+      { "text": "銀河帝国", "reading": "ぎんがていこく", "en": "Galactic Empire" },
+      { "text": "帝国", "reading": "ていこく", "en": "the Empire", "revealedBy": ["ep4"], "kind": "alias" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "皇帝を頂点として銀河を支配する専制国家。", "revealedBy": ["ep4"] },
+      { "text": "元老院は解散され、各地域は総督が直接統治することになった。", "revealedBy": ["ep4"] },
+      { "text": "[[death-star]]を建造し、恐怖によって星系を従わせようとした。", "revealedBy": ["ep4"] }
+    ]
+  },
+  {
+    "id": "rebel-alliance",
+    "type": "organization",
+    "names": [
+      { "text": "反乱同盟軍", "reading": "はんらんどうめいぐん", "en": "Rebel Alliance" },
+      { "text": "反乱軍", "reading": "はんらんぐん", "en": "the Rebellion", "revealedBy": ["ep4"], "kind": "alias" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "[[galactic-empire]]の支配に抵抗する勢力。各地で帝国と戦っている。", "revealedBy": ["ep4"] },
+      { "text": "[[death-star]]の設計図を手に入れ、[[battle-of-yavin]]で弱点を突いてこれを破壊した。", "revealedBy": ["ep4"] }
+    ]
+  },
+  {
+    "id": "jedi",
+    "type": "organization",
+    "names": [
+      { "text": "ジェダイ", "reading": "じぇだい", "en": "Jedi" },
+      { "text": "ジェダイ騎士団", "reading": "じぇだいきしだん", "en": "Jedi Order", "revealedBy": ["ep4"], "kind": "alias" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "かつて銀河共和国の平和と正義を守った騎士団。[[the-force]]を使い、[[lightsaber]]を武器とする。", "revealedBy": ["ep4"] },
+      { "text": "帝国の時代にはほぼ滅ぼされ、[[obi-wan-kenobi]]のような生き残りはわずかだった。", "revealedBy": ["ep4"] }
+    ]
+  },
+  {
+    "id": "death-star",
+    "type": "vehicle",
+    "names": [
+      { "text": "デス・スター", "reading": "です・すたー", "en": "Death Star" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "惑星を一撃で破壊できる主砲を備えた、[[galactic-empire]]の月ほどもある宇宙要塞。", "revealedBy": ["ep4"] },
+      { "text": "威力を示すため[[alderaan]]を破壊した。", "revealedBy": ["ep4"] },
+      { "text": "排熱口という小さな弱点があり、[[battle-of-yavin]]で[[luke-skywalker]]の放った魚雷によって爆発した。", "revealedBy": ["ep4"] }
+    ]
+  },
+  {
+    "id": "millennium-falcon",
+    "type": "vehicle",
+    "names": [
+      { "text": "ミレニアム・ファルコン", "reading": "みれにあむ・ふぁるこん", "en": "Millennium Falcon" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "[[han-solo]]が船長、[[chewbacca]]が副操縦士を務める改造貨物船。見た目はぼろいが非常に速い。", "revealedBy": ["ep4"] },
+      { "text": "[[tatooine]]から[[luke-skywalker]]たちを乗せて飛び立ち、[[death-star]]からの脱出にも使われた。", "revealedBy": ["ep4"] }
+    ]
+  },
+  {
+    "id": "the-force",
+    "type": "concept",
+    "names": [
+      { "text": "フォース", "reading": "ふぉーす", "en": "the Force" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "あらゆる生き物が生み出し、銀河を満たしているエネルギーの場。[[jedi]]はこれを感じ取り、力として用いる。", "revealedBy": ["ep4"] },
+      { "text": "光の側面（ライトサイド）と暗黒の側面（ダークサイド）がある。", "revealedBy": ["ep4"] }
+    ]
+  },
+  {
+    "id": "lightsaber",
+    "type": "item",
+    "names": [
+      { "text": "ライトセーバー", "reading": "らいとせーばー", "en": "Lightsaber" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "光の刃を持つ[[jedi]]の武器。", "revealedBy": ["ep4"] },
+      { "text": "[[obi-wan-kenobi]]は[[luke-skywalker]]に、父が使っていたライトセーバーを渡した。", "revealedBy": ["ep4"] }
+    ]
+  },
+  {
+    "id": "battle-of-yavin",
+    "type": "event",
+    "names": [
+      { "text": "ヤヴィンの戦い", "reading": "やゔぃんのたたかい", "en": "Battle of Yavin" }
+    ],
+    "date": { "year": 0, "precision": "exact" },
+    "facts": [
+      { "kind": "summary", "text": "[[rebel-alliance]]が[[death-star]]を破壊した戦い。", "revealedBy": ["ep4"] },
+      { "text": "ヤヴィン第4衛星の反乱軍基地に迫るデス・スターに対し、小型戦闘機の部隊が攻撃をかけ、[[luke-skywalker]]の一撃で勝利した。", "revealedBy": ["ep4"] },
+      { "text": "この辞典の年表は、この戦いの年を0年として前後を数える。", "revealedBy": ["ep4"] }
+    ]
+  }
+]

@@ -44,7 +44,7 @@
       { "text": "チューイ", "reading": "ちゅーい", "en": "Chewie", "revealedBy": ["ep4"], "kind": "nickname" }
     ],
     "facts": [
-      { "kind": "summary", "text": "[[han-solo]]の相棒である、毛むくじゃらで大柄なウーキー。[[millennium-falcon]]の副操縦士。", "revealedBy": ["ep4"] }
+      { "kind": "summary", "text": "[[han-solo]]の相棒である、毛むくじゃらで大柄なウーキー。[[millennium-falcon]]の副操縦士。", "revealedBy": ["ep4", "ep6"] }
     ]
   },
   {
@@ -118,7 +118,7 @@
       { "text": "帝国", "reading": "ていこく", "en": "the Empire", "revealedBy": ["ep4"], "kind": "alias" }
     ],
     "facts": [
-      { "kind": "summary", "text": "皇帝を頂点として銀河を支配する専制国家。", "revealedBy": ["ep4"] },
+      { "kind": "summary", "text": "皇帝を頂点として銀河を支配する専制国家。", "revealedBy": ["ep4", "ep6"] },
       { "text": "元老院は解散され、各地域は総督が直接統治することになった。", "revealedBy": ["ep4"] },
       { "text": "[[death-star]]を建造し、恐怖によって星系を従わせようとした。", "revealedBy": ["ep4"] }
     ]
@@ -131,7 +131,7 @@
       { "text": "反乱軍", "reading": "はんらんぐん", "en": "the Rebellion", "revealedBy": ["ep4"], "kind": "alias" }
     ],
     "facts": [
-      { "kind": "summary", "text": "[[galactic-empire]]の支配に抵抗する勢力。各地で帝国と戦っている。", "revealedBy": ["ep4"] },
+      { "kind": "summary", "text": "[[galactic-empire]]の支配に抵抗する勢力。各地で帝国と戦っている。", "revealedBy": ["ep4", "ep6"] },
       { "text": "[[death-star]]の設計図を手に入れ、[[battle-of-yavin]]で弱点を突いてこれを破壊した。", "revealedBy": ["ep4"] }
     ]
   },
@@ -166,7 +166,7 @@
       { "text": "ミレニアム・ファルコン", "reading": "みれにあむ・ふぁるこん", "en": "Millennium Falcon" }
     ],
     "facts": [
-      { "kind": "summary", "text": "[[han-solo]]が船長、[[chewbacca]]が副操縦士を務める改造貨物船。見た目はぼろいが非常に速い。", "revealedBy": ["ep4"] },
+      { "kind": "summary", "text": "[[han-solo]]が船長、[[chewbacca]]が副操縦士を務める改造貨物船。見た目はぼろいが非常に速い。", "revealedBy": ["ep4", "ep6"] },
       { "text": "[[tatooine]]から[[luke-skywalker]]たちを乗せて飛び立ち、[[death-star]]からの脱出にも使われた。", "revealedBy": ["ep4"] }
     ]
   },
@@ -178,7 +178,7 @@
     ],
     "facts": [
       { "kind": "summary", "text": "あらゆる生き物が生み出し、銀河を満たしているエネルギーの場。[[jedi]]はこれを感じ取り、力として用いる。", "revealedBy": ["ep4"] },
-      { "text": "光の側面（ライトサイド）と暗黒の側面（ダークサイド）がある。", "revealedBy": ["ep4"] }
+      { "text": "光の側面（ライトサイド）と暗黒の側面（ダークサイド）がある。", "revealedBy": ["ep4", "ep6"] }
     ]
   },
   {
@@ -188,7 +188,7 @@
       { "text": "ライトセーバー", "reading": "らいとせーばー", "en": "Lightsaber" }
     ],
     "facts": [
-      { "kind": "summary", "text": "光の刃を持つ[[jedi]]の武器。", "revealedBy": ["ep4"] },
+      { "kind": "summary", "text": "光の刃を持つ[[jedi]]の武器。", "revealedBy": ["ep4", "ep6"] },
       { "text": "[[obi-wan-kenobi]]は[[luke-skywalker]]に、父が使っていたライトセーバーを渡した。", "revealedBy": ["ep4"] }
     ]
   },
@@ -203,6 +203,32 @@
       { "kind": "summary", "text": "[[rebel-alliance]]が[[death-star]]を破壊した戦い。", "revealedBy": ["ep4"] },
       { "text": "ヤヴィン第4衛星の反乱軍基地に迫るデス・スターに対し、小型戦闘機の部隊が攻撃をかけ、[[luke-skywalker]]の一撃で勝利した。", "revealedBy": ["ep4"] },
       { "text": "この辞典の年表は、この戦いの年を0年として前後を数える。", "revealedBy": ["ep4"] }
+    ]
+  },
+  {
+    "id": "r2-d2",
+    "type": "character",
+    "names": [
+      { "text": "R2-D2", "reading": "あーるつーでぃーつー", "en": "R2-D2" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "筒形の小型ドロイド。言葉は話さず、電子音で意思を伝える。", "revealedBy": ["ep4"] },
+      { "text": "[[leia-organa]]から[[death-star]]の設計図を託され、[[tatooine]]に降り立った。", "revealedBy": ["ep4"] },
+      { "text": "[[obi-wan-kenobi]]を探して一人で砂漠へ出て行き、[[luke-skywalker]]たちを引き寄せた。", "revealedBy": ["ep4"] },
+      { "text": "[[battle-of-yavin]]ではルークの戦闘機に乗り込み、被弾しながらも機体を支えた。", "revealedBy": ["ep4"] }
+    ]
+  },
+  {
+    "id": "c-3po",
+    "type": "character",
+    "names": [
+      { "text": "C-3PO", "reading": "しーすりーぴーおー", "en": "C-3PO" },
+      { "text": "スリーピオ", "reading": "すりーぴーお", "en": "Threepio", "revealedBy": ["ep4"], "kind": "nickname" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "人型の通訳ドロイド。600万種類を超える言語を扱えると語る。", "revealedBy": ["ep4"] },
+      { "text": "[[r2-d2]]と共に脱出ポッドで[[tatooine]]に降り、[[luke-skywalker]]の家に買われた。", "revealedBy": ["ep4"] },
+      { "text": "相棒の身を案じては嘆き、行く先々で騒ぎを起こした。", "revealedBy": ["ep4"] }
     ]
   }
 ]

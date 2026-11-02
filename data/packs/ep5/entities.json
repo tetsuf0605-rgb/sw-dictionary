@@ -79,7 +79,7 @@
     "id": "darth-vader",
     "facts": [
       { "text": "[[hoth]]の反乱軍基地を発見し、艦隊を率いて急襲した。", "revealedBy": ["ep5"] },
-      { "id": "ep5-father", "text": "[[luke-skywalker]]の実の父である。", "revealedBy": ["ep5"] },
+      { "id": "ep5-father", "text": "[[luke-skywalker]]の実の父である。", "revealedBy": ["ep5", "ep6"] },
       { "text": "[[cloud-city]]でルークと決闘し、右手を切り落としたうえで真実を告げ、共に銀河を治めようと誘った。", "revealedBy": ["ep5"] },
       { "text": "皇帝の命を受け、ルークをダークサイドへ引き入れようとしている。", "revealedBy": ["ep5"] }
     ],
@@ -90,7 +90,7 @@
   {
     "id": "anakin-skywalker",
     "facts": [
-      { "text": "実際には死んでおらず、ダークサイドに堕ちて[[darth-vader]]そのものになっていた。", "revealedBy": ["ep5"] }
+      { "text": "実際には死んでおらず、ダークサイドに堕ちて[[darth-vader]]そのものになっていた。", "revealedBy": ["ep5", "ep6"] }
     ]
   },
   {
@@ -142,6 +142,18 @@
     "facts": [
       { "text": "[[yoda]]はルークに、フォースは生き物の間を流れ、周囲のすべてを結びつけるものだと教えた。", "revealedBy": ["ep5"] },
       { "text": "フォースに深く通じた者は、死後も霊体として姿を現すことがある。", "revealedBy": ["ep5"] }
+    ]
+  },
+  {
+    "id": "r2-d2",
+    "facts": [
+      { "text": "[[dagobah]]の沼に沈みかけながらも、[[luke-skywalker]]の修行に付き添った。", "revealedBy": ["ep5"] }
+    ]
+  },
+  {
+    "id": "c-3po",
+    "facts": [
+      { "text": "[[cloud-city]]で帝国軍に撃たれてばらばらになり、[[chewbacca]]に背負われて組み直された。", "revealedBy": ["ep5"] }
     ]
   }
 ]
