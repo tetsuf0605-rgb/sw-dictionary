@@ -10,7 +10,7 @@
       { "text": "二丁の銃を素早く抜き、腕ずくの仕事も厭わない。", "revealedBy": ["tcw-s1", "tcw-s2"] },
       { "text": "[[galactic-senate]]の議場に乗り込んで議員を人質に取り、[[ziro-the-hutt]]を牢から出させた。", "revealedBy": ["tcw-s1"] },
       { "text": "[[count-dooku]]に雇われて動いた。", "revealedBy": ["tcw-s2"] },
-      { "text": "[[jedi|ジェダイ]]の神殿に忍び込み、古い記録を盗み出した。", "revealedBy": ["tcw-s2"] },
+      { "text": "[[jedi|ジェダイ]]の神殿に忍び込み、[[holocron]]を盗み出した。", "revealedBy": ["tcw-s2"] },
       { "text": "[[the-force]]の素質を持つ子どもをさらう仕事も請けた。", "revealedBy": ["tcw-s2"] }
     ]
   },
@@ -100,6 +100,21 @@
       { "kind": "summary", "text": "黒い刃を持つ古い[[lightsaber]]。刃は平たく、先が尖っている。", "revealedBy": ["tcw-s2"] },
       { "text": "昔[[jedi|ジェダイ]]の神殿から持ち出されたものだと語られている。", "revealedBy": ["tcw-s2"] },
       { "text": "[[pre-vizsla]]がこれを振るい、[[death-watch]]を率いた。", "revealedBy": ["tcw-s2"] }
+    ]
+  },
+  {
+    "id": "holocron",
+    "type": "item",
+    "names": [
+      { "text": "ホロクロン", "reading": "ほろくろん", "en": "Holocron" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "[[jedi|ジェダイ]]の知識を納めた、手のひらに乗る大きさの記憶装置。", "revealedBy": ["tcw-s2"] },
+      { "text": "立体の像を浮かび上がらせて中身を見せる。", "revealedBy": ["tcw-s2"] },
+      { "text": "[[the-force]]を使える者にしか開けない。", "revealedBy": ["tcw-s2"] },
+      { "text": "神殿の奥の蔵に多くが納められている。", "revealedBy": ["tcw-s2"] },
+      { "text": "ある記録には、フォースの素質を持つ子どもたちの名が収められていた。", "revealedBy": ["tcw-s2"] },
+      { "text": "[[cad-bane]]に盗み出された。", "revealedBy": ["tcw-s2"] }
     ]
   },
   {
@@ -263,7 +278,7 @@
   {
     "id": "jedi-council",
     "facts": [
-      { "text": "神殿から古い記録を盗まれ、守りの甘さを突きつけられた。", "revealedBy": ["tcw-s2"] }
+      { "text": "神殿から[[holocron]]を盗まれ、守りの甘さを突きつけられた。", "revealedBy": ["tcw-s2"] }
     ]
   },
   {
@@ -287,7 +302,7 @@
   {
     "id": "jedi",
     "facts": [
-      { "text": "神殿に忍び込まれ、古い記録を盗み出された。", "revealedBy": ["tcw-s2"] }
+      { "text": "神殿に忍び込まれ、知識を納めた[[holocron]]を盗み出された。", "revealedBy": ["tcw-s2"] }
     ]
   },
   {
