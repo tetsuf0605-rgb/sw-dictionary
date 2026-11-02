@@ -1,0 +1,186 @@
+[
+  {
+    "id": "inquisitors",
+    "type": "organization",
+    "names": [
+      { "text": "インクイジター", "reading": "いんくいじたー", "en": "Inquisitors" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "生き残った[[jedi|ジェダイ]]を狩るために帝国が置いた一団。", "revealedBy": ["obi-wan"] },
+      { "text": "黒い装束をまとい、円盤のように回る刃を持つ[[lightsaber]]を使う。", "revealedBy": ["obi-wan"] },
+      { "text": "もとはジェダイだった者も含まれている。", "revealedBy": ["obi-wan"] },
+      { "text": "[[darth-vader]]の下に置かれている。", "revealedBy": ["obi-wan"] }
+    ]
+  },
+  {
+    "id": "grand-inquisitor",
+    "type": "character",
+    "names": [
+      { "text": "グランド・インクイジター", "reading": "ぐらんど・いんくいじたー", "en": "Grand Inquisitor" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "[[inquisitors]]の長。青白い肌に鋭い目をした男。", "revealedBy": ["obi-wan"] },
+      { "text": "逃げる者は必ず誰かを助けに戻る、という考えで網を張った。", "revealedBy": ["obi-wan"] },
+      { "text": "[[reva]]に刺されて一度は倒れたが、生きていた。", "revealedBy": ["obi-wan"] }
+    ]
+  },
+  {
+    "id": "reva",
+    "type": "character",
+    "names": [
+      { "text": "レヴァ", "reading": "れば", "en": "Reva" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "執念深く[[jedi|ジェダイ]]を追う[[inquisitors]]の一人。", "revealedBy": ["obi-wan"] },
+      { "text": "神殿が襲われた日を、子どもとして生き延びた一人だった。", "revealedBy": ["obi-wan"] },
+      { "text": "[[darth-vader]]に近づくために位を求めていた。", "revealedBy": ["obi-wan"] },
+      { "text": "本当の狙いは、ベイダーその人への報復だった。", "revealedBy": ["obi-wan"] },
+      { "text": "敗れたのち、追う側であることをやめた。", "revealedBy": ["obi-wan"] }
+    ]
+  },
+  {
+    "id": "fortress-inquisitorius",
+    "type": "place",
+    "names": [
+      { "text": "尋問官の要塞", "reading": "じんもんかんのようさい", "en": "Fortress Inquisitorius" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "海の中に建つ[[inquisitors]]の拠点。", "revealedBy": ["obi-wan"] },
+      { "text": "捕らえた[[jedi|ジェダイ]]の亡骸が並べられていた。", "revealedBy": ["obi-wan"] },
+      { "text": "[[obi-wan-kenobi]]が忍び込み、囚われた子どもを助け出した。", "revealedBy": ["obi-wan"] }
+    ]
+  },
+  {
+    "id": "tala-durith",
+    "type": "character",
+    "names": [
+      { "text": "タラ・デュリス", "reading": "たら・でゅりす", "en": "Tala Durith" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "帝国の士官でありながら、追われる者を逃がしていた女。", "revealedBy": ["obi-wan"] },
+      { "text": "かつて帝国のしたことに加担した悔いを抱えていた。", "revealedBy": ["obi-wan"] },
+      { "text": "[[the-path]]の一人として動いた。", "revealedBy": ["obi-wan"] },
+      { "text": "仲間を逃がすために、自らを投げ出した。", "revealedBy": ["obi-wan"] }
+    ]
+  },
+  {
+    "id": "the-path",
+    "type": "organization",
+    "names": [
+      { "text": "逃げ道", "reading": "にげみち" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "追われる者を星から星へ逃がす、隠れた人の網。", "revealedBy": ["obi-wan"] },
+      { "text": "隠れ家の壁には、通り抜けた者が名を刻んで残していた。", "revealedBy": ["obi-wan"] },
+      { "text": "帝国の中にも手を貸す者がいた。", "revealedBy": ["obi-wan"] },
+      { "text": "生き延びた[[jedi|ジェダイ]]も、この網を頼った。", "revealedBy": ["obi-wan"] }
+    ]
+  },
+
+  {
+    "id": "obi-wan-kenobi",
+    "facts": [
+      { "text": "名を変えて[[tatooine]]の荒野に潜み、[[luke-skywalker]]を遠くから見守っていた。", "revealedBy": ["obi-wan"] },
+      { "text": "[[the-force]]との間が遠のき、師の声も聞こえなくなっていた。", "revealedBy": ["obi-wan"] },
+      { "text": "さらわれた[[leia-organa]]を助けるため、10年ぶりに荒野を出た。", "revealedBy": ["obi-wan"] },
+      { "text": "[[darth-vader]]が生きていると知った。", "revealedBy": ["obi-wan"] },
+      { "text": "力を取り戻し、ベイダーと再び剣を交えた。", "revealedBy": ["obi-wan"] },
+      { "text": "砂漠へ戻る前に、[[qui-gon-jinn]]の姿を見た。", "revealedBy": ["obi-wan"] }
+    ]
+  },
+  {
+    "id": "darth-vader",
+    "facts": [
+      { "text": "生きていることを[[obi-wan-kenobi]]に知られた。", "revealedBy": ["obi-wan"] },
+      { "text": "割れた仮面の下から、焼けただれた素顔がのぞいた。", "revealedBy": ["obi-wan"] },
+      { "text": "自分を作ったのはお前だと、かつての師に言い放った。", "revealedBy": ["obi-wan"] },
+      { "text": "[[inquisitors]]を使って、生き残りの狩りを続けさせていた。", "revealedBy": ["obi-wan"] }
+    ],
+    "sameAs": [
+      { "id": "anakin-skywalker", "revealedBy": ["obi-wan"], "note": "正体" }
+    ]
+  },
+  {
+    "id": "anakin-skywalker",
+    "facts": [
+      { "text": "10年を経て、かつての師と再び向き合った。", "revealedBy": ["obi-wan"] }
+    ]
+  },
+  {
+    "id": "leia-organa",
+    "facts": [
+      { "text": "10歳のころ、さらわれて[[obi-wan-kenobi]]に助けられた。", "revealedBy": ["obi-wan"] },
+      { "text": "幼いながら聡く、口が達者で、気性が激しかった。", "revealedBy": ["obi-wan"] }
+    ]
+  },
+  {
+    "id": "luke-skywalker",
+    "facts": [
+      { "text": "まだ幼く、[[tatooine]]の農場で育てられていた。", "revealedBy": ["obi-wan"] },
+      { "text": "それと知らぬまま、遠くから見守られていた。", "revealedBy": ["obi-wan"] }
+    ]
+  },
+  {
+    "id": "owen-lars",
+    "facts": [
+      { "text": "[[obi-wan-kenobi]]が子に近づくことを拒み続けた。", "revealedBy": ["obi-wan"] },
+      { "text": "農場に迫る追っ手を、自ら迎え撃った。", "revealedBy": ["obi-wan"] }
+    ]
+  },
+  {
+    "id": "beru",
+    "facts": [
+      { "text": "追っ手に銃を向け、一歩も引かなかった。", "revealedBy": ["obi-wan"] }
+    ]
+  },
+  {
+    "id": "bail-organa",
+    "facts": [
+      { "text": "娘を取り戻すため、[[obi-wan-kenobi]]に助けを求めた。", "revealedBy": ["obi-wan"] }
+    ]
+  },
+  {
+    "id": "qui-gon-jinn",
+    "facts": [
+      { "text": "[[obi-wan-kenobi]]の前に、人の姿をとって現れた。", "revealedBy": ["obi-wan"] },
+      { "text": "ずっとそばにいたが、見る用意ができていなかったのだと告げた。", "revealedBy": ["obi-wan"] }
+    ]
+  },
+  {
+    "id": "alderaan",
+    "facts": [
+      { "text": "[[leia-organa]]が王女として育てられていた。", "revealedBy": ["obi-wan"] }
+    ]
+  },
+  {
+    "id": "tatooine",
+    "facts": [
+      { "text": "[[obi-wan-kenobi]]が名を変えて暮らしていた。", "revealedBy": ["obi-wan"] }
+    ]
+  },
+  {
+    "id": "galactic-empire",
+    "facts": [
+      { "text": "[[inquisitors]]を使い、生き残りの[[jedi|ジェダイ]]を狩らせた。", "revealedBy": ["obi-wan"] }
+    ]
+  },
+  {
+    "id": "jedi",
+    "facts": [
+      { "text": "わずかな生き残りが身を隠し、狩られ続けた。", "revealedBy": ["obi-wan"] },
+      { "text": "追う側に回った元ジェダイもいた。", "revealedBy": ["obi-wan"] }
+    ]
+  },
+  {
+    "id": "lightsaber",
+    "facts": [
+      { "text": "円盤のように回る刃を持つ型もある。", "revealedBy": ["obi-wan"] }
+    ]
+  },
+  {
+    "id": "the-force",
+    "facts": [
+      { "text": "心が折れていると感じ取りにくくなる、と示された。", "revealedBy": ["obi-wan"] }
+    ]
+  }
+]

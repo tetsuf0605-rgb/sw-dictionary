@@ -6,7 +6,7 @@
       { "text": "ベイル・オーガナ", "reading": "べいる・おーがな", "en": "Bail Organa" }
     ],
     "facts": [
-      { "kind": "summary", "text": "[[alderaan]]選出の議員。穏やかな物腰で、[[jedi|ジェダイ]]に味方した。", "revealedBy": ["ep3"] },
+      { "kind": "summary", "text": "[[alderaan]]選出の議員。穏やかな物腰で、[[jedi|ジェダイ]]に味方した。", "revealedBy": ["ep3", "obi-wan"] },
       { "text": "[[galactic-republic]]が作り変えられていくことに、最後まで抗った。", "revealedBy": ["ep3"] },
       { "text": "生き延びた[[yoda]]と[[obi-wan-kenobi]]をかくまい、逃がした。", "revealedBy": ["ep3"] },
       { "text": "生まれたばかりの[[leia-organa]]を引き取り、娘として育てることにした。", "revealedBy": ["ep3"] }
