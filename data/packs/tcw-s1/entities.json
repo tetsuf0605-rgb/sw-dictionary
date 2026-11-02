@@ -6,7 +6,7 @@
       { "text": "グリーヴァス将軍", "reading": "ぐりーばすしょうぐん", "en": "General Grievous" }
     ],
     "facts": [
-      { "kind": "summary", "text": "[[separatists]]の軍を率いる将。機械の体を持ち、しばしば咳き込む。", "revealedBy": ["tcw-s1"] },
+      { "kind": "summary", "text": "[[separatists]]の軍を率いる将。機械の体を持ち、しばしば咳き込む。", "revealedBy": ["tcw-s1", "tcw-s2"] },
       { "text": "四本の腕を広げ、[[lightsaber]]を同時に扱う。", "revealedBy": ["tcw-s1"] },
       { "text": "倒した[[jedi|ジェダイ]]のライトセーバーを戦利品として集めている。", "revealedBy": ["tcw-s1"] },
       { "text": "[[count-dooku]]の指示を受けて動く。", "revealedBy": ["tcw-s1"] },
@@ -20,7 +20,7 @@
       { "text": "コーディ", "reading": "こーでぃ", "en": "Cody" }
     ],
     "facts": [
-      { "kind": "summary", "text": "[[obi-wan-kenobi]]のもとで戦う[[clone-trooper|クローン兵]]の隊長。", "revealedBy": ["tcw-s1"] },
+      { "kind": "summary", "text": "[[obi-wan-kenobi]]のもとで戦う[[clone-trooper|クローン兵]]の隊長。", "revealedBy": ["tcw-s1", "tcw-s2"] },
       { "text": "黄色い模様を入れた装甲を身につける。", "revealedBy": ["tcw-s1"] },
       { "text": "[[captain-rex]]とは気心の知れた間柄で、共に作戦に当たることが多い。", "revealedBy": ["tcw-s1"] }
     ]
@@ -67,7 +67,7 @@
       { "text": "ルミナーラ・アンドゥリ", "reading": "るみなーら・あんどぅり", "en": "Luminara Unduli" }
     ],
     "facts": [
-      { "kind": "summary", "text": "落ち着いた物腰のジェダイ・マスター。顔に入れ墨のような模様がある。", "revealedBy": ["tcw-s1"] },
+      { "kind": "summary", "text": "落ち着いた物腰のジェダイ・マスター。顔に入れ墨のような模様がある。", "revealedBy": ["tcw-s1", "tcw-s2"] },
       { "text": "[[nute-gunray]]の移送を任され、[[ahsoka-tano]]と共に当たった。", "revealedBy": ["tcw-s1"] },
       { "text": "[[asajj-ventress]]の急襲を受け、囚人を取り逃がした。", "revealedBy": ["tcw-s1"] }
     ]

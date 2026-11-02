@@ -1,0 +1,305 @@
+[
+  {
+    "id": "cad-bane",
+    "type": "character",
+    "names": [
+      { "text": "キャド・ベイン", "reading": "きゃど・べいん", "en": "Cad Bane" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "つば広の帽子をかぶった青い肌の賞金稼ぎ。金のためなら何でも請け負う。", "revealedBy": ["tcw-s1", "tcw-s2"] },
+      { "text": "二丁の銃を素早く抜き、腕ずくの仕事も厭わない。", "revealedBy": ["tcw-s1", "tcw-s2"] },
+      { "text": "[[galactic-senate]]の議場に乗り込んで議員を人質に取り、[[ziro-the-hutt]]を牢から出させた。", "revealedBy": ["tcw-s1"] },
+      { "text": "[[count-dooku]]に雇われて動いた。", "revealedBy": ["tcw-s2"] },
+      { "text": "[[jedi|ジェダイ]]の神殿に忍び込み、古い記録を盗み出した。", "revealedBy": ["tcw-s2"] },
+      { "text": "[[the-force]]の素質を持つ子どもをさらう仕事も請けた。", "revealedBy": ["tcw-s2"] }
+    ]
+  },
+  {
+    "id": "hondo-ohnaka",
+    "type": "character",
+    "names": [
+      { "text": "ホンド・オナカ", "reading": "ほんど・おなか", "en": "Hondo Ohnaka" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "[[florrum]]を根城にする海賊団の頭。", "revealedBy": ["tcw-s2"] },
+      { "text": "金になるなら誰とでも取り引きし、敵にも味方にもなる。", "revealedBy": ["tcw-s2"] },
+      { "text": "[[count-dooku]]を捕らえ、身代金を取ろうとした。", "revealedBy": ["tcw-s2"] },
+      { "text": "身代金の受け渡しに来た[[anakin-skywalker]]と[[obi-wan-kenobi]]も一緒に閉じ込めた。", "revealedBy": ["tcw-s2"] }
+    ]
+  },
+  {
+    "id": "florrum",
+    "type": "place",
+    "names": [
+      { "text": "フロールム", "reading": "ふろーるむ", "en": "Florrum" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "[[hondo-ohnaka]]の海賊団が根城にする、荒れた土地の広がる星。", "revealedBy": ["tcw-s2"] },
+      { "text": "[[galactic-republic]]にも[[separatists]]にも属さない。", "revealedBy": ["tcw-s2"] }
+    ]
+  },
+  {
+    "id": "mandalore",
+    "type": "place",
+    "names": [
+      { "text": "マンダロア", "reading": "まんだろあ", "en": "Mandalore" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "戦いの歴史を持つ星。今は戦いを捨て、中立を掲げている。", "revealedBy": ["tcw-s2"] },
+      { "text": "透明な覆いに守られた都市があり、人々はその中で暮らす。", "revealedBy": ["tcw-s2"] },
+      { "text": "[[satine-kryze]]が治めている。", "revealedBy": ["tcw-s2"] },
+      { "text": "[[galactic-republic]]にも[[separatists]]にもつかない道を選んでいた。", "revealedBy": ["tcw-s2"] },
+      { "text": "昔ながらの戦士の道に戻そうとする[[death-watch]]が暗躍していた。", "revealedBy": ["tcw-s2"] }
+    ]
+  },
+  {
+    "id": "satine-kryze",
+    "type": "character",
+    "names": [
+      { "text": "サティーン・クライズ", "reading": "さてぃーん・くらいず", "en": "Satine Kryze" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "[[mandalore]]を治める公爵。戦いを捨てた中立の道を貫こうとする。", "revealedBy": ["tcw-s2"] },
+      { "text": "[[obi-wan-kenobi]]とは古くからの知り合いで、互いに特別な感情を残している。", "revealedBy": ["tcw-s2"] },
+      { "text": "[[death-watch]]に命を狙われた。", "revealedBy": ["tcw-s2"] },
+      { "text": "共和国が星に軍を入れようとする動きに抗った。", "revealedBy": ["tcw-s2"] }
+    ]
+  },
+  {
+    "id": "death-watch",
+    "type": "organization",
+    "names": [
+      { "text": "デス・ウォッチ", "reading": "です・うぉっち", "en": "Death Watch" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "[[mandalore]]を昔ながらの戦士の道に戻そうとする一派。", "revealedBy": ["tcw-s2"] },
+      { "text": "甲冑を着て背に飛行装置を負い、[[satine-kryze]]の政を倒そうとした。", "revealedBy": ["tcw-s2"] },
+      { "text": "[[pre-vizsla]]が率いている。", "revealedBy": ["tcw-s2"] },
+      { "text": "[[separatists]]と手を結んでいた。", "revealedBy": ["tcw-s2"] }
+    ]
+  },
+  {
+    "id": "pre-vizsla",
+    "type": "character",
+    "names": [
+      { "text": "プレ・ヴィズラ", "reading": "ぷれ・びずら", "en": "Pre Vizsla" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "[[death-watch]]を率いる男。", "revealedBy": ["tcw-s2"] },
+      { "text": "[[darksaber]]を振るう。", "revealedBy": ["tcw-s2"] },
+      { "text": "[[count-dooku]]と通じていた。", "revealedBy": ["tcw-s2"] }
+    ]
+  },
+  {
+    "id": "darksaber",
+    "type": "item",
+    "names": [
+      { "text": "ダークセーバー", "reading": "だーくせーばー", "en": "Darksaber" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "黒い刃を持つ古い[[lightsaber]]。刃は平たく、先が尖っている。", "revealedBy": ["tcw-s2"] },
+      { "text": "昔[[jedi|ジェダイ]]の神殿から持ち出されたものだと語られている。", "revealedBy": ["tcw-s2"] },
+      { "text": "[[pre-vizsla]]がこれを振るい、[[death-watch]]を率いた。", "revealedBy": ["tcw-s2"] }
+    ]
+  },
+  {
+    "id": "barriss-offee",
+    "type": "character",
+    "names": [
+      { "text": "バリス・オフィー", "reading": "ばりす・おふぃー", "en": "Barriss Offee" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "[[luminara-unduli]]の弟子。落ち着いた物腰の若いジェダイ。", "revealedBy": ["tcw-s2"] },
+      { "text": "[[ahsoka-tano]]と組んで[[geonosis]]の武器工場を壊した。", "revealedBy": ["tcw-s2"] },
+      { "text": "地下の巣で虫に体を操られ、仲間に刃を向けた。", "revealedBy": ["tcw-s2"] }
+    ]
+  },
+  {
+    "id": "aurra-sing",
+    "type": "character",
+    "names": [
+      { "text": "オーラ・シング", "reading": "おーら・しんぐ", "en": "Aurra Sing" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "青白い肌で、頭の後ろから長い髪を垂らした賞金稼ぎ。", "revealedBy": ["tcw-s2"] },
+      { "text": "[[boba-fett]]を手元に置き、仇討ちを手伝った。", "revealedBy": ["tcw-s2"] }
+    ]
+  },
+  {
+    "id": "bossk",
+    "type": "character",
+    "names": [
+      { "text": "ボスク", "reading": "ぼすく", "en": "Bossk" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "鱗に覆われた爬虫類のような姿の賞金稼ぎ。", "revealedBy": ["tcw-s2"] },
+      { "text": "[[boba-fett]]の仲間として動いた。", "revealedBy": ["tcw-s2"] }
+    ]
+  },
+  {
+    "id": "second-battle-of-geonosis",
+    "type": "event",
+    "names": [
+      { "text": "ジオノーシスの再戦", "reading": "じおのーしすのさいせん", "en": "Second Battle of Geonosis" }
+    ],
+    "date": { "year": -21, "precision": "approx", "order": 1 },
+    "facts": [
+      { "kind": "summary", "text": "[[galactic-republic]]の軍が[[geonosis]]へ再び攻め込んだ戦い。", "revealedBy": ["tcw-s2"] },
+      { "text": "星では[[separatists]]が武器工場を建て直していた。", "revealedBy": ["tcw-s2"] },
+      { "text": "三方から降り立った部隊が合流し、工場を壊した。", "revealedBy": ["tcw-s2"] },
+      { "text": "戦いのあと、地下の巣で虫に取り付かれる者が出た。", "revealedBy": ["tcw-s2"] }
+    ]
+  },
+
+  {
+    "id": "boba-fett",
+    "facts": [
+      { "text": "少年のまま賞金稼ぎの世界に入り、父の仇を討とうとした。", "revealedBy": ["tcw-s2"] },
+      { "text": "[[aurra-sing]]や[[bossk]]と行動を共にした。", "revealedBy": ["tcw-s2"] },
+      { "text": "[[mace-windu]]を狙って艦を沈め、多くの兵を巻き添えにした。", "revealedBy": ["tcw-s2"] },
+      { "text": "捕らえられ、共和国の手に落ちた。", "revealedBy": ["tcw-s2"] }
+    ]
+  },
+  {
+    "id": "mace-windu",
+    "facts": [
+      { "text": "父の仇として[[boba-fett]]に命を狙われた。", "revealedBy": ["tcw-s2"] }
+    ]
+  },
+  {
+    "id": "ziro-the-hutt",
+    "facts": [
+      { "text": "[[cad-bane]]の手引きで牢から連れ出された。", "revealedBy": ["tcw-s1"] },
+      { "text": "一族の秘密を握っており、ハットの長たちに追われた。", "revealedBy": ["tcw-s2"] }
+    ]
+  },
+  {
+    "id": "geonosis",
+    "facts": [
+      { "text": "[[separatists]]が武器工場を建て直し、[[second-battle-of-geonosis|再び戦場]]になった。", "revealedBy": ["tcw-s2"] },
+      { "text": "地下には巣が広がり、他者の体を操る虫がいた。", "revealedBy": ["tcw-s2"] }
+    ]
+  },
+  {
+    "id": "obi-wan-kenobi",
+    "facts": [
+      { "text": "[[mandalore]]へ送られ、[[satine-kryze]]を守った。", "revealedBy": ["tcw-s2"] },
+      { "text": "[[death-watch]]の動きを探った。", "revealedBy": ["tcw-s2"] },
+      { "text": "[[hondo-ohnaka]]に捕らわれ、[[count-dooku]]と共に閉じ込められた。", "revealedBy": ["tcw-s2"] }
+    ]
+  },
+  {
+    "id": "anakin-skywalker",
+    "facts": [
+      { "text": "[[hondo-ohnaka]]の海賊団に捕らわれた。", "revealedBy": ["tcw-s2"] },
+      { "text": "[[second-battle-of-geonosis|ジオノーシスへの再上陸]]で部隊を率いた。", "revealedBy": ["tcw-s2"] }
+    ]
+  },
+  {
+    "id": "ahsoka-tano",
+    "facts": [
+      { "text": "[[barriss-offee]]と組んで[[geonosis]]の武器工場に忍び込んだ。", "revealedBy": ["tcw-s2"] },
+      { "text": "虫に操られた[[barriss-offee]]を助けようとした。", "revealedBy": ["tcw-s2"] }
+    ]
+  },
+  {
+    "id": "luminara-unduli",
+    "facts": [
+      { "text": "弟子の[[barriss-offee]]と共に[[geonosis]]の戦いに加わった。", "revealedBy": ["tcw-s2"] }
+    ]
+  },
+  {
+    "id": "count-dooku",
+    "facts": [
+      { "text": "[[hondo-ohnaka]]に捕らえられ、身代金をかけられた。", "revealedBy": ["tcw-s2"] },
+      { "text": "[[cad-bane]]を雇い、汚れ仕事を任せた。", "revealedBy": ["tcw-s2"] },
+      { "text": "[[death-watch]]と手を結び、[[mandalore]]を内側から崩そうとした。", "revealedBy": ["tcw-s2"] }
+    ]
+  },
+  {
+    "id": "general-grievous",
+    "facts": [
+      { "text": "捕らえた[[jedi|ジェダイ]]を見せしめにし、救出に来た部隊と戦った。", "revealedBy": ["tcw-s2"] }
+    ]
+  },
+  {
+    "id": "captain-rex",
+    "facts": [
+      { "text": "[[second-battle-of-geonosis|ジオノーシスの戦い]]で部隊を率いた。", "revealedBy": ["tcw-s2"] }
+    ]
+  },
+  {
+    "id": "commander-cody",
+    "facts": [
+      { "text": "[[obi-wan-kenobi]]と共に[[geonosis]]へ降り立った。", "revealedBy": ["tcw-s2"] }
+    ]
+  },
+  {
+    "id": "padme-amidala",
+    "facts": [
+      { "text": "議員として、戦争の裏で動く取り引きを探った。", "revealedBy": ["tcw-s2"] },
+      { "text": "中立を貫く[[satine-kryze]]の立場を支えようとした。", "revealedBy": ["tcw-s2"] }
+    ]
+  },
+  {
+    "id": "clone-trooper",
+    "facts": [
+      { "text": "[[second-battle-of-geonosis|ジオノーシスの再戦]]では多くの兵を失った。", "revealedBy": ["tcw-s2"] }
+    ]
+  },
+  {
+    "id": "separatists",
+    "facts": [
+      { "text": "[[geonosis]]に武器工場を建て直した。", "revealedBy": ["tcw-s2"] },
+      { "text": "[[death-watch]]と手を結び、中立の星を内側から崩そうとした。", "revealedBy": ["tcw-s2"] }
+    ]
+  },
+  {
+    "id": "coruscant",
+    "facts": [
+      { "text": "[[jedi|ジェダイ]]の神殿が狙われ、裏社会でも賞金稼ぎが動いた。", "revealedBy": ["tcw-s2"] }
+    ]
+  },
+  {
+    "id": "jedi-council",
+    "facts": [
+      { "text": "神殿から古い記録を盗まれ、守りの甘さを突きつけられた。", "revealedBy": ["tcw-s2"] }
+    ]
+  },
+  {
+    "id": "yoda",
+    "facts": [
+      { "text": "[[jedi-council]]の席で、戦況と神殿の守りについて助言した。", "revealedBy": ["tcw-s2"] }
+    ]
+  },
+  {
+    "id": "jabba-the-hutt",
+    "facts": [
+      { "text": "一族の長たちと共に[[ziro-the-hutt]]の行方を追った。", "revealedBy": ["tcw-s2"] }
+    ]
+  },
+  {
+    "id": "galactic-republic",
+    "facts": [
+      { "text": "中立を掲げる星にも軍を入れようとして、反発を招いた。", "revealedBy": ["tcw-s2"] }
+    ]
+  },
+  {
+    "id": "jedi",
+    "facts": [
+      { "text": "神殿に忍び込まれ、古い記録を盗み出された。", "revealedBy": ["tcw-s2"] }
+    ]
+  },
+  {
+    "id": "lightsaber",
+    "facts": [
+      { "text": "[[darksaber]]のように、黒い刃を持つものもある。", "revealedBy": ["tcw-s2"] }
+    ]
+  },
+  {
+    "id": "hutt",
+    "facts": [
+      { "text": "一族の長たちが集まって物事を決めることがある。", "revealedBy": ["tcw-s2"] }
+    ]
+  }
+]

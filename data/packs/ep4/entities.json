@@ -177,7 +177,7 @@
       { "text": "フォース", "reading": "ふぉーす", "en": "the Force" }
     ],
     "facts": [
-      { "kind": "summary", "text": "あらゆる生き物が生み出し、銀河を満たしているエネルギーの場。[[jedi]]はこれを感じ取り、力として用いる。", "revealedBy": ["ep1", "ep2", "ep4", "tcw-film", "tcw-s1"] },
+      { "kind": "summary", "text": "あらゆる生き物が生み出し、銀河を満たしているエネルギーの場。[[jedi]]はこれを感じ取り、力として用いる。", "revealedBy": ["ep1", "ep2", "ep4", "tcw-film", "tcw-s1", "tcw-s2"] },
       { "text": "光の側面（ライトサイド）と暗黒の側面（ダークサイド）がある。", "revealedBy": ["ep4", "ep6"] }
     ]
   },
@@ -188,7 +188,7 @@
       { "text": "ライトセーバー", "reading": "らいとせーばー", "en": "Lightsaber" }
     ],
     "facts": [
-      { "kind": "summary", "text": "光の刃を持つ[[jedi]]の武器。", "revealedBy": ["ep1", "ep2", "ep4", "ep6", "tcw-film", "tcw-s1"] },
+      { "kind": "summary", "text": "光の刃を持つ[[jedi]]の武器。", "revealedBy": ["ep1", "ep2", "ep4", "ep6", "tcw-film", "tcw-s1", "tcw-s2"] },
       { "text": "[[obi-wan-kenobi]]は[[luke-skywalker]]に、父が使っていたライトセーバーを渡した。", "revealedBy": ["ep4"] }
     ]
   },

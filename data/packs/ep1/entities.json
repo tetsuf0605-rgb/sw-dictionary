@@ -96,7 +96,7 @@
       { "text": "メイス・ウィンドゥ", "reading": "めいす・うぃんどぅ", "en": "Mace Windu" }
     ],
     "facts": [
-      { "kind": "summary", "text": "[[jedi-council]]の中心にいるジェダイ・マスター。", "revealedBy": ["ep1"] },
+      { "kind": "summary", "text": "[[jedi-council]]の中心にいるジェダイ・マスター。", "revealedBy": ["ep1", "tcw-s2"] },
       { "text": "[[yoda]]と共に[[anakin-skywalker]]を見極め、訓練を認めなかった。", "revealedBy": ["ep1"] }
     ]
   },
@@ -174,7 +174,7 @@
       { "text": "銀河共和国", "reading": "ぎんがきょうわこく", "en": "Galactic Republic" }
     ],
     "facts": [
-      { "kind": "summary", "text": "多くの星系が加わる銀河の統治体。[[coruscant]]を中心とする。", "revealedBy": ["ep1", "ep2", "tcw-film", "tcw-s1"] },
+      { "kind": "summary", "text": "多くの星系が加わる銀河の統治体。[[coruscant]]を中心とする。", "revealedBy": ["ep1", "ep2", "tcw-film", "tcw-s1", "tcw-s2"] },
       { "text": "手続きと駆け引きに追われ、[[naboo]]の危機にすぐ動けなかった。", "revealedBy": ["ep1"] },
       { "text": "[[jedi|ジェダイ]]は共和国の求めに応じて調停役を務めていた。", "revealedBy": ["ep1"] }
     ]
