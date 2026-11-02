@@ -1,0 +1,183 @@
+[
+  {
+    "id": "omega",
+    "type": "character",
+    "names": [
+      { "text": "オメガ", "reading": "おめが", "en": "Omega" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "[[kamino]]の施設で育った少女。[[bad-batch]]に加わる。", "revealedBy": ["bad-batch-s1"] },
+      { "text": "兵たちと同じ元から生まれた者である。", "revealedBy": ["bad-batch-s1"] },
+      { "text": "施設の中しか知らず、外の世界を初めて目にした。", "revealedBy": ["bad-batch-s1"] },
+      { "text": "物覚えがよく、機械の扱いも弓も手早く身につけた。", "revealedBy": ["bad-batch-s1"] },
+      { "text": "[[nala-se]]に気にかけられていた。", "revealedBy": ["bad-batch-s1"] },
+      { "text": "帝国に追われる身になった。", "revealedBy": ["bad-batch-s1"] }
+    ]
+  },
+  {
+    "id": "fennec-shand",
+    "type": "character",
+    "names": [
+      { "text": "フェネック・シャンド", "reading": "ふぇねっく・しゃんど", "en": "Fennec Shand" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "腕利きの賞金稼ぎ。長い髪を結い上げている。", "revealedBy": ["bad-batch-s1"] },
+      { "text": "[[omega]]を生け捕りにするよう雇われた。", "revealedBy": ["bad-batch-s1"] },
+      { "text": "雇い主をすぐには明かさず、のちに[[nala-se]]だったと分かった。", "revealedBy": ["bad-batch-s1"] },
+      { "text": "腕は確かで、[[bad-batch]]を何度も追い詰めた。", "revealedBy": ["bad-batch-s1"] }
+    ]
+  },
+  {
+    "id": "cid",
+    "type": "character",
+    "names": [
+      { "text": "シド", "reading": "しど", "en": "Cid" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "裏の仕事を取り次ぐ、爬虫類のような姿の女。", "revealedBy": ["bad-batch-s1"] },
+      { "text": "[[ord-mantell]]の酒場を根城にしている。", "revealedBy": ["bad-batch-s1"] },
+      { "text": "[[bad-batch]]に仕事を回す代わりに、取り分を受け取る。", "revealedBy": ["bad-batch-s1"] },
+      { "text": "金のつながり以上のものは求めない。", "revealedBy": ["bad-batch-s1"] }
+    ]
+  },
+  {
+    "id": "nala-se",
+    "type": "character",
+    "names": [
+      { "text": "ナラ・セ", "reading": "なら・せ", "en": "Nala Se" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "[[kamino]]の科学者。クローンを造る仕事を長く担ってきた。", "revealedBy": ["bad-batch-s1"] },
+      { "text": "[[omega]]を気にかけ、施設から逃がそうとした。", "revealedBy": ["bad-batch-s1"] },
+      { "text": "帝国に技術を求められ、連れ去られた。", "revealedBy": ["bad-batch-s1"] }
+    ]
+  },
+  {
+    "id": "ord-mantell",
+    "type": "place",
+    "names": [
+      { "text": "オード・マンテル", "reading": "おーど・まんてる", "en": "Ord Mantell" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "裏の商売が幅を利かせる星。", "revealedBy": ["bad-batch-s1"] },
+      { "text": "[[cid]]の酒場があり、[[bad-batch]]の足場になった。", "revealedBy": ["bad-batch-s1"] }
+    ]
+  },
+  {
+    "id": "admiral-rampart",
+    "type": "character",
+    "names": [
+      { "text": "ランパート提督", "reading": "らんぱーとていとく", "en": "Admiral Rampart" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "クローン軍を切り捨てていく[[galactic-empire]]の軍人。", "revealedBy": ["bad-batch-s1"] },
+      { "text": "クローンに代えて、志願した兵を使うことを進めた。", "revealedBy": ["bad-batch-s1"] },
+      { "text": "[[kamino]]の施設を見限り、始末を命じた。", "revealedBy": ["bad-batch-s1"] }
+    ]
+  },
+  {
+    "id": "destruction-of-kamino",
+    "type": "event",
+    "names": [
+      { "text": "カミーノの破壊", "reading": "かみーののはかい", "en": "Destruction of Kamino" }
+    ],
+    "date": { "year": -18, "precision": "approx" },
+    "facts": [
+      { "kind": "summary", "text": "[[kamino]]のクローン施設が帝国の艦に撃たれ、海に沈んだ出来事。", "revealedBy": ["bad-batch-s1"] },
+      { "text": "帝国はクローンを造り続けるつもりがなかった。", "revealedBy": ["bad-batch-s1"] },
+      { "text": "施設に残っていた者たちは、崩れる建物と海に取り残された。", "revealedBy": ["bad-batch-s1"] },
+      { "text": "[[clone-trooper|クローン兵]]の時代は、ここで事実上終わった。", "revealedBy": ["bad-batch-s1"] }
+    ]
+  },
+
+  {
+    "id": "crosshair",
+    "facts": [
+      { "text": "頭の[[inhibitor-chip]]を強められ、帝国に従い続けた。", "revealedBy": ["bad-batch-s1"] },
+      { "text": "ひとり分隊に残らず、かつての仲間を追う側に回った。", "revealedBy": ["bad-batch-s1"] },
+      { "text": "のちにチップを取り除かれてなお、帝国に留まることを選んだ。", "revealedBy": ["bad-batch-s1"] },
+      { "text": "仲間を弱いと見下し、強い側につくことを筋だと考えた。", "revealedBy": ["bad-batch-s1"] }
+    ]
+  },
+  {
+    "id": "hunter",
+    "facts": [
+      { "text": "[[omega]]を守る役目を背負った。", "revealedBy": ["bad-batch-s1"] },
+      { "text": "分隊をまとめ、行き先を決める重荷を負った。", "revealedBy": ["bad-batch-s1"] }
+    ]
+  },
+  {
+    "id": "wrecker",
+    "facts": [
+      { "text": "頭の[[inhibitor-chip]]が働き、一度は仲間に襲いかかった。", "revealedBy": ["bad-batch-s1"] },
+      { "text": "チップを取り出され、我に返った。", "revealedBy": ["bad-batch-s1"] }
+    ]
+  },
+  {
+    "id": "tech",
+    "facts": [
+      { "text": "分隊の船と機械の面倒をすべて見た。", "revealedBy": ["bad-batch-s1"] }
+    ]
+  },
+  {
+    "id": "echo",
+    "facts": [
+      { "text": "軍を離れたあとも、帝国の網をくぐる術に長けていた。", "revealedBy": ["bad-batch-s1"] }
+    ]
+  },
+  {
+    "id": "bad-batch",
+    "facts": [
+      { "text": "軍を離れ、[[cid]]の回す仕事で食いつないだ。", "revealedBy": ["bad-batch-s1"] },
+      { "text": "[[omega]]を加えて五人になった。", "revealedBy": ["bad-batch-s1"] },
+      { "text": "[[crosshair]]だけが帝国に残り、追う側に回った。", "revealedBy": ["bad-batch-s1"] }
+    ]
+  },
+  {
+    "id": "kamino",
+    "facts": [
+      { "text": "クローンを造る役目を帝国に打ち切られた。", "revealedBy": ["bad-batch-s1"] },
+      { "text": "[[destruction-of-kamino|施設は撃たれ]]、海に沈んだ。", "revealedBy": ["bad-batch-s1"] }
+    ]
+  },
+  {
+    "id": "inhibitor-chip",
+    "facts": [
+      { "text": "取り除かれないまま残っていた兵もいた。", "revealedBy": ["bad-batch-s1"] },
+      { "text": "帝国の手で働きを強められることもあった。", "revealedBy": ["bad-batch-s1"] }
+    ]
+  },
+  {
+    "id": "clone-trooper",
+    "facts": [
+      { "text": "帝国のもとで数を減らされ、志願した兵に置き換えられていった。", "revealedBy": ["bad-batch-s1"] },
+      { "text": "行き場を失い、傭兵まがいの暮らしに入る者も出た。", "revealedBy": ["bad-batch-s1"] }
+    ]
+  },
+  {
+    "id": "tarkin",
+    "facts": [
+      { "text": "クローン兵の値打ちを試し、志願兵のほうが安く済むと見た。", "revealedBy": ["bad-batch-s1"] }
+    ]
+  },
+  {
+    "id": "captain-rex",
+    "facts": [
+      { "text": "姿を隠しながら、頭の[[inhibitor-chip]]のことを仲間に伝えて回った。", "revealedBy": ["bad-batch-s1"] }
+    ]
+  },
+  {
+    "id": "saw-gerrera",
+    "facts": [
+      { "text": "帝国に抗う集まりを率い、[[bad-batch]]と行き会った。", "revealedBy": ["bad-batch-s1"] },
+      { "text": "戦うか逃げるかを迫り、生ぬるいやり方を嫌った。", "revealedBy": ["bad-batch-s1"] }
+    ]
+  },
+  {
+    "id": "galactic-empire",
+    "facts": [
+      { "text": "共和国の兵をそのまま引き継いだが、やがて切り捨てた。", "revealedBy": ["bad-batch-s1"] },
+      { "text": "各地に兵を送り、従わない星を力で押さえた。", "revealedBy": ["bad-batch-s1"] }
+    ]
+  }
+]

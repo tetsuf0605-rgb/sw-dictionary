@@ -96,7 +96,7 @@
       { "text": "カミーノ", "reading": "かみーの", "en": "Kamino" }
     ],
     "facts": [
-      { "kind": "summary", "text": "海に覆われ、絶え間なく雨の降る星。海上に建てられた施設が点在する。", "revealedBy": ["ep2", "tcw-s3", "tcw-s6"] },
+      { "kind": "summary", "text": "海に覆われ、絶え間なく雨の降る星。海上に建てられた施設が点在する。", "revealedBy": ["ep2", "tcw-s3", "tcw-s6", "bad-batch-s1"] },
       { "text": "細長い体と長い首を持つ住人が、クローンを造る技術で知られていた。", "revealedBy": ["ep2"] },
       { "text": "[[clone-trooper|クローン兵]]はここで育てられていた。", "revealedBy": ["ep2"] },
       { "text": "[[jedi|ジェダイ]]の書庫から記録が消されており、星図に載っていなかった。", "revealedBy": ["ep2"] },
@@ -138,7 +138,7 @@
       { "text": "クローン・トルーパー", "reading": "くろーん・とるーぱー", "en": "Clone Trooper" }
     ],
     "facts": [
-      { "kind": "summary", "text": "[[kamino]]で造られた、同じ顔と体を持つ兵士たち。", "revealedBy": ["ep2", "tcw-s3", "tcw-s6"] },
+      { "kind": "summary", "text": "[[kamino]]で造られた、同じ顔と体を持つ兵士たち。", "revealedBy": ["ep2", "tcw-s3", "tcw-s6", "bad-batch-s1"] },
       { "text": "元になったのは[[jango-fett]]である。", "revealedBy": ["ep2"] },
       { "text": "成長を速める処置を受け、命令に忠実に従うよう育てられた。", "revealedBy": ["ep2"] },
       { "text": "白い装甲を身につけ、[[jedi|ジェダイ]]の指揮のもとで戦った。", "revealedBy": ["ep2"] },
