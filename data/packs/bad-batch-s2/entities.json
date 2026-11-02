@@ -6,7 +6,7 @@
       { "text": "パブー", "reading": "ぱぶー", "en": "Pabu" }
     ],
     "facts": [
-      { "kind": "summary", "text": "高い崖に家が折り重なる、海に臨む島の町。", "revealedBy": ["bad-batch-s2"] },
+      { "kind": "summary", "text": "高い崖に家が折り重なる、海に臨む島の町。", "revealedBy": ["bad-batch-s2", "bad-batch-s3"] },
       { "text": "よそから来た者を、来し方を問わずに迎え入れる。", "revealedBy": ["bad-batch-s2"] },
       { "text": "大きな波に襲われたが、住人と[[bad-batch]]が力を合わせて切り抜けた。", "revealedBy": ["bad-batch-s2"] },
       { "text": "[[omega]]たちは、ここを落ち着き先に選んだ。", "revealedBy": ["bad-batch-s2"] }
@@ -31,7 +31,7 @@
       { "text": "ヘムロック博士", "reading": "へむろっくはかせ", "en": "Dr. Hemlock" }
     ],
     "facts": [
-      { "kind": "summary", "text": "クローンを研究の材料として集める帝国の科学者。", "revealedBy": ["bad-batch-s2"] },
+      { "kind": "summary", "text": "クローンを研究の材料として集める帝国の科学者。", "revealedBy": ["bad-batch-s2", "bad-batch-s3"] },
       { "text": "冷ややかな物腰で、相手を人としてではなく数として扱う。", "revealedBy": ["bad-batch-s2"] },
       { "text": "[[mount-tantiss]]の施設を任されている。", "revealedBy": ["bad-batch-s2"] },
       { "text": "[[nala-se]]の腕を必要とし、手元に置いた。", "revealedBy": ["bad-batch-s2"] },
@@ -45,7 +45,7 @@
       { "text": "タンティス山", "reading": "たんてぃすさん", "en": "Mount Tantiss" }
     ],
     "facts": [
-      { "kind": "summary", "text": "帝国が山の中に隠し持つ研究施設。", "revealedBy": ["bad-batch-s2"] },
+      { "kind": "summary", "text": "帝国が山の中に隠し持つ研究施設。", "revealedBy": ["bad-batch-s2", "bad-batch-s3"] },
       { "text": "どこにあるかは厳しく伏せられている。", "revealedBy": ["bad-batch-s2"] },
       { "text": "各地からクローンが集められ、人の体を使う研究が行われている。", "revealedBy": ["bad-batch-s2"] },
       { "text": "[[hemlock]]が取り仕切っている。", "revealedBy": ["bad-batch-s2"] },

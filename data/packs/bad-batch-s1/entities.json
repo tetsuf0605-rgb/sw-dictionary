@@ -70,7 +70,7 @@
       { "text": "ランパート提督", "reading": "らんぱーとていとく", "en": "Admiral Rampart" }
     ],
     "facts": [
-      { "kind": "summary", "text": "クローン軍を切り捨てていく[[galactic-empire]]の軍人。", "revealedBy": ["bad-batch-s1"] },
+      { "kind": "summary", "text": "クローン軍を切り捨てていく[[galactic-empire]]の軍人。", "revealedBy": ["bad-batch-s1", "bad-batch-s3"] },
       { "text": "クローンに代えて、志願した兵を使うことを進めた。", "revealedBy": ["bad-batch-s1"] },
       { "text": "[[kamino]]の施設を見限り、始末を命じた。", "revealedBy": ["bad-batch-s1"] }
     ]

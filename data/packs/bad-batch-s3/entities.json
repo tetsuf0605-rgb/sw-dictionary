@@ -1,0 +1,165 @@
+[
+  {
+    "id": "emerie-karr",
+    "type": "character",
+    "names": [
+      { "text": "エメリー・カー", "reading": "えめりー・かー", "en": "Emerie Karr" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "[[hemlock]]のもとで働く若い研究者。", "revealedBy": ["bad-batch-s3"] },
+      { "text": "自身もクローンであり、そのことを長く知らされていなかった。", "revealedBy": ["bad-batch-s3"] },
+      { "text": "囚われた者を数として扱っていたが、やがて迷いを持つようになった。", "revealedBy": ["bad-batch-s3"] },
+      { "text": "[[omega]]と同じ元から生まれた姉妹だと知り、逃がす側に回った。", "revealedBy": ["bad-batch-s3"] }
+    ]
+  },
+  {
+    "id": "project-necromancer",
+    "type": "concept",
+    "names": [
+      { "text": "ネクロマンサー計画", "reading": "ねくろまんさーけいかく", "en": "Project Necromancer" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "[[galactic-empire]]が[[mount-tantiss]]で進めていた秘密の研究。", "revealedBy": ["bad-batch-s3"] },
+      { "text": "クローンに[[the-force]]の質を移せるかどうかが調べられていた。", "revealedBy": ["bad-batch-s3"] },
+      { "text": "そのために各地からクローンが集められ、血を採られ続けた。", "revealedBy": ["bad-batch-s3"] },
+      { "text": "[[the-emperor]]自らが関心を寄せていた。", "revealedBy": ["bad-batch-s3"] },
+      { "text": "何に使うつもりだったのかは、終わりまで明かされなかった。", "revealedBy": ["bad-batch-s3"] }
+    ]
+  },
+  {
+    "id": "cx-operatives",
+    "type": "organization",
+    "names": [
+      { "text": "仮面の工作員", "reading": "かめんのこうさくいん" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "顔を覆う面をつけ、帝国の汚れ仕事を担う者たち。", "revealedBy": ["bad-batch-s3"] },
+      { "text": "もとは[[clone-trooper|クローン兵]]であり、手を加えられて別人のようになっている。", "revealedBy": ["bad-batch-s3"] },
+      { "text": "痛みにも迷いにも鈍く、与えられた任務だけを果たす。", "revealedBy": ["bad-batch-s3"] },
+      { "text": "[[mount-tantiss]]の守りと、逃げた者の追跡に使われた。", "revealedBy": ["bad-batch-s3"] }
+    ]
+  },
+  {
+    "id": "fall-of-mount-tantiss",
+    "type": "event",
+    "names": [
+      { "text": "タンティス山の崩壊", "reading": "たんてぃすさんのほうかい", "en": "Fall of Mount Tantiss" }
+    ],
+    "date": { "year": -18, "precision": "approx", "order": 1 },
+    "facts": [
+      { "kind": "summary", "text": "[[mount-tantiss]]の施設が落ち、囚われていた者たちが解き放たれた出来事。", "revealedBy": ["bad-batch-s3"] },
+      { "text": "[[bad-batch]]が[[omega]]を助けに乗り込んだ。", "revealedBy": ["bad-batch-s3"] },
+      { "text": "[[hemlock]]は倒れ、[[project-necromancer|研究]]は止まった。", "revealedBy": ["bad-batch-s3"] },
+      { "text": "集められていたクローンたちは、外の世界へ出された。", "revealedBy": ["bad-batch-s3"] }
+    ]
+  },
+
+  {
+    "id": "omega",
+    "facts": [
+      { "text": "囚われた先で仲間を導き、施設から抜け出した。", "revealedBy": ["bad-batch-s3"] },
+      { "text": "[[crosshair]]と手を組んで逃げ延びた。", "revealedBy": ["bad-batch-s3"] },
+      { "text": "取り戻されたのち、[[pabu]]で穏やかに暮らした。", "revealedBy": ["bad-batch-s3"] },
+      { "text": "年を重ねたのち、戦いに加わるために島を出た。", "revealedBy": ["bad-batch-s3"] }
+    ]
+  },
+  {
+    "id": "crosshair",
+    "facts": [
+      { "text": "右手が震えるようになった。", "revealedBy": ["bad-batch-s3"] },
+      { "text": "[[omega]]と共に施設を出た。", "revealedBy": ["bad-batch-s3"] },
+      { "text": "分隊に戻り、居場所を取り戻した。", "revealedBy": ["bad-batch-s3"] }
+    ]
+  },
+  {
+    "id": "hunter",
+    "facts": [
+      { "text": "[[omega]]を取り戻すために動き続けた。", "revealedBy": ["bad-batch-s3"] },
+      { "text": "戦いが終わったあとも、島で娘のような相手を見守った。", "revealedBy": ["bad-batch-s3"] }
+    ]
+  },
+  {
+    "id": "wrecker",
+    "facts": [
+      { "text": "[[omega]]の救出でも力ずくの役目を担った。", "revealedBy": ["bad-batch-s3"] }
+    ]
+  },
+  {
+    "id": "echo",
+    "facts": [
+      { "text": "外から手を貸し、[[mount-tantiss]]に忍び込んだ。", "revealedBy": ["bad-batch-s3"] },
+      { "text": "戦いのあとも、クローンたちのために動き続けた。", "revealedBy": ["bad-batch-s3"] }
+    ]
+  },
+  {
+    "id": "hemlock",
+    "facts": [
+      { "text": "[[project-necromancer]]を率いていた。", "revealedBy": ["bad-batch-s3"] },
+      { "text": "[[fall-of-mount-tantiss|施設の崩壊]]とともに倒れた。", "revealedBy": ["bad-batch-s3"] }
+    ]
+  },
+  {
+    "id": "nala-se",
+    "facts": [
+      { "text": "研究を進めるふりをしながら、[[omega]]を守ろうとした。", "revealedBy": ["bad-batch-s3"] },
+      { "text": "最後は自らを差し出して、少女を逃がした。", "revealedBy": ["bad-batch-s3"] }
+    ]
+  },
+  {
+    "id": "mount-tantiss",
+    "facts": [
+      { "text": "[[project-necromancer]]の舞台だった。", "revealedBy": ["bad-batch-s3"] },
+      { "text": "[[fall-of-mount-tantiss|崩れ落ち]]、役目を終えた。", "revealedBy": ["bad-batch-s3"] }
+    ]
+  },
+  {
+    "id": "the-force",
+    "facts": [
+      { "text": "生まれつき強く感じ取れる者がおり、その質は血に表れるとされた。", "revealedBy": ["bad-batch-s3"] }
+    ]
+  },
+  {
+    "id": "the-emperor",
+    "facts": [
+      { "text": "クローンをめぐる秘密の研究に、自ら関心を寄せていた。", "revealedBy": ["bad-batch-s3"] }
+    ]
+  },
+  {
+    "id": "asajj-ventress",
+    "facts": [
+      { "text": "死んだものと思われていたが、生きていた。", "revealedBy": ["bad-batch-s3"] },
+      { "text": "[[omega]]の内にある力を見極めようとした。", "revealedBy": ["bad-batch-s3"] }
+    ]
+  },
+  {
+    "id": "admiral-rampart",
+    "facts": [
+      { "text": "地位を失ったのち再び使われ、そのまま捨てられた。", "revealedBy": ["bad-batch-s3"] }
+    ]
+  },
+  {
+    "id": "bad-batch",
+    "facts": [
+      { "text": "[[omega]]を取り戻し、そこで戦いから降りた。", "revealedBy": ["bad-batch-s3"] },
+      { "text": "[[pabu]]でそれぞれの余生を過ごした。", "revealedBy": ["bad-batch-s3"] }
+    ]
+  },
+  {
+    "id": "pabu",
+    "facts": [
+      { "text": "[[bad-batch]]の終の住処になった。", "revealedBy": ["bad-batch-s3"] }
+    ]
+  },
+  {
+    "id": "clone-trooper",
+    "facts": [
+      { "text": "解き放たれた者たちは、それぞれの道を選んでいった。", "revealedBy": ["bad-batch-s3"] }
+    ]
+  },
+  {
+    "id": "galactic-empire",
+    "facts": [
+      { "text": "クローンを材料として扱う研究を、山の奥に隠し持っていた。", "revealedBy": ["bad-batch-s3"] }
+    ]
+  }
+]
