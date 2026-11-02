@@ -76,6 +76,8 @@ npm run data:preview -- --watched ep4,ep5 --entity darth-vader   # 指定の視�
 - データスキーマを変える場合は `docs/02_data_model.md`・型定義（`src/types.ts`）・`scripts/validate-data.mjs` を
   **同時に** 更新する。片方だけ変えない。
 - `npm run data:validate` と `npm test` が通らない状態で作業を終えない。
+- **データの記述は、確信が持てないものを書かない**（`docs/05_content_guide.md` §3）。
+  `needsCheck: true` を付けて確認を先送りしない。裏が取れないものは候補の段階で落とす。
 - 公式画像・ロゴ・公式サイトの文章は使わない（`docs/05_content_guide.md` 参照）。
   アプリ内のコンテンツ（項目・年表・本文）に画像は使わない。**ホーム画面用アイコンだけは例外**（05 §4）。
 - アプリ名は仮称「ホロクロン」。アイコンは `assets/icon-source.png` から `npm run icons` で生成する

@@ -33,30 +33,7 @@
       { "text": "アクバー提督", "reading": "あくばーていとく", "en": "Admiral Ackbar" }
     ],
     "facts": [
-      { "kind": "summary", "text": "[[rebel-alliance]]の艦隊を率いる提督。", "revealedBy": ["ep6"] },
-      { "text": "[[death-star-2]]への攻撃を指揮したが、帝国のわなだと気づいて一度は退却を命じた。", "revealedBy": ["ep6"], "needsCheck": true }
-    ]
-  },
-  {
-    "id": "mon-mothma",
-    "type": "character",
-    "names": [
-      { "text": "モン・モスマ", "reading": "もん・もすま", "en": "Mon Mothma" }
-    ],
-    "facts": [
-      { "kind": "summary", "text": "[[rebel-alliance]]を率いる指導者の一人。", "revealedBy": ["ep6"] },
-      { "text": "[[death-star-2]]の情報を集め、総攻撃の作戦を仲間に説明した。", "revealedBy": ["ep6"], "needsCheck": true }
-    ]
-  },
-  {
-    "id": "boba-fett",
-    "type": "character",
-    "names": [
-      { "text": "ボバ・フェット", "reading": "ぼば・ふぇっと", "en": "Boba Fett" }
-    ],
-    "facts": [
-      { "kind": "summary", "text": "緑と赤の装甲に身を包んだ賞金稼ぎ。[[jabba-the-hutt]]のもとに身を寄せていた。", "revealedBy": ["ep6"], "needsCheck": true },
-      { "text": "[[sarlacc]]の大穴での戦いの最中、背中の噴射装置が暴発して穴へ落ちていった。", "revealedBy": ["ep6"] }
+      { "kind": "summary", "text": "[[rebel-alliance]]の艦隊を率いる提督。", "revealedBy": ["ep6"] }
     ]
   },
   {
@@ -112,7 +89,7 @@
       { "text": "イウォーク", "reading": "いうぉーく", "en": "Ewok" }
     ],
     "facts": [
-      { "kind": "summary", "text": "[[endor]]の森に暮らす、毛に覆われた小柄な種族。", "revealedBy": ["ep6"], "needsCheck": true },
+      { "kind": "summary", "text": "[[endor]]の森に暮らす、毛に覆われた小柄な種族。", "revealedBy": ["ep6"] },
       { "text": "はじめは[[luke-skywalker]]たちを捕らえたが、[[c-3po]]を神のようにあがめ、やがて味方になった。", "revealedBy": ["ep6"] },
       { "text": "丸太や石を使った仕掛けで帝国軍に立ち向かい、地上戦の勝利を助けた。", "revealedBy": ["ep6"] }
     ]
@@ -124,8 +101,7 @@
       { "text": "サルラック", "reading": "さるらっく", "en": "Sarlacc" }
     ],
     "facts": [
-      { "kind": "summary", "text": "[[tatooine]]の砂漠にあいた大穴にひそむ巨大な生き物。", "revealedBy": ["ep6"] },
-      { "text": "落ちた者を千年かけて消化すると語られた。", "revealedBy": ["ep6"], "needsCheck": true }
+      { "kind": "summary", "text": "[[tatooine]]の砂漠にあいた大穴にひそむ巨大な生き物。", "revealedBy": ["ep6"] }
     ]
   },
 
@@ -163,8 +139,7 @@
     "facts": [
       { "kind": "summary", "text": "[[rebel-alliance]]が[[death-star-2]]を破壊し、[[the-emperor]]を失わせた戦い。", "revealedBy": ["ep6"] },
       { "text": "地上では[[endor]]の防御シールドを、宇宙では艦隊が帝国軍と戦った。", "revealedBy": ["ep6"] },
-      { "text": "[[luke-skywalker]]は要塞の中で[[darth-vader]]と皇帝に向き合っていた。", "revealedBy": ["ep6"] },
-      { "text": "勝利の知らせは銀河各地に伝わり、帝国の支配が崩れるきっかけになった。", "revealedBy": ["ep6"], "needsCheck": true }
+      { "text": "[[luke-skywalker]]は要塞の中で[[darth-vader]]と皇帝に向き合っていた。", "revealedBy": ["ep6"] }
     ]
   },
 
@@ -229,7 +204,6 @@
   {
     "id": "obi-wan-kenobi",
     "facts": [
-      { "text": "霊体として再び現れ、父について語ったことは「ある視点から見れば真実だった」と説明した。", "revealedBy": ["ep6"], "needsCheck": true },
       { "text": "[[leia-organa]]が[[luke-skywalker]]の双子の妹であることを明かした。", "revealedBy": ["ep6"] }
     ]
   },
