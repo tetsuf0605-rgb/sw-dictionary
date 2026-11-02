@@ -1,0 +1,219 @@
+[
+  {
+    "id": "malachor",
+    "type": "place",
+    "names": [
+      { "text": "マラコア", "reading": "まらこあ", "en": "Malachor" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "[[sith|シス]]の古い神殿が埋もれた、死の星。", "revealedBy": ["rebels-s2"] },
+      { "text": "地には、石になった者たちが倒れたまま残っている。", "revealedBy": ["rebels-s2"] },
+      { "text": "神殿の奥には、大きな力を宿す石があった。", "revealedBy": ["rebels-s2"] },
+      { "text": "[[battle-of-malachor|戦い]]の舞台になった。", "revealedBy": ["rebels-s2"] }
+    ]
+  },
+  {
+    "id": "phoenix-squadron",
+    "type": "organization",
+    "names": [
+      { "text": "フェニックス隊", "reading": "ふぇにっくすたい", "en": "Phoenix Squadron" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "一味が加わった反乱勢力の部隊。", "revealedBy": ["rebels-s2"] },
+      { "text": "艦をいくつか持ち、帝国に奪われた物資を取り返していた。", "revealedBy": ["rebels-s2"] },
+      { "text": "まだ小さく、帝国の大きな艦に見つかれば逃げるしかなかった。", "revealedBy": ["rebels-s2"] },
+      { "text": "[[hera-syndulla]]が隊を率いる一人になった。", "revealedBy": ["rebels-s2"] }
+    ]
+  },
+  {
+    "id": "commander-wolffe",
+    "type": "character",
+    "names": [
+      { "text": "ウルフ", "reading": "うるふ", "en": "Wolffe" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "戦のあとを辺境で静かに生きていた元[[clone-trooper|クローン兵]]。", "revealedBy": ["rebels-s2"] },
+      { "text": "片目を失っている。", "revealedBy": ["rebels-s2"] },
+      { "text": "帝国に見つかることを恐れ、はじめは一味を拒んだ。", "revealedBy": ["rebels-s2"] },
+      { "text": "[[captain-rex]]とは旧知の仲である。", "revealedBy": ["rebels-s2"] }
+    ]
+  },
+  {
+    "id": "gregor",
+    "type": "character",
+    "names": [
+      { "text": "グレゴール", "reading": "ぐれごーる", "en": "Gregor" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "[[commander-wolffe]]と共に暮らす元[[clone-trooper|クローン兵]]。", "revealedBy": ["rebels-s2"] },
+      { "text": "戦いの記憶が入り混じり、調子の外れた物言いをする。", "revealedBy": ["rebels-s2"] },
+      { "text": "三人は、脚のある古い戦闘車を住みかにしていた。", "revealedBy": ["rebels-s2"] }
+    ]
+  },
+  {
+    "id": "battle-of-malachor",
+    "type": "event",
+    "names": [
+      { "text": "マラコアの戦い", "reading": "まらこあのたたかい", "en": "Battle of Malachor" }
+    ],
+    "date": { "year": -3, "precision": "approx" },
+    "facts": [
+      { "kind": "summary", "text": "[[malachor]]の神殿で、[[jedi|ジェダイ]]とシスの使い手が入り乱れて戦った出来事。", "revealedBy": ["rebels-s2"] },
+      { "text": "[[ahsoka-tano]]が[[darth-vader]]と正面から向き合った。", "revealedBy": ["rebels-s2"] },
+      { "text": "[[darth-maul]]は[[kanan-jarrus]]の目を奪い、神殿の力を持って逃げた。", "revealedBy": ["rebels-s2"] },
+      { "text": "[[ezra-bridger]]は神殿の力に手を伸ばしてしまった。", "revealedBy": ["rebels-s2"] },
+      { "text": "アソーカは神殿に残り、そのまま消息を絶った。", "revealedBy": ["rebels-s2"] }
+    ]
+  },
+
+  {
+    "id": "darth-maul",
+    "facts": [
+      { "text": "盲いた老人を装って現れ、[[ezra-bridger]]をそそのかした。", "revealedBy": ["rebels-s2"] },
+      { "text": "少年を弟子にしようと近づいた。", "revealedBy": ["rebels-s2"] },
+      { "text": "[[kanan-jarrus]]の目を奪った。", "revealedBy": ["rebels-s2"] },
+      { "text": "神殿の力を手にして姿を消した。", "revealedBy": ["rebels-s2"] }
+    ]
+  },
+  {
+    "id": "ahsoka-tano",
+    "facts": [
+      { "text": "[[darth-vader]]の正体が、かつての師だと知った。", "revealedBy": ["rebels-s2"] },
+      { "text": "逃げずに向き合い、[[battle-of-malachor|神殿]]に残った。", "revealedBy": ["rebels-s2"] },
+      { "text": "そのまま消息を絶った。", "revealedBy": ["rebels-s2"] }
+    ]
+  },
+  {
+    "id": "darth-vader",
+    "facts": [
+      { "text": "割れた仮面の下から、かつての弟子に素顔と声を知られた。", "revealedBy": ["rebels-s2"] },
+      { "text": "[[malachor]]まで自ら出向いた。", "revealedBy": ["rebels-s2"] }
+    ],
+    "sameAs": [
+      { "id": "anakin-skywalker", "revealedBy": ["rebels-s2"], "note": "正体" }
+    ]
+  },
+  {
+    "id": "anakin-skywalker",
+    "facts": [
+      { "text": "かつての弟子の前で、仮面の下の顔と声をさらした。", "revealedBy": ["rebels-s2"] }
+    ]
+  },
+  {
+    "id": "kanan-jarrus",
+    "facts": [
+      { "text": "[[darth-maul]]に目を奪われ、見えなくなった。", "revealedBy": ["rebels-s2"] },
+      { "text": "見えないまま、戦い方と心の持ちようを変えていった。", "revealedBy": ["rebels-s2"] }
+    ]
+  },
+  {
+    "id": "ezra-bridger",
+    "facts": [
+      { "text": "[[holocron]]のうち、シスのものを開いてしまった。", "revealedBy": ["rebels-s2"] },
+      { "text": "力を早く手にしたいと焦り、暗い側に手を伸ばした。", "revealedBy": ["rebels-s2"] },
+      { "text": "[[yoda]]の声に導かれて[[malachor]]へ向かった。", "revealedBy": ["rebels-s2"] }
+    ]
+  },
+  {
+    "id": "lightsaber",
+    "facts": [
+      { "text": "[[kanan-jarrus]]は目を失ってからも使い続けた。", "revealedBy": ["rebels-s2"] }
+    ]
+  },
+  {
+    "id": "holocron",
+    "facts": [
+      { "text": "[[sith|シス]]のものもあり、形が違う。", "revealedBy": ["rebels-s2"] },
+      { "text": "シスのものを開くには、怒りや欲が要るとされる。", "revealedBy": ["rebels-s2"] }
+    ]
+  },
+  {
+    "id": "captain-rex",
+    "facts": [
+      { "text": "辺境で身を隠していたが、一味に加わった。", "revealedBy": ["rebels-s2"] },
+      { "text": "[[commander-wolffe]]や[[gregor]]と共に暮らしていた。", "revealedBy": ["rebels-s2"] },
+      { "text": "命じられてではなく、自分の意思で戦う道を選んだ。", "revealedBy": ["rebels-s2"] }
+    ]
+  },
+  {
+    "id": "inquisitors",
+    "facts": [
+      { "text": "第五、第七と呼ばれる者たちが一味を追った。", "revealedBy": ["rebels-s2"] },
+      { "text": "[[malachor]]で討たれた。", "revealedBy": ["rebels-s2"] }
+    ]
+  },
+  {
+    "id": "hondo-ohnaka",
+    "facts": [
+      { "text": "帝国の世になっても商売を続け、一味に関わった。", "revealedBy": ["rebels-s2"] }
+    ]
+  },
+  {
+    "id": "leia-organa",
+    "facts": [
+      { "text": "若い王女として[[lothal]]を訪れ、表向きは帝国に従いながら物資を渡した。", "revealedBy": ["rebels-s2"] }
+    ]
+  },
+  {
+    "id": "lando-calrissian",
+    "facts": [
+      { "text": "抜け目のない商売人として、一味と取り引きした。", "revealedBy": ["rebels-s2"] }
+    ]
+  },
+  {
+    "id": "bail-organa",
+    "facts": [
+      { "text": "反乱の側をひそかに支えていた。", "revealedBy": ["rebels-s2"] }
+    ]
+  },
+  {
+    "id": "yoda",
+    "facts": [
+      { "text": "姿を見せず、声だけで[[ezra-bridger]]に語りかけた。", "revealedBy": ["rebels-s2"] },
+      { "text": "[[malachor]]へ向かう道を示した。", "revealedBy": ["rebels-s2"] }
+    ]
+  },
+  {
+    "id": "sith",
+    "facts": [
+      { "text": "[[malachor]]に古い神殿を残していた。", "revealedBy": ["rebels-s2"] }
+    ]
+  },
+  {
+    "id": "the-force",
+    "facts": [
+      { "text": "怒りや焦りは、人を暗い側へ引き寄せる。", "revealedBy": ["rebels-s2"] }
+    ]
+  },
+  {
+    "id": "galactic-empire",
+    "facts": [
+      { "text": "反乱の芽を摘むために、尋問官を各地へ放った。", "revealedBy": ["rebels-s2"] }
+    ]
+  },
+  {
+    "id": "hera-syndulla",
+    "facts": [
+      { "text": "[[phoenix-squadron]]を率いる一人になった。", "revealedBy": ["rebels-s2"] }
+    ]
+  },
+  {
+    "id": "sabine-wren",
+    "facts": [
+      { "text": "帝国の学び舎にいたころのことを、少しずつ明かし始めた。", "revealedBy": ["rebels-s2"] }
+    ]
+  },
+  {
+    "id": "zeb-orrelios",
+    "facts": [
+      { "text": "同じ種族の生き残りに出会い、故郷の行く末を知った。", "revealedBy": ["rebels-s2"] }
+    ]
+  },
+  {
+    "id": "agent-kallus",
+    "facts": [
+      { "text": "[[zeb-orrelios]]と二人きりで凍える星に取り残され、言葉を交わした。", "revealedBy": ["rebels-s2"] },
+      { "text": "帝国のやり方に疑いを持ち始めた。", "revealedBy": ["rebels-s2"] }
+    ]
+  }
+]

@@ -109,7 +109,7 @@
       { "text": "ホロクロン", "reading": "ほろくろん", "en": "Holocron" }
     ],
     "facts": [
-      { "kind": "summary", "text": "[[jedi|ジェダイ]]の知識を納めた、手のひらに乗る大きさの記憶装置。", "revealedBy": ["tcw-s2"] },
+      { "kind": "summary", "text": "[[jedi|ジェダイ]]の知識を納めた、手のひらに乗る大きさの記憶装置。", "revealedBy": ["tcw-s2", "rebels-s2"] },
       { "text": "立体の像を浮かび上がらせて中身を見せる。", "revealedBy": ["tcw-s2"] },
       { "text": "[[the-force]]を使える者にしか開けない。", "revealedBy": ["tcw-s2"] },
       { "text": "神殿の奥の蔵に多くが納められている。", "revealedBy": ["tcw-s2"] },
