@@ -1,0 +1,360 @@
+[
+  {
+    "id": "bail-organa",
+    "type": "character",
+    "names": [
+      { "text": "ベイル・オーガナ", "reading": "べいる・おーがな", "en": "Bail Organa" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "[[alderaan]]選出の議員。穏やかな物腰で、[[jedi|ジェダイ]]に味方した。", "revealedBy": ["ep3"] },
+      { "text": "[[galactic-republic]]が作り変えられていくことに、最後まで抗った。", "revealedBy": ["ep3"] },
+      { "text": "生き延びた[[yoda]]と[[obi-wan-kenobi]]をかくまい、逃がした。", "revealedBy": ["ep3"] },
+      { "text": "生まれたばかりの[[leia-organa]]を引き取り、娘として育てることにした。", "revealedBy": ["ep3"] }
+    ]
+  },
+  {
+    "id": "utapau",
+    "type": "place",
+    "names": [
+      { "text": "ウータパウ", "reading": "うーたぱう", "en": "Utapau" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "大きな竪穴の壁に街が築かれた星。", "revealedBy": ["ep3"] },
+      { "text": "[[general-grievous]]が身を隠していた。", "revealedBy": ["ep3"] },
+      { "text": "[[obi-wan-kenobi]]が討ち入り、将を倒した。", "revealedBy": ["ep3"] },
+      { "text": "[[order-66]]はこの星でも行われた。", "revealedBy": ["ep3"] }
+    ]
+  },
+  {
+    "id": "mustafar",
+    "type": "place",
+    "names": [
+      { "text": "ムスタファー", "reading": "むすたふぁー", "en": "Mustafar" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "溶岩が流れ、火と煙に覆われた星。", "revealedBy": ["ep3"] },
+      { "text": "[[separatists]]の指導者たちが隠れ場所にしていた。", "revealedBy": ["ep3"] },
+      { "text": "[[darth-vader]]が指導者たちを皆殺しにした。", "revealedBy": ["ep3"] },
+      { "text": "[[duel-on-mustafar|決闘]]の舞台になった。", "revealedBy": ["ep3"] }
+    ]
+  },
+  {
+    "id": "kashyyyk",
+    "type": "place",
+    "names": [
+      { "text": "キャッシーク", "reading": "きゃっしーく", "en": "Kashyyyk" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "背の高い木々と海辺に覆われた星。[[chewbacca]]の故郷である。", "revealedBy": ["ep3"] },
+      { "text": "[[separatists]]の軍が攻め寄せ、[[yoda]]が守りに加わった。", "revealedBy": ["ep3"] },
+      { "text": "[[order-66]]のとき、ヨーダは二人の住人に助けられて逃れた。", "revealedBy": ["ep3"] }
+    ]
+  },
+  {
+    "id": "darth-plagueis",
+    "type": "character",
+    "names": [
+      { "text": "ダース・プレイガス", "reading": "だーす・ぷれいがす", "en": "Darth Plagueis" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "[[palpatine]]が語った、昔の[[sith|シス]]の伝説。", "revealedBy": ["ep3"] },
+      { "text": "死を遠ざけ、命を生み出すことさえできたとされる。", "revealedBy": ["ep3"] },
+      { "text": "その力を弟子に教えたのち、眠っているあいだに殺されたと語られた。", "revealedBy": ["ep3"] },
+      { "text": "この話が[[anakin-skywalker]]の心を大きく動かした。", "revealedBy": ["ep3"] }
+    ]
+  },
+  {
+    "id": "order-66",
+    "type": "event",
+    "names": [
+      { "text": "オーダー66", "reading": "おーだーろくじゅうろく", "en": "Order 66" }
+    ],
+    "date": { "year": -19, "precision": "exact", "order": 1 },
+    "facts": [
+      { "kind": "summary", "text": "[[clone-trooper|クローン兵]]に向けて出された、[[jedi|ジェダイ]]を討てという指令。", "revealedBy": ["ep3"] },
+      { "text": "[[darth-sidious]]が銀河中の部隊へ同時に伝えた。", "revealedBy": ["ep3"] },
+      { "text": "兵は迷いなく従い、それまで共に戦ってきた将を背後から撃った。", "revealedBy": ["ep3"] },
+      { "text": "各地で同時に行われ、[[jedi|ジェダイ]]はほとんど討たれた。", "revealedBy": ["ep3"] }
+    ]
+  },
+  {
+    "id": "attack-on-the-jedi-temple",
+    "type": "event",
+    "names": [
+      { "text": "ジェダイ神殿の襲撃", "reading": "じぇだいしんでんのしゅうげき", "en": "Attack on the Jedi Temple" }
+    ],
+    "date": { "year": -19, "precision": "exact", "order": 2 },
+    "facts": [
+      { "kind": "summary", "text": "[[coruscant]]の[[jedi|ジェダイ]]の神殿が、味方だったはずの軍に襲われた出来事。", "revealedBy": ["ep3"] },
+      { "text": "兵を率いたのは[[darth-vader]]だった。", "revealedBy": ["ep3"] },
+      { "text": "幼い弟子たちまで討たれた。", "revealedBy": ["ep3"] },
+      { "text": "生き残りを神殿へ呼び戻す信号は、のちに「近づくな」と書き換えられた。", "revealedBy": ["ep3"] }
+    ]
+  },
+  {
+    "id": "founding-of-the-empire",
+    "type": "event",
+    "names": [
+      { "text": "銀河帝国の成立", "reading": "ぎんがていこくのせいりつ", "en": "Founding of the Galactic Empire" }
+    ],
+    "date": { "year": -19, "precision": "exact", "order": 3 },
+    "facts": [
+      { "kind": "summary", "text": "[[galactic-republic]]が[[galactic-empire]]に改められた出来事。", "revealedBy": ["ep3"] },
+      { "text": "[[palpatine]]は[[jedi|ジェダイ]]の反逆を理由に挙げ、自ら頂点に立った。", "revealedBy": ["ep3"] },
+      { "text": "[[galactic-senate]]はこれを拍手で迎えた。", "revealedBy": ["ep3"] },
+      { "text": "千年続いた共和国はここで終わった。", "revealedBy": ["ep3"] }
+    ]
+  },
+  {
+    "id": "duel-on-mustafar",
+    "type": "event",
+    "names": [
+      { "text": "ムスタファーの決闘", "reading": "むすたふぁーのけっとう", "en": "Duel on Mustafar" }
+    ],
+    "date": { "year": -19, "precision": "exact", "order": 4 },
+    "facts": [
+      { "kind": "summary", "text": "[[mustafar]]で[[obi-wan-kenobi]]と[[darth-vader]]が戦った決闘。", "revealedBy": ["ep3"] },
+      { "text": "溶岩のほとりで長く斬り結んだ。", "revealedBy": ["ep3"] },
+      { "text": "ベイダーは四肢を失い、火に焼かれた。", "revealedBy": ["ep3"] },
+      { "text": "オビ＝ワンは師であったことを嘆きながら、その場を去った。", "revealedBy": ["ep3"] }
+    ]
+  },
+
+  {
+    "id": "anakin-skywalker",
+    "facts": [
+      { "text": "[[padme-amidala]]が死ぬ夢に悩まされた。", "revealedBy": ["ep3"] },
+      { "text": "[[palpatine]]に目をかけられ、[[jedi-council]]との間で引き裂かれていった。", "revealedBy": ["ep3"] },
+      { "text": "[[darth-plagueis]]の話を聞き、死を遠ざける力を求めるようになった。", "revealedBy": ["ep3"] },
+      { "text": "[[mace-windu]]が議長を討とうとしたとき、議長の側についた。", "revealedBy": ["ep3"] },
+      { "text": "[[darth-sidious]]の弟子となり、ダース・ベイダーの名を与えられた。", "revealedBy": ["ep3"] },
+      { "text": "[[attack-on-the-jedi-temple|神殿の襲撃]]を自ら率いた。", "revealedBy": ["ep3"] },
+      { "text": "[[duel-on-mustafar|決闘]]で四肢を失い、火に焼かれた。", "revealedBy": ["ep3"] }
+    ]
+  },
+  {
+    "id": "darth-vader",
+    "facts": [
+      { "text": "焼けただれた体を黒い甲冑と仮面に収められ、機械の助けで生き永らえた。", "revealedBy": ["ep3"] },
+      { "text": "目を覚ましてすぐ、[[padme-amidala]]の死を知らされた。", "revealedBy": ["ep3"] },
+      { "text": "[[the-emperor]]のかたわらに立ち、新しい秩序の始まりを見た。", "revealedBy": ["ep3"] }
+    ],
+    "sameAs": [
+      { "id": "anakin-skywalker", "revealedBy": ["ep3"], "note": "正体" }
+    ]
+  },
+  {
+    "id": "palpatine",
+    "facts": [
+      { "text": "戦争を自ら仕組み、両の側を手の内で動かしていた。", "revealedBy": ["ep3"] },
+      { "text": "[[anakin-skywalker]]に[[darth-plagueis]]の話を聞かせ、心を揺さぶった。", "revealedBy": ["ep3"] },
+      { "text": "正体を暴こうとした[[mace-windu]]を退け、顔を焼かれて姿が変わった。", "revealedBy": ["ep3"] },
+      { "text": "[[founding-of-the-empire|帝国の成立]]を宣言し、自ら皇帝の座に就いた。", "revealedBy": ["ep3"] }
+    ]
+  },
+  {
+    "id": "darth-sidious",
+    "facts": [
+      { "text": "[[count-dooku]]を切り捨て、[[anakin-skywalker]]を新しい弟子に迎えた。", "revealedBy": ["ep3"] },
+      { "text": "[[order-66]]を出し、[[jedi|ジェダイ]]を討たせた。", "revealedBy": ["ep3"] },
+      { "text": "[[galactic-senate]]の議場で[[yoda]]と力を競い、追い払った。", "revealedBy": ["ep3"] }
+    ]
+  },
+  {
+    "id": "the-emperor",
+    "facts": [
+      { "text": "[[galactic-republic]]を[[galactic-empire]]に改め、自ら頂点に立った。", "revealedBy": ["ep3"] },
+      { "text": "黒い甲冑の[[darth-vader]]をかたわらに置いた。", "revealedBy": ["ep3"] }
+    ]
+  },
+  {
+    "id": "obi-wan-kenobi",
+    "facts": [
+      { "text": "[[utapau]]で[[general-grievous]]を討った。", "revealedBy": ["ep3"] },
+      { "text": "[[order-66]]を辛くも生き延びた。", "revealedBy": ["ep3"] },
+      { "text": "[[duel-on-mustafar|ムスタファー]]で弟子と戦い、倒した。", "revealedBy": ["ep3"] },
+      { "text": "赤子の[[luke-skywalker]]を[[tatooine]]へ送り届け、自らも身を隠した。", "revealedBy": ["ep3"] }
+    ]
+  },
+  {
+    "id": "yoda",
+    "facts": [
+      { "text": "[[kashyyyk]]で[[order-66]]を生き延びた。", "revealedBy": ["ep3"] },
+      { "text": "[[galactic-senate]]の議場で[[darth-sidious]]と戦い、退いた。", "revealedBy": ["ep3"] },
+      { "text": "表舞台から姿を消し、身を隠すことを選んだ。", "revealedBy": ["ep3"] }
+    ]
+  },
+  {
+    "id": "mace-windu",
+    "facts": [
+      { "text": "[[palpatine]]の正体を知り、捕らえに向かった。", "revealedBy": ["ep3"] },
+      { "text": "討とうとしたところを[[anakin-skywalker]]に阻まれ、窓の外へ落とされた。", "revealedBy": ["ep3"] }
+    ]
+  },
+  {
+    "id": "padme-amidala",
+    "facts": [
+      { "text": "身ごもっており、結婚を伏せたまま出産を待っていた。", "revealedBy": ["ep3"] },
+      { "text": "[[galactic-senate]]が喝采とともに自由を手放すのを見て嘆いた。", "revealedBy": ["ep3"] },
+      { "text": "[[mustafar]]まで追って夫を止めようとしたが、聞き入れられなかった。", "revealedBy": ["ep3"] },
+      { "text": "双子を産んだあと、息を引き取った。", "revealedBy": ["ep3"] },
+      { "text": "身ごもったままの姿を装って[[naboo]]に葬られた。", "revealedBy": ["ep3"] }
+    ]
+  },
+  {
+    "id": "luke-skywalker",
+    "facts": [
+      { "text": "[[padme-amidala]]の子として、双子の片割れに生まれた。", "revealedBy": ["ep3"] },
+      { "text": "[[tatooine]]の[[owen-lars]]夫婦に預けられた。", "revealedBy": ["ep3"] }
+    ]
+  },
+  {
+    "id": "leia-organa",
+    "facts": [
+      { "text": "[[padme-amidala]]の子として、双子の片割れに生まれた。", "revealedBy": ["ep3"] },
+      { "text": "[[bail-organa]]に引き取られ、[[alderaan]]で育つことになった。", "revealedBy": ["ep3"] }
+    ]
+  },
+  {
+    "id": "owen-lars",
+    "facts": [
+      { "text": "赤子の[[luke-skywalker]]を引き取り、[[tatooine]]で育てることになった。", "revealedBy": ["ep3"] }
+    ]
+  },
+  {
+    "id": "beru",
+    "facts": [
+      { "text": "赤子を抱き、二つの日が沈むのを夫と並んで見た。", "revealedBy": ["ep3"] }
+    ]
+  },
+  {
+    "id": "count-dooku",
+    "facts": [
+      { "text": "艦上で[[anakin-skywalker]]に討たれた。", "revealedBy": ["ep3"] },
+      { "text": "[[darth-sidious]]は初めからそれを望んでいた。", "revealedBy": ["ep3"] }
+    ]
+  },
+  {
+    "id": "general-grievous",
+    "facts": [
+      { "text": "[[utapau]]で[[obi-wan-kenobi]]に討たれた。", "revealedBy": ["ep3"] }
+    ]
+  },
+  {
+    "id": "commander-cody",
+    "facts": [
+      { "text": "[[order-66]]を受け、直前まで仕えていた[[obi-wan-kenobi]]を撃たせた。", "revealedBy": ["ep3"] }
+    ]
+  },
+  {
+    "id": "clone-trooper",
+    "facts": [
+      { "text": "[[order-66]]に迷いなく従った。", "revealedBy": ["ep3"] },
+      { "text": "そのまま[[galactic-empire]]の兵となった。", "revealedBy": ["ep3"] }
+    ]
+  },
+  {
+    "id": "jedi",
+    "facts": [
+      { "text": "[[order-66]]でほとんどが討たれ、騎士団は絶えた。", "revealedBy": ["ep3"] },
+      { "text": "生き延びた者はわずかで、それぞれ身を隠した。", "revealedBy": ["ep3"] }
+    ]
+  },
+  {
+    "id": "jedi-council",
+    "facts": [
+      { "text": "[[attack-on-the-jedi-temple|神殿と共に]]失われた。", "revealedBy": ["ep3"] }
+    ]
+  },
+  {
+    "id": "galactic-republic",
+    "facts": [
+      { "text": "[[founding-of-the-empire|帝国に改められ]]、千年の歴史を終えた。", "revealedBy": ["ep3"] }
+    ]
+  },
+  {
+    "id": "galactic-senate",
+    "facts": [
+      { "text": "[[founding-of-the-empire|帝国の宣言]]を拍手で迎え、自ら自由を手放した。", "revealedBy": ["ep3"] }
+    ]
+  },
+  {
+    "id": "galactic-empire",
+    "facts": [
+      { "text": "[[founding-of-the-empire|銀河共和国から生まれた]]。", "revealedBy": ["ep3"] }
+    ]
+  },
+  {
+    "id": "sith",
+    "facts": [
+      { "text": "二人だけという定めのとおり、[[darth-sidious]]と新しい弟子が残った。", "revealedBy": ["ep3"] },
+      { "text": "[[darth-plagueis]]のように、死を遠ざける力を求めた者がいたと語られる。", "revealedBy": ["ep3"] }
+    ]
+  },
+  {
+    "id": "the-chosen-one",
+    "facts": [
+      { "text": "均衡をもたらすはずの者は、暗い側へ落ちた。", "revealedBy": ["ep3"] }
+    ]
+  },
+  {
+    "id": "the-force",
+    "facts": [
+      { "text": "暗い側の力は死を遠ざけることさえできる、と語られた。", "revealedBy": ["ep3"] }
+    ]
+  },
+  {
+    "id": "coruscant",
+    "facts": [
+      { "text": "[[jedi|ジェダイ]]の神殿が襲われ、元老院の議場で帝国が宣言された。", "revealedBy": ["ep3"] }
+    ]
+  },
+  {
+    "id": "naboo",
+    "facts": [
+      { "text": "[[padme-amidala]]の葬列が、多くの民に見送られて進んだ。", "revealedBy": ["ep3"] }
+    ]
+  },
+  {
+    "id": "tatooine",
+    "facts": [
+      { "text": "赤子の[[luke-skywalker]]が送られ、農場の夫婦に託された。", "revealedBy": ["ep3"] }
+    ]
+  },
+  {
+    "id": "alderaan",
+    "facts": [
+      { "text": "[[bail-organa]]が[[leia-organa]]を連れ帰り、王女として育てることになった。", "revealedBy": ["ep3"] }
+    ]
+  },
+  {
+    "id": "chewbacca",
+    "facts": [
+      { "text": "[[kashyyyk]]の戦いに加わり、[[yoda]]を逃がした。", "revealedBy": ["ep3"] }
+    ]
+  },
+  {
+    "id": "c-3po",
+    "facts": [
+      { "text": "それまでの記憶を消された。", "revealedBy": ["ep3"] }
+    ]
+  },
+  {
+    "id": "r2-d2",
+    "facts": [
+      { "text": "記憶は消されないまま、[[bail-organa]]のもとへ渡った。", "revealedBy": ["ep3"] }
+    ]
+  },
+  {
+    "id": "separatists",
+    "facts": [
+      { "text": "指導者たちが[[mustafar]]で皆殺しにされ、戦いは終わった。", "revealedBy": ["ep3"] }
+    ]
+  },
+  {
+    "id": "battle-droid",
+    "facts": [
+      { "text": "一斉に動きを止められた。", "revealedBy": ["ep3"] }
+    ]
+  }
+]
