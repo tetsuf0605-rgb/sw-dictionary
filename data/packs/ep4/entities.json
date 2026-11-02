@@ -95,7 +95,7 @@
       { "text": "タトゥイーン", "reading": "たとぅいーん", "en": "Tatooine" }
     ],
     "facts": [
-      { "kind": "summary", "text": "銀河の外縁にある砂漠の惑星。2つの太陽が昇る。", "revealedBy": ["ep1", "ep2", "ep4"] },
+      { "kind": "summary", "text": "銀河の外縁にある砂漠の惑星。2つの太陽が昇る。", "revealedBy": ["ep1", "ep2", "ep4", "tcw-film"] },
       { "text": "[[luke-skywalker]]が育ち、[[obi-wan-kenobi]]が隠れ住んでいた星。", "revealedBy": ["ep4"] }
     ]
   },
@@ -177,7 +177,7 @@
       { "text": "フォース", "reading": "ふぉーす", "en": "the Force" }
     ],
     "facts": [
-      { "kind": "summary", "text": "あらゆる生き物が生み出し、銀河を満たしているエネルギーの場。[[jedi]]はこれを感じ取り、力として用いる。", "revealedBy": ["ep1", "ep2", "ep4"] },
+      { "kind": "summary", "text": "あらゆる生き物が生み出し、銀河を満たしているエネルギーの場。[[jedi]]はこれを感じ取り、力として用いる。", "revealedBy": ["ep1", "ep2", "ep4", "tcw-film"] },
       { "text": "光の側面（ライトサイド）と暗黒の側面（ダークサイド）がある。", "revealedBy": ["ep4", "ep6"] }
     ]
   },
@@ -188,7 +188,7 @@
       { "text": "ライトセーバー", "reading": "らいとせーばー", "en": "Lightsaber" }
     ],
     "facts": [
-      { "kind": "summary", "text": "光の刃を持つ[[jedi]]の武器。", "revealedBy": ["ep1", "ep2", "ep4", "ep6"] },
+      { "kind": "summary", "text": "光の刃を持つ[[jedi]]の武器。", "revealedBy": ["ep1", "ep2", "ep4", "ep6", "tcw-film"] },
       { "text": "[[obi-wan-kenobi]]は[[luke-skywalker]]に、父が使っていたライトセーバーを渡した。", "revealedBy": ["ep4"] }
     ]
   },
@@ -212,7 +212,7 @@
       { "text": "R2-D2", "reading": "あーるつーでぃーつー", "en": "R2-D2" }
     ],
     "facts": [
-      { "kind": "summary", "text": "筒形の小型ドロイド。言葉は話さず、電子音で意思を伝える。", "revealedBy": ["ep1", "ep2", "ep4"] },
+      { "kind": "summary", "text": "筒形の小型ドロイド。言葉は話さず、電子音で意思を伝える。", "revealedBy": ["ep1", "ep2", "ep4", "tcw-film"] },
       { "text": "[[leia-organa]]から[[death-star]]の設計図を託され、[[tatooine]]に降り立った。", "revealedBy": ["ep4"] },
       { "text": "[[obi-wan-kenobi]]を探して一人で砂漠へ出て行き、[[luke-skywalker]]たちを引き寄せた。", "revealedBy": ["ep4"] },
       { "text": "[[battle-of-yavin]]ではルークの戦闘機に乗り込み、被弾しながらも機体を支えた。", "revealedBy": ["ep4"] }

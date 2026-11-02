@@ -20,7 +20,7 @@
       { "text": "ジャバ・ザ・ハット", "reading": "じゃば・ざ・はっと", "en": "Jabba the Hutt" }
     ],
     "facts": [
-      { "kind": "summary", "text": "[[tatooine]]を拠点に裏の商売を仕切る[[hutt|ハット]]の親玉。", "revealedBy": ["ep6"] },
+      { "kind": "summary", "text": "[[tatooine]]を拠点に裏の商売を仕切る[[hutt|ハット]]の親玉。", "revealedBy": ["ep6", "tcw-film"] },
       { "text": "カーボン凍結された[[han-solo]]を[[jabbas-palace|宮殿]]の壁に飾り、見せ物にしていた。", "revealedBy": ["ep6"] },
       { "text": "助けに来た[[luke-skywalker]]たちを[[sarlacc]]に落として処刑しようとした。", "revealedBy": ["ep6"] },
       { "text": "そばに鎖でつないでいた[[leia-organa]]に、その鎖で絞め殺された。", "revealedBy": ["ep6"] }
@@ -67,7 +67,7 @@
       { "text": "ジャバの宮殿", "reading": "じゃばのきゅうでん", "en": "Jabba's Palace" }
     ],
     "facts": [
-      { "kind": "summary", "text": "[[tatooine]]の砂漠に建つ[[jabba-the-hutt]]の砦。", "revealedBy": ["ep6"] },
+      { "kind": "summary", "text": "[[tatooine]]の砂漠に建つ[[jabba-the-hutt]]の砦。", "revealedBy": ["ep6", "tcw-film"] },
       { "text": "[[han-solo]]を救い出すため、[[luke-skywalker]]の仲間たちが一人ずつ忍び込んだ。", "revealedBy": ["ep6"] }
     ]
   },
@@ -79,7 +79,7 @@
       { "text": "ハット", "reading": "はっと", "en": "Hutt" }
     ],
     "facts": [
-      { "kind": "summary", "text": "なめくじのような姿をした大柄な種族。[[jabba-the-hutt]]はこの種族である。", "revealedBy": ["ep6"] }
+      { "kind": "summary", "text": "なめくじのような姿をした大柄な種族。[[jabba-the-hutt]]はこの種族である。", "revealedBy": ["ep6", "tcw-film"] }
     ]
   },
   {

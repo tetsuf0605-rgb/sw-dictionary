@@ -7,7 +7,7 @@
       { "text": "ダース・ティラナス", "reading": "だーす・てぃらなす", "en": "Darth Tyranus", "revealedBy": ["ep2"], "kind": "alias" }
     ],
     "facts": [
-      { "kind": "summary", "text": "かつて[[jedi|ジェダイ]]だった剣士で、[[separatists]]を率いる指導者。", "revealedBy": ["ep2"] },
+      { "kind": "summary", "text": "かつて[[jedi|ジェダイ]]だった剣士で、[[separatists]]を率いる指導者。", "revealedBy": ["ep2", "tcw-film"] },
       { "text": "騎士団を去った人物として知られ、[[jedi-council]]は暗殺に手を染めるとは考えなかった。", "revealedBy": ["ep2"] },
       { "text": "柄の曲がった[[lightsaber]]を使い、指先から稲妻を放つ。", "revealedBy": ["ep2"] },
       { "text": "捕らえた[[obi-wan-kenobi]]に、[[galactic-senate]]は[[sith|シス]]の長に操られていると語った。", "revealedBy": ["ep2"] },
@@ -125,7 +125,7 @@
       { "text": "分離主義勢力", "reading": "ぶんりしゅぎせいりょく", "en": "Separatists" }
     ],
     "facts": [
-      { "kind": "summary", "text": "[[galactic-republic]]からの離脱を唱える星系や企業の集まり。[[count-dooku]]が率いる。", "revealedBy": ["ep2"] },
+      { "kind": "summary", "text": "[[galactic-republic]]からの離脱を唱える星系や企業の集まり。[[count-dooku]]が率いる。", "revealedBy": ["ep2", "tcw-film"] },
       { "text": "[[trade-federation]]などの大きな企業が加わり、それぞれの[[battle-droid|ドロイド軍]]を戦力として差し出した。", "revealedBy": ["ep2"] },
       { "text": "[[geonosis]]に指導者が集まり、共和国と戦う取り決めを交わした。", "revealedBy": ["ep2"] },
       { "text": "共和国との対立は[[clone-wars]]に至った。", "revealedBy": ["ep2"] }
@@ -164,7 +164,7 @@
       { "text": "クローン戦争", "reading": "くろーんせんそう", "en": "Clone Wars" }
     ],
     "facts": [
-      { "kind": "summary", "text": "[[galactic-republic]]と[[separatists]]のあいだで始まった、銀河規模の戦争。", "revealedBy": ["ep2"] },
+      { "kind": "summary", "text": "[[galactic-republic]]と[[separatists]]のあいだで始まった、銀河規模の戦争。", "revealedBy": ["ep2", "tcw-film"] },
       { "text": "共和国は[[clone-trooper|クローン兵]]を、分離主義勢力は[[battle-droid|ドロイド軍]]を主力とした。", "revealedBy": ["ep2"] },
       { "text": "[[battle-of-geonosis]]が最初の戦いとなった。", "revealedBy": ["ep2"] }
     ]
@@ -176,7 +176,7 @@
       { "text": "パダワン", "reading": "ぱだわん", "en": "Padawan" }
     ],
     "facts": [
-      { "kind": "summary", "text": "[[jedi|ジェダイ]]の弟子のこと。師に一人だけ付いて学ぶ。", "revealedBy": ["ep1", "ep2"] },
+      { "kind": "summary", "text": "[[jedi|ジェダイ]]の弟子のこと。師に一人だけ付いて学ぶ。", "revealedBy": ["ep1", "ep2", "tcw-film"] },
       { "text": "修行を終えると[[jedi-council]]に認められ、騎士となる。", "revealedBy": ["ep1", "ep2"] }
     ]
   },
@@ -327,7 +327,7 @@
     "id": "jedi",
     "facts": [
       { "text": "数が減っており、銀河全体の調停を担うには足りなくなっていた。", "revealedBy": ["ep2"] },
-      { "text": "平和の守り手であって兵ではないとされていたが、[[clone-wars|戦争]]では軍の指揮を担うことになった。", "revealedBy": ["ep2"] }
+      { "text": "平和の守り手であって兵ではないとされていたが、[[clone-wars|戦争]]では軍の指揮を担うことになった。", "revealedBy": ["ep2", "tcw-film"] }
     ]
   },
   {

@@ -1,0 +1,191 @@
+[
+  {
+    "id": "ahsoka-tano",
+    "type": "character",
+    "names": [
+      { "text": "アソーカ・タノ", "reading": "あそーか・たの", "en": "Ahsoka Tano" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "[[yoda]]の計らいで[[anakin-skywalker]]の弟子となった少女。頭から伸びる角と長い飾りを持つ。", "revealedBy": ["tcw-film"] },
+      { "text": "物おじせずに言い返す性分で、師と言い合うことが多かった。", "revealedBy": ["tcw-film"] },
+      { "text": "[[lightsaber]]を逆手に持って戦う。", "revealedBy": ["tcw-film"] },
+      { "text": "[[teth]]での救出に同行し、[[jabba-the-hutt]]の息子を背負って運んだ。", "revealedBy": ["tcw-film"] },
+      { "text": "一連の戦いを通じて、[[anakin-skywalker]]に弟子として認められた。", "revealedBy": ["tcw-film"] }
+    ]
+  },
+  {
+    "id": "asajj-ventress",
+    "type": "character",
+    "names": [
+      { "text": "アサージ・ヴェントレス", "reading": "あさーじ・べんとれす", "en": "Asajj Ventress" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "[[count-dooku]]に仕える、頭に髪のない肌の白い暗殺者。", "revealedBy": ["tcw-film"] },
+      { "text": "柄の曲がった[[lightsaber]]を二振り使う。", "revealedBy": ["tcw-film"] },
+      { "text": "[[jabba-the-hutt]]の息子をさらう企てを実行した。", "revealedBy": ["tcw-film"] },
+      { "text": "[[teth]]の修道院で[[anakin-skywalker]]と[[ahsoka-tano]]を迎え撃った。", "revealedBy": ["tcw-film"] },
+      { "text": "[[obi-wan-kenobi]]とも剣を交えた。", "revealedBy": ["tcw-film"] }
+    ]
+  },
+  {
+    "id": "captain-rex",
+    "type": "character",
+    "names": [
+      { "text": "レックス", "reading": "れっくす", "en": "Rex" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "[[anakin-skywalker]]のもとで戦う[[clone-trooper|クローン兵]]の隊長。", "revealedBy": ["tcw-film"] },
+      { "text": "青い模様を入れた装甲を身につけ、二丁の銃を使う。", "revealedBy": ["tcw-film"] },
+      { "text": "[[teth]]の崖を登る作戦に加わった。", "revealedBy": ["tcw-film"] }
+    ]
+  },
+  {
+    "id": "ziro-the-hutt",
+    "type": "character",
+    "names": [
+      { "text": "ジーロ・ザ・ハット", "reading": "じーろ・ざ・はっと", "en": "Ziro the Hutt" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "[[coruscant]]の裏社会に居を構える[[hutt|ハット]]。[[jabba-the-hutt]]の叔父にあたる。", "revealedBy": ["tcw-film"] },
+      { "text": "甥の子をさらう企てで[[count-dooku]]と通じていた。", "revealedBy": ["tcw-film"] },
+      { "text": "[[padme-amidala]]に企てを暴かれ、捕らえられた。", "revealedBy": ["tcw-film"] }
+    ]
+  },
+  {
+    "id": "teth",
+    "type": "place",
+    "names": [
+      { "text": "テス", "reading": "てす", "en": "Teth" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "切り立った崖の上に古い修道院が建つ星。", "revealedBy": ["tcw-film"] },
+      { "text": "さらわれた[[jabba-the-hutt]]の息子が隠されていた。", "revealedBy": ["tcw-film"] },
+      { "text": "[[anakin-skywalker]]たちが[[clone-trooper|クローン兵]]と共に崖を登って攻め込んだ。", "revealedBy": ["tcw-film"] },
+      { "text": "[[asajj-ventress]]が待ち受けていた。", "revealedBy": ["tcw-film"] }
+    ]
+  },
+  {
+    "id": "hutt-treaty",
+    "type": "event",
+    "names": [
+      { "text": "ハットとの協定", "reading": "はっととのきょうてい", "en": "Treaty with the Hutts" }
+    ],
+    "date": { "year": -22, "precision": "exact", "order": 1 },
+    "facts": [
+      { "kind": "summary", "text": "[[galactic-republic]]が[[hutt|ハット]]の押さえる宇宙航路を使えるようになった取り決め。", "revealedBy": ["tcw-film"] },
+      { "text": "さらわれた[[jabba-the-hutt]]の息子を送り届けた見返りとして結ばれた。", "revealedBy": ["tcw-film"] },
+      { "text": "[[count-dooku]]はこれを阻もうとして失敗した。", "revealedBy": ["tcw-film"] }
+    ]
+  },
+
+  {
+    "id": "anakin-skywalker",
+    "facts": [
+      { "text": "[[ahsoka-tano]]を弟子として預かった。はじめは受け入れることを渋った。", "revealedBy": ["tcw-film"] },
+      { "text": "[[teth]]でさらわれた[[jabba-the-hutt]]の息子を見つけ出し、[[tatooine]]へ送り届けた。", "revealedBy": ["tcw-film"] },
+      { "text": "[[asajj-ventress]]と剣を交えた。", "revealedBy": ["tcw-film"] }
+    ]
+  },
+  {
+    "id": "obi-wan-kenobi",
+    "facts": [
+      { "text": "将として[[clone-trooper|クローン兵]]を率い、[[anakin-skywalker]]と共に戦線に出ていた。", "revealedBy": ["tcw-film"] },
+      { "text": "[[jabba-the-hutt]]と直接かけ合って時間を稼いだ。", "revealedBy": ["tcw-film"] },
+      { "text": "[[asajj-ventress]]と剣を交えた。", "revealedBy": ["tcw-film"] }
+    ]
+  },
+  {
+    "id": "yoda",
+    "facts": [
+      { "text": "[[ahsoka-tano]]を[[anakin-skywalker]]のもとへ送った。", "revealedBy": ["tcw-film"] }
+    ]
+  },
+  {
+    "id": "padme-amidala",
+    "facts": [
+      { "text": "[[coruscant]]で[[ziro-the-hutt]]の企てを突き止めた。", "revealedBy": ["tcw-film"] },
+      { "text": "議員として[[hutt|ハット]]との交渉に動いた。", "revealedBy": ["tcw-film"] }
+    ]
+  },
+  {
+    "id": "count-dooku",
+    "facts": [
+      { "text": "[[jabba-the-hutt]]の息子をさらい、罪を[[jedi|ジェダイ]]になすりつけてハットを味方に引き入れようとした。", "revealedBy": ["tcw-film"] },
+      { "text": "[[asajj-ventress]]を使ってこの企てを進めた。", "revealedBy": ["tcw-film"] },
+      { "text": "企ては暴かれ、ハットは[[galactic-republic]]につく道を選んだ。", "revealedBy": ["tcw-film"] }
+    ]
+  },
+  {
+    "id": "jabba-the-hutt",
+    "facts": [
+      { "text": "一人息子をさらわれ、[[jedi|ジェダイ]]のしわざだと思い込まされた。", "revealedBy": ["tcw-film"] },
+      { "text": "息子を取り戻した見返りに、[[galactic-republic]]へ航路を開いた。", "revealedBy": ["tcw-film"] }
+    ]
+  },
+  {
+    "id": "hutt",
+    "facts": [
+      { "text": "銀河の一部の宇宙航路を押さえており、戦う二つの勢力がそろって味方につけようとした。", "revealedBy": ["tcw-film"] }
+    ]
+  },
+  {
+    "id": "jabbas-palace",
+    "facts": [
+      { "text": "[[anakin-skywalker]]がさらわれた[[jabba-the-hutt]]の息子を送り届けた先である。", "revealedBy": ["tcw-film"] }
+    ]
+  },
+  {
+    "id": "clone-trooper",
+    "facts": [
+      { "text": "隊ごとに装甲へ模様を入れており、名で呼び合う者もいた。", "revealedBy": ["tcw-film"] }
+    ]
+  },
+  {
+    "id": "clone-wars",
+    "facts": [
+      { "text": "戦線は銀河の各地に広がり、双方が中立の勢力を味方につけようとした。", "revealedBy": ["tcw-film"] }
+    ]
+  },
+  {
+    "id": "separatists",
+    "facts": [
+      { "text": "中立を保つ[[hutt|ハット]]を引き入れようと画策した。", "revealedBy": ["tcw-film"] }
+    ]
+  },
+  {
+    "id": "padawan",
+    "facts": [
+      { "text": "[[ahsoka-tano]]のように、戦地で師に付いて学ぶ弟子もいた。", "revealedBy": ["tcw-film"] }
+    ]
+  },
+  {
+    "id": "galactic-republic",
+    "facts": [
+      { "text": "[[hutt|ハット]]の押さえる航路を使えるかどうかが、戦況を左右する問題になっていた。", "revealedBy": ["tcw-film"] }
+    ]
+  },
+  {
+    "id": "tatooine",
+    "facts": [
+      { "text": "[[jabba-the-hutt]]の[[jabbas-palace|宮殿]]があり、ハットの商売の拠点になっている。", "revealedBy": ["tcw-film"] }
+    ]
+  },
+  {
+    "id": "coruscant",
+    "facts": [
+      { "text": "[[ziro-the-hutt]]が裏社会に居を構えていた。", "revealedBy": ["tcw-film"] }
+    ]
+  },
+  {
+    "id": "r2-d2",
+    "facts": [
+      { "text": "[[anakin-skywalker]]の戦闘機に乗り、戦地を共にした。", "revealedBy": ["tcw-film"] }
+    ]
+  },
+  {
+    "id": "c-3po",
+    "facts": [
+      { "text": "[[padme-amidala]]に付き従っていた。", "revealedBy": ["tcw-film"] }
+    ]
+  }
+]
