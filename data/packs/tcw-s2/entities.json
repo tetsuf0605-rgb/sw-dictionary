@@ -45,7 +45,7 @@
       { "text": "マンダロア", "reading": "まんだろあ", "en": "Mandalore" }
     ],
     "facts": [
-      { "kind": "summary", "text": "戦いの歴史を持つ星。今は戦いを捨て、中立を掲げている。", "revealedBy": ["tcw-s2"] },
+      { "kind": "summary", "text": "戦いの歴史を持つ星。今は戦いを捨て、中立を掲げている。", "revealedBy": ["tcw-s2", "tcw-s5"] },
       { "text": "透明な覆いに守られた都市があり、人々はその中で暮らす。", "revealedBy": ["tcw-s2"] },
       { "text": "[[satine-kryze]]が治めている。", "revealedBy": ["tcw-s2"] },
       { "text": "[[galactic-republic]]にも[[separatists]]にもつかない道を選んでいた。", "revealedBy": ["tcw-s2"] },
@@ -59,7 +59,7 @@
       { "text": "サティーン・クライズ", "reading": "さてぃーん・くらいず", "en": "Satine Kryze" }
     ],
     "facts": [
-      { "kind": "summary", "text": "[[mandalore]]を治める公爵。戦いを捨てた中立の道を貫こうとする。", "revealedBy": ["tcw-s2"] },
+      { "kind": "summary", "text": "[[mandalore]]を治める公爵。戦いを捨てた中立の道を貫こうとする。", "revealedBy": ["tcw-s2", "tcw-s5"] },
       { "text": "[[obi-wan-kenobi]]とは古くからの知り合いで、互いに特別な感情を残している。", "revealedBy": ["tcw-s2"] },
       { "text": "[[death-watch]]に命を狙われた。", "revealedBy": ["tcw-s2"] },
       { "text": "共和国が星に軍を入れようとする動きに抗った。", "revealedBy": ["tcw-s2"] }
@@ -72,7 +72,7 @@
       { "text": "デス・ウォッチ", "reading": "です・うぉっち", "en": "Death Watch" }
     ],
     "facts": [
-      { "kind": "summary", "text": "[[mandalore]]を昔ながらの戦士の道に戻そうとする一派。", "revealedBy": ["tcw-s2"] },
+      { "kind": "summary", "text": "[[mandalore]]を昔ながらの戦士の道に戻そうとする一派。", "revealedBy": ["tcw-s2", "tcw-s5"] },
       { "text": "甲冑を着て背に飛行装置を負い、[[satine-kryze]]の政を倒そうとした。", "revealedBy": ["tcw-s2"] },
       { "text": "[[pre-vizsla]]が率いている。", "revealedBy": ["tcw-s2"] },
       { "text": "[[separatists]]と手を結んでいた。", "revealedBy": ["tcw-s2"] }
@@ -85,7 +85,7 @@
       { "text": "プレ・ヴィズラ", "reading": "ぷれ・びずら", "en": "Pre Vizsla" }
     ],
     "facts": [
-      { "kind": "summary", "text": "[[death-watch]]を率いる男。", "revealedBy": ["tcw-s2"] },
+      { "kind": "summary", "text": "[[death-watch]]を率いる男。", "revealedBy": ["tcw-s2", "tcw-s5"] },
       { "text": "[[darksaber]]を振るう。", "revealedBy": ["tcw-s2"] },
       { "text": "[[count-dooku]]と通じていた。", "revealedBy": ["tcw-s2"] }
     ]
@@ -97,7 +97,7 @@
       { "text": "ダークセーバー", "reading": "だーくせーばー", "en": "Darksaber" }
     ],
     "facts": [
-      { "kind": "summary", "text": "黒い刃を持つ古い[[lightsaber]]。刃は平たく、先が尖っている。", "revealedBy": ["tcw-s2"] },
+      { "kind": "summary", "text": "黒い刃を持つ古い[[lightsaber]]。刃は平たく、先が尖っている。", "revealedBy": ["tcw-s2", "tcw-s5"] },
       { "text": "昔[[jedi|ジェダイ]]の神殿から持ち出されたものだと語られている。", "revealedBy": ["tcw-s2"] },
       { "text": "[[pre-vizsla]]がこれを振るい、[[death-watch]]を率いた。", "revealedBy": ["tcw-s2"] }
     ]

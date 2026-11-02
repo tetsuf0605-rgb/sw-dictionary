@@ -142,7 +142,7 @@
       { "text": "コルサント", "reading": "こるさんと", "en": "Coruscant" }
     ],
     "facts": [
-      { "kind": "summary", "text": "地表のすべてが街に覆われた惑星。[[galactic-republic]]の中心地。", "revealedBy": ["ep1", "ep2", "tcw-film", "tcw-s1"] },
+      { "kind": "summary", "text": "地表のすべてが街に覆われた惑星。[[galactic-republic]]の中心地。", "revealedBy": ["ep1", "ep2", "tcw-film", "tcw-s1", "tcw-s2", "tcw-s3", "tcw-s4", "tcw-s5"] },
       { "text": "[[galactic-senate]]の議場と[[jedi-council]]の塔が置かれている。", "revealedBy": ["ep1"] }
     ]
   },
@@ -174,7 +174,7 @@
       { "text": "銀河共和国", "reading": "ぎんがきょうわこく", "en": "Galactic Republic" }
     ],
     "facts": [
-      { "kind": "summary", "text": "多くの星系が加わる銀河の統治体。[[coruscant]]を中心とする。", "revealedBy": ["ep1", "ep2", "tcw-film", "tcw-s1", "tcw-s2", "tcw-s3", "tcw-s4"] },
+      { "kind": "summary", "text": "多くの星系が加わる銀河の統治体。[[coruscant]]を中心とする。", "revealedBy": ["ep1", "ep2", "tcw-film", "tcw-s1", "tcw-s2", "tcw-s3", "tcw-s4", "tcw-s5"] },
       { "text": "手続きと駆け引きに追われ、[[naboo]]の危機にすぐ動けなかった。", "revealedBy": ["ep1"] },
       { "text": "[[jedi|ジェダイ]]は共和国の求めに応じて調停役を務めていた。", "revealedBy": ["ep1"] }
     ]
@@ -221,7 +221,7 @@
       { "text": "ジェダイ評議会", "reading": "じぇだいひょうぎかい", "en": "Jedi Council" }
     ],
     "facts": [
-      { "kind": "summary", "text": "[[coruscant]]の塔に集う、[[jedi|ジェダイ]]の長老たちの会議。", "revealedBy": ["ep1", "ep2"] },
+      { "kind": "summary", "text": "[[coruscant]]の塔に集う、[[jedi|ジェダイ]]の長老たちの会議。", "revealedBy": ["ep1", "ep2", "tcw-s5"] },
       { "text": "[[anakin-skywalker]]の内に恐れを見て取り、訓練を認めなかった。", "revealedBy": ["ep1"] },
       { "text": "[[qui-gon-jinn]]の死後、[[obi-wan-kenobi]]がアナキンを教えることを許した。", "revealedBy": ["ep1"] }
     ]

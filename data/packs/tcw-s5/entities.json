@@ -1,0 +1,228 @@
+[
+  {
+    "id": "saw-gerrera",
+    "type": "character",
+    "names": [
+      { "text": "ソウ・ゲレラ", "reading": "そう・げれら", "en": "Saw Gerrera" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "故郷の[[onderon]]を取り戻そうとする若い抵抗者。", "revealedBy": ["tcw-s5"] },
+      { "text": "姉妹と共に仲間を集め、[[jedi|ジェダイ]]に戦い方を教わった。", "revealedBy": ["tcw-s5"] },
+      { "text": "捕らえられ、痛めつけられても口を割らなかった。", "revealedBy": ["tcw-s5"] },
+      { "text": "手段を選ばないやり方をめぐって、仲間とも意見が割れた。", "revealedBy": ["tcw-s5"] }
+    ]
+  },
+  {
+    "id": "onderon",
+    "type": "place",
+    "names": [
+      { "text": "オンデロン", "reading": "おんでろん", "en": "Onderon" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "高い壁に囲まれた都市を持つ星。", "revealedBy": ["tcw-s5"] },
+      { "text": "王が[[separatists]]に星を明け渡し、[[battle-droid|ドロイド軍]]が街を押さえた。", "revealedBy": ["tcw-s5"] },
+      { "text": "住民が武器を取り、[[galactic-republic]]は表立たずに手を貸した。", "revealedBy": ["tcw-s5"] },
+      { "text": "[[saw-gerrera]]たちの手で取り戻された。", "revealedBy": ["tcw-s5"] }
+    ]
+  },
+  {
+    "id": "bo-katan-kryze",
+    "type": "character",
+    "names": [
+      { "text": "ボ＝カタン・クライズ", "reading": "ぼかたん・くらいず", "en": "Bo-Katan Kryze" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "[[death-watch]]の戦士。[[satine-kryze]]の妹にあたる。", "revealedBy": ["tcw-s5"] },
+      { "text": "青い甲冑を身につけ、背の飛行装置で戦う。", "revealedBy": ["tcw-s5"] },
+      { "text": "よそ者に[[mandalore]]を明け渡すことに反対し、[[darth-maul]]に背いた。", "revealedBy": ["tcw-s5"] },
+      { "text": "[[obi-wan-kenobi]]を逃がし、姉を助けようとしたが間に合わなかった。", "revealedBy": ["tcw-s5"] }
+    ]
+  },
+  {
+    "id": "ilum",
+    "type": "place",
+    "names": [
+      { "text": "イラム", "reading": "いらむ", "en": "Ilum" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "氷と雪に覆われた星。[[jedi|ジェダイ]]の古い洞がある。", "revealedBy": ["tcw-s5"] },
+      { "text": "弟子たちは洞に入り、自分の[[kyber-crystal]]を見つけ出す。", "revealedBy": ["tcw-s5"] },
+      { "text": "入り口の氷が閉じる前に戻らなければならない、試練の場でもある。", "revealedBy": ["tcw-s5"] }
+    ]
+  },
+  {
+    "id": "kyber-crystal",
+    "type": "item",
+    "names": [
+      { "text": "カイバー・クリスタル", "reading": "かいばー・くりすたる", "en": "Kyber Crystal" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "[[lightsaber]]の芯になる結晶。", "revealedBy": ["tcw-s5"] },
+      { "text": "[[ilum]]の洞で、弟子が自分の手で見つけ出す。", "revealedBy": ["tcw-s5"] },
+      { "text": "見つけた者との結びつきで刃の色が決まる。", "revealedBy": ["tcw-s5"] }
+    ]
+  },
+  {
+    "id": "fall-of-mandalore",
+    "type": "event",
+    "names": [
+      { "text": "マンダロアの陥落", "reading": "まんだろあのかんらく", "en": "Fall of Mandalore" }
+    ],
+    "date": { "year": -20, "precision": "approx", "order": 2 },
+    "facts": [
+      { "kind": "summary", "text": "よそ者の手で[[mandalore]]の政が倒された出来事。", "revealedBy": ["tcw-s5"] },
+      { "text": "[[darth-maul]]が[[death-watch]]と手を結び、裏社会の力を集めて攻め込んだ。", "revealedBy": ["tcw-s5"] },
+      { "text": "[[pre-vizsla]]は決闘で討たれ、[[darksaber]]とデス・ウォッチはモールの手に渡った。", "revealedBy": ["tcw-s5"] },
+      { "text": "従わない者は捕らえられ、[[satine-kryze]]は命を落とした。", "revealedBy": ["tcw-s5"] },
+      { "text": "事の大きさを嫌った[[darth-sidious]]が自ら現れ、モールを打ち倒して連れ去った。", "revealedBy": ["tcw-s5"] }
+    ]
+  },
+  {
+    "id": "jedi-temple-bombing",
+    "type": "event",
+    "names": [
+      { "text": "ジェダイ神殿の爆破", "reading": "じぇだいしんでんのばくは", "en": "Jedi Temple Bombing" }
+    ],
+    "date": { "year": -19, "precision": "approx" },
+    "facts": [
+      { "kind": "summary", "text": "[[jedi|ジェダイ]]の神殿が内側から爆破された出来事。", "revealedBy": ["tcw-s5"] },
+      { "text": "多くの者が死に、騎士団は内に裏切り者がいることを知った。", "revealedBy": ["tcw-s5"] },
+      { "text": "[[ahsoka-tano]]に疑いがかけられ、神殿から追われた。", "revealedBy": ["tcw-s5"] },
+      { "text": "真の下手人は[[barriss-offee]]だった。", "revealedBy": ["tcw-s5"] }
+    ]
+  },
+
+  {
+    "id": "darth-maul",
+    "facts": [
+      { "text": "[[death-watch]]に拾われ、[[pre-vizsla]]と手を結んだ。", "revealedBy": ["tcw-s5"] },
+      { "text": "裏社会のいくつもの勢力をまとめ上げ、自らの手駒にした。", "revealedBy": ["tcw-s5"] },
+      { "text": "決闘で[[pre-vizsla]]を討ち、[[darksaber]]を奪って頭に立った。", "revealedBy": ["tcw-s5"] },
+      { "text": "[[satine-kryze]]を[[obi-wan-kenobi]]の目の前で手にかけた。", "revealedBy": ["tcw-s5"] },
+      { "text": "現れた[[darth-sidious]]に打ちのめされ、生かしたまま連れ去られた。", "revealedBy": ["tcw-s5"] }
+    ]
+  },
+  {
+    "id": "savage-opress",
+    "facts": [
+      { "text": "兄と共に[[mandalore]]を奪った。", "revealedBy": ["tcw-s5"] },
+      { "text": "[[darth-sidious]]に討たれ、兄の腕の中で息絶えた。", "revealedBy": ["tcw-s5"] }
+    ]
+  },
+  {
+    "id": "pre-vizsla",
+    "facts": [
+      { "text": "[[darth-maul]]と手を組んで[[mandalore]]を取ったが、すぐに裏切って捕らえようとした。", "revealedBy": ["tcw-s5"] },
+      { "text": "決闘に敗れて討たれ、[[death-watch]]は割れた。", "revealedBy": ["tcw-s5"] }
+    ]
+  },
+  {
+    "id": "death-watch",
+    "facts": [
+      { "text": "[[darth-maul]]に従う者と、[[bo-katan-kryze]]に従って背く者に割れた。", "revealedBy": ["tcw-s5"] }
+    ]
+  },
+  {
+    "id": "darksaber",
+    "facts": [
+      { "text": "決闘に勝った[[darth-maul]]の手に渡った。", "revealedBy": ["tcw-s5"] }
+    ]
+  },
+  {
+    "id": "mandalore",
+    "facts": [
+      { "text": "[[fall-of-mandalore|よそ者の手]]で政が倒され、中立の道は断たれた。", "revealedBy": ["tcw-s5"] }
+    ]
+  },
+  {
+    "id": "satine-kryze",
+    "facts": [
+      { "text": "囚われ、助けに来た[[obi-wan-kenobi]]の目の前で[[darth-maul]]に手にかけられた。", "revealedBy": ["tcw-s5"] }
+    ]
+  },
+  {
+    "id": "darth-sidious",
+    "facts": [
+      { "text": "かつての弟子[[darth-maul]]が力を持ちすぎたと見て、自ら[[mandalore]]へ現れた。", "revealedBy": ["tcw-s5"] },
+      { "text": "[[savage-opress]]を討ち、[[darth-maul]]は生かしたまま連れ去った。", "revealedBy": ["tcw-s5"] }
+    ]
+  },
+  {
+    "id": "ahsoka-tano",
+    "facts": [
+      { "text": "[[jedi-temple-bombing|神殿の爆破]]の罪を着せられ、追われる身になった。", "revealedBy": ["tcw-s5"] },
+      { "text": "[[jedi-council]]に騎士団から外され、共和国の裁きに委ねられた。", "revealedBy": ["tcw-s5"] },
+      { "text": "疑いが晴れたあとも神殿には戻らず、騎士団を去った。", "revealedBy": ["tcw-s5"] }
+    ]
+  },
+  {
+    "id": "barriss-offee",
+    "facts": [
+      { "text": "[[jedi-temple-bombing|神殿の爆破]]の下手人であり、友に罪を着せた。", "revealedBy": ["tcw-s5"] },
+      { "text": "騎士団が戦に染まったことを、裁きの場で責めた。", "revealedBy": ["tcw-s5"] }
+    ]
+  },
+  {
+    "id": "jedi-council",
+    "facts": [
+      { "text": "[[ahsoka-tano]]を騎士団から外し、共和国の裁きに委ねた。", "revealedBy": ["tcw-s5"] },
+      { "text": "疑いが晴れたあと迎え入れようとしたが、断られた。", "revealedBy": ["tcw-s5"] }
+    ]
+  },
+  {
+    "id": "anakin-skywalker",
+    "facts": [
+      { "text": "弟子の無実を信じ、独りで真相を追った。", "revealedBy": ["tcw-s5"] },
+      { "text": "去っていく弟子を引き止められなかった。", "revealedBy": ["tcw-s5"] }
+    ]
+  },
+  {
+    "id": "obi-wan-kenobi",
+    "facts": [
+      { "text": "[[satine-kryze]]を救えなかった。", "revealedBy": ["tcw-s5"] },
+      { "text": "[[bo-katan-kryze]]に助けられて[[mandalore]]を脱した。", "revealedBy": ["tcw-s5"] }
+    ]
+  },
+  {
+    "id": "padme-amidala",
+    "facts": [
+      { "text": "[[ahsoka-tano]]の無実を信じ、裁きの場で弁護に立った。", "revealedBy": ["tcw-s5"] }
+    ]
+  },
+  {
+    "id": "yoda",
+    "facts": [
+      { "text": "弟子たちを[[ilum]]へ導き、[[kyber-crystal]]を探させた。", "revealedBy": ["tcw-s5"] }
+    ]
+  },
+  {
+    "id": "lightsaber",
+    "facts": [
+      { "text": "[[kyber-crystal]]を芯にして、使い手が自分の手で組み上げる。", "revealedBy": ["tcw-s5"] }
+    ]
+  },
+  {
+    "id": "jedi",
+    "facts": [
+      { "text": "戦が長引くなかで、民から疎まれることも増えた。", "revealedBy": ["tcw-s5"] }
+    ]
+  },
+  {
+    "id": "coruscant",
+    "facts": [
+      { "text": "[[jedi|ジェダイ]]の神殿が内側から爆破され、街は騒然となった。", "revealedBy": ["tcw-s5"] }
+    ]
+  },
+  {
+    "id": "separatists",
+    "facts": [
+      { "text": "[[onderon]]の王を立てて星を押さえた。", "revealedBy": ["tcw-s5"] }
+    ]
+  },
+  {
+    "id": "battle-droid",
+    "facts": [
+      { "text": "[[onderon]]の街に居座り、住民の抵抗に手を焼いた。", "revealedBy": ["tcw-s5"] }
+    ]
+  }
+]
