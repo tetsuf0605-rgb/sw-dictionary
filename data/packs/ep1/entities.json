@@ -6,7 +6,7 @@
       { "text": "クワイ＝ガン・ジン", "reading": "くわいがん・じん", "en": "Qui-Gon Jinn" }
     ],
     "facts": [
-      { "kind": "summary", "text": "[[obi-wan-kenobi]]を弟子に持つジェダイ・マスター。[[jedi-council]]の方針にしばしば異を唱えた。", "revealedBy": ["ep1"] },
+      { "kind": "summary", "text": "[[obi-wan-kenobi]]を弟子に持つジェダイ・マスター。[[jedi-council]]の方針にしばしば異を唱えた。", "revealedBy": ["ep1", "tcw-s6"] },
       { "text": "[[tatooine]]で[[anakin-skywalker]]と出会い、[[the-chosen-one]]だと考えて訓練を望んだ。", "revealedBy": ["ep1"] },
       { "text": "[[naboo]]で[[darth-maul]]と剣を交え、討たれた。", "revealedBy": ["ep1"] },
       { "text": "死の間際、オビ＝ワンにアナキンを導くよう託した。", "revealedBy": ["ep1"] }
@@ -221,7 +221,7 @@
       { "text": "ジェダイ評議会", "reading": "じぇだいひょうぎかい", "en": "Jedi Council" }
     ],
     "facts": [
-      { "kind": "summary", "text": "[[coruscant]]の塔に集う、[[jedi|ジェダイ]]の長老たちの会議。", "revealedBy": ["ep1", "ep2", "tcw-s5", "ep3"] },
+      { "kind": "summary", "text": "[[coruscant]]の塔に集う、[[jedi|ジェダイ]]の長老たちの会議。", "revealedBy": ["ep1", "ep2", "tcw-s5", "ep3", "tcw-s6"] },
       { "text": "[[anakin-skywalker]]の内に恐れを見て取り、訓練を認めなかった。", "revealedBy": ["ep1"] },
       { "text": "[[qui-gon-jinn]]の死後、[[obi-wan-kenobi]]がアナキンを教えることを許した。", "revealedBy": ["ep1"] }
     ]

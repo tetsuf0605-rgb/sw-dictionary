@@ -87,7 +87,7 @@
       { "text": "ファイブス", "reading": "ふぁいぶす", "en": "Fives" }
     ],
     "facts": [
-      { "kind": "summary", "text": "数々の戦いを生き延びた[[clone-trooper|クローン兵]]の一人。", "revealedBy": ["tcw-s3", "tcw-s4"] },
+      { "kind": "summary", "text": "数々の戦いを生き延びた[[clone-trooper|クローン兵]]の一人。", "revealedBy": ["tcw-s3", "tcw-s4", "tcw-s6"] },
       { "text": "訓練では仲間とそりが合わず、落ちこぼれかけた。", "revealedBy": ["tcw-s3"] },
       { "text": "[[echo]]と共に精鋭の部隊に選ばれた。", "revealedBy": ["tcw-s3"] },
       { "text": "[[kamino]]を守る戦いで働いた。", "revealedBy": ["tcw-s3"] }

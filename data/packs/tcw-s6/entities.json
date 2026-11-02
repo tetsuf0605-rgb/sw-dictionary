@@ -1,0 +1,185 @@
+[
+  {
+    "id": "sifo-dyas",
+    "type": "character",
+    "names": [
+      { "text": "サイフォ＝ディアス", "reading": "さいふぉでぃあす", "en": "Sifo-Dyas" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "すでに亡い[[jedi|ジェダイ]]。[[clone-trooper|クローン軍]]はこの人物の名で発注されていた。", "revealedBy": ["tcw-s6"] },
+      { "text": "戦が来ることを早くから見通し、騎士団に諮らず独断で軍を用意しようとした。", "revealedBy": ["tcw-s6"] },
+      { "text": "墜ちた船とともに長く隠されており、遺体が見つかったのは戦のさなかだった。", "revealedBy": ["tcw-s6"] },
+      { "text": "その死の裏には[[count-dooku]]がいた。", "revealedBy": ["tcw-s6"] },
+      { "text": "善意からの企ては、そのまま[[darth-sidious]]に利用されていた。", "revealedBy": ["tcw-s6"] }
+    ]
+  },
+  {
+    "id": "moraband",
+    "type": "place",
+    "names": [
+      { "text": "モラバンド", "reading": "もらばんど", "en": "Moraband" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "[[sith|シス]]の古い故郷とされる、荒れ果てた星。", "revealedBy": ["tcw-s6"] },
+      { "text": "谷に墓所が並び、死者の気配が満ちている。", "revealedBy": ["tcw-s6"] },
+      { "text": "[[yoda]]が導かれて訪れ、暗い側の誘いを退けた。", "revealedBy": ["tcw-s6"] },
+      { "text": "[[darth-bane]]の亡霊が現れた。", "revealedBy": ["tcw-s6"] }
+    ]
+  },
+  {
+    "id": "inhibitor-chip",
+    "type": "item",
+    "names": [
+      { "text": "制御チップ", "reading": "せいぎょちっぷ", "en": "Inhibitor Chip" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "[[clone-trooper|クローン兵]]の頭に、生まれる前から埋め込まれている小さな仕掛け。", "revealedBy": ["tcw-s6"] },
+      { "text": "本来は兵の気性を抑えるためのものだと説明された。", "revealedBy": ["tcw-s6"] },
+      { "text": "ある命令を受けたときに働くよう、初めから仕組まれていた。", "revealedBy": ["tcw-s6"] },
+      { "text": "[[tup]]の異変をきっかけに見つかった。", "revealedBy": ["tcw-s6"] },
+      { "text": "[[fives]]が真相に迫ったが、訴えは退けられた。", "revealedBy": ["tcw-s6"] }
+    ]
+  },
+  {
+    "id": "tup",
+    "type": "character",
+    "names": [
+      { "text": "タップ", "reading": "たっぷ", "en": "Tup" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "戦のさなかに異変を起こした[[clone-trooper|クローン兵]]。", "revealedBy": ["tcw-s6"] },
+      { "text": "自分の意思に反して、味方の[[jedi|ジェダイ]]を撃った。", "revealedBy": ["tcw-s6"] },
+      { "text": "[[kamino]]へ送られて調べられ、頭の[[inhibitor-chip]]が見つかった。", "revealedBy": ["tcw-s6"] },
+      { "text": "取り出される前に息を引き取った。", "revealedBy": ["tcw-s6"] }
+    ]
+  },
+  {
+    "id": "darth-bane",
+    "type": "character",
+    "names": [
+      { "text": "ダース・ベイン", "reading": "だーす・べいん", "en": "Darth Bane" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "遠い昔の[[sith|シス]]。その名は長く語り継がれている。", "revealedBy": ["tcw-s6"] },
+      { "text": "[[moraband]]の墓所から亡霊として現れ、[[yoda]]を試した。", "revealedBy": ["tcw-s6"] }
+    ]
+  },
+
+  {
+    "id": "fives",
+    "facts": [
+      { "text": "[[tup]]の異変を追い、[[inhibitor-chip]]の存在を突き止めた。", "revealedBy": ["tcw-s6"] },
+      { "text": "自分の頭からもチップを取り出した。", "revealedBy": ["tcw-s6"] },
+      { "text": "企てを訴えたが、薬を盛られて錯乱したものと片づけられた。", "revealedBy": ["tcw-s6"] },
+      { "text": "追われた末に撃たれ、真相を伝えられないまま息を引き取った。", "revealedBy": ["tcw-s6"] }
+    ]
+  },
+  {
+    "id": "clone-trooper",
+    "facts": [
+      { "text": "生まれる前から頭に[[inhibitor-chip]]を入れられていた。", "revealedBy": ["tcw-s6"] },
+      { "text": "そのことを知る兵は、ほとんどいなかった。", "revealedBy": ["tcw-s6"] }
+    ]
+  },
+  {
+    "id": "kamino",
+    "facts": [
+      { "text": "兵の異変が調べられ、頭の仕掛けが見つかった。", "revealedBy": ["tcw-s6"] },
+      { "text": "軍の発注をめぐる古い記録が、ここに隠されていた。", "revealedBy": ["tcw-s6"] }
+    ]
+  },
+  {
+    "id": "count-dooku",
+    "facts": [
+      { "text": "[[sifo-dyas]]の死に関わっていた。", "revealedBy": ["tcw-s6"] },
+      { "text": "[[clone-trooper|クローン軍]]の用意にも、初めから関わっていた。", "revealedBy": ["tcw-s6"] }
+    ]
+  },
+  {
+    "id": "darth-sidious",
+    "facts": [
+      { "text": "共和国の軍そのものが、初めから自分の企ての一部だった。", "revealedBy": ["tcw-s6"] }
+    ]
+  },
+  {
+    "id": "palpatine",
+    "facts": [
+      { "text": "訴え出た兵を自ら尋問し、その話を退けた。", "revealedBy": ["tcw-s6"] }
+    ]
+  },
+  {
+    "id": "yoda",
+    "facts": [
+      { "text": "[[qui-gon-jinn]]の声を聞き、導かれて独り旅に出た。", "revealedBy": ["tcw-s6"] },
+      { "text": "死してなお自らを残す術があることを知り、その学びを始めた。", "revealedBy": ["tcw-s6"] },
+      { "text": "[[moraband]]で暗い側の誘いを退けた。", "revealedBy": ["tcw-s6"] }
+    ]
+  },
+  {
+    "id": "qui-gon-jinn",
+    "facts": [
+      { "text": "死後も声として残り、[[yoda]]に語りかけた。", "revealedBy": ["tcw-s6"] },
+      { "text": "その術を身につけた者として名を挙げられた。", "revealedBy": ["tcw-s6"] }
+    ]
+  },
+  {
+    "id": "the-force",
+    "facts": [
+      { "text": "死してなお自らを残す術がある、と示された。", "revealedBy": ["tcw-s6"] }
+    ]
+  },
+  {
+    "id": "sith",
+    "facts": [
+      { "text": "[[moraband]]が古い故郷とされる。", "revealedBy": ["tcw-s6"] }
+    ]
+  },
+  {
+    "id": "obi-wan-kenobi",
+    "facts": [
+      { "text": "[[sifo-dyas]]の死の謎を[[yoda]]たちと追った。", "revealedBy": ["tcw-s6"] }
+    ]
+  },
+  {
+    "id": "anakin-skywalker",
+    "facts": [
+      { "text": "訴えを続けた兵の最期に立ち会った。", "revealedBy": ["tcw-s6"] }
+    ]
+  },
+  {
+    "id": "captain-rex",
+    "facts": [
+      { "text": "[[tup]]と[[fives]]の異変に立ち会い、二人とも失った。", "revealedBy": ["tcw-s6"] }
+    ]
+  },
+  {
+    "id": "coruscant",
+    "facts": [
+      { "text": "[[jedi|ジェダイ]]の神殿で、軍の出どころをめぐる調べが進められた。", "revealedBy": ["tcw-s6"] }
+    ]
+  },
+  {
+    "id": "galactic-republic",
+    "facts": [
+      { "text": "頼みの軍が、どこから来たのかを誰も確かめていなかった。", "revealedBy": ["tcw-s6"] }
+    ]
+  },
+  {
+    "id": "separatists",
+    "facts": [
+      { "text": "[[count-dooku]]を通じて、共和国の軍の成り立ちにも手が及んでいた。", "revealedBy": ["tcw-s6"] }
+    ]
+  },
+  {
+    "id": "jedi-council",
+    "facts": [
+      { "text": "[[sifo-dyas]]の独断を知り、軍の出どころに疑いを持った。", "revealedBy": ["tcw-s6"] }
+    ]
+  },
+  {
+    "id": "jedi",
+    "facts": [
+      { "text": "自分たちの軍が、どこから来たのかを知らないままだったと分かった。", "revealedBy": ["tcw-s6"] }
+    ]
+  }
+]

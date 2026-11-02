@@ -177,7 +177,7 @@
       { "text": "フォース", "reading": "ふぉーす", "en": "the Force" }
     ],
     "facts": [
-      { "kind": "summary", "text": "あらゆる生き物が生み出し、銀河を満たしているエネルギーの場。[[jedi]]はこれを感じ取り、力として用いる。", "revealedBy": ["ep1", "ep2", "ep4", "tcw-film", "tcw-s1", "tcw-s2", "tcw-s3", "tcw-s4", "ep3"] },
+      { "kind": "summary", "text": "あらゆる生き物が生み出し、銀河を満たしているエネルギーの場。[[jedi]]はこれを感じ取り、力として用いる。", "revealedBy": ["ep1", "ep2", "ep4", "tcw-film", "tcw-s1", "tcw-s2", "tcw-s3", "tcw-s4", "ep3", "tcw-s6"] },
       { "text": "光の側面（ライトサイド）と暗黒の側面（ダークサイド）がある。", "revealedBy": ["ep4", "ep6"] }
     ]
   },
