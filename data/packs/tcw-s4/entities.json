@@ -1,0 +1,217 @@
+[
+  {
+    "id": "umbara",
+    "type": "place",
+    "names": [
+      { "text": "アンバラ", "reading": "あんばら", "en": "Umbara" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "日の差さない星。青黒い草木と、光る生き物に覆われている。", "revealedBy": ["tcw-s4"] },
+      { "text": "住む者は[[galactic-republic]]から離れ、[[separatists]]についた。", "revealedBy": ["tcw-s4"] },
+      { "text": "暗闇の中での戦いが続き、[[clone-trooper|クローン兵]]に多くの犠牲が出た。", "revealedBy": ["tcw-s4"] },
+      { "text": "[[battle-of-umbara|戦い]]の舞台になった。", "revealedBy": ["tcw-s4"] }
+    ]
+  },
+  {
+    "id": "pong-krell",
+    "type": "character",
+    "names": [
+      { "text": "ポン・クレル", "reading": "ぽん・くれる", "en": "Pong Krell" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "四本の腕を持つジェダイの将。[[umbara]]で部隊の指揮を執った。", "revealedBy": ["tcw-s4"] },
+      { "text": "[[clone-trooper|クローン兵]]を名ではなく番号で呼び、使い捨ての道具として扱った。", "revealedBy": ["tcw-s4"] },
+      { "text": "無理な命令を重ねて兵を死なせ続けた。", "revealedBy": ["tcw-s4"] },
+      { "text": "敵の姿をしていると偽って、味方どうしを撃ち合わせた。", "revealedBy": ["tcw-s4"] },
+      { "text": "[[separatists]]の側につこうとしていたことを自ら認めた。", "revealedBy": ["tcw-s4"] },
+      { "text": "兵たちの手で捕らえられ、その場で処断された。", "revealedBy": ["tcw-s4"] }
+    ]
+  },
+  {
+    "id": "mon-cala",
+    "type": "place",
+    "names": [
+      { "text": "モン・カラ", "reading": "もん・から", "en": "Mon Cala" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "海に覆われた星。水中に都市が築かれている。", "revealedBy": ["tcw-s4"] },
+      { "text": "姿の異なる二つの民が暮らし、王の死をきっかけに争いが起きた。", "revealedBy": ["tcw-s4"] },
+      { "text": "[[separatists]]が争いにつけ込み、水中での戦いになった。", "revealedBy": ["tcw-s4"] },
+      { "text": "[[galactic-republic]]は水中でも戦える兵を送って加勢した。", "revealedBy": ["tcw-s4"] }
+    ]
+  },
+  {
+    "id": "battle-of-umbara",
+    "type": "event",
+    "names": [
+      { "text": "アンバラの戦い", "reading": "あんばらのたたかい", "en": "Battle of Umbara" }
+    ],
+    "date": { "year": -20, "precision": "approx" },
+    "facts": [
+      { "kind": "summary", "text": "[[galactic-republic]]の軍が[[umbara]]を攻めた戦い。", "revealedBy": ["tcw-s4"] },
+      { "text": "光の差さない土地を進む戦いが続き、[[clone-trooper|クローン兵]]に大きな犠牲が出た。", "revealedBy": ["tcw-s4"] },
+      { "text": "指揮を執った[[pong-krell]]の裏切りで、味方どうしが撃ち合った。", "revealedBy": ["tcw-s4"] }
+    ]
+  },
+  {
+    "id": "massacre-of-the-nightsisters",
+    "type": "event",
+    "names": [
+      { "text": "ナイトシスターの滅亡", "reading": "ないとしすたーのめつぼう", "en": "Massacre of the Nightsisters" }
+    ],
+    "date": { "year": -20, "precision": "approx", "order": 1 },
+    "facts": [
+      { "kind": "summary", "text": "[[general-grievous]]の軍が[[dathomir]]を襲い、[[nightsisters]]をほぼ滅ぼした出来事。", "revealedBy": ["tcw-s4"] },
+      { "text": "[[count-dooku]]が[[asajj-ventress]]への報復として命じた。", "revealedBy": ["tcw-s4"] },
+      { "text": "魔女たちは術で抗ったが、数で押し切られた。", "revealedBy": ["tcw-s4"] }
+    ]
+  },
+
+  {
+    "id": "darth-maul",
+    "facts": [
+      { "text": "深い穴へ落ちたあとも生きていた。", "revealedBy": ["tcw-s4"] },
+      { "text": "長いあいだ屑の山で正気を失い、怒りだけで生き永らえていた。", "revealedBy": ["tcw-s4"] },
+      { "text": "腰から下を機械の脚に替えた姿で戻ってきた。", "revealedBy": ["tcw-s4"] },
+      { "text": "[[savage-opress]]は弟であり、兄を探して迎えに来た。", "revealedBy": ["tcw-s4"] },
+      { "text": "[[obi-wan-kenobi]]への復讐を誓った。", "revealedBy": ["tcw-s4"] }
+    ]
+  },
+  {
+    "id": "savage-opress",
+    "facts": [
+      { "text": "[[mother-talzin]]に導かれ、兄を探す旅に出た。", "revealedBy": ["tcw-s4"] },
+      { "text": "屑に覆われた星で[[darth-maul]]を見つけ出した。", "revealedBy": ["tcw-s4"] },
+      { "text": "正気を失っていた兄を連れ帰り、共に動くようになった。", "revealedBy": ["tcw-s4"] }
+    ]
+  },
+  {
+    "id": "nightsisters",
+    "facts": [
+      { "text": "[[massacre-of-the-nightsisters|襲撃]]を受け、一族はほぼ滅んだ。", "revealedBy": ["tcw-s4"] }
+    ]
+  },
+  {
+    "id": "mother-talzin",
+    "facts": [
+      { "text": "一族を襲った[[massacre-of-the-nightsisters|襲撃]]を生き延び、姿を消した。", "revealedBy": ["tcw-s4"] },
+      { "text": "[[savage-opress]]に兄の居場所を教えた。", "revealedBy": ["tcw-s4"] }
+    ]
+  },
+  {
+    "id": "dathomir",
+    "facts": [
+      { "text": "[[general-grievous]]の軍に襲われ、魔女たちの住まいが焼かれた。", "revealedBy": ["tcw-s4"] }
+    ]
+  },
+  {
+    "id": "general-grievous",
+    "facts": [
+      { "text": "[[dathomir]]を襲い、[[nightsisters]]を討った。", "revealedBy": ["tcw-s4"] }
+    ]
+  },
+  {
+    "id": "count-dooku",
+    "facts": [
+      { "text": "[[asajj-ventress]]への報復として[[dathomir]]への襲撃を命じた。", "revealedBy": ["tcw-s4"] }
+    ]
+  },
+  {
+    "id": "asajj-ventress",
+    "facts": [
+      { "text": "一族を失い、賞金稼ぎとして生きるようになった。", "revealedBy": ["tcw-s4"] }
+    ]
+  },
+  {
+    "id": "obi-wan-kenobi",
+    "facts": [
+      { "text": "死を装い、顔と声を変えて牢に潜り込んだ。", "revealedBy": ["tcw-s4"] },
+      { "text": "[[palpatine]]を狙う企てを内側から探った。", "revealedBy": ["tcw-s4"] },
+      { "text": "[[anakin-skywalker]]にも知らせずに事を進め、のちに強く責められた。", "revealedBy": ["tcw-s4"] }
+    ]
+  },
+  {
+    "id": "palpatine",
+    "facts": [
+      { "text": "[[naboo]]での催しに現れたところを狙われた。", "revealedBy": ["tcw-s4"] }
+    ]
+  },
+  {
+    "id": "cad-bane",
+    "facts": [
+      { "text": "牢破りの一味に加わり、正体を隠した[[obi-wan-kenobi]]と組んだ。", "revealedBy": ["tcw-s4"] }
+    ]
+  },
+  {
+    "id": "captain-rex",
+    "facts": [
+      { "text": "[[pong-krell]]の無理な命令に苦しみ、ついに逆らった。", "revealedBy": ["tcw-s4"] }
+    ]
+  },
+  {
+    "id": "fives",
+    "facts": [
+      { "text": "[[umbara]]で仲間を救うために動き、[[pong-krell]]の裏切りを見抜いた。", "revealedBy": ["tcw-s4"] }
+    ]
+  },
+  {
+    "id": "clone-trooper",
+    "facts": [
+      { "text": "命令に背くかどうかで苦しむ兵が出た。", "revealedBy": ["tcw-s4"] }
+    ]
+  },
+  {
+    "id": "admiral-ackbar",
+    "facts": [
+      { "text": "若いころは[[mon-cala]]を守る軍を率いていた。", "revealedBy": ["tcw-s4"] }
+    ]
+  },
+  {
+    "id": "anakin-skywalker",
+    "facts": [
+      { "text": "奴隷商いの一味に捕らわれ、鎖につながれた。", "revealedBy": ["tcw-s4"] }
+    ]
+  },
+  {
+    "id": "ahsoka-tano",
+    "facts": [
+      { "text": "師と共に捕らわれ、奴隷として扱われた。", "revealedBy": ["tcw-s4"] }
+    ]
+  },
+  {
+    "id": "coruscant",
+    "facts": [
+      { "text": "死を装った将の葬儀が営まれた。", "revealedBy": ["tcw-s4"] }
+    ]
+  },
+  {
+    "id": "naboo",
+    "facts": [
+      { "text": "[[palpatine]]を狙う企てが仕組まれた場所になった。", "revealedBy": ["tcw-s4"] }
+    ]
+  },
+  {
+    "id": "jedi",
+    "facts": [
+      { "text": "兵を道具としか見ない将が出て、騎士団の名を汚した。", "revealedBy": ["tcw-s4"] }
+    ]
+  },
+  {
+    "id": "yoda",
+    "facts": [
+      { "text": "[[palpatine]]を狙う企てを察し、[[obi-wan-kenobi]]の潜入を認めた。", "revealedBy": ["tcw-s4"] }
+    ]
+  },
+  {
+    "id": "galactic-republic",
+    "facts": [
+      { "text": "奴隷の売り買いを断つために兵を送った。", "revealedBy": ["tcw-s4"] }
+    ]
+  },
+  {
+    "id": "separatists",
+    "facts": [
+      { "text": "[[mon-cala]]の争いにつけ込み、水中の戦いを仕掛けた。", "revealedBy": ["tcw-s4"] }
+    ]
+  }
+]

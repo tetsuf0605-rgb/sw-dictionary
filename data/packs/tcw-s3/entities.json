@@ -6,7 +6,7 @@
       { "text": "サヴァージ・オプレス", "reading": "さばーじ・おぷれす", "en": "Savage Opress" }
     ],
     "facts": [
-      { "kind": "summary", "text": "[[nightsisters]]の術で作り変えられた、角を持つ大柄な戦士。", "revealedBy": ["tcw-s3"] },
+      { "kind": "summary", "text": "[[nightsisters]]の術で作り変えられた、角を持つ大柄な戦士。", "revealedBy": ["tcw-s3", "tcw-s4"] },
       { "text": "[[asajj-ventress]]に選ばれ、魔女の術で体と力を作り変えられた。", "revealedBy": ["tcw-s3"] },
       { "text": "[[count-dooku]]の弟子として差し出され、血なまぐさい任務を担った。", "revealedBy": ["tcw-s3"] },
       { "text": "両端から刃の出る[[lightsaber]]を使う。", "revealedBy": ["tcw-s3"] },
@@ -20,7 +20,7 @@
       { "text": "マザー・タルジン", "reading": "まざー・たるじん", "en": "Mother Talzin" }
     ],
     "facts": [
-      { "kind": "summary", "text": "[[nightsisters]]を率いる長。霧のような緑の力を操る。", "revealedBy": ["tcw-s3"] },
+      { "kind": "summary", "text": "[[nightsisters]]を率いる長。霧のような緑の力を操る。", "revealedBy": ["tcw-s3", "tcw-s4"] },
       { "text": "[[asajj-ventress]]に力を貸し、[[savage-opress]]を作り変えた。", "revealedBy": ["tcw-s3"] }
     ]
   },
@@ -31,7 +31,7 @@
       { "text": "ナイトシスター", "reading": "ないとしすたー", "en": "Nightsisters" }
     ],
     "facts": [
-      { "kind": "summary", "text": "[[dathomir]]に住む魔女の一族。緑の光を放つ独自の術を使う。", "revealedBy": ["tcw-s3"] },
+      { "kind": "summary", "text": "[[dathomir]]に住む魔女の一族。緑の光を放つ独自の術を使う。", "revealedBy": ["tcw-s3", "tcw-s4"] },
       { "text": "薬と呪いを操り、人の体や心を作り変えることができる。", "revealedBy": ["tcw-s3"] },
       { "text": "男たちは離れた村で暮らし、求めに応じて差し出される。", "revealedBy": ["tcw-s3"] },
       { "text": "[[asajj-ventress]]はこの一族の出である。", "revealedBy": ["tcw-s3"] }
@@ -44,7 +44,7 @@
       { "text": "ダソミア", "reading": "だそみあ", "en": "Dathomir" }
     ],
     "facts": [
-      { "kind": "summary", "text": "赤い霧の立ちこめる星。[[nightsisters]]の故郷。", "revealedBy": ["tcw-s3"] },
+      { "kind": "summary", "text": "赤い霧の立ちこめる星。[[nightsisters]]の故郷。", "revealedBy": ["tcw-s3", "tcw-s4"] },
       { "text": "魔女たちの住まいと、男たちの村が離れて置かれている。", "revealedBy": ["tcw-s3"] }
     ]
   },
@@ -87,7 +87,7 @@
       { "text": "ファイブス", "reading": "ふぁいぶす", "en": "Fives" }
     ],
     "facts": [
-      { "kind": "summary", "text": "数々の戦いを生き延びた[[clone-trooper|クローン兵]]の一人。", "revealedBy": ["tcw-s3"] },
+      { "kind": "summary", "text": "数々の戦いを生き延びた[[clone-trooper|クローン兵]]の一人。", "revealedBy": ["tcw-s3", "tcw-s4"] },
       { "text": "訓練では仲間とそりが合わず、落ちこぼれかけた。", "revealedBy": ["tcw-s3"] },
       { "text": "[[echo]]と共に精鋭の部隊に選ばれた。", "revealedBy": ["tcw-s3"] },
       { "text": "[[kamino]]を守る戦いで働いた。", "revealedBy": ["tcw-s3"] }
