@@ -34,7 +34,7 @@
       { "text": "シド", "reading": "しど", "en": "Cid" }
     ],
     "facts": [
-      { "kind": "summary", "text": "裏の仕事を取り次ぐ、爬虫類のような姿の女。", "revealedBy": ["bad-batch-s1"] },
+      { "kind": "summary", "text": "裏の仕事を取り次ぐ、爬虫類のような姿の女。", "revealedBy": ["bad-batch-s1", "bad-batch-s2"] },
       { "text": "[[ord-mantell]]の酒場を根城にしている。", "revealedBy": ["bad-batch-s1"] },
       { "text": "[[bad-batch]]に仕事を回す代わりに、取り分を受け取る。", "revealedBy": ["bad-batch-s1"] },
       { "text": "金のつながり以上のものは求めない。", "revealedBy": ["bad-batch-s1"] }

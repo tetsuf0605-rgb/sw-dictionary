@@ -7,7 +7,7 @@
       { "text": "クローン・フォース99", "reading": "くろーん・ふぉーすきゅうじゅうきゅう", "en": "Clone Force 99", "revealedBy": ["tcw-s7"], "kind": "alias" }
     ],
     "facts": [
-      { "kind": "summary", "text": "規格から外れた体つきと力を持つ、少人数の[[clone-trooper|クローン兵]]の分隊。", "revealedBy": ["tcw-s7", "bad-batch-s1"] },
+      { "kind": "summary", "text": "規格から外れた体つきと力を持つ、少人数の[[clone-trooper|クローン兵]]の分隊。", "revealedBy": ["tcw-s7", "bad-batch-s1", "bad-batch-s2"] },
       { "text": "四人がそれぞれ違う得手を持ち、ふつうの兵とは見た目も違う。", "revealedBy": ["tcw-s7"] },
       { "text": "軍の決まりにはゆるく、腕で物を言わせる。", "revealedBy": ["tcw-s7"] },
       { "text": "[[echo]]の救出に加わり、そのまま仲間に迎えた。", "revealedBy": ["tcw-s7"] }
@@ -20,7 +20,7 @@
       { "text": "ハンター", "reading": "はんたー", "en": "Hunter" }
     ],
     "facts": [
-      { "kind": "summary", "text": "[[bad-batch]]の隊長。感覚が鋭く、遠くの気配や電波を読み取る。", "revealedBy": ["tcw-s7", "bad-batch-s1"] },
+      { "kind": "summary", "text": "[[bad-batch]]の隊長。感覚が鋭く、遠くの気配や電波を読み取る。", "revealedBy": ["tcw-s7", "bad-batch-s1", "bad-batch-s2"] },
       { "text": "頭に布を巻き、顔に入れ墨がある。", "revealedBy": ["tcw-s7"] }
     ]
   },
@@ -31,7 +31,7 @@
       { "text": "レッカー", "reading": "れっかー", "en": "Wrecker" }
     ],
     "facts": [
-      { "kind": "summary", "text": "[[bad-batch]]の一人。並外れた力を持つ大男。", "revealedBy": ["tcw-s7", "bad-batch-s1"] },
+      { "kind": "summary", "text": "[[bad-batch]]の一人。並外れた力を持つ大男。", "revealedBy": ["tcw-s7", "bad-batch-s1", "bad-batch-s2"] },
       { "text": "壊すことと爆薬を好む。", "revealedBy": ["tcw-s7"] }
     ]
   },
@@ -42,7 +42,7 @@
       { "text": "テック", "reading": "てっく", "en": "Tech" }
     ],
     "facts": [
-      { "kind": "summary", "text": "[[bad-batch]]の一人。機械と情報に強く、眼鏡を掛けている。", "revealedBy": ["tcw-s7", "bad-batch-s1"] },
+      { "kind": "summary", "text": "[[bad-batch]]の一人。機械と情報に強く、眼鏡を掛けている。", "revealedBy": ["tcw-s7", "bad-batch-s1", "bad-batch-s2"] },
       { "text": "早口で理屈を並べる。", "revealedBy": ["tcw-s7"] }
     ]
   },
@@ -53,7 +53,7 @@
       { "text": "クロスヘア", "reading": "くろすへあ", "en": "Crosshair" }
     ],
     "facts": [
-      { "kind": "summary", "text": "[[bad-batch]]の一人。狙撃を得意とする痩せた兵。", "revealedBy": ["tcw-s7", "bad-batch-s1"] },
+      { "kind": "summary", "text": "[[bad-batch]]の一人。狙撃を得意とする痩せた兵。", "revealedBy": ["tcw-s7", "bad-batch-s1", "bad-batch-s2"] },
       { "text": "口数が少なく、皮肉な物言いをする。", "revealedBy": ["tcw-s7"] }
     ]
   },

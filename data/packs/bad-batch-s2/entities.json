@@ -1,0 +1,175 @@
+[
+  {
+    "id": "pabu",
+    "type": "place",
+    "names": [
+      { "text": "パブー", "reading": "ぱぶー", "en": "Pabu" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "高い崖に家が折り重なる、海に臨む島の町。", "revealedBy": ["bad-batch-s2"] },
+      { "text": "よそから来た者を、来し方を問わずに迎え入れる。", "revealedBy": ["bad-batch-s2"] },
+      { "text": "大きな波に襲われたが、住人と[[bad-batch]]が力を合わせて切り抜けた。", "revealedBy": ["bad-batch-s2"] },
+      { "text": "[[omega]]たちは、ここを落ち着き先に選んだ。", "revealedBy": ["bad-batch-s2"] }
+    ]
+  },
+  {
+    "id": "phee-genoa",
+    "type": "character",
+    "names": [
+      { "text": "フィー・ジェノア", "reading": "ふぃー・じぇのあ", "en": "Phee Genoa" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "遺物を掘り出して売り歩く女。", "revealedBy": ["bad-batch-s2"] },
+      { "text": "[[cid]]のもとに出入りし、[[bad-batch]]に仕事を持ち込んだ。", "revealedBy": ["bad-batch-s2"] },
+      { "text": "[[pabu]]に縁があり、一行をそこへ連れて行った。", "revealedBy": ["bad-batch-s2"] }
+    ]
+  },
+  {
+    "id": "hemlock",
+    "type": "character",
+    "names": [
+      { "text": "ヘムロック博士", "reading": "へむろっくはかせ", "en": "Dr. Hemlock" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "クローンを研究の材料として集める帝国の科学者。", "revealedBy": ["bad-batch-s2"] },
+      { "text": "冷ややかな物腰で、相手を人としてではなく数として扱う。", "revealedBy": ["bad-batch-s2"] },
+      { "text": "[[mount-tantiss]]の施設を任されている。", "revealedBy": ["bad-batch-s2"] },
+      { "text": "[[nala-se]]の腕を必要とし、手元に置いた。", "revealedBy": ["bad-batch-s2"] },
+      { "text": "[[omega]]を連れ去った。", "revealedBy": ["bad-batch-s2"] }
+    ]
+  },
+  {
+    "id": "mount-tantiss",
+    "type": "place",
+    "names": [
+      { "text": "タンティス山", "reading": "たんてぃすさん", "en": "Mount Tantiss" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "帝国が山の中に隠し持つ研究施設。", "revealedBy": ["bad-batch-s2"] },
+      { "text": "どこにあるかは厳しく伏せられている。", "revealedBy": ["bad-batch-s2"] },
+      { "text": "各地からクローンが集められ、人の体を使う研究が行われている。", "revealedBy": ["bad-batch-s2"] },
+      { "text": "[[hemlock]]が取り仕切っている。", "revealedBy": ["bad-batch-s2"] },
+      { "text": "[[omega]]と[[crosshair]]が、それぞれ別の経緯でここへ送られた。", "revealedBy": ["bad-batch-s2"] }
+    ]
+  },
+  {
+    "id": "senator-chuchi",
+    "type": "character",
+    "names": [
+      { "text": "チューチー議員", "reading": "ちゅーちーぎいん", "en": "Senator Chuchi" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "[[clone-trooper|クローン兵]]の処遇を[[galactic-senate]]で問うた議員。", "revealedBy": ["bad-batch-s2"] },
+      { "text": "兵が使い捨てられていることを明るみに出そうとした。", "revealedBy": ["bad-batch-s2"] },
+      { "text": "帝国の厚い壁に阻まれた。", "revealedBy": ["bad-batch-s2"] }
+    ]
+  },
+  {
+    "id": "mayday",
+    "type": "character",
+    "names": [
+      { "text": "メイデイ", "reading": "めいでい", "en": "Mayday" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "雪に覆われた基地を守り続けていた[[clone-trooper|クローン兵]]。", "revealedBy": ["bad-batch-s2"] },
+      { "text": "わずかな部下と共に、補給もないまま任務を続けていた。", "revealedBy": ["bad-batch-s2"] },
+      { "text": "[[crosshair]]と共に荷を守り、深手を負った。", "revealedBy": ["bad-batch-s2"] },
+      { "text": "助けを求めたが帝国に見捨てられ、息を引き取った。", "revealedBy": ["bad-batch-s2"] }
+    ]
+  },
+
+  {
+    "id": "tech",
+    "facts": [
+      { "text": "落ち着いた物言いを崩さない一方で、人の心の機微には疎かった。", "revealedBy": ["bad-batch-s2"] },
+      { "text": "仲間を逃がすために自ら手を放し、谷へ落ちた。", "revealedBy": ["bad-batch-s2"] },
+      { "text": "遺された眼鏡が、分隊の支えとして残った。", "revealedBy": ["bad-batch-s2"] }
+    ]
+  },
+  {
+    "id": "commander-cody",
+    "facts": [
+      { "text": "帝国の下で任務をこなしていた。", "revealedBy": ["bad-batch-s2"] },
+      { "text": "命令の中身に疑いを持ち、[[crosshair]]に迷いを打ち明けた。", "revealedBy": ["bad-batch-s2"] },
+      { "text": "やがて軍から姿を消した。", "revealedBy": ["bad-batch-s2"] }
+    ]
+  },
+  {
+    "id": "crosshair",
+    "facts": [
+      { "text": "兵が使い捨てられていく様を間近で見た。", "revealedBy": ["bad-batch-s2"] },
+      { "text": "[[mayday]]を見殺しにされ、帝国の将に銃を向けた。", "revealedBy": ["bad-batch-s2"] },
+      { "text": "捕らえられ、[[mount-tantiss]]へ送られた。", "revealedBy": ["bad-batch-s2"] }
+    ]
+  },
+  {
+    "id": "omega",
+    "facts": [
+      { "text": "分隊の一員として腕を上げ、仲間を助ける側にもなった。", "revealedBy": ["bad-batch-s2"] },
+      { "text": "[[hemlock]]に連れ去られ、[[mount-tantiss]]へ送られた。", "revealedBy": ["bad-batch-s2"] }
+    ]
+  },
+  {
+    "id": "cid",
+    "facts": [
+      { "text": "金のために[[bad-batch]]の居場所を売った。", "revealedBy": ["bad-batch-s2"] }
+    ]
+  },
+  {
+    "id": "echo",
+    "facts": [
+      { "text": "分隊を離れ、[[captain-rex]]と共にクローン兵を助ける側に回った。", "revealedBy": ["bad-batch-s2"] }
+    ]
+  },
+  {
+    "id": "captain-rex",
+    "facts": [
+      { "text": "行き場を失ったクローン兵を集め、逃がす道を作っていた。", "revealedBy": ["bad-batch-s2"] }
+    ]
+  },
+  {
+    "id": "bad-batch",
+    "facts": [
+      { "text": "[[pabu]]を落ち着き先に選んだ。", "revealedBy": ["bad-batch-s2"] },
+      { "text": "[[tech]]を失った。", "revealedBy": ["bad-batch-s2"] },
+      { "text": "[[omega]]を取り戻すことが、次の目当てになった。", "revealedBy": ["bad-batch-s2"] }
+    ]
+  },
+  {
+    "id": "hunter",
+    "facts": [
+      { "text": "[[omega]]を戦いのない暮らしに戻すことを願った。", "revealedBy": ["bad-batch-s2"] }
+    ]
+  },
+  {
+    "id": "wrecker",
+    "facts": [
+      { "text": "失った仲間のことを、長く口に出せずにいた。", "revealedBy": ["bad-batch-s2"] }
+    ]
+  },
+  {
+    "id": "nala-se",
+    "facts": [
+      { "text": "[[hemlock]]のもとで、望まぬ研究に腕を使われた。", "revealedBy": ["bad-batch-s2"] }
+    ]
+  },
+  {
+    "id": "clone-trooper",
+    "facts": [
+      { "text": "帝国に切り捨てられ、補給も援軍もないまま見捨てられる兵が出た。", "revealedBy": ["bad-batch-s2"] }
+    ]
+  },
+  {
+    "id": "galactic-senate",
+    "facts": [
+      { "text": "帝国のもとでも開かれており、兵の処遇が問われた。", "revealedBy": ["bad-batch-s2"] }
+    ]
+  },
+  {
+    "id": "galactic-empire",
+    "facts": [
+      { "text": "兵を数として扱い、要らなくなれば捨てた。", "revealedBy": ["bad-batch-s2"] },
+      { "text": "表に出せない研究を、山の中で進めていた。", "revealedBy": ["bad-batch-s2"] }
+    ]
+  }
+]
