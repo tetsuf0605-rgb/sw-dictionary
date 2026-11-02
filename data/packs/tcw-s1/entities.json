@@ -1,0 +1,265 @@
+[
+  {
+    "id": "general-grievous",
+    "type": "character",
+    "names": [
+      { "text": "グリーヴァス将軍", "reading": "ぐりーばすしょうぐん", "en": "General Grievous" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "[[separatists]]の軍を率いる将。機械の体を持ち、しばしば咳き込む。", "revealedBy": ["tcw-s1"] },
+      { "text": "四本の腕を広げ、[[lightsaber]]を同時に扱う。", "revealedBy": ["tcw-s1"] },
+      { "text": "倒した[[jedi|ジェダイ]]のライトセーバーを戦利品として集めている。", "revealedBy": ["tcw-s1"] },
+      { "text": "[[count-dooku]]の指示を受けて動く。", "revealedBy": ["tcw-s1"] },
+      { "text": "巨大な戦艦[[malevolence]]を指揮した。", "revealedBy": ["tcw-s1"] }
+    ]
+  },
+  {
+    "id": "commander-cody",
+    "type": "character",
+    "names": [
+      { "text": "コーディ", "reading": "こーでぃ", "en": "Cody" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "[[obi-wan-kenobi]]のもとで戦う[[clone-trooper|クローン兵]]の隊長。", "revealedBy": ["tcw-s1"] },
+      { "text": "黄色い模様を入れた装甲を身につける。", "revealedBy": ["tcw-s1"] },
+      { "text": "[[captain-rex]]とは気心の知れた間柄で、共に作戦に当たることが多い。", "revealedBy": ["tcw-s1"] }
+    ]
+  },
+  {
+    "id": "plo-koon",
+    "type": "character",
+    "names": [
+      { "text": "プロ・クーン", "reading": "ぷろ・くーん", "en": "Plo Koon" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "面と呼吸器を着けたジェダイ・マスター。", "revealedBy": ["tcw-s1"] },
+      { "text": "[[malevolence]]に艦隊を沈められ、わずかな[[clone-trooper|クローン兵]]と共に宇宙を漂った。", "revealedBy": ["tcw-s1"] },
+      { "text": "漂流した兵を見捨てずに捜すよう求めた。", "revealedBy": ["tcw-s1"] },
+      { "text": "[[ahsoka-tano]]たちに救い出された。", "revealedBy": ["tcw-s1"] }
+    ]
+  },
+  {
+    "id": "kit-fisto",
+    "type": "character",
+    "names": [
+      { "text": "キット・フィストー", "reading": "きっと・ふぃすとー", "en": "Kit Fisto" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "頭から太い触手が伸びる姿のジェダイ・マスター。", "revealedBy": ["tcw-s1"] },
+      { "text": "[[general-grievous]]の隠れ家に踏み込み、かつての弟子を失った。", "revealedBy": ["tcw-s1"] }
+    ]
+  },
+  {
+    "id": "aayla-secura",
+    "type": "character",
+    "names": [
+      { "text": "エイラ・セキュラ", "reading": "えいら・せきゅら", "en": "Aayla Secura" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "青い肌の[[twilek|トワイレック]]のジェダイ・マスター。", "revealedBy": ["tcw-s1"] },
+      { "text": "[[ahsoka-tano]]と行動を共にし、師に執着しすぎないことを説いた。", "revealedBy": ["tcw-s1"] }
+    ]
+  },
+  {
+    "id": "luminara-unduli",
+    "type": "character",
+    "names": [
+      { "text": "ルミナーラ・アンドゥリ", "reading": "るみなーら・あんどぅり", "en": "Luminara Unduli" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "落ち着いた物腰のジェダイ・マスター。顔に入れ墨のような模様がある。", "revealedBy": ["tcw-s1"] },
+      { "text": "[[nute-gunray]]の移送を任され、[[ahsoka-tano]]と共に当たった。", "revealedBy": ["tcw-s1"] },
+      { "text": "[[asajj-ventress]]の急襲を受け、囚人を取り逃がした。", "revealedBy": ["tcw-s1"] }
+    ]
+  },
+  {
+    "id": "admiral-yularen",
+    "type": "character",
+    "names": [
+      { "text": "ユラーレン提督", "reading": "ゆらーれんていとく", "en": "Admiral Yularen" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "[[anakin-skywalker]]の艦隊を預かる[[galactic-republic]]の提督。", "revealedBy": ["tcw-s1"] },
+      { "text": "白い制服を着て艦橋で指揮を執り、将の無茶な策にたびたび渋い顔をした。", "revealedBy": ["tcw-s1"] }
+    ]
+  },
+  {
+    "id": "malevolence",
+    "type": "vehicle",
+    "names": [
+      { "text": "マレヴォレンス", "reading": "まれぼれんす", "en": "Malevolence" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "[[general-grievous]]が指揮した巨大な戦艦。", "revealedBy": ["tcw-s1"] },
+      { "text": "艦の動力を奪う大砲を両舷に備え、共和国の艦隊を次々に沈めた。", "revealedBy": ["tcw-s1"] },
+      { "text": "[[anakin-skywalker]]の部隊に砲を撃ち抜かれ、追われる側に回った。", "revealedBy": ["tcw-s1"] },
+      { "text": "航路を狂わされて月に激突し、失われた。", "revealedBy": ["tcw-s1"] }
+    ]
+  },
+  {
+    "id": "ryloth",
+    "type": "place",
+    "names": [
+      { "text": "ライロス", "reading": "らいろす", "en": "Ryloth" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "[[twilek|トワイレック]]の故郷である星。岩と砂の目立つ土地が広がる。", "revealedBy": ["tcw-s1"] },
+      { "text": "[[separatists]]に占領され、宇宙を封鎖されて食糧が尽きかけた。", "revealedBy": ["tcw-s1"] },
+      { "text": "星を預かった分離主義勢力の長は、住民を盾に取って抵抗した。", "revealedBy": ["tcw-s1"] },
+      { "text": "地上では住民が武器を取り、抵抗の輪をつくっていた。", "revealedBy": ["tcw-s1"] },
+      { "text": "[[liberation-of-ryloth|解放]]の舞台になった。", "revealedBy": ["tcw-s1"] }
+    ]
+  },
+  {
+    "id": "twilek",
+    "type": "species",
+    "names": [
+      { "text": "トワイレック", "reading": "とわいれっく", "en": "Twi'lek" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "頭の後ろから2本の長い触手が伸びる種族。肌の色は個体によって違う。", "revealedBy": ["tcw-s1"] },
+      { "text": "[[ryloth]]を故郷とする。", "revealedBy": ["tcw-s1"] }
+    ]
+  },
+  {
+    "id": "liberation-of-ryloth",
+    "type": "event",
+    "names": [
+      { "text": "ライロスの解放", "reading": "らいろすのかいほう", "en": "Liberation of Ryloth" }
+    ],
+    "date": { "year": -21, "precision": "approx" },
+    "facts": [
+      { "kind": "summary", "text": "[[galactic-republic]]の軍が[[ryloth]]から[[separatists]]の軍を追い出した戦い。", "revealedBy": ["tcw-s1"] },
+      { "text": "宇宙では封鎖を破るために艦隊が、地上では現地の抵抗勢力と共に[[clone-trooper|クローン兵]]が戦った。", "revealedBy": ["tcw-s1"] },
+      { "text": "住民を盾に取られていたため、軍は町を一つずつ慎重に進んだ。", "revealedBy": ["tcw-s1"] }
+    ]
+  },
+
+  {
+    "id": "ahsoka-tano",
+    "facts": [
+      { "text": "戦いを重ねて部隊を任されるようになった。", "revealedBy": ["tcw-s1"] },
+      { "text": "漂流した[[plo-koon]]を助けるため、命令に背いて捜索に向かった。", "revealedBy": ["tcw-s1"] },
+      { "text": "[[luminara-unduli]]と共に[[nute-gunray]]の移送に当たった。", "revealedBy": ["tcw-s1"] },
+      { "text": "[[asajj-ventress]]と剣を交えた。", "revealedBy": ["tcw-s1"] }
+    ]
+  },
+  {
+    "id": "anakin-skywalker",
+    "facts": [
+      { "text": "艦隊を預かる将として各地の戦場を渡り歩いた。", "revealedBy": ["tcw-s1"] },
+      { "text": "少数の爆撃機で[[malevolence]]の砲を撃ち抜いた。", "revealedBy": ["tcw-s1"] },
+      { "text": "[[ahsoka-tano]]を一人前として扱うようになっていった。", "revealedBy": ["tcw-s1"] }
+    ]
+  },
+  {
+    "id": "obi-wan-kenobi",
+    "facts": [
+      { "text": "[[commander-cody]]と共に前線を回った。", "revealedBy": ["tcw-s1"] },
+      { "text": "[[general-grievous]]と何度も相まみえた。", "revealedBy": ["tcw-s1"] }
+    ]
+  },
+  {
+    "id": "captain-rex",
+    "facts": [
+      { "text": "新兵を鍛えながら前線で部隊を率いた。", "revealedBy": ["tcw-s1"] },
+      { "text": "[[commander-cody]]と組んで作戦に当たることが多い。", "revealedBy": ["tcw-s1"] }
+    ]
+  },
+  {
+    "id": "asajj-ventress",
+    "facts": [
+      { "text": "移送中の[[nute-gunray]]を奪い返した。", "revealedBy": ["tcw-s1"] },
+      { "text": "[[ahsoka-tano]]と剣を交えた。", "revealedBy": ["tcw-s1"] }
+    ]
+  },
+  {
+    "id": "count-dooku",
+    "facts": [
+      { "text": "[[general-grievous]]に軍を預けた。", "revealedBy": ["tcw-s1"] },
+      { "text": "捕らえられた[[nute-gunray]]を取り戻させた。", "revealedBy": ["tcw-s1"] }
+    ]
+  },
+  {
+    "id": "yoda",
+    "facts": [
+      { "text": "わずかな[[clone-trooper|クローン兵]]だけを連れて敵中を抜けた。", "revealedBy": ["tcw-s1"] },
+      { "text": "兵の一人ひとりに違いがあることを説いた。", "revealedBy": ["tcw-s1"] }
+    ]
+  },
+  {
+    "id": "padme-amidala",
+    "facts": [
+      { "text": "[[malevolence]]に乗り込むことになり、危ういところを助け出された。", "revealedBy": ["tcw-s1"] },
+      { "text": "議員として、戦争が広がることに異を唱え続けた。", "revealedBy": ["tcw-s1"] }
+    ]
+  },
+  {
+    "id": "jar-jar-binks",
+    "facts": [
+      { "text": "偶然が重なって危地を切り抜け、思わぬ働きをすることがあった。", "revealedBy": ["tcw-s1"] }
+    ]
+  },
+  {
+    "id": "nute-gunray",
+    "facts": [
+      { "text": "[[jedi|ジェダイ]]に捕らえられて移送されたが、途中で奪い返された。", "revealedBy": ["tcw-s1"] }
+    ]
+  },
+  {
+    "id": "clone-trooper",
+    "facts": [
+      { "text": "前線では新兵と古参が同じ部隊で戦い、互いを名で呼び合った。", "revealedBy": ["tcw-s1"] },
+      { "text": "同じ体から造られていても、気性や得手不得手は一人ずつ違う。", "revealedBy": ["tcw-s1"] }
+    ]
+  },
+  {
+    "id": "clone-wars",
+    "facts": [
+      { "text": "戦いは銀河の各地に及び、中立だった星も次々に巻き込まれた。", "revealedBy": ["tcw-s1"] }
+    ]
+  },
+  {
+    "id": "separatists",
+    "facts": [
+      { "text": "[[general-grievous]]を軍の将に据えた。", "revealedBy": ["tcw-s1"] },
+      { "text": "占領した星から資源と食糧を奪い、住民を締めつけた。", "revealedBy": ["tcw-s1"] }
+    ]
+  },
+  {
+    "id": "jedi",
+    "facts": [
+      { "text": "将として前線に立ち、弟子を連れて戦う者もいた。", "revealedBy": ["tcw-s1"] }
+    ]
+  },
+  {
+    "id": "lightsaber",
+    "facts": [
+      { "text": "[[general-grievous]]のように、倒した相手のものを集める者もいる。", "revealedBy": ["tcw-s1"] }
+    ]
+  },
+  {
+    "id": "coruscant",
+    "facts": [
+      { "text": "戦地から遠く離れており、[[galactic-senate]]では戦争の進め方が論じられ続けた。", "revealedBy": ["tcw-s1"] }
+    ]
+  },
+  {
+    "id": "galactic-senate",
+    "facts": [
+      { "text": "戦費と兵の増員をめぐって議論が続いた。", "revealedBy": ["tcw-s1"] }
+    ]
+  },
+  {
+    "id": "galactic-republic",
+    "facts": [
+      { "text": "艦隊を各地へ送り、占領された星の解放に当たった。", "revealedBy": ["tcw-s1"] }
+    ]
+  },
+  {
+    "id": "padawan",
+    "facts": [
+      { "text": "戦が長引き、弟子のまま戦場で指揮を執る者も出た。", "revealedBy": ["tcw-s1"] }
+    ]
+  }
+]
