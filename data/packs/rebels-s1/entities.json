@@ -1,0 +1,210 @@
+[
+  {
+    "id": "kanan-jarrus",
+    "type": "character",
+    "names": [
+      { "text": "ケイナン・ジャラス", "reading": "けいなん・じゃらす", "en": "Kanan Jarrus" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "一味の中で[[the-force]]を使う男。[[jedi|ジェダイ]]として学んだ過去を持つ。", "revealedBy": ["rebels-s1"] },
+      { "text": "弟子だったころに師を失い、素性を隠して生きてきた。", "revealedBy": ["rebels-s1"] },
+      { "text": "[[ezra-bridger]]を弟子に取り、教えることで自分も学び直した。", "revealedBy": ["rebels-s1"] },
+      { "text": "[[lightsaber]]を分解し、ふだんは隠し持っていた。", "revealedBy": ["rebels-s1"] },
+      { "text": "[[grand-inquisitor]]に捕らえられ、仲間に助け出された。", "revealedBy": ["rebels-s1"] }
+    ]
+  },
+  {
+    "id": "ezra-bridger",
+    "type": "character",
+    "names": [
+      { "text": "エズラ・ブリッジャー", "reading": "えずら・ぶりっじゃー", "en": "Ezra Bridger" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "[[lothal]]の孤児。盗みで食いつないでいた少年。", "revealedBy": ["rebels-s1"] },
+      { "text": "[[the-force]]の素質を見出され、[[kanan-jarrus]]の弟子になった。", "revealedBy": ["rebels-s1"] },
+      { "text": "生き物の心に触れる力に長けていた。", "revealedBy": ["rebels-s1"] },
+      { "text": "両親は帝国に連れ去られていた。", "revealedBy": ["rebels-s1"] },
+      { "text": "[[kyber-crystal]]を得て、自分の[[lightsaber]]を組み上げた。", "revealedBy": ["rebels-s1"] }
+    ]
+  },
+  {
+    "id": "hera-syndulla",
+    "type": "character",
+    "names": [
+      { "text": "ヘラ・シンドゥーラ", "reading": "へら・しんどぅーら", "en": "Hera Syndulla" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "[[the-ghost]]を操る女。一味をまとめている。", "revealedBy": ["rebels-s1"] },
+      { "text": "落ち着いた判断で、危うい場面を何度も切り抜けた。", "revealedBy": ["rebels-s1"] },
+      { "text": "一味の知らないところで、外の大きな動きとつながっていた。", "revealedBy": ["rebels-s1"] }
+    ]
+  },
+  {
+    "id": "sabine-wren",
+    "type": "character",
+    "names": [
+      { "text": "サビーヌ・レン", "reading": "さびーぬ・れん", "en": "Sabine Wren" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "爆薬を扱い、甲冑や壁に絵を描く若い女。", "revealedBy": ["rebels-s1"] },
+      { "text": "[[mandalore]]の出である。", "revealedBy": ["rebels-s1"] },
+      { "text": "帝国の学び舎にいたが、そこを離れた。", "revealedBy": ["rebels-s1"] },
+      { "text": "仕掛けた爆薬の跡に、必ず自分の印を残す。", "revealedBy": ["rebels-s1"] }
+    ]
+  },
+  {
+    "id": "zeb-orrelios",
+    "type": "character",
+    "names": [
+      { "text": "ゼブ・オレリオス", "reading": "ぜぶ・おれりおす", "en": "Zeb Orrelios" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "大柄で毛深い[[lasat|ラサット]]の戦士。", "revealedBy": ["rebels-s1"] },
+      { "text": "故郷を帝国に滅ぼされ、数少ない生き残りの一人である。", "revealedBy": ["rebels-s1"] },
+      { "text": "棒状の武器を使う。", "revealedBy": ["rebels-s1"] },
+      { "text": "[[ezra-bridger]]とは口げんかが絶えない。", "revealedBy": ["rebels-s1"] }
+    ]
+  },
+  {
+    "id": "chopper",
+    "type": "character",
+    "names": [
+      { "text": "チョッパー", "reading": "ちょっぱー", "en": "Chopper" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "気難しく、いたずら好きな小型ドロイド。", "revealedBy": ["rebels-s1"] },
+      { "text": "言われたことを素直にはやらないが、肝心なところで役に立つ。", "revealedBy": ["rebels-s1"] },
+      { "text": "[[the-ghost]]の整備を担っている。", "revealedBy": ["rebels-s1"] }
+    ]
+  },
+  {
+    "id": "lothal",
+    "type": "place",
+    "names": [
+      { "text": "ロサール", "reading": "ろさーる", "en": "Lothal" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "草原の広がる辺境の星。", "revealedBy": ["rebels-s1"] },
+      { "text": "帝国に工場を建てられ、住民は土地と仕事を取り上げられていた。", "revealedBy": ["rebels-s1"] },
+      { "text": "[[ezra-bridger]]の故郷である。", "revealedBy": ["rebels-s1"] },
+      { "text": "一味の働きの場になった。", "revealedBy": ["rebels-s1"] }
+    ]
+  },
+  {
+    "id": "the-ghost",
+    "type": "vehicle",
+    "names": [
+      { "text": "ゴースト", "reading": "ごーすと", "en": "Ghost" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "[[hera-syndulla]]が操る貨物船。一味の住みかでもある。", "revealedBy": ["rebels-s1"] },
+      { "text": "腹に小型の船を抱えており、切り離して使える。", "revealedBy": ["rebels-s1"] },
+      { "text": "帝国の網を何度もくぐり抜けてきた。", "revealedBy": ["rebels-s1"] }
+    ]
+  },
+  {
+    "id": "agent-kallus",
+    "type": "character",
+    "names": [
+      { "text": "カラス局員", "reading": "からすきょくいん", "en": "Agent Kallus" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "一味を追う帝国の局員。", "revealedBy": ["rebels-s1"] },
+      { "text": "鋭い頭と腕を持ち、何度も一味を追い詰めた。", "revealedBy": ["rebels-s1"] },
+      { "text": "[[zeb-orrelios]]の故郷を滅ぼした側にいたと自ら明かした。", "revealedBy": ["rebels-s1"] }
+    ]
+  },
+  {
+    "id": "lasat",
+    "type": "species",
+    "names": [
+      { "text": "ラサット", "reading": "らさっと", "en": "Lasat" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "大柄で毛深く、力の強い種族。", "revealedBy": ["rebels-s1"] },
+      { "text": "故郷を帝国に滅ぼされ、散り散りになった。", "revealedBy": ["rebels-s1"] }
+    ]
+  },
+  {
+    "id": "birth-of-the-rebellion",
+    "type": "event",
+    "names": [
+      { "text": "反乱の芽生え", "reading": "はんらんのめばえ", "en": "Birth of the Rebellion" }
+    ],
+    "date": { "year": -5, "precision": "approx" },
+    "facts": [
+      { "kind": "summary", "text": "各地の小さな抵抗が、少しずつつながり始めた時期。", "revealedBy": ["rebels-s1"] },
+      { "text": "辺境の星で一味が帝国に逆らい、その噂が広まった。", "revealedBy": ["rebels-s1"] },
+      { "text": "符丁で呼ばれる人物が、散らばった者たちをつないでいた。", "revealedBy": ["rebels-s1"] },
+      { "text": "まだ一つの軍と呼べるものではなかった。", "revealedBy": ["rebels-s1"] }
+    ]
+  },
+
+  {
+    "id": "ahsoka-tano",
+    "names": [
+      { "text": "フルクラム", "reading": "ふるくらむ", "en": "Fulcrum", "revealedBy": ["rebels-s1"], "kind": "alias" }
+    ],
+    "facts": [
+      { "text": "符丁で呼ばれる人物として、散らばった抵抗をつないでいた。", "revealedBy": ["rebels-s1"] },
+      { "text": "終わりに姿を現し、[[kanan-jarrus]]たちの前に立った。", "revealedBy": ["rebels-s1"] }
+    ]
+  },
+  {
+    "id": "grand-inquisitor",
+    "facts": [
+      { "text": "[[lothal]]で一味を追った。", "revealedBy": ["rebels-s1"] },
+      { "text": "[[kanan-jarrus]]を捕らえ、素性を暴いた。", "revealedBy": ["rebels-s1"] },
+      { "text": "[[darth-vader]]に失敗を咎められていた。", "revealedBy": ["rebels-s1"] },
+      { "text": "敗れたのち、自ら深みへ落ちた。", "revealedBy": ["rebels-s1"] }
+    ]
+  },
+  {
+    "id": "inquisitors",
+    "facts": [
+      { "text": "帝国の下で、[[jedi|ジェダイ]]の生き残りを探し続けていた。", "revealedBy": ["rebels-s1"] }
+    ]
+  },
+  {
+    "id": "darth-vader",
+    "facts": [
+      { "text": "辺境で抵抗が広がっていることを知り、自ら動き始めた。", "revealedBy": ["rebels-s1"] }
+    ]
+  },
+  {
+    "id": "galactic-empire",
+    "facts": [
+      { "text": "辺境の星から土地と資源を取り上げ、住民を締めつけていた。", "revealedBy": ["rebels-s1"] }
+    ]
+  },
+  {
+    "id": "jedi",
+    "facts": [
+      { "text": "生き残りは素性を隠し、ふつうの暮らしに紛れていた。", "revealedBy": ["rebels-s1"] }
+    ]
+  },
+  {
+    "id": "lightsaber",
+    "facts": [
+      { "text": "分解して隠し持つ者もいた。", "revealedBy": ["rebels-s1"] }
+    ]
+  },
+  {
+    "id": "kyber-crystal",
+    "facts": [
+      { "text": "自分の剣を組むために、隠された場所から探し出す。", "revealedBy": ["rebels-s1"] }
+    ]
+  },
+  {
+    "id": "the-force",
+    "facts": [
+      { "text": "生き物の心に触れ、呼びかけることもできる。", "revealedBy": ["rebels-s1"] }
+    ]
+  },
+  {
+    "id": "mandalore",
+    "facts": [
+      { "text": "[[sabine-wren]]はこの星の出である。", "revealedBy": ["rebels-s1"] }
+    ]
+  }
+]
