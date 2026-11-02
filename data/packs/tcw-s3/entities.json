@@ -1,0 +1,252 @@
+[
+  {
+    "id": "savage-opress",
+    "type": "character",
+    "names": [
+      { "text": "サヴァージ・オプレス", "reading": "さばーじ・おぷれす", "en": "Savage Opress" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "[[nightsisters]]の術で作り変えられた、角を持つ大柄な戦士。", "revealedBy": ["tcw-s3"] },
+      { "text": "[[asajj-ventress]]に選ばれ、魔女の術で体と力を作り変えられた。", "revealedBy": ["tcw-s3"] },
+      { "text": "[[count-dooku]]の弟子として差し出され、血なまぐさい任務を担った。", "revealedBy": ["tcw-s3"] },
+      { "text": "両端から刃の出る[[lightsaber]]を使う。", "revealedBy": ["tcw-s3"] },
+      { "text": "術で心を縛られていたが、やがて誰の手にも負えなくなった。", "revealedBy": ["tcw-s3"] }
+    ]
+  },
+  {
+    "id": "mother-talzin",
+    "type": "character",
+    "names": [
+      { "text": "マザー・タルジン", "reading": "まざー・たるじん", "en": "Mother Talzin" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "[[nightsisters]]を率いる長。霧のような緑の力を操る。", "revealedBy": ["tcw-s3"] },
+      { "text": "[[asajj-ventress]]に力を貸し、[[savage-opress]]を作り変えた。", "revealedBy": ["tcw-s3"] }
+    ]
+  },
+  {
+    "id": "nightsisters",
+    "type": "organization",
+    "names": [
+      { "text": "ナイトシスター", "reading": "ないとしすたー", "en": "Nightsisters" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "[[dathomir]]に住む魔女の一族。緑の光を放つ独自の術を使う。", "revealedBy": ["tcw-s3"] },
+      { "text": "薬と呪いを操り、人の体や心を作り変えることができる。", "revealedBy": ["tcw-s3"] },
+      { "text": "男たちは離れた村で暮らし、求めに応じて差し出される。", "revealedBy": ["tcw-s3"] },
+      { "text": "[[asajj-ventress]]はこの一族の出である。", "revealedBy": ["tcw-s3"] }
+    ]
+  },
+  {
+    "id": "dathomir",
+    "type": "place",
+    "names": [
+      { "text": "ダソミア", "reading": "だそみあ", "en": "Dathomir" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "赤い霧の立ちこめる星。[[nightsisters]]の故郷。", "revealedBy": ["tcw-s3"] },
+      { "text": "魔女たちの住まいと、男たちの村が離れて置かれている。", "revealedBy": ["tcw-s3"] }
+    ]
+  },
+  {
+    "id": "mortis",
+    "type": "place",
+    "names": [
+      { "text": "モーティス", "reading": "もーてぃす", "en": "Mortis" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "[[the-force]]そのものが形を持って現れる場所。", "revealedBy": ["tcw-s3"] },
+      { "text": "父と呼ばれる者と、その息子・娘と呼ばれる二人が、人の姿をとって住んでいた。", "revealedBy": ["tcw-s3"] },
+      { "text": "息子は暗い面に、娘は明るい面に重なり、父が二人を抑えて均衡を保っていた。", "revealedBy": ["tcw-s3"] },
+      { "text": "迷い込んだ[[anakin-skywalker]]は、[[the-chosen-one]]としての定めを突きつけられた。", "revealedBy": ["tcw-s3"] },
+      { "text": "三人はいずれも失われ、訪れた者は元の宇宙へ戻された。", "revealedBy": ["tcw-s3"] }
+    ]
+  },
+  {
+    "id": "tarkin",
+    "type": "character",
+    "names": [
+      { "text": "ターキン", "reading": "たーきん", "en": "Tarkin" },
+      { "text": "ターキン総督", "reading": "たーきんそうとく", "en": "Grand Moff Tarkin", "revealedBy": ["ep4"], "kind": "title" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "[[galactic-republic]]の将校。痩せた顔つきで、情に流されない。", "revealedBy": ["tcw-s3"] },
+      { "text": "牢からの脱出で[[anakin-skywalker]]たちと行動を共にした。", "revealedBy": ["tcw-s3"] },
+      { "text": "[[jedi|ジェダイ]]のやり方を手ぬるいと考えていた。", "revealedBy": ["tcw-s3"] },
+      { "text": "[[galactic-empire]]の高官として[[death-star]]の指揮を執った。", "revealedBy": ["ep4"] },
+      { "text": "[[galactic-senate]]を解散したと告げ、恐怖で銀河を治めると言い切った。", "revealedBy": ["ep4"] },
+      { "text": "[[alderaan]]の破壊を命じた。", "revealedBy": ["ep4"] },
+      { "text": "[[darth-vader]]を従えていた。", "revealedBy": ["ep4"] },
+      { "text": "逃げることを拒み、要塞と運命を共にした。", "revealedBy": ["ep4"] }
+    ]
+  },
+  {
+    "id": "fives",
+    "type": "character",
+    "names": [
+      { "text": "ファイブス", "reading": "ふぁいぶす", "en": "Fives" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "数々の戦いを生き延びた[[clone-trooper|クローン兵]]の一人。", "revealedBy": ["tcw-s3"] },
+      { "text": "訓練では仲間とそりが合わず、落ちこぼれかけた。", "revealedBy": ["tcw-s3"] },
+      { "text": "[[echo]]と共に精鋭の部隊に選ばれた。", "revealedBy": ["tcw-s3"] },
+      { "text": "[[kamino]]を守る戦いで働いた。", "revealedBy": ["tcw-s3"] }
+    ]
+  },
+  {
+    "id": "echo",
+    "type": "character",
+    "names": [
+      { "text": "エコー", "reading": "えこー", "en": "Echo" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "[[fives]]と同じ部隊で育った[[clone-trooper|クローン兵]]。", "revealedBy": ["tcw-s3"] },
+      { "text": "決まりを守ることにこだわる性分。", "revealedBy": ["tcw-s3"] },
+      { "text": "ファイブスと共に精鋭の部隊に選ばれた。", "revealedBy": ["tcw-s3"] },
+      { "text": "牢からの脱出の最中に爆発に巻き込まれ、戻らなかった。", "revealedBy": ["tcw-s3"] }
+    ]
+  },
+  {
+    "id": "battle-of-kamino",
+    "type": "event",
+    "names": [
+      { "text": "カミーノの戦い", "reading": "かみーののたたかい", "en": "Battle of Kamino" }
+    ],
+    "date": { "year": -21, "precision": "approx", "order": 2 },
+    "facts": [
+      { "kind": "summary", "text": "[[separatists]]が[[kamino]]を襲った戦い。", "revealedBy": ["tcw-s3"] },
+      { "text": "クローンを造る施設を潰すことが狙いだった。", "revealedBy": ["tcw-s3"] },
+      { "text": "海中から攻め寄せる敵を、守備隊と[[jedi|ジェダイ]]が退けた。", "revealedBy": ["tcw-s3"] }
+    ]
+  },
+
+  {
+    "id": "asajj-ventress",
+    "facts": [
+      { "text": "[[count-dooku]]に切り捨てられ、命を狙われた。", "revealedBy": ["tcw-s3"] },
+      { "text": "故郷の[[dathomir]]へ戻り、[[nightsisters]]に迎えられた。", "revealedBy": ["tcw-s3"] },
+      { "text": "[[savage-opress]]を選び、ドゥークーへの復讐の駒にしようとした。", "revealedBy": ["tcw-s3"] }
+    ]
+  },
+  {
+    "id": "count-dooku",
+    "facts": [
+      { "text": "[[darth-sidious]]に命じられ、[[asajj-ventress]]を切り捨てた。", "revealedBy": ["tcw-s3"] },
+      { "text": "[[savage-opress]]を新しい弟子として迎えた。", "revealedBy": ["tcw-s3"] }
+    ]
+  },
+  {
+    "id": "anakin-skywalker",
+    "facts": [
+      { "text": "[[mortis]]で[[the-chosen-one]]だと改めて告げられた。", "revealedBy": ["tcw-s3"] },
+      { "text": "モーティスでは暗い力に飲まれかけ、師と弟子に刃を向けた。", "revealedBy": ["tcw-s3"] }
+    ]
+  },
+  {
+    "id": "obi-wan-kenobi",
+    "facts": [
+      { "text": "[[mortis]]で亡き師の面影に出会った。", "revealedBy": ["tcw-s3"] }
+    ]
+  },
+  {
+    "id": "ahsoka-tano",
+    "facts": [
+      { "text": "[[mortis]]で年を経た自分の姿を見せられた。", "revealedBy": ["tcw-s3"] },
+      { "text": "狩りの獲物として島に放たれ、[[chewbacca]]たちと力を合わせて脱け出した。", "revealedBy": ["tcw-s3"] }
+    ]
+  },
+  {
+    "id": "chewbacca",
+    "facts": [
+      { "text": "狩りの獲物として島に捕らわれ、[[ahsoka-tano]]たちと脱け出した。", "revealedBy": ["tcw-s3"] },
+      { "text": "ありあわせの部品で通信機を組み上げ、仲間を呼び寄せた。", "revealedBy": ["tcw-s3"] }
+    ]
+  },
+  {
+    "id": "captain-rex",
+    "facts": [
+      { "text": "[[battle-of-kamino|カミーノを守る戦い]]に加わった。", "revealedBy": ["tcw-s3"] },
+      { "text": "新兵だったころの[[fives]]たちを鍛えた。", "revealedBy": ["tcw-s3"] }
+    ]
+  },
+  {
+    "id": "kamino",
+    "facts": [
+      { "text": "[[battle-of-kamino|襲撃]]を受け、海中から攻め込まれた。", "revealedBy": ["tcw-s3"] },
+      { "text": "新兵はここで訓練を受け、組を作って課題に挑む。", "revealedBy": ["tcw-s3"] }
+    ]
+  },
+  {
+    "id": "clone-trooper",
+    "facts": [
+      { "text": "生き延びて腕を上げた兵は、精鋭の部隊に選ばれることがある。", "revealedBy": ["tcw-s3"] }
+    ]
+  },
+  {
+    "id": "the-chosen-one",
+    "facts": [
+      { "text": "[[mortis]]では、均衡をもたらす者として改めて示された。", "revealedBy": ["tcw-s3"] }
+    ]
+  },
+  {
+    "id": "the-force",
+    "facts": [
+      { "text": "[[mortis]]では、明るい面・暗い面・その均衡という三つの姿をとって現れた。", "revealedBy": ["tcw-s3"] }
+    ]
+  },
+  {
+    "id": "coruscant",
+    "facts": [
+      { "text": "[[galactic-senate]]では、和平を探る動きと戦費を増やす動きがせめぎ合った。", "revealedBy": ["tcw-s3"] }
+    ]
+  },
+  {
+    "id": "galactic-senate",
+    "facts": [
+      { "text": "戦費の増額をめぐって争い、和平を探る議員も現れた。", "revealedBy": ["tcw-s3"] },
+      { "text": "[[galactic-empire|帝国]]によって解散させられた。", "revealedBy": ["ep4"] }
+    ]
+  },
+  {
+    "id": "jedi",
+    "facts": [
+      { "text": "戦が長引くなかで、騎士団のあり方を問う声も出た。", "revealedBy": ["tcw-s3"] }
+    ]
+  },
+  {
+    "id": "yoda",
+    "facts": [
+      { "text": "[[battle-of-kamino|カミーノを守る戦い]]では自ら前に立った。", "revealedBy": ["tcw-s3"] }
+    ]
+  },
+  {
+    "id": "darth-sidious",
+    "facts": [
+      { "text": "[[count-dooku]]に[[asajj-ventress]]を始末するよう命じた。", "revealedBy": ["tcw-s3"] }
+    ]
+  },
+  {
+    "id": "mandalore",
+    "facts": [
+      { "text": "闇の取り引きが広がり、子どもたちまで巻き込まれた。", "revealedBy": ["tcw-s3"] }
+    ]
+  },
+  {
+    "id": "separatists",
+    "facts": [
+      { "text": "[[kamino]]のクローン施設を潰そうとした。", "revealedBy": ["tcw-s3"] }
+    ]
+  },
+  {
+    "id": "padme-amidala",
+    "facts": [
+      { "text": "[[separatists]]の側にも和平を望む者がいると知り、話し合いの道を探った。", "revealedBy": ["tcw-s3"] }
+    ]
+  },
+  {
+    "id": "satine-kryze",
+    "facts": [
+      { "text": "[[mandalore]]に広がる闇の取り引きに手を焼いた。", "revealedBy": ["tcw-s3"] }
+    ]
+  }
+]
