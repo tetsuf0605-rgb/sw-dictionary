@@ -142,7 +142,7 @@
       { "text": "コルサント", "reading": "こるさんと", "en": "Coruscant" }
     ],
     "facts": [
-      { "kind": "summary", "text": "地表のすべてが街に覆われた惑星。[[galactic-republic]]の中心地。", "revealedBy": ["ep1"] },
+      { "kind": "summary", "text": "地表のすべてが街に覆われた惑星。[[galactic-republic]]の中心地。", "revealedBy": ["ep1", "ep2"] },
       { "text": "[[galactic-senate]]の議場と[[jedi-council]]の塔が置かれている。", "revealedBy": ["ep1"] }
     ]
   },
@@ -174,7 +174,7 @@
       { "text": "銀河共和国", "reading": "ぎんがきょうわこく", "en": "Galactic Republic" }
     ],
     "facts": [
-      { "kind": "summary", "text": "多くの星系が加わる銀河の統治体。[[coruscant]]を中心とする。", "revealedBy": ["ep1"] },
+      { "kind": "summary", "text": "多くの星系が加わる銀河の統治体。[[coruscant]]を中心とする。", "revealedBy": ["ep1", "ep2"] },
       { "text": "手続きと駆け引きに追われ、[[naboo]]の危機にすぐ動けなかった。", "revealedBy": ["ep1"] },
       { "text": "[[jedi|ジェダイ]]は共和国の求めに応じて調停役を務めていた。", "revealedBy": ["ep1"] }
     ]
@@ -186,7 +186,7 @@
       { "text": "銀河元老院", "reading": "ぎんがげんろういん", "en": "Galactic Senate" }
     ],
     "facts": [
-      { "kind": "summary", "text": "各星系の議員が集まる[[galactic-republic]]の議会。", "revealedBy": ["ep1"] },
+      { "kind": "summary", "text": "各星系の議員が集まる[[galactic-republic]]の議会。", "revealedBy": ["ep1", "ep2"] },
       { "text": "[[padme-amidala]]の訴えは調査にまわされ、その場では動かなかった。", "revealedBy": ["ep1"] },
       { "text": "最高議長が不信任となり、[[palpatine]]が新たに選ばれた。", "revealedBy": ["ep1"] }
     ]
@@ -198,7 +198,7 @@
       { "text": "通商連合", "reading": "つうしょうれんごう", "en": "Trade Federation" }
     ],
     "facts": [
-      { "kind": "summary", "text": "交易路を握る巨大な商業組織。[[battle-droid|バトル・ドロイド]]の軍を持つ。", "revealedBy": ["ep1"] },
+      { "kind": "summary", "text": "交易路を握る巨大な商業組織。[[battle-droid|バトル・ドロイド]]の軍を持つ。", "revealedBy": ["ep1", "ep2"] },
       { "text": "[[darth-sidious]]の指示で[[naboo]]を封鎖し、地上に軍を下ろした。", "revealedBy": ["ep1"] }
     ]
   },
@@ -221,7 +221,7 @@
       { "text": "ジェダイ評議会", "reading": "じぇだいひょうぎかい", "en": "Jedi Council" }
     ],
     "facts": [
-      { "kind": "summary", "text": "[[coruscant]]の塔に集う、[[jedi|ジェダイ]]の長老たちの会議。", "revealedBy": ["ep1"] },
+      { "kind": "summary", "text": "[[coruscant]]の塔に集う、[[jedi|ジェダイ]]の長老たちの会議。", "revealedBy": ["ep1", "ep2"] },
       { "text": "[[anakin-skywalker]]の内に恐れを見て取り、訓練を認めなかった。", "revealedBy": ["ep1"] },
       { "text": "[[qui-gon-jinn]]の死後、[[obi-wan-kenobi]]がアナキンを教えることを許した。", "revealedBy": ["ep1"] }
     ]
@@ -258,7 +258,7 @@
       { "text": "バトル・ドロイド", "reading": "ばとる・どろいど", "en": "Battle Droid" }
     ],
     "facts": [
-      { "kind": "summary", "text": "[[trade-federation]]が大量に投入した、細身の人型戦闘ドロイド。", "revealedBy": ["ep1"] },
+      { "kind": "summary", "text": "[[trade-federation]]が大量に投入した、細身の人型戦闘ドロイド。", "revealedBy": ["ep1", "ep2"] },
       { "text": "軌道上の指令船から統制されており、そこを断たれると一斉に止まった。", "revealedBy": ["ep1"] }
     ]
   },

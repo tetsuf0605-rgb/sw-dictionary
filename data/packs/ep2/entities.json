@@ -1,0 +1,371 @@
+[
+  {
+    "id": "count-dooku",
+    "type": "character",
+    "names": [
+      { "text": "ドゥークー伯爵", "reading": "どぅーくーはくしゃく", "en": "Count Dooku" },
+      { "text": "ダース・ティラナス", "reading": "だーす・てぃらなす", "en": "Darth Tyranus", "revealedBy": ["ep2"], "kind": "alias" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "かつて[[jedi|ジェダイ]]だった剣士で、[[separatists]]を率いる指導者。", "revealedBy": ["ep2"] },
+      { "text": "騎士団を去った人物として知られ、[[jedi-council]]は暗殺に手を染めるとは考えなかった。", "revealedBy": ["ep2"] },
+      { "text": "柄の曲がった[[lightsaber]]を使い、指先から稲妻を放つ。", "revealedBy": ["ep2"] },
+      { "text": "捕らえた[[obi-wan-kenobi]]に、[[galactic-senate]]は[[sith|シス]]の長に操られていると語った。", "revealedBy": ["ep2"] },
+      { "text": "[[anakin-skywalker]]の右腕を斬り落とし、駆けつけた[[yoda]]と力を競って逃れた。", "revealedBy": ["ep2"] },
+      { "text": "逃れた先の[[coruscant]]で、フードをかぶった[[darth-sidious]]に首尾を報告した。", "revealedBy": ["ep2"] }
+    ]
+  },
+  {
+    "id": "jango-fett",
+    "type": "character",
+    "names": [
+      { "text": "ジャンゴ・フェット", "reading": "じゃんご・ふぇっと", "en": "Jango Fett" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "青い装甲を身につけ、背に推進装置を負う賞金稼ぎ。[[kamino]]で暮らしていた。", "revealedBy": ["ep2"] },
+      { "text": "[[clone-trooper|クローン兵]]はすべてこの男を元に造られた。", "revealedBy": ["ep2"] },
+      { "text": "[[boba-fett]]を息子として育てていた。", "revealedBy": ["ep2"] },
+      { "text": "[[obi-wan-kenobi]]に追われ、[[geonosis]]へ逃れた。", "revealedBy": ["ep2"] },
+      { "text": "闘技場での戦いで[[mace-windu]]に斬られた。", "revealedBy": ["ep2"] }
+    ]
+  },
+  {
+    "id": "boba-fett",
+    "type": "character",
+    "names": [
+      { "text": "ボバ・フェット", "reading": "ぼば・ふぇっと", "en": "Boba Fett" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "[[jango-fett]]と共に[[kamino]]で暮らす少年。", "revealedBy": ["ep2"] },
+      { "text": "父に従って[[geonosis]]まで渡り、その死を目の前で見た。", "revealedBy": ["ep2"] }
+    ]
+  },
+  {
+    "id": "owen-lars",
+    "type": "character",
+    "names": [
+      { "text": "オーウェン・ラーズ", "reading": "おーうぇん・らーず", "en": "Owen Lars" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "[[tatooine]]の水分農場で暮らす若者。[[cliegg-lars]]の息子。", "revealedBy": ["ep2"] },
+      { "text": "父が[[shmi-skywalker]]を妻に迎えたため、[[anakin-skywalker]]とは義理の兄弟にあたる。", "revealedBy": ["ep2"] },
+      { "text": "[[beru]]と共に農場の仕事を担っていた。", "revealedBy": ["ep2"] }
+    ]
+  },
+  {
+    "id": "beru",
+    "type": "character",
+    "names": [
+      { "text": "ベルー", "reading": "べるー", "en": "Beru" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "[[owen-lars]]と共に[[tatooine]]の水分農場で暮らす女性。", "revealedBy": ["ep2"] },
+      { "text": "訪ねてきた[[anakin-skywalker]]たちを農場に迎えた。", "revealedBy": ["ep2"] }
+    ]
+  },
+  {
+    "id": "cliegg-lars",
+    "type": "character",
+    "names": [
+      { "text": "クリーグ・ラーズ", "reading": "くりーぐ・らーず", "en": "Cliegg Lars" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "[[tatooine]]で水分農場を営む男。[[shmi-skywalker]]を妻に迎えた。", "revealedBy": ["ep2"] },
+      { "text": "妻を[[tusken-raider]]にさらわれ、捜索に出て片脚を失った。", "revealedBy": ["ep2"] },
+      { "text": "訪ねてきた[[anakin-skywalker]]に、妻を取り戻せなかったことを打ち明けた。", "revealedBy": ["ep2"] }
+    ]
+  },
+  {
+    "id": "nute-gunray",
+    "type": "character",
+    "names": [
+      { "text": "ヌート・ガンレイ", "reading": "ぬーと・がんれい", "en": "Nute Gunray" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "[[trade-federation]]を率いる総督。", "revealedBy": ["ep1", "ep2"] },
+      { "text": "[[darth-sidious]]の指示を受けて[[naboo]]を封鎖し、軍を送って占領した。", "revealedBy": ["ep1"] },
+      { "text": "[[battle-of-naboo]]の末に捕らえられた。", "revealedBy": ["ep1"] },
+      { "text": "[[separatists]]に加わり、協力の条件として[[padme-amidala]]の死を求めた。", "revealedBy": ["ep2"] },
+      { "text": "[[geonosis]]の会合で[[count-dooku]]に軍を差し出すと約束した。", "revealedBy": ["ep2"] }
+    ]
+  },
+  {
+    "id": "kamino",
+    "type": "place",
+    "names": [
+      { "text": "カミーノ", "reading": "かみーの", "en": "Kamino" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "海に覆われ、絶え間なく雨の降る星。海上に建てられた施設が点在する。", "revealedBy": ["ep2"] },
+      { "text": "細長い体と長い首を持つ住人が、クローンを造る技術で知られていた。", "revealedBy": ["ep2"] },
+      { "text": "[[clone-trooper|クローン兵]]はここで育てられていた。", "revealedBy": ["ep2"] },
+      { "text": "[[jedi|ジェダイ]]の書庫から記録が消されており、星図に載っていなかった。", "revealedBy": ["ep2"] },
+      { "text": "軍の発注は10年ほど前に、すでに亡いジェダイの名で行われたと説明された。", "revealedBy": ["ep2"] },
+      { "text": "[[obi-wan-kenobi]]が[[jango-fett]]を見つけた場所である。", "revealedBy": ["ep2"] }
+    ]
+  },
+  {
+    "id": "geonosis",
+    "type": "place",
+    "names": [
+      { "text": "ジオノーシス", "reading": "じおのーしす", "en": "Geonosis" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "岩と赤い砂に覆われた星。虫のような姿の住人が塔のような巣に暮らす。", "revealedBy": ["ep2"] },
+      { "text": "地下に[[battle-droid|ドロイド軍]]を造る工場があった。", "revealedBy": ["ep2"] },
+      { "text": "[[separatists]]の指導者たちが集まり、[[count-dooku]]のもとで同盟を結んだ。", "revealedBy": ["ep2"] },
+      { "text": "大きな闘技場があり、囚人を獣に襲わせる見世物が行われた。", "revealedBy": ["ep2"] },
+      { "text": "[[battle-of-geonosis]]の舞台になった。", "revealedBy": ["ep2"] }
+    ]
+  },
+  {
+    "id": "separatists",
+    "type": "organization",
+    "names": [
+      { "text": "分離主義勢力", "reading": "ぶんりしゅぎせいりょく", "en": "Separatists" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "[[galactic-republic]]からの離脱を唱える星系や企業の集まり。[[count-dooku]]が率いる。", "revealedBy": ["ep2"] },
+      { "text": "[[trade-federation]]などの大きな企業が加わり、それぞれの[[battle-droid|ドロイド軍]]を戦力として差し出した。", "revealedBy": ["ep2"] },
+      { "text": "[[geonosis]]に指導者が集まり、共和国と戦う取り決めを交わした。", "revealedBy": ["ep2"] },
+      { "text": "共和国との対立は[[clone-wars]]に至った。", "revealedBy": ["ep2"] }
+    ]
+  },
+  {
+    "id": "clone-trooper",
+    "type": "organization",
+    "names": [
+      { "text": "クローン・トルーパー", "reading": "くろーん・とるーぱー", "en": "Clone Trooper" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "[[kamino]]で造られた、同じ顔と体を持つ兵士たち。", "revealedBy": ["ep2"] },
+      { "text": "元になったのは[[jango-fett]]である。", "revealedBy": ["ep2"] },
+      { "text": "成長を速める処置を受け、命令に忠実に従うよう育てられた。", "revealedBy": ["ep2"] },
+      { "text": "白い装甲を身につけ、[[jedi|ジェダイ]]の指揮のもとで戦った。", "revealedBy": ["ep2"] },
+      { "text": "[[galactic-republic]]の軍として[[battle-of-geonosis]]に投入された。", "revealedBy": ["ep2"] }
+    ]
+  },
+  {
+    "id": "tusken-raider",
+    "type": "species",
+    "names": [
+      { "text": "タスケン・レイダー", "reading": "たすけん・れいだー", "en": "Tusken Raider" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "[[tatooine]]の荒野に暮らす、布で全身を覆った民。", "revealedBy": ["ep2"] },
+      { "text": "群れで動き、入植者の農場や旅人を襲うことがある。", "revealedBy": ["ep2"] },
+      { "text": "[[shmi-skywalker]]をさらい、その息子[[anakin-skywalker]]に一族を討たれた。", "revealedBy": ["ep2"] }
+    ]
+  },
+  {
+    "id": "clone-wars",
+    "type": "concept",
+    "names": [
+      { "text": "クローン戦争", "reading": "くろーんせんそう", "en": "Clone Wars" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "[[galactic-republic]]と[[separatists]]のあいだで始まった、銀河規模の戦争。", "revealedBy": ["ep2"] },
+      { "text": "共和国は[[clone-trooper|クローン兵]]を、分離主義勢力は[[battle-droid|ドロイド軍]]を主力とした。", "revealedBy": ["ep2"] },
+      { "text": "[[battle-of-geonosis]]が最初の戦いとなった。", "revealedBy": ["ep2"] }
+    ]
+  },
+  {
+    "id": "padawan",
+    "type": "concept",
+    "names": [
+      { "text": "パダワン", "reading": "ぱだわん", "en": "Padawan" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "[[jedi|ジェダイ]]の弟子のこと。師に一人だけ付いて学ぶ。", "revealedBy": ["ep1", "ep2"] },
+      { "text": "修行を終えると[[jedi-council]]に認められ、騎士となる。", "revealedBy": ["ep1", "ep2"] }
+    ]
+  },
+  {
+    "id": "battle-of-geonosis",
+    "type": "event",
+    "names": [
+      { "text": "ジオノーシスの戦い", "reading": "じおのーしすのたたかい", "en": "Battle of Geonosis" }
+    ],
+    "date": { "year": -22, "precision": "exact" },
+    "facts": [
+      { "kind": "summary", "text": "[[geonosis]]で[[galactic-republic]]と[[separatists]]が初めて正面から戦った戦い。", "revealedBy": ["ep2"] },
+      { "text": "闘技場に囚われた[[obi-wan-kenobi]]たちを救うため、[[jedi|ジェダイ]]が乗り込んだ。", "revealedBy": ["ep2"] },
+      { "text": "[[yoda]]が[[clone-trooper|クローン兵]]を率いて到着し、囲まれたジェダイを救い出した。", "revealedBy": ["ep2"] },
+      { "text": "多くのジェダイが倒れ、[[count-dooku]]は[[anakin-skywalker]]を退けたのち逃れた。", "revealedBy": ["ep2"] },
+      { "text": "この戦いから[[clone-wars]]が始まった。", "revealedBy": ["ep2"] }
+    ]
+  },
+
+  {
+    "id": "anakin-skywalker",
+    "facts": [
+      { "text": "[[obi-wan-kenobi]]の弟子として10年を過ごし、若者に育っていた。", "revealedBy": ["ep2"] },
+      { "text": "[[padme-amidala]]の護衛を任され、[[naboo]]へ同行した。", "revealedBy": ["ep2"] },
+      { "text": "母の夢に悩まされ、[[tatooine]]へ戻った。", "revealedBy": ["ep2"] },
+      { "text": "母を[[tusken-raider]]に奪われ、怒りにまかせてその一族を討った。", "revealedBy": ["ep2"] },
+      { "text": "[[count-dooku]]との戦いで右腕を失い、機械の腕を付けた。", "revealedBy": ["ep2"] },
+      { "text": "戦いのあと、人目を避けて[[padme-amidala]]と結婚した。", "revealedBy": ["ep2"] }
+    ]
+  },
+  {
+    "id": "obi-wan-kenobi",
+    "facts": [
+      { "text": "[[jedi|ジェダイ]]の騎士となり、[[anakin-skywalker]]を弟子として育てていた。", "revealedBy": ["ep2"] },
+      { "text": "暗殺者が遺した毒矢をたどり、[[kamino]]で共和国の知らない軍を見つけた。", "revealedBy": ["ep2"] },
+      { "text": "[[jango-fett]]を追って[[geonosis]]に至り、[[separatists]]の企てを知った。", "revealedBy": ["ep2"] },
+      { "text": "捕らえられ、[[darth-sidious]]の名を聞かされたが信じなかった。", "revealedBy": ["ep2"] },
+      { "text": "[[anakin-skywalker]]と共に[[count-dooku]]に挑み、斬られて倒れた。", "revealedBy": ["ep2"] }
+    ]
+  },
+  {
+    "id": "padme-amidala",
+    "facts": [
+      { "text": "女王の任を終え、[[naboo]]選出の議員として[[galactic-senate]]に席を持っていた。", "revealedBy": ["ep2"] },
+      { "text": "共和国の軍を創設する法案に反対し、採決の前に繰り返し命を狙われた。", "revealedBy": ["ep2"] },
+      { "text": "[[anakin-skywalker]]と共に[[naboo]]へ身を隠し、やがて互いの思いを認めた。", "revealedBy": ["ep2"] },
+      { "text": "[[obi-wan-kenobi]]を助けようと[[geonosis]]へ向かい、闘技場に囚われた。", "revealedBy": ["ep2"] },
+      { "text": "戦いのあと、人目を避けてアナキンと結婚した。", "revealedBy": ["ep2"] }
+    ]
+  },
+  {
+    "id": "palpatine",
+    "facts": [
+      { "text": "最高議長の任期を延ばし、[[galactic-senate]]から非常の権限を与えられた。", "revealedBy": ["ep2"] },
+      { "text": "与えられた権限で、ただちに共和国の軍の創設を認めた。", "revealedBy": ["ep2"] }
+    ]
+  },
+  {
+    "id": "yoda",
+    "facts": [
+      { "text": "[[clone-trooper|クローン兵]]を率いて[[geonosis]]へ駆けつけ、囲まれた[[jedi|ジェダイ]]を救い出した。", "revealedBy": ["ep2"] },
+      { "text": "[[count-dooku]]と剣と力を競い、取り逃がした。", "revealedBy": ["ep2"] },
+      { "text": "始まった戦いを[[clone-wars]]と呼んだ。", "revealedBy": ["ep2"] }
+    ]
+  },
+  {
+    "id": "mace-windu",
+    "facts": [
+      { "text": "[[geonosis]]の闘技場に[[jedi|ジェダイ]]を率いて乗り込み、[[jango-fett]]を討った。", "revealedBy": ["ep2"] },
+      { "text": "ジェダイは平和の守り手であって兵ではないと考えていた。", "revealedBy": ["ep2"] }
+    ]
+  },
+  {
+    "id": "shmi-skywalker",
+    "facts": [
+      { "text": "自由の身となり、[[cliegg-lars]]の妻として[[tatooine]]の農場で暮らしていた。", "revealedBy": ["ep2"] },
+      { "text": "[[tusken-raider]]にさらわれ、駆けつけた[[anakin-skywalker]]の腕の中で息を引き取った。", "revealedBy": ["ep2"] }
+    ]
+  },
+  {
+    "id": "jar-jar-binks",
+    "facts": [
+      { "text": "[[naboo]]の代理議員として[[galactic-senate]]に出ていた。", "revealedBy": ["ep2"] },
+      { "text": "[[palpatine]]に非常の権限を与える動議を自ら出した。", "revealedBy": ["ep2"] }
+    ]
+  },
+  {
+    "id": "watto",
+    "facts": [
+      { "text": "10年を経ても[[mos-espa]]で商売を続けており、[[shmi-skywalker]]を手放した経緯を[[anakin-skywalker]]に伝えた。", "revealedBy": ["ep2"] }
+    ]
+  },
+  {
+    "id": "mos-espa",
+    "facts": [
+      { "text": "[[tatooine]]にある町で、10年の後も[[watto]]が同じ場所で商売を続けていた。", "revealedBy": ["ep2"] }
+    ]
+  },
+  {
+    "id": "c-3po",
+    "facts": [
+      { "text": "[[tatooine]]の水分農場で働いており、外装を得ていた。", "revealedBy": ["ep2"] },
+      { "text": "[[geonosis]]の工場と闘技場に巻き込まれ、一度は頭と胴が入れ替わった。", "revealedBy": ["ep2"] }
+    ]
+  },
+  {
+    "id": "r2-d2",
+    "facts": [
+      { "text": "[[padme-amidala]]に付き従い、[[geonosis]]まで同行した。", "revealedBy": ["ep2"] },
+      { "text": "[[c-3po]]を助け出し、入れ替わった体を元に戻した。", "revealedBy": ["ep2"] }
+    ]
+  },
+  {
+    "id": "tatooine",
+    "facts": [
+      { "text": "荒野には[[tusken-raider]]が暮らし、入植者の農場を襲うことがある。", "revealedBy": ["ep2"] },
+      { "text": "水分を集める農場が点在し、[[cliegg-lars]]の一家もそこで暮らしていた。", "revealedBy": ["ep2"] }
+    ]
+  },
+  {
+    "id": "coruscant",
+    "facts": [
+      { "text": "高層の建物のあいだを無数の乗り物が行き交い、夜も明かりが絶えない。", "revealedBy": ["ep2"] },
+      { "text": "[[galactic-senate]]で共和国の軍を創設するかどうかが論じられた。", "revealedBy": ["ep2"] }
+    ]
+  },
+  {
+    "id": "naboo",
+    "facts": [
+      { "text": "湖と草原の広がる地方があり、[[padme-amidala]]の隠れ場所になった。", "revealedBy": ["ep2"] }
+    ]
+  },
+  {
+    "id": "galactic-senate",
+    "facts": [
+      { "text": "共和国の軍を創設するかどうかで割れ、採決が迫っていた。", "revealedBy": ["ep2"] },
+      { "text": "[[palpatine]]に非常の権限を与えることを決め、軍の創設に道を開いた。", "revealedBy": ["ep2"] }
+    ]
+  },
+  {
+    "id": "galactic-republic",
+    "facts": [
+      { "text": "多くの星系が離脱を表明し、まとまりを失っていた。", "revealedBy": ["ep2"] },
+      { "text": "長く軍を持たなかったが、[[clone-trooper|クローン兵]]を得て[[battle-of-geonosis]]に臨んだ。", "revealedBy": ["ep2"] }
+    ]
+  },
+  {
+    "id": "jedi",
+    "facts": [
+      { "text": "数が減っており、銀河全体の調停を担うには足りなくなっていた。", "revealedBy": ["ep2"] },
+      { "text": "平和の守り手であって兵ではないとされていたが、[[clone-wars|戦争]]では軍の指揮を担うことになった。", "revealedBy": ["ep2"] }
+    ]
+  },
+  {
+    "id": "jedi-council",
+    "facts": [
+      { "text": "[[count-dooku]]が暗殺に関わるとは考えなかった。", "revealedBy": ["ep2"] },
+      { "text": "[[anakin-skywalker]]にはまだ騎士の位を認めていなかった。", "revealedBy": ["ep2"] }
+    ]
+  },
+  {
+    "id": "darth-sidious",
+    "facts": [
+      { "text": "フードをかぶった姿で現れ、[[count-dooku]]を弟子として従えていた。", "revealedBy": ["ep2"] },
+      { "text": "すべてが思惑どおりに運んだと語った。", "revealedBy": ["ep2"] }
+    ]
+  },
+  {
+    "id": "the-force",
+    "facts": [
+      { "text": "[[yoda]]によれば、ダークサイドの影が濃くなると先が見通せなくなる。", "revealedBy": ["ep2"] }
+    ]
+  },
+  {
+    "id": "lightsaber",
+    "facts": [
+      { "text": "[[count-dooku]]のように、柄の曲がった型を使う者もいる。", "revealedBy": ["ep2"] }
+    ]
+  },
+  {
+    "id": "trade-federation",
+    "facts": [
+      { "text": "[[separatists]]に加わり、[[battle-droid|ドロイド軍]]を差し出した。", "revealedBy": ["ep2"] }
+    ]
+  },
+  {
+    "id": "battle-droid",
+    "facts": [
+      { "text": "[[geonosis]]の工場で大量に造られ、[[battle-of-geonosis]]で[[clone-trooper|クローン兵]]と戦った。", "revealedBy": ["ep2"] }
+    ]
+  }
+]
