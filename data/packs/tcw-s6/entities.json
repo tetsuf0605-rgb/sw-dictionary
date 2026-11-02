@@ -33,7 +33,7 @@
       { "text": "制御チップ", "reading": "せいぎょちっぷ", "en": "Inhibitor Chip" }
     ],
     "facts": [
-      { "kind": "summary", "text": "[[clone-trooper|クローン兵]]の頭に、生まれる前から埋め込まれている小さな仕掛け。", "revealedBy": ["tcw-s6"] },
+      { "kind": "summary", "text": "[[clone-trooper|クローン兵]]の頭に、生まれる前から埋め込まれている小さな仕掛け。", "revealedBy": ["tcw-s6", "tcw-s7"] },
       { "text": "本来は兵の気性を抑えるためのものだと説明された。", "revealedBy": ["tcw-s6"] },
       { "text": "ある命令を受けたときに働くよう、初めから仕組まれていた。", "revealedBy": ["tcw-s6"] },
       { "text": "[[tup]]の異変をきっかけに見つかった。", "revealedBy": ["tcw-s6"] },

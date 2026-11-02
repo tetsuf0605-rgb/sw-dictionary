@@ -34,7 +34,7 @@
       { "text": "レックス", "reading": "れっくす", "en": "Rex" }
     ],
     "facts": [
-      { "kind": "summary", "text": "[[anakin-skywalker]]のもとで戦う[[clone-trooper|クローン兵]]の隊長。", "revealedBy": ["tcw-film", "tcw-s1", "tcw-s2", "tcw-s3", "tcw-s4", "ep3", "tcw-s6"] },
+      { "kind": "summary", "text": "[[anakin-skywalker]]のもとで戦う[[clone-trooper|クローン兵]]の隊長。", "revealedBy": ["tcw-film", "tcw-s1", "tcw-s2", "tcw-s3", "tcw-s4", "ep3", "tcw-s6", "tcw-s7"] },
       { "text": "青い模様を入れた装甲を身につけ、二丁の銃を使う。", "revealedBy": ["tcw-film"] },
       { "text": "[[teth]]の崖を登る作戦に加わった。", "revealedBy": ["tcw-film"] }
     ]

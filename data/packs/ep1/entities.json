@@ -142,7 +142,7 @@
       { "text": "コルサント", "reading": "こるさんと", "en": "Coruscant" }
     ],
     "facts": [
-      { "kind": "summary", "text": "地表のすべてが街に覆われた惑星。[[galactic-republic]]の中心地。", "revealedBy": ["ep1", "ep2", "tcw-film", "tcw-s1", "tcw-s2", "tcw-s3", "tcw-s4", "tcw-s5", "ep3"] },
+      { "kind": "summary", "text": "地表のすべてが街に覆われた惑星。[[galactic-republic]]の中心地。", "revealedBy": ["ep1", "ep2", "tcw-film", "tcw-s1", "tcw-s2", "tcw-s3", "tcw-s4", "tcw-s5", "ep3", "tcw-s6", "tcw-s7"] },
       { "text": "[[galactic-senate]]の議場と[[jedi-council]]の塔が置かれている。", "revealedBy": ["ep1"] }
     ]
   },

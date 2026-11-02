@@ -1,0 +1,207 @@
+[
+  {
+    "id": "bad-batch",
+    "type": "organization",
+    "names": [
+      { "text": "バッド・バッチ", "reading": "ばっど・ばっち", "en": "Bad Batch" },
+      { "text": "クローン・フォース99", "reading": "くろーん・ふぉーすきゅうじゅうきゅう", "en": "Clone Force 99", "revealedBy": ["tcw-s7"], "kind": "alias" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "規格から外れた体つきと力を持つ、少人数の[[clone-trooper|クローン兵]]の分隊。", "revealedBy": ["tcw-s7"] },
+      { "text": "四人がそれぞれ違う得手を持ち、ふつうの兵とは見た目も違う。", "revealedBy": ["tcw-s7"] },
+      { "text": "軍の決まりにはゆるく、腕で物を言わせる。", "revealedBy": ["tcw-s7"] },
+      { "text": "[[echo]]の救出に加わり、そのまま仲間に迎えた。", "revealedBy": ["tcw-s7"] }
+    ]
+  },
+  {
+    "id": "hunter",
+    "type": "character",
+    "names": [
+      { "text": "ハンター", "reading": "はんたー", "en": "Hunter" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "[[bad-batch]]の隊長。感覚が鋭く、遠くの気配や電波を読み取る。", "revealedBy": ["tcw-s7"] },
+      { "text": "頭に布を巻き、顔に入れ墨がある。", "revealedBy": ["tcw-s7"] }
+    ]
+  },
+  {
+    "id": "wrecker",
+    "type": "character",
+    "names": [
+      { "text": "レッカー", "reading": "れっかー", "en": "Wrecker" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "[[bad-batch]]の一人。並外れた力を持つ大男。", "revealedBy": ["tcw-s7"] },
+      { "text": "壊すことと爆薬を好む。", "revealedBy": ["tcw-s7"] }
+    ]
+  },
+  {
+    "id": "tech",
+    "type": "character",
+    "names": [
+      { "text": "テック", "reading": "てっく", "en": "Tech" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "[[bad-batch]]の一人。機械と情報に強く、眼鏡を掛けている。", "revealedBy": ["tcw-s7"] },
+      { "text": "早口で理屈を並べる。", "revealedBy": ["tcw-s7"] }
+    ]
+  },
+  {
+    "id": "crosshair",
+    "type": "character",
+    "names": [
+      { "text": "クロスヘア", "reading": "くろすへあ", "en": "Crosshair" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "[[bad-batch]]の一人。狙撃を得意とする痩せた兵。", "revealedBy": ["tcw-s7"] },
+      { "text": "口数が少なく、皮肉な物言いをする。", "revealedBy": ["tcw-s7"] }
+    ]
+  },
+  {
+    "id": "pyke-syndicate",
+    "type": "organization",
+    "names": [
+      { "text": "パイク・シンジケート", "reading": "ぱいく・しんじけーと", "en": "Pyke Syndicate" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "裏社会で薬物の商いを仕切る組織。", "revealedBy": ["tcw-s7"] },
+      { "text": "細長い顔つきと深いフードが目立つ。", "revealedBy": ["tcw-s7"] },
+      { "text": "[[coruscant]]の底にも手を伸ばしていた。", "revealedBy": ["tcw-s7"] },
+      { "text": "[[darth-maul]]の手駒の一つになっていた。", "revealedBy": ["tcw-s7"] }
+    ]
+  },
+  {
+    "id": "siege-of-mandalore",
+    "type": "event",
+    "names": [
+      { "text": "マンダロアの包囲戦", "reading": "まんだろあのほういせん", "en": "Siege of Mandalore" }
+    ],
+    "date": { "year": -19, "precision": "exact" },
+    "facts": [
+      { "kind": "summary", "text": "[[mandalore]]に居座る[[darth-maul]]を、共和国の軍と[[bo-katan-kryze]]たちが攻めた戦い。", "revealedBy": ["tcw-s7"] },
+      { "text": "騎士団を離れていた[[ahsoka-tano]]が、[[captain-rex]]と共に部隊を率いた。", "revealedBy": ["tcw-s7"] },
+      { "text": "モールは捕らえられたが、その直後に[[order-66]]が出された。", "revealedBy": ["tcw-s7"] },
+      { "text": "兵は一斉に向きを変え、アソーカとレックスは追われる側になった。", "revealedBy": ["tcw-s7"] }
+    ]
+  },
+
+  {
+    "id": "echo",
+    "facts": [
+      { "text": "爆発で死んだとされていたが、生きていた。", "revealedBy": ["tcw-s7"] },
+      { "text": "敵に囚われ、体を機械につながれて軍の動きを読み取られていた。", "revealedBy": ["tcw-s7"] },
+      { "text": "[[bad-batch]]に助け出され、そのまま分隊に加わった。", "revealedBy": ["tcw-s7"] },
+      { "text": "体は元には戻らなかった。", "revealedBy": ["tcw-s7"] }
+    ]
+  },
+  {
+    "id": "ahsoka-tano",
+    "facts": [
+      { "text": "騎士団を離れたまま、[[coruscant]]の底で暮らしていた。", "revealedBy": ["tcw-s7"] },
+      { "text": "請われて[[siege-of-mandalore|マンダロアの包囲戦]]に加わり、部隊を率いた。", "revealedBy": ["tcw-s7"] },
+      { "text": "[[darth-maul]]と剣を交え、これを捕らえた。", "revealedBy": ["tcw-s7"] },
+      { "text": "[[order-66]]のとき、[[captain-rex]]の頭から[[inhibitor-chip]]を取り出して難を逃れた。", "revealedBy": ["tcw-s7"] },
+      { "text": "墜ちた艦に兵たちを葬り、自らの剣を残して姿を消した。", "revealedBy": ["tcw-s7"] }
+    ]
+  },
+  {
+    "id": "captain-rex",
+    "facts": [
+      { "text": "[[ahsoka-tano]]と再び並んで戦った。", "revealedBy": ["tcw-s7"] },
+      { "text": "[[order-66]]に抗えず苦しんだが、頭の[[inhibitor-chip]]を取り出されて我に返った。", "revealedBy": ["tcw-s7"] },
+      { "text": "仲間を自らの手で失い、アソーカと共に姿を消した。", "revealedBy": ["tcw-s7"] }
+    ]
+  },
+  {
+    "id": "darth-maul",
+    "facts": [
+      { "text": "[[mandalore]]を裏から押さえ、[[pyke-syndicate]]などを手駒にしていた。", "revealedBy": ["tcw-s7"] },
+      { "text": "[[ahsoka-tano]]と剣を交え、捕らえられた。", "revealedBy": ["tcw-s7"] },
+      { "text": "かねてからの企てが仕上げに入ったことを察していた。", "revealedBy": ["tcw-s7"] },
+      { "text": "[[order-66]]の混乱に乗じて逃げ延びた。", "revealedBy": ["tcw-s7"] }
+    ]
+  },
+  {
+    "id": "bo-katan-kryze",
+    "facts": [
+      { "text": "共和国に助けを求め、[[siege-of-mandalore|包囲戦]]を共に戦った。", "revealedBy": ["tcw-s7"] },
+      { "text": "星を取り戻したものの、共和国の兵は一斉に去っていった。", "revealedBy": ["tcw-s7"] }
+    ]
+  },
+  {
+    "id": "mandalore",
+    "facts": [
+      { "text": "[[siege-of-mandalore|包囲戦]]の舞台になり、[[darth-maul]]の手から取り戻された。", "revealedBy": ["tcw-s7"] }
+    ]
+  },
+  {
+    "id": "order-66",
+    "facts": [
+      { "text": "頭の[[inhibitor-chip]]が働き、兵は自分の意思と関わりなく命令に従った。", "revealedBy": ["tcw-s7"] },
+      { "text": "チップを取り出された兵は、命令から逃れることができた。", "revealedBy": ["tcw-s7"] }
+    ]
+  },
+  {
+    "id": "inhibitor-chip",
+    "facts": [
+      { "text": "[[order-66]]のときに働き、兵を命令に従わせた。", "revealedBy": ["tcw-s7"] },
+      { "text": "取り出せば、兵は我に返ることができた。", "revealedBy": ["tcw-s7"] }
+    ]
+  },
+  {
+    "id": "clone-trooper",
+    "facts": [
+      { "text": "頭の仕掛けのことを知らないまま、命令に従わされた。", "revealedBy": ["tcw-s7"] },
+      { "text": "我に返った兵は、自分の手で何をしたかを背負うことになった。", "revealedBy": ["tcw-s7"] }
+    ]
+  },
+  {
+    "id": "darth-vader",
+    "facts": [
+      { "text": "墜ちた艦の跡に黒い甲冑の人物が現れ、[[ahsoka-tano]]のものだった剣を拾い上げた。", "revealedBy": ["tcw-s7"] }
+    ]
+  },
+  {
+    "id": "anakin-skywalker",
+    "facts": [
+      { "text": "騎士団を離れた[[ahsoka-tano]]に、かつての剣を返した。", "revealedBy": ["tcw-s7"] },
+      { "text": "包囲戦には向かわず、[[coruscant]]へ急いだ。", "revealedBy": ["tcw-s7"] }
+    ]
+  },
+  {
+    "id": "obi-wan-kenobi",
+    "facts": [
+      { "text": "[[coruscant]]の危急を受け、[[mandalore]]へは兵を割けなかった。", "revealedBy": ["tcw-s7"] }
+    ]
+  },
+  {
+    "id": "galactic-republic",
+    "facts": [
+      { "text": "最後まで戦線を広げ続けたが、その軍は一夜で別のものになった。", "revealedBy": ["tcw-s7"] }
+    ]
+  },
+  {
+    "id": "separatists",
+    "facts": [
+      { "text": "捕らえた兵から軍の動きを読み取り、戦いに使っていた。", "revealedBy": ["tcw-s7"] }
+    ]
+  },
+  {
+    "id": "coruscant",
+    "facts": [
+      { "text": "地の底には裏社会が広がり、そこで暮らす者たちがいた。", "revealedBy": ["tcw-s7"] }
+    ]
+  },
+  {
+    "id": "jedi",
+    "facts": [
+      { "text": "各地で同じ日に討たれ、生き残った者はばらばらに身を隠した。", "revealedBy": ["tcw-s7"] }
+    ]
+  },
+  {
+    "id": "clone-wars",
+    "facts": [
+      { "text": "最後の戦いのさなかに、兵がいきなり向きを変えて終わった。", "revealedBy": ["tcw-s7"] }
+    ]
+  }
+]

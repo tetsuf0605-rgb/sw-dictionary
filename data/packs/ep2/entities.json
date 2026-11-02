@@ -164,7 +164,7 @@
       { "text": "クローン戦争", "reading": "くろーんせんそう", "en": "Clone Wars" }
     ],
     "facts": [
-      { "kind": "summary", "text": "[[galactic-republic]]と[[separatists]]のあいだで始まった、銀河規模の戦争。", "revealedBy": ["ep2", "tcw-film", "tcw-s1", "tcw-s2", "tcw-s3", "tcw-s4", "tcw-s5", "ep3", "tcw-s6"] },
+      { "kind": "summary", "text": "[[galactic-republic]]と[[separatists]]のあいだで始まった、銀河規模の戦争。", "revealedBy": ["ep2", "tcw-film", "tcw-s1", "tcw-s2", "tcw-s3", "tcw-s4", "tcw-s5", "ep3", "tcw-s6", "tcw-s7"] },
       { "text": "共和国は[[clone-trooper|クローン兵]]を、分離主義勢力は[[battle-droid|ドロイド軍]]を主力とした。", "revealedBy": ["ep2"] },
       { "text": "[[battle-of-geonosis]]が最初の戦いとなった。", "revealedBy": ["ep2"] }
     ]

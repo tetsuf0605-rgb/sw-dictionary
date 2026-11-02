@@ -45,7 +45,7 @@
       { "text": "マンダロア", "reading": "まんだろあ", "en": "Mandalore" }
     ],
     "facts": [
-      { "kind": "summary", "text": "戦いの歴史を持つ星。今は戦いを捨て、中立を掲げている。", "revealedBy": ["tcw-s2", "tcw-s5"] },
+      { "kind": "summary", "text": "戦いの歴史を持つ星。今は戦いを捨て、中立を掲げている。", "revealedBy": ["tcw-s2", "tcw-s5", "tcw-s7"] },
       { "text": "透明な覆いに守られた都市があり、人々はその中で暮らす。", "revealedBy": ["tcw-s2"] },
       { "text": "[[satine-kryze]]が治めている。", "revealedBy": ["tcw-s2"] },
       { "text": "[[galactic-republic]]にも[[separatists]]にもつかない道を選んでいた。", "revealedBy": ["tcw-s2"] },
