@@ -45,7 +45,7 @@
       { "text": "マンダロア", "reading": "まんだろあ", "en": "Mandalore" }
     ],
     "facts": [
-      { "kind": "summary", "text": "戦いの歴史を持つ星。今は戦いを捨て、中立を掲げている。", "revealedBy": ["tcw-s2", "tcw-s5", "tcw-s7"] },
+      { "kind": "summary", "text": "戦いの歴史を持つ星。今は戦いを捨て、中立を掲げている。", "revealedBy": ["tcw-s2", "tcw-s5", "tcw-s7", "mando-s3"] },
       { "text": "透明な覆いに守られた都市があり、人々はその中で暮らす。", "revealedBy": ["tcw-s2"] },
       { "text": "[[satine-kryze]]が治めている。", "revealedBy": ["tcw-s2"] },
       { "text": "[[galactic-republic]]にも[[separatists]]にもつかない道を選んでいた。", "revealedBy": ["tcw-s2"] },
@@ -97,7 +97,7 @@
       { "text": "ダークセーバー", "reading": "だーくせーばー", "en": "Darksaber" }
     ],
     "facts": [
-      { "kind": "summary", "text": "黒い刃を持つ古い[[lightsaber]]。刃は平たく、先が尖っている。", "revealedBy": ["tcw-s2", "tcw-s5", "rebels-s3", "rebels-s4", "mando-s1", "mando-s2"] },
+      { "kind": "summary", "text": "黒い刃を持つ古い[[lightsaber]]。刃は平たく、先が尖っている。", "revealedBy": ["tcw-s2", "tcw-s5", "rebels-s3", "rebels-s4", "mando-s1", "mando-s2", "boba-fett", "mando-s3"] },
       { "text": "昔[[jedi|ジェダイ]]の神殿から持ち出されたものだと語られている。", "revealedBy": ["tcw-s2"] },
       { "text": "[[pre-vizsla]]がこれを振るい、[[death-watch]]を率いた。", "revealedBy": ["tcw-s2"] }
     ]

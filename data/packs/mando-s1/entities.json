@@ -7,7 +7,7 @@
       { "text": "マンダロリアン", "reading": "まんだろりあん", "en": "The Mandalorian", "revealedBy": ["mando-s1"], "kind": "alias" }
     ],
     "facts": [
-      { "kind": "summary", "text": "顔を人に見せない賞金稼ぎ。[[beskar]]の甲冑を身につけている。", "revealedBy": ["mando-s1", "mando-s2", "boba-fett"] },
+      { "kind": "summary", "text": "顔を人に見せない賞金稼ぎ。[[beskar]]の甲冑を身につけている。", "revealedBy": ["mando-s1", "mando-s2", "boba-fett", "mando-s3"] },
       { "text": "幼いころ戦火で親を失い、[[the-way|掟]]を守る者たちに育てられた。", "revealedBy": ["mando-s1"] },
       { "text": "一度かぶった兜を、人前では決して脱がない。", "revealedBy": ["mando-s1"] },
       { "text": "引き渡した[[the-child]]を連れ戻し、追われる身になった。", "revealedBy": ["mando-s1"] },
@@ -36,7 +36,7 @@
       { "text": "IG-11", "reading": "あいじーいれぶん", "en": "IG-11" }
     ],
     "facts": [
-      { "kind": "summary", "text": "細身の賞金稼ぎのドロイド。", "revealedBy": ["mando-s1"] },
+      { "kind": "summary", "text": "細身の賞金稼ぎのドロイド。", "revealedBy": ["mando-s1", "mando-s3"] },
       { "text": "捕らえられそうになると、自らを壊すよう作られている。", "revealedBy": ["mando-s1"] },
       { "text": "[[kuiil]]に組み直され、守り手として動くようになった。", "revealedBy": ["mando-s1"] },
       { "text": "[[the-child]]たちを守るために、自ら壊れた。", "revealedBy": ["mando-s1"] }
@@ -89,7 +89,7 @@
       { "text": "モフ・ギデオン", "reading": "もふ・ぎでおん", "en": "Moff Gideon" }
     ],
     "facts": [
-      { "kind": "summary", "text": "帝国の残党を率いる男。", "revealedBy": ["mando-s1", "mando-s2"] },
+      { "kind": "summary", "text": "帝国の残党を率いる男。", "revealedBy": ["mando-s1", "mando-s2", "mando-s3"] },
       { "text": "[[the-child]]を執拗に追っていた。", "revealedBy": ["mando-s1"] },
       { "text": "[[din-djarin]]の素性と本名を知っていた。", "revealedBy": ["mando-s1"] },
       { "text": "[[darksaber]]を手にしていた。", "revealedBy": ["mando-s1"] }
@@ -102,7 +102,7 @@
       { "text": "アーマラー", "reading": "あーまらー", "en": "The Armorer" }
     ],
     "facts": [
-      { "kind": "summary", "text": "[[beskar]]の甲冑を打つ女。", "revealedBy": ["mando-s1"] },
+      { "kind": "summary", "text": "[[beskar]]の甲冑を打つ女。", "revealedBy": ["mando-s1", "mando-s3"] },
       { "text": "角のついた兜をかぶっている。", "revealedBy": ["mando-s1"] },
       { "text": "[[the-way|掟]]を説き、仲間の進む道を示す。", "revealedBy": ["mando-s1"] },
       { "text": "[[din-djarin]]に[[the-child]]を託した。", "revealedBy": ["mando-s1"] }
@@ -115,7 +115,7 @@
       { "text": "ベスカー", "reading": "べすかー", "en": "Beskar" }
     ],
     "facts": [
-      { "kind": "summary", "text": "打ち直して使える、きわめて硬い金属。", "revealedBy": ["mando-s1", "mando-s2"] },
+      { "kind": "summary", "text": "打ち直して使える、きわめて硬い金属。", "revealedBy": ["mando-s1", "mando-s2", "boba-fett", "mando-s3"] },
       { "text": "光の刃も撃たれた弾もはじき返す。", "revealedBy": ["mando-s1"] },
       { "text": "マンダロリアンの甲冑は、これで作られる。", "revealedBy": ["mando-s1"] },
       { "text": "帝国が大量に奪い、溶かして蓄えていた。", "revealedBy": ["mando-s1"] }
@@ -128,7 +128,7 @@
       { "text": "マンダロリアンの掟", "reading": "まんだろりあんのおきて", "en": "The Way" }
     ],
     "facts": [
-      { "kind": "summary", "text": "顔を見せないことを含む、マンダロリアンの守る決まり。", "revealedBy": ["mando-s1", "mando-s2"] },
+      { "kind": "summary", "text": "顔を見せないことを含む、マンダロリアンの守る決まり。", "revealedBy": ["mando-s1", "mando-s2", "mando-s3"] },
       { "text": "「これが掟だ」と互いに言い交わす。", "revealedBy": ["mando-s1"] },
       { "text": "戦火で親を失った子を、一族として迎え入れる。", "revealedBy": ["mando-s1"] },
       { "text": "守る者たちは、地下に身を隠して暮らしていた。", "revealedBy": ["mando-s1"] }

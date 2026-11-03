@@ -151,7 +151,7 @@
       { "text": "新共和国", "reading": "しんきょうわこく", "en": "New Republic" }
     ],
     "facts": [
-      { "kind": "summary", "text": "[[galactic-empire]]が倒れたあとに築かれた、銀河の統治体。", "revealedBy": ["ep7", "mando-s1"] },
+      { "kind": "summary", "text": "[[galactic-empire]]が倒れたあとに築かれた、銀河の統治体。", "revealedBy": ["ep7", "mando-s1", "mando-s3"] },
       { "text": "軍を小さくし、[[first-order]]の力を軽く見ていた。", "revealedBy": ["ep7"] },
       { "text": "中枢を[[destruction-of-hosnian-system|一撃で失った]]。", "revealedBy": ["ep7"] }
     ]

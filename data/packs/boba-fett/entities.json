@@ -150,6 +150,12 @@
     ]
   },
   {
+    "id": "lightsaber",
+    "facts": [
+      { "text": "[[darksaber]]のように、持ち主を選ぶと言われるものもある。", "revealedBy": ["boba-fett"] }
+    ]
+  },
+  {
     "id": "beskar",
     "facts": [
       { "text": "甲冑のほか、槍や剣にも鍛えられる。", "revealedBy": ["boba-fett"] }

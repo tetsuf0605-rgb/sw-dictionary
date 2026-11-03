@@ -6,7 +6,7 @@
       { "text": "グローグー", "reading": "ぐろーぐー", "en": "Grogu" }
     ],
     "facts": [
-      { "kind": "summary", "text": "[[the-child|あの幼子]]の本当の名。", "revealedBy": ["mando-s2", "boba-fett"] },
+      { "kind": "summary", "text": "[[the-child|あの幼子]]の本当の名。", "revealedBy": ["mando-s2", "boba-fett", "mando-s3"] },
       { "text": "[[ahsoka-tano]]が名を呼び、来し方を読み取った。", "revealedBy": ["mando-s2"] },
       { "text": "昔[[jedi|ジェダイ]]の神殿で育てられ、多くを教わっていた。", "revealedBy": ["mando-s2"] },
       { "text": "神殿が襲われた日に連れ出され、そのあとの記憶に蓋をしていた。", "revealedBy": ["mando-s2"] },

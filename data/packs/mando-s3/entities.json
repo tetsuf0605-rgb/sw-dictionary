@@ -1,0 +1,194 @@
+[
+  {
+    "id": "mythosaur",
+    "type": "species",
+    "names": [
+      { "text": "ミソサウルス", "reading": "みそさうるす", "en": "Mythosaur" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "マンダロアの伝説に出てくる、見上げるほど巨大な獣。", "revealedBy": ["mando-s3"] },
+      { "text": "その骨を象った印が、民のしるしになっている。", "revealedBy": ["mando-s3"] },
+      { "text": "絶えたとされていたが、[[living-waters|泉]]の底で生きていた。", "revealedBy": ["mando-s3"] },
+      { "text": "見た者は、新しい時代の兆しだと受け取った。", "revealedBy": ["mando-s3"] }
+    ]
+  },
+  {
+    "id": "living-waters",
+    "type": "place",
+    "names": [
+      { "text": "生きた水", "reading": "いきたみず", "en": "Living Waters" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "[[mandalore]]の鉱山の底にある泉。", "revealedBy": ["mando-s3"] },
+      { "text": "身を清め、掟に立ち返るための場とされる。", "revealedBy": ["mando-s3"] },
+      { "text": "水の底に[[mythosaur]]がいた。", "revealedBy": ["mando-s3"] },
+      { "text": "[[din-djarin]]はここで身を清め、掟に戻った。", "revealedBy": ["mando-s3"] }
+    ]
+  },
+  {
+    "id": "paz-vizsla",
+    "type": "character",
+    "names": [
+      { "text": "パズ・ヴィズラ", "reading": "ぱず・びずら", "en": "Paz Vizsla" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "青い甲冑をまとう大柄なマンダロリアン。", "revealedBy": ["mando-s3"] },
+      { "text": "由緒ある一族の出で、[[darksaber]]は自分の家のものだと考えていた。", "revealedBy": ["mando-s3"] },
+      { "text": "仲間を逃がすため、しんがりを務めて倒れた。", "revealedBy": ["mando-s3"] }
+    ]
+  },
+  {
+    "id": "dr-pershing",
+    "type": "character",
+    "names": [
+      { "text": "パーシング博士", "reading": "ぱーしんぐはかせ", "en": "Dr. Pershing" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "クローンを研究していた帝国の学者。", "revealedBy": ["mando-s3"] },
+      { "text": "[[new-republic]]に保護され、名を変えて暮らしていた。", "revealedBy": ["mando-s3"] },
+      { "text": "研究を続けたいと願い、それにつけ込まれた。", "revealedBy": ["mando-s3"] }
+    ]
+  },
+  {
+    "id": "captain-teva",
+    "type": "character",
+    "names": [
+      { "text": "テヴァ大尉", "reading": "てばたいい", "en": "Captain Teva" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "辺境を回る[[new-republic]]の士官。", "revealedBy": ["mando-s3"] },
+      { "text": "帝国の残党が動いていることに気づいていたが、上は取り合わなかった。", "revealedBy": ["mando-s3"] }
+    ]
+  },
+  {
+    "id": "axe-woves",
+    "type": "character",
+    "names": [
+      { "text": "アックス・ウォーヴス", "reading": "あっくす・うぉーぶす", "en": "Axe Woves" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "[[bo-katan-kryze]]のもとを離れていたマンダロリアンの一人。", "revealedBy": ["mando-s3"] },
+      { "text": "仲間と共に、傭兵として暮らしていた。", "revealedBy": ["mando-s3"] },
+      { "text": "のちに[[bo-katan-kryze]]に従った。", "revealedBy": ["mando-s3"] }
+    ]
+  },
+  {
+    "id": "great-purge-of-mandalore",
+    "type": "event",
+    "names": [
+      { "text": "マンダロアの大粛清", "reading": "まんだろあのだいしゅくせい", "en": "Great Purge of Mandalore" }
+    ],
+    "date": { "year": -5, "precision": "approx", "order": 3 },
+    "facts": [
+      { "kind": "summary", "text": "帝国が[[mandalore]]を焼き、民を散り散りにした出来事。", "revealedBy": ["mando-s3"] },
+      { "text": "星の表は溶けて固まり、人の住めない土地になったと言われた。", "revealedBy": ["mando-s3"] },
+      { "text": "生き延びた者は各地に散り、掟を守る者とそうでない者に分かれた。", "revealedBy": ["mando-s3"] },
+      { "text": "[[beskar]]は奪われ、帝国に蓄えられた。", "revealedBy": ["mando-s3"] }
+    ]
+  },
+  {
+    "id": "retaking-of-mandalore",
+    "type": "event",
+    "names": [
+      { "text": "マンダロアの奪還", "reading": "まんだろあのだっかん", "en": "Retaking of Mandalore" }
+    ],
+    "date": { "year": 9, "precision": "approx", "order": 1 },
+    "facts": [
+      { "kind": "summary", "text": "散り散りだったマンダロリアンが[[mandalore]]を取り戻した出来事。", "revealedBy": ["mando-s3"] },
+      { "text": "[[bo-katan-kryze]]が、掟を守る者もそうでない者もまとめ上げた。", "revealedBy": ["mando-s3"] },
+      { "text": "帝国の残党が、星の地下に拠点を築いていた。", "revealedBy": ["mando-s3"] },
+      { "text": "[[moff-gideon]]が倒れ、民は土地に戻った。", "revealedBy": ["mando-s3"] }
+    ]
+  },
+
+  {
+    "id": "din-djarin",
+    "facts": [
+      { "text": "[[living-waters|泉]]で身を清め、掟に戻った。", "revealedBy": ["mando-s3"] },
+      { "text": "[[bo-katan-kryze]]を連れ帰り、散った仲間をまとめる橋渡しをした。", "revealedBy": ["mando-s3"] },
+      { "text": "[[darksaber]]を[[bo-katan-kryze]]に譲ろうとした。", "revealedBy": ["mando-s3"] },
+      { "text": "[[grogu]]を正式に弟子として迎えた。", "revealedBy": ["mando-s3"] }
+    ]
+  },
+  {
+    "id": "bo-katan-kryze",
+    "facts": [
+      { "text": "星を失い、城で一人くすぶっていた。", "revealedBy": ["mando-s3"] },
+      { "text": "[[darksaber]]を手にし、掟を守る一派にも受け入れられた。", "revealedBy": ["mando-s3"] },
+      { "text": "[[mythosaur]]を目にした。", "revealedBy": ["mando-s3"] },
+      { "text": "[[retaking-of-mandalore|星の奪還]]を率いた。", "revealedBy": ["mando-s3"] }
+    ]
+  },
+  {
+    "id": "moff-gideon",
+    "facts": [
+      { "text": "牢から逃れ、星の地下に拠点を築いていた。", "revealedBy": ["mando-s3"] },
+      { "text": "自分のクローンをいくつも用意していた。", "revealedBy": ["mando-s3"] },
+      { "text": "[[beskar]]の甲冑を身につけていた。", "revealedBy": ["mando-s3"] },
+      { "text": "[[retaking-of-mandalore|最後の戦い]]で倒れた。", "revealedBy": ["mando-s3"] }
+    ]
+  },
+  {
+    "id": "darksaber",
+    "facts": [
+      { "text": "[[bo-katan-kryze]]の手に渡った。", "revealedBy": ["mando-s3"] },
+      { "text": "[[moff-gideon]]に砕かれ、失われた。", "revealedBy": ["mando-s3"] }
+    ]
+  },
+  {
+    "id": "mandalore",
+    "facts": [
+      { "text": "[[great-purge-of-mandalore|帝国に焼かれ]]、人の住めない土地とされた。", "revealedBy": ["mando-s3"] },
+      { "text": "実際には空気も水も残っており、生き物もいた。", "revealedBy": ["mando-s3"] },
+      { "text": "[[retaking-of-mandalore|民の手に戻った]]。", "revealedBy": ["mando-s3"] }
+    ]
+  },
+  {
+    "id": "grogu",
+    "names": [
+      { "text": "ディン・グローグー", "reading": "でぃん・ぐろーぐー", "en": "Din Grogu", "revealedBy": ["mando-s3"], "kind": "alias" }
+    ],
+    "facts": [
+      { "text": "[[ig-11]]の部品で作られた、歩く器に乗って動いた。", "revealedBy": ["mando-s3"] },
+      { "text": "[[din-djarin]]の弟子として正式に迎えられた。", "revealedBy": ["mando-s3"] }
+    ]
+  },
+  {
+    "id": "the-armorer",
+    "facts": [
+      { "text": "散っていた仲間を呼び戻し、一つにまとめようとした。", "revealedBy": ["mando-s3"] },
+      { "text": "[[grogu]]を弟子として認めた。", "revealedBy": ["mando-s3"] }
+    ]
+  },
+  {
+    "id": "ig-11",
+    "facts": [
+      { "text": "一度は直されたが動かず、部品が別の形で使われた。", "revealedBy": ["mando-s3"] }
+    ]
+  },
+  {
+    "id": "new-republic",
+    "facts": [
+      { "text": "帝国の者を保護し、やり直させる仕組みを設けていた。", "revealedBy": ["mando-s3"] },
+      { "text": "辺境からの訴えを軽んじ、残党の動きを見落としていた。", "revealedBy": ["mando-s3"] }
+    ]
+  },
+  {
+    "id": "galactic-empire",
+    "facts": [
+      { "text": "倒れたのちも、残党が星の地下に拠点を築いていた。", "revealedBy": ["mando-s3"] }
+    ]
+  },
+  {
+    "id": "lightsaber",
+    "facts": [
+      { "text": "刃を生む石が砕ければ、二度と使えなくなる。", "revealedBy": ["mando-s3"] }
+    ]
+  },
+  {
+    "id": "beskar",
+    "facts": [
+      { "text": "[[great-purge-of-mandalore|大粛清]]で奪われ、帝国が蓄えていた。", "revealedBy": ["mando-s3"] }
+    ]
+  }
+]
