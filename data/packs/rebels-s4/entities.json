@@ -6,7 +6,7 @@
       { "text": "パーギル", "reading": "ぱーぎる", "en": "Purrgil" }
     ],
     "facts": [
-      { "kind": "summary", "text": "宇宙を渡る、鯨のように巨大な生き物。", "revealedBy": ["rebels-s4"] },
+      { "kind": "summary", "text": "宇宙を渡る、鯨のように巨大な生き物。", "revealedBy": ["rebels-s4", "ahsoka-s1"] },
       { "text": "群れで現れ、星と星の間を自ら跳ぶ。", "revealedBy": ["rebels-s4"] },
       { "text": "船を巻き込むこともあり、長く嫌われていた。", "revealedBy": ["rebels-s4"] },
       { "text": "[[ezra-bridger]]の呼びかけに応えた。", "revealedBy": ["rebels-s4"] }
@@ -32,7 +32,7 @@
       { "text": "ジェイセン・シンドゥーラ", "reading": "じぇいせん・しんどぅーら", "en": "Jacen Syndulla" }
     ],
     "facts": [
-      { "kind": "summary", "text": "[[hera-syndulla]]の息子。", "revealedBy": ["rebels-s4"] },
+      { "kind": "summary", "text": "[[hera-syndulla]]の息子。", "revealedBy": ["rebels-s4", "ahsoka-s1"] },
       { "text": "父は[[kanan-jarrus]]である。", "revealedBy": ["rebels-s4"] },
       { "text": "帝国が倒れたあとの世に育った。", "revealedBy": ["rebels-s4"] }
     ]

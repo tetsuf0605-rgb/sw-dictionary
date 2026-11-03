@@ -1,0 +1,204 @@
+[
+  {
+    "id": "baylan-skoll",
+    "type": "character",
+    "names": [
+      { "text": "ベイラン・スコール", "reading": "べいらん・すこーる", "en": "Baylan Skoll" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "騎士団を離れた、年老いた剣士。", "revealedBy": ["ahsoka-s1"] },
+      { "text": "橙の刃を持つ大きな剣を使う。", "revealedBy": ["ahsoka-s1"] },
+      { "text": "騎士団の終わりを見て、すべてを作り直すべきだと考えている。", "revealedBy": ["ahsoka-s1"] },
+      { "text": "金で雇われながら、自分の目当てを追っていた。", "revealedBy": ["ahsoka-s1"] },
+      { "text": "[[peridea]]で、古い言い伝えの先へ独り向かった。", "revealedBy": ["ahsoka-s1"] }
+    ]
+  },
+  {
+    "id": "shin-hati",
+    "type": "character",
+    "names": [
+      { "text": "シン・ハティ", "reading": "しん・はてぃ", "en": "Shin Hati" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "[[baylan-skoll]]の弟子の若い女。", "revealedBy": ["ahsoka-s1"] },
+      { "text": "師に力と、その先にあるものを求めていた。", "revealedBy": ["ahsoka-s1"] },
+      { "text": "[[sabine-wren]]と幾度も剣を交えた。", "revealedBy": ["ahsoka-s1"] },
+      { "text": "師に置いていかれた。", "revealedBy": ["ahsoka-s1"] }
+    ]
+  },
+  {
+    "id": "morgan-elsbeth",
+    "type": "character",
+    "names": [
+      { "text": "モーガン・エルズベス", "reading": "もーがん・えるずべす", "en": "Morgan Elsbeth" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "[[thrawn]]を探し続けてきた女。", "revealedBy": ["ahsoka-s1"] },
+      { "text": "[[nightsisters]]の血を引いている。", "revealedBy": ["ahsoka-s1"] },
+      { "text": "遠い銀河へ渡るための大きな環を造らせた。", "revealedBy": ["ahsoka-s1"] },
+      { "text": "[[great-mothers]]に迎えられ、力を与えられた。", "revealedBy": ["ahsoka-s1"] }
+    ]
+  },
+  {
+    "id": "peridea",
+    "type": "place",
+    "names": [
+      { "text": "ペリディア", "reading": "ぺりでぃあ", "en": "Peridea" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "遠く離れた銀河にある、荒れた星。", "revealedBy": ["ahsoka-s1"] },
+      { "text": "魔女たちの古い土地とされる。", "revealedBy": ["ahsoka-s1"] },
+      { "text": "[[purrgil]]の墓場があり、群れが行き来する。", "revealedBy": ["ahsoka-s1"] },
+      { "text": "[[ezra-bridger]]が長く身を寄せていた。", "revealedBy": ["ahsoka-s1"] }
+    ]
+  },
+  {
+    "id": "great-mothers",
+    "type": "organization",
+    "names": [
+      { "text": "大いなる母たち", "reading": "おおいなるははたち", "en": "Great Mothers" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "[[peridea]]に残る三人の魔女。", "revealedBy": ["ahsoka-s1"] },
+      { "text": "[[nightsisters]]の流れをくむ。", "revealedBy": ["ahsoka-s1"] },
+      { "text": "[[morgan-elsbeth]]を迎え、力を与えた。", "revealedBy": ["ahsoka-s1"] },
+      { "text": "[[thrawn]]に兵と術を貸した。", "revealedBy": ["ahsoka-s1"] }
+    ]
+  },
+  {
+    "id": "huyang",
+    "type": "character",
+    "names": [
+      { "text": "ヒューヤン", "reading": "ひゅーやん", "en": "Huyang" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "古くから弟子たちに剣の作り方を教えてきたドロイド。", "revealedBy": ["tcw-s5", "ahsoka-s1"] },
+      { "text": "[[ilum]]へ向かう弟子たちに付き添い、[[kyber-crystal]]の扱いを説いた。", "revealedBy": ["tcw-s5"] },
+      { "text": "長い年月を経てなお動き、[[ahsoka-tano]]の船に乗っていた。", "revealedBy": ["ahsoka-s1"] },
+      { "text": "昔の弟子たちのことを、よく覚えている。", "revealedBy": ["ahsoka-s1"] }
+    ]
+  },
+  {
+    "id": "return-of-thrawn",
+    "type": "event",
+    "names": [
+      { "text": "スローンの帰還", "reading": "すろーんのきかん", "en": "Return of Thrawn" }
+    ],
+    "date": { "year": 9, "precision": "approx", "order": 2 },
+    "facts": [
+      { "kind": "summary", "text": "行方知れずだった[[thrawn]]が、遠い銀河から戻ってきた出来事。", "revealedBy": ["ahsoka-s1"] },
+      { "text": "[[morgan-elsbeth]]たちが、長い年月をかけて道を用意していた。", "revealedBy": ["ahsoka-s1"] },
+      { "text": "[[ahsoka-tano]]たちは、これを阻めなかった。", "revealedBy": ["ahsoka-s1"] },
+      { "text": "帝国の残党にとっての拠り所になった。", "revealedBy": ["ahsoka-s1"] }
+    ]
+  },
+
+  {
+    "id": "ahsoka-tano",
+    "facts": [
+      { "text": "[[sabine-wren]]を弟子に取ったが、一度は離れていた。", "revealedBy": ["ahsoka-s1"] },
+      { "text": "時と場所がつながる場所で、かつての師と向き合った。", "revealedBy": ["ahsoka-s1"] },
+      { "text": "自らの来し方を見つめ直し、弟子を迎え直した。", "revealedBy": ["ahsoka-s1"] },
+      { "text": "[[peridea]]に残った。", "revealedBy": ["ahsoka-s1"] }
+    ]
+  },
+  {
+    "id": "sabine-wren",
+    "facts": [
+      { "text": "[[ahsoka-tano]]の弟子となったが、力をうまく使えずにいた。", "revealedBy": ["ahsoka-s1"] },
+      { "text": "[[ezra-bridger]]を取り戻すため、敵の手を借りた。", "revealedBy": ["ahsoka-s1"] },
+      { "text": "遠い銀河で仲間を見つけ出した。", "revealedBy": ["ahsoka-s1"] },
+      { "text": "[[peridea]]に残った。", "revealedBy": ["ahsoka-s1"] }
+    ]
+  },
+  {
+    "id": "ezra-bridger",
+    "facts": [
+      { "text": "遠い銀河で長く生き延びていた。", "revealedBy": ["ahsoka-s1"] },
+      { "text": "[[purrgil]]と共に、元の銀河へ帰った。", "revealedBy": ["ahsoka-s1"] }
+    ]
+  },
+  {
+    "id": "thrawn",
+    "facts": [
+      { "text": "遠い銀河で[[great-mothers]]と手を結んでいた。", "revealedBy": ["ahsoka-s1"] },
+      { "text": "[[return-of-thrawn|長い年月を経て]]、元の銀河へ戻ってきた。", "revealedBy": ["ahsoka-s1"] }
+    ]
+  },
+  {
+    "id": "hera-syndulla",
+    "facts": [
+      { "text": "[[new-republic]]の将として、艦隊を預かっていた。", "revealedBy": ["ahsoka-s1"] },
+      { "text": "上の反対を押し切って、仲間を助けに向かった。", "revealedBy": ["ahsoka-s1"] }
+    ]
+  },
+  {
+    "id": "jacen-syndulla",
+    "facts": [
+      { "text": "剣を振るう者たちに憧れていた。", "revealedBy": ["ahsoka-s1"] },
+      { "text": "[[the-force]]の素質を見せた。", "revealedBy": ["ahsoka-s1"] }
+    ]
+  },
+  {
+    "id": "chopper",
+    "facts": [
+      { "text": "相変わらず[[hera-syndulla]]のそばにいた。", "revealedBy": ["ahsoka-s1"] }
+    ]
+  },
+  {
+    "id": "anakin-skywalker",
+    "facts": [
+      { "text": "時と場所がつながる場所で、[[ahsoka-tano]]の前に現れた。", "revealedBy": ["ahsoka-s1"] },
+      { "text": "教えた者としての自らの来し方を、弟子に突きつけた。", "revealedBy": ["ahsoka-s1"] },
+      { "text": "生きるか死ぬかを選べと迫り、生きることを選ばせた。", "revealedBy": ["ahsoka-s1"] }
+    ]
+  },
+  {
+    "id": "nightsisters",
+    "facts": [
+      { "text": "遠い銀河にも、その流れをくむ者たちが残っていた。", "revealedBy": ["ahsoka-s1"] }
+    ]
+  },
+  {
+    "id": "purrgil",
+    "facts": [
+      { "text": "銀河と銀河のあいだを渡ることもできる。", "revealedBy": ["ahsoka-s1"] }
+    ]
+  },
+  {
+    "id": "galactic-empire",
+    "facts": [
+      { "text": "残党が遠い銀河で力を蓄え、戻る日を待っていた。", "revealedBy": ["ahsoka-s1"] }
+    ]
+  },
+  {
+    "id": "lothal",
+    "facts": [
+      { "text": "[[sabine-wren]]が塔を住みかにして暮らしていた。", "revealedBy": ["ahsoka-s1"] }
+    ]
+  },
+  {
+    "id": "the-ghost",
+    "facts": [
+      { "text": "[[hera-syndulla]]のもとで、まだ現役で飛んでいた。", "revealedBy": ["ahsoka-s1"] }
+    ]
+  },
+  {
+    "id": "new-republic",
+    "facts": [
+      { "text": "帝国の残党が動いているという訴えを、軽んじていた。", "revealedBy": ["ahsoka-s1"] }
+    ]
+  },
+  {
+    "id": "mon-mothma",
+    "facts": [
+      { "text": "[[new-republic]]を率いる立場にあった。", "revealedBy": ["ahsoka-s1"] }
+    ]
+  },
+  {
+    "id": "the-force",
+    "facts": [
+      { "text": "力の使い方は人によって違い、学び方も一つではない。", "revealedBy": ["ahsoka-s1"] }
+    ]
+  }
+]
