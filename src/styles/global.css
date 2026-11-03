@@ -79,11 +79,12 @@ button {
   position: sticky;
   top: 0;
   z-index: 10;
-  height: var(--header-h);
+  height: var(--header-total);
   display: flex;
   align-items: center;
   gap: 8px;
-  padding: 0 8px;
+  padding: var(--safe-top) max(8px, env(safe-area-inset-right)) 0
+    max(8px, env(safe-area-inset-left));
   background: rgba(10, 10, 15, 0.88);
   backdrop-filter: blur(8px);
   border-bottom: 1px solid var(--border);
@@ -107,7 +108,7 @@ button {
 /* 「すべて表示」が ON のときの警告帯（docs/03 §3） */
 .spoilerBanner {
   position: sticky;
-  top: var(--header-h);
+  top: var(--header-total);
   z-index: 9;
   margin: 0;
   padding: 6px 16px;
@@ -500,11 +501,11 @@ button {
 }
 
 .kanaGroup {
-  scroll-margin-top: calc(var(--header-h) + 8px);
+  scroll-margin-top: calc(var(--header-total) + 8px);
 }
 .kanaGroup__head {
   position: sticky;
-  top: var(--header-h);
+  top: var(--header-total);
   z-index: 5;
   margin: 12px 0 4px;
   padding: 2px 0;
@@ -540,7 +541,7 @@ button {
 
 .kanaIndex {
   position: sticky;
-  top: calc(var(--header-h) + 8px);
+  top: calc(var(--header-total) + 8px);
   flex: none;
   display: flex;
   flex-direction: column;
@@ -690,7 +691,7 @@ button {
 }
 .timeline__era {
   position: sticky;
-  top: var(--header-h);
+  top: var(--header-total);
   z-index: 5;
   margin: 18px 0 8px;
   padding: 4px 0;
@@ -843,7 +844,7 @@ button {
 /* --- 更新案内（docs/01 F-07） --- */
 .updateBar {
   position: sticky;
-  top: var(--header-h);
+  top: var(--header-total);
   z-index: 9;
   display: flex;
   align-items: center;

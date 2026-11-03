@@ -21,4 +21,11 @@
   --maxw: 640px;
   --header-h: 48px;
   --tabbar-h: 56px;
+  /* iPhone の時計やノッチに重ならないための上端の安全余白。
+     変数にしてあるのは、PC のブラウザでは env() が 0 になるため、
+     確認のときに値を差し替えて見た目を試せるようにするため */
+  --safe-top: env(safe-area-inset-top);
+  /* 上端の安全余白を足したヘッダーの高さ。
+     ヘッダーの下に貼り付く要素（かな見出し・時代区分・更新案内など）は、この値を使う */
+  --header-total: calc(var(--header-h) + var(--safe-top));
 }
