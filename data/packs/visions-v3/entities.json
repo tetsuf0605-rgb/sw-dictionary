@@ -1,0 +1,63 @@
+[
+  {
+    "id": "teto",
+    "type": "character",
+    "names": [
+      { "text": "テト", "reading": "てと", "en": "Teto" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "見捨てられた船を守り続けていた、目の大きな小さなドロイド。", "revealedBy": ["visions-v3"] },
+      { "text": "漂っていた[[lah-kara]]を拾い上げ、助けた。", "revealedBy": ["visions-v3"] },
+      { "text": "主を治療槽に残したまま、何百年も待っていた。", "revealedBy": ["visions-v3"] },
+      { "text": "倒れた像に道をふさがれ、主に会えなくなっていた。", "revealedBy": ["visions-v3"] },
+      { "text": "主がすでに亡いと知らされても、会わせてくれた礼を言った。", "revealedBy": ["visions-v3"] },
+      { "text": "[[lah-kara]]に汁物を作って食べさせた。", "revealedBy": ["visions-v3"] },
+      { "text": "脱出艇に彼女を押し込み、残った力を使い切って送り出した。", "revealedBy": ["visions-v3"] },
+      { "text": "「君は銀河の最後の望みだ」と言い残し、船ごと果てた。", "revealedBy": ["visions-v3"] }
+    ]
+  },
+  {
+    "id": "nawaam",
+    "type": "character",
+    "names": [
+      { "text": "ナワーム", "reading": "なわーむ", "en": "Nawaam" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "面をつけた将。ジェダイを根絶やしにしようとしている。", "revealedBy": ["visions-v3", "visions-ninth-jedi"] },
+      { "text": "ジェダイ一人に一億の懸賞をかけ、追っ手を各地に放った。", "revealedBy": ["visions-v3"] },
+      { "text": "戦乱の世に現れた覇者の一人で、星を次々に従わせていた。", "revealedBy": ["visions-ninth-jedi"] },
+      { "text": "[[sith-acolytes|シスの徒]]と手を結び、追っ手を手足のように使った。", "revealedBy": ["visions-ninth-jedi"] },
+      { "text": "少年の日に[[lah-zhima]]の剣さばきを見て、その「無」の境地に魅せられた。", "revealedBy": ["visions-ninth-jedi"] },
+      { "text": "そのとき倒れた師の剣を拾い、自分のものにした。", "revealedBy": ["visions-ninth-jedi"] },
+      { "text": "光と闇の区別を「古くさい戯言」と呼び、両方を受け入れよと説いた。", "revealedBy": ["visions-ninth-jedi"] },
+      { "text": "[[lah-kara]]の前で己の刃が赤く染まり、敗れた。", "revealedBy": ["visions-ninth-jedi"] }
+    ]
+  },
+  {
+    "id": "bee-toh",
+    "type": "character",
+    "names": [
+      { "text": "ビー・トー", "reading": "びー・とー", "en": "Bee-Toh" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "もとは[[jedi-hunters|ジェダイ・ハンター]]だった男。", "revealedBy": ["visions-v3", "visions-ninth-jedi"] },
+      { "text": "[[lah-zhima]]を捕らえたのはこの者だった。", "revealedBy": ["visions-v3"] },
+      { "text": "のちに追っ手の側を離れ、[[lah-kara]]たちと共に戦った。", "revealedBy": ["visions-ninth-jedi"] },
+      { "text": "銃と剣の両方を使う。", "revealedBy": ["visions-ninth-jedi"] },
+      { "text": "巨大な結晶を銃で撃ち、赤い光の束を噴き出させてしまった。", "revealedBy": ["visions-ninth-jedi"] }
+    ]
+  },
+  {
+    "id": "anda",
+    "type": "character",
+    "names": [
+      { "text": "アンダ", "reading": "あんだ", "en": "Anda" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "[[jedi-hunters|ジェダイ・ハンター]]の船を率いる男。", "revealedBy": ["visions-v3"] },
+      { "text": "相棒のウンダと組み、飛ぶ刃物を投げて戦う。", "revealedBy": ["visions-v3"] },
+      { "text": "[[lah-kara]]を生け捕りにして、仲間を誘い出そうとした。", "revealedBy": ["visions-v3"] },
+      { "text": "[[teto]]の船に乗り込み、脱出艇を取り逃がした。", "revealedBy": ["visions-v3"] }
+    ]
+  }
+]

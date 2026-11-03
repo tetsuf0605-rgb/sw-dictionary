@@ -1,0 +1,170 @@
+[
+  {
+    "id": "lah-kara",
+    "type": "character",
+    "names": [
+      { "text": "ラー・カーラ", "reading": "らー・かーら", "en": "Lah Kara" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "剣鍛冶の娘である少女。", "revealedBy": ["visions-v1", "visions-v3", "visions-ninth-jedi"] },
+      { "text": "父[[lah-zhima]]の鍛えた剣を[[aerial-temple|空中寺院]]へ届ける役を負った。", "revealedBy": ["visions-v1"] },
+      { "text": "[[jedi-hunters|ジェダイ・ハンター]]に追われ、速度車を後ろ向きに走らせて光弾を弾いた。", "revealedBy": ["visions-v1"] },
+      { "text": "はじめは刃が暗い色しか出ず、自分の力を疑っていた。", "revealedBy": ["visions-v1"] },
+      { "text": "寺院で正体を現した者たちと戦い、刃が澄んだ緑になった。", "revealedBy": ["visions-v1"] },
+      { "text": "[[margrave-juro]]から「フォースに導かれた者」と言われた。", "revealedBy": ["visions-v1"] },
+      { "text": "船の壁を破られて宇宙へ吸い出され、独りで漂った。", "revealedBy": ["visions-v3"] },
+      { "text": "古い船で[[teto]]と出会い、力を使って倒れた像を動かした。", "revealedBy": ["visions-v3"] },
+      { "text": "連れ去られた父を探していることを打ち明けた。", "revealedBy": ["visions-v3"] },
+      { "text": "父が生きていると知らされた。", "revealedBy": ["visions-ninth-jedi"] },
+      { "text": "[[nawaam]]と刃を交え、「善と悪は同じものの半分ずつ」という言葉を退けた。", "revealedBy": ["visions-ninth-jedi"] },
+      { "text": "相手を傷つけないために刃を消したまま打ち、それでも刃は緑のままだった。", "revealedBy": ["visions-ninth-jedi"] },
+      { "text": "仲間と共に、巨大な結晶を砕いて砲を止めた。", "revealedBy": ["visions-ninth-jedi"] }
+    ]
+  },
+  {
+    "id": "lah-zhima",
+    "type": "character",
+    "names": [
+      { "text": "ラー・ジーマ", "reading": "らー・じーま", "en": "Lah Zhima" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "名高い剣鍛冶。[[lah-kara]]の父。", "revealedBy": ["visions-v1", "visions-v3", "visions-ninth-jedi"] },
+      { "text": "失われていたライトセーバーを、七本打ち上げた。", "revealedBy": ["visions-v1"] },
+      { "text": "結晶を使い手の心に応えるよう焼き入れしており、刃の色も長さも人によって変わる。", "revealedBy": ["visions-v1"] },
+      { "text": "「フォースはすべての生き物の中にある」と娘に教えた。", "revealedBy": ["visions-v1"] },
+      { "text": "剣を渡すことを拒み、[[jedi-hunters|ジェダイ・ハンター]]に連れ去られた。", "revealedBy": ["visions-v1"] },
+      { "text": "幼い娘に「考えを縛るな」と言って、力の使い方を教えていた。", "revealedBy": ["visions-v3"] },
+      { "text": "実はかつてジェダイであり、師を斬って去った身だった。", "revealedBy": ["visions-ninth-jedi"] },
+      { "text": "銀の刃と、何も持たない「無」の境地で知られていた。", "revealedBy": ["visions-ninth-jedi"] },
+      { "text": "[[nawaam]]と刃を交えて深く傷ついたが、生き延びた。", "revealedBy": ["visions-ninth-jedi"] },
+      { "text": "娘が自分たちの及ばぬところまで届いたと認めた。", "revealedBy": ["visions-ninth-jedi"] }
+    ]
+  },
+  {
+    "id": "margrave-juro",
+    "type": "character",
+    "names": [
+      { "text": "マーグレイブ・ジュロ", "reading": "まーぐれいぶ・じゅろ", "en": "Margrave Juro" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "ジェダイを再び立ち上げようとしている領主。", "revealedBy": ["visions-v1", "visions-v3", "visions-ninth-jedi"] },
+      { "text": "[[hy-izlan]]という星を治めている。", "revealedBy": ["visions-v1"] },
+      { "text": "領内で採れた結晶を使い、失われた剣を打ち直させた。", "revealedBy": ["visions-v1"] },
+      { "text": "師を持たないジェダイたちに、符号を仕込んだ呼びかけを送った。", "revealedBy": ["visions-v1"] },
+      { "text": "大柄な世話役のドロイドの中に隠れ、誰が敵かを見定めていた。", "revealedBy": ["visions-v1"] },
+      { "text": "奪った剣を緑の刃に変え、[[sith-acolytes|シスの徒]]を次々に討った。", "revealedBy": ["visions-v1"] },
+      { "text": "[[lah-kara]]の父を助けると約束した。", "revealedBy": ["visions-v1"] },
+      { "text": "漂流した[[lah-kara]]を、危険を承知で迎えに戻ろうとした。", "revealedBy": ["visions-v3"] },
+      { "text": "[[nawaam]]に追われながら、各地の古い友に助けを求めて回った。", "revealedBy": ["visions-ninth-jedi"] }
+    ]
+  },
+  {
+    "id": "ethan",
+    "type": "character",
+    "names": [
+      { "text": "イーサン", "reading": "いーさん", "en": "Ethan" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "呼びかけに応じて集まった、師を持たないジェダイ。", "revealedBy": ["visions-v1", "visions-v3", "visions-ninth-jedi"] },
+      { "text": "生まれたころには、すでに剣は銀河から消えていた。", "revealedBy": ["visions-v1"] },
+      { "text": "集まった七人のうち、ただ一人シスではなかった。", "revealedBy": ["visions-v1"] },
+      { "text": "青い刃の剣を手にし、[[lah-kara]]と並んで戦った。", "revealedBy": ["visions-v1"] },
+      { "text": "敵を倒せなかったことを悔いたが、生き延びたことを領主に認められた。", "revealedBy": ["visions-v1"] },
+      { "text": "船を直し、追跡装置を見つけて壊した。", "revealedBy": ["visions-v3"] },
+      { "text": "巨大な結晶を刃で打ち続け、砕く役を担った。", "revealedBy": ["visions-ninth-jedi"] }
+    ]
+  },
+  {
+    "id": "homen",
+    "type": "character",
+    "names": [
+      { "text": "ホーメン", "reading": "ほーめん", "en": "Homen" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "獣のような姿をしたジェダイ。", "revealedBy": ["visions-v1", "visions-v3", "visions-ninth-jedi"] },
+      { "text": "紫の刃の剣を持ち、はじめは[[sith-acolytes|シスの徒]]の側で戦った。", "revealedBy": ["visions-v1"] },
+      { "text": "「周りの暗さに飲まれていた」と謝り、剣を下ろした。", "revealedBy": ["visions-v1"] },
+      { "text": "そのまま[[margrave-juro]]たちの仲間になった。", "revealedBy": ["visions-v1", "visions-v3"] },
+      { "text": "敵の砦に乗り込む一行に加わった。", "revealedBy": ["visions-ninth-jedi"] }
+    ]
+  },
+  {
+    "id": "four-nines",
+    "type": "character",
+    "names": [
+      { "text": "99-99", "reading": "ないんてぃないん・ないんてぃないん", "en": "99-99" },
+      { "text": "フォーナインズ", "reading": "ふぉーないんず", "en": "Four Nines", "kind": "alias", "revealedBy": ["visions-v1"] }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "[[lah-kara]]に付き添う、宙に浮く小さなドロイド。", "revealedBy": ["visions-v1", "visions-v3", "visions-ninth-jedi"] },
+      { "text": "速度車の後ろに乗り、追われる逃走に付き合った。", "revealedBy": ["visions-v1"] },
+      { "text": "破れた船の壁を直した。", "revealedBy": ["visions-v3"] },
+      { "text": "砲の威力を計算し、まだ全力ではないと見抜いた。", "revealedBy": ["visions-ninth-jedi"] }
+    ]
+  },
+  {
+    "id": "roden",
+    "type": "character",
+    "names": [
+      { "text": "ローデン", "reading": "ろーでん", "en": "Roden" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "ジェダイを装って[[aerial-temple|空中寺院]]に現れた者たちの中心。", "revealedBy": ["visions-v1"] },
+      { "text": "領主に証を立てろと迫り、場の疑いを煽った。", "revealedBy": ["visions-v1"] },
+      { "text": "指先から雷を放ち、[[margrave-juro]]の守りを破った。", "revealedBy": ["visions-v1"] },
+      { "text": "仲間を失って怒り、巨大な結晶に叩きつけられて焼き尽きた。", "revealedBy": ["visions-v1"] }
+    ]
+  },
+  {
+    "id": "sith-acolytes",
+    "type": "organization",
+    "names": [
+      { "text": "シスの徒", "reading": "しすのと", "en": "Sith acolytes" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "暗黒面に身を捧げ、ジェダイの復活を阻もうとする者たち。", "revealedBy": ["visions-v1", "visions-ninth-jedi"] },
+      { "text": "呼びかけに応じたジェダイを殺し、入れ替わって寺院に現れた。", "revealedBy": ["visions-v1"] },
+      { "text": "剣を握ると、刃はいずれも赤く染まった。", "revealedBy": ["visions-v1"] },
+      { "text": "[[nawaam]]と手を結んでいた。", "revealedBy": ["visions-ninth-jedi"] }
+    ]
+  },
+  {
+    "id": "jedi-hunters",
+    "type": "organization",
+    "names": [
+      { "text": "ジェダイ・ハンター", "reading": "じぇだい・はんたー", "en": "Jedi Hunters" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "ジェダイを狩って金に換える、面をつけた追っ手たち。", "revealedBy": ["visions-v1", "visions-v3", "visions-ninth-jedi"] },
+      { "text": "剣を打った[[lah-zhima]]を襲い、連れ去った。", "revealedBy": ["visions-v1"] },
+      { "text": "一人のジェダイに一億の懸賞がかけられていた。", "revealedBy": ["visions-v3"] },
+      { "text": "[[nawaam]]に雇われていた。", "revealedBy": ["visions-v3", "visions-ninth-jedi"] }
+    ]
+  },
+  {
+    "id": "hy-izlan",
+    "type": "place",
+    "names": [
+      { "text": "ハイ・イズラン", "reading": "はい・いずらん", "en": "Hy Izlan" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "雪と森に覆われた辺境の星。[[margrave-juro]]が治めている。", "revealedBy": ["visions-v1", "visions-ninth-jedi"] },
+      { "text": "めずらしい結晶が採れ、空から吊り下げて掘り出している。", "revealedBy": ["visions-v1"] },
+      { "text": "剣鍛冶の工房がある。", "revealedBy": ["visions-v1"] },
+      { "text": "星をめぐる戦いの場となり、空から巨大な砦が落ちた。", "revealedBy": ["visions-ninth-jedi"] }
+    ]
+  },
+  {
+    "id": "aerial-temple",
+    "type": "place",
+    "names": [
+      { "text": "空中寺院", "reading": "くうちゅうじいん", "en": "Aerial Temple" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "[[hy-izlan]]の空に浮かぶ、岩でできた寺院。", "revealedBy": ["visions-v1", "visions-ninth-jedi"] },
+      { "text": "師を持たないジェダイたちが、ここへ呼び集められた。", "revealedBy": ["visions-v1"] },
+      { "text": "中に巨大な結晶があり、触れた者を焼くほどの力を持つ。", "revealedBy": ["visions-v1"] },
+      { "text": "その結晶は奪われ、敵の砲に積まれた。", "revealedBy": ["visions-ninth-jedi"] }
+    ]
+  }
+]

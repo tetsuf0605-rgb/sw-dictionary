@@ -1,0 +1,41 @@
+[
+  {
+    "id": "gennoh-ikagi",
+    "type": "character",
+    "names": [
+      { "text": "ゲンノー・イカギ", "reading": "げんのー・いかぎ", "en": "Gennoh Ikagi" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "[[nawaam]]に仕える[[sith-acolytes|シスの徒]]の一人。", "revealedBy": ["visions-ninth-jedi"] },
+      { "text": "面と頭巾で顔を隠し、大きな蝙蝠のような船を率いた。", "revealedBy": ["visions-ninth-jedi"] },
+      { "text": "[[margrave-juro]]の船を追い、剣を奪って帰ると誓った。", "revealedBy": ["visions-ninth-jedi"] },
+      { "text": "追跡の末に黒い穴へ吸い込まれた。", "revealedBy": ["visions-ninth-jedi"] }
+    ]
+  },
+  {
+    "id": "fort-dominion",
+    "type": "place",
+    "names": [
+      { "text": "フォート・ドミニオン", "reading": "ふぉーと・どみにおん", "en": "Fort Dominion" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "[[nawaam]]が動かす、空を進む巨大な砦。", "revealedBy": ["visions-ninth-jedi"] },
+      { "text": "中に[[kyber-cannon|カイバー・クリスタル砲]]を抱えている。", "revealedBy": ["visions-ninth-jedi"] },
+      { "text": "戦闘ドロイドと兵が詰めており、艦と戦闘機も抱えていた。", "revealedBy": ["visions-ninth-jedi"] },
+      { "text": "動力を撃たれ、[[hy-izlan]]の空へ落ちた。", "revealedBy": ["visions-ninth-jedi"] }
+    ]
+  },
+  {
+    "id": "kyber-cannon",
+    "type": "vehicle",
+    "names": [
+      { "text": "カイバー・クリスタル砲", "reading": "かいばー・くりすたるほう", "en": "Kyber crystal cannon" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "巨大な結晶そのものを弾にする、[[nawaam]]の大砲。", "revealedBy": ["visions-ninth-jedi"] },
+      { "text": "[[aerial-temple|空中寺院]]から奪った結晶が積まれた。", "revealedBy": ["visions-ninth-jedi"] },
+      { "text": "試し撃ちの一筋で山が削れ、光は宇宙まで届いた。", "revealedBy": ["visions-ninth-jedi"] },
+      { "text": "結晶を刃で砕かれ、撃つと同時に自ら壊れた。", "revealedBy": ["visions-ninth-jedi"] }
+    ]
+  }
+]
