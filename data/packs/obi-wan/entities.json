@@ -6,7 +6,7 @@
       { "text": "インクイジター", "reading": "いんくいじたー", "en": "Inquisitors" }
     ],
     "facts": [
-      { "kind": "summary", "text": "生き残った[[jedi|ジェダイ]]を狩るために帝国が置いた一団。", "revealedBy": ["obi-wan", "rebels-s1", "rebels-s2", "tales-empire", "maul-shadow-lord"] },
+      { "kind": "summary", "text": "生き残った[[jedi|ジェダイ]]を狩るために帝国が置いた一団。", "revealedBy": ["obi-wan", "rebels-s1", "rebels-s2", "tales-empire", "maul-shadow-lord", "tales-underworld"] },
       { "text": "黒い装束をまとい、円盤のように回る刃を持つ[[lightsaber]]を使う。", "revealedBy": ["obi-wan"] },
       { "text": "もとはジェダイだった者も含まれている。", "revealedBy": ["obi-wan"] },
       { "text": "[[darth-vader]]の下に置かれている。", "revealedBy": ["obi-wan"] }

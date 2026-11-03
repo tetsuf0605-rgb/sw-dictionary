@@ -1,0 +1,294 @@
+[
+  {
+    "id": "lyco-strata",
+    "type": "character",
+    "names": [
+      { "text": "ライコ・ストラータ", "reading": "らいこ・すとらーた", "en": "Lyco Strata" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "生き延びた若い[[jedi|ジェダイ]]の弟子。", "revealedBy": ["tales-underworld"] },
+      { "text": "知り合いはみな死んだと語り、独りで身を隠していた。", "revealedBy": ["tales-underworld"] },
+      { "text": "切符売りに心を操る術をかけようとして、失敗した。", "revealedBy": ["tales-underworld"] },
+      { "text": "[[hidden-path|隠れ道]]を頼って、星を出ようとしていた。", "revealedBy": ["tales-underworld"] },
+      { "text": "[[asajj-ventress]]に助けられ、こちらも彼女の命を救った。", "revealedBy": ["tales-underworld"] },
+      { "text": "襲ってきた者たちの言葉を聞き取り、話し合いでおさめた。", "revealedBy": ["tales-underworld"] },
+      { "text": "逃げる船に乗らず、[[asajj-ventress]]と共に残ることを選んだ。", "revealedBy": ["tales-underworld"] }
+    ]
+  },
+  {
+    "id": "quinlan-vos",
+    "type": "character",
+    "names": [
+      { "text": "クインラン・ヴォス", "reading": "くいんらん・ぼす", "en": "Quinlan Vos" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "[[asajj-ventress]]と深く関わりのあった[[jedi|ジェダイ]]。", "revealedBy": ["tales-underworld"] },
+      { "text": "[[dathomir]]の地下へ彼女の遺体を運び、水に沈めて別れを告げた。", "revealedBy": ["tales-underworld"] },
+      { "text": "「ずっと愛している」と言い残して去った。", "revealedBy": ["tales-underworld"] },
+      { "text": "[[hidden-path|隠れ道]]を始めた者だと伝えられている。", "revealedBy": ["tales-underworld"] },
+      { "text": "生き返った[[asajj-ventress]]は、この男を探して旅に出た。", "revealedBy": ["tales-underworld"] }
+    ]
+  },
+  {
+    "id": "hidden-path",
+    "type": "organization",
+    "names": [
+      { "text": "隠れ道", "reading": "かくれみち", "en": "Hidden Path" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "[[the-force|フォース]]を使える者を、安全な場所へ逃がすための人づての道。", "revealedBy": ["obi-wan", "tales-underworld"] },
+      { "text": "各地に隠れ家と合図があり、案内役が人を導いた。", "revealedBy": ["obi-wan"] },
+      { "text": "[[obi-wan-kenobi]]も、この道の者たちに助けられた。", "revealedBy": ["obi-wan"] },
+      { "text": "[[quinlan-vos]]が始めたと伝えられている。", "revealedBy": ["tales-underworld"] },
+      { "text": "場所は地図に載らず、口伝えでしか辿れない。", "revealedBy": ["tales-underworld"] },
+      { "text": "行き先を知る者は、裏社会でそれを高く売った。", "revealedBy": ["tales-underworld"] }
+    ]
+  },
+  {
+    "id": "latts-razzi",
+    "type": "character",
+    "names": [
+      { "text": "ラッツ・ラジ", "reading": "らっつ・らじ", "en": "Latts Razzi" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "肌の紫がかった賞金稼ぎの女。", "revealedBy": ["tales-underworld"] },
+      { "text": "伸びる縄のような道具で相手を縛り上げる。", "revealedBy": ["tales-underworld"] },
+      { "text": "[[c-21-highsinger]]を相棒にしている。", "revealedBy": ["tales-underworld"] },
+      { "text": "[[asajj-ventress]]とは古い顔見知りで、仕事を持ちかけた。", "revealedBy": ["tales-underworld"] },
+      { "text": "帝国の盾の部品を盗み出す仕事を企てた。", "revealedBy": ["tales-underworld"] },
+      { "text": "分け前のために[[asajj-ventress]]を裏切り、[[lyco-strata]]を売ろうとした。", "revealedBy": ["tales-underworld"] },
+      { "text": "「私は金のために働く」と言い切る。", "revealedBy": ["tales-underworld"] }
+    ]
+  },
+  {
+    "id": "c-21-highsinger",
+    "type": "character",
+    "names": [
+      { "text": "C-21 ハイシンガー", "reading": "しーとぅえんてぃわん・はいしんがー", "en": "C-21 Highsinger" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "四つ足のように駆ける、人型の戦闘ドロイド。", "revealedBy": ["tales-underworld"] },
+      { "text": "[[latts-razzi]]と組んで賞金稼ぎをしている。", "revealedBy": ["tales-underworld"] },
+      { "text": "言葉を話さず、甲高い音で応える。", "revealedBy": ["tales-underworld"] },
+      { "text": "[[asajj-ventress]]に胴を切り裂かれた。", "revealedBy": ["tales-underworld"] }
+    ]
+  },
+  {
+    "id": "cort",
+    "type": "character",
+    "names": [
+      { "text": "コート", "reading": "こーと", "en": "Cort" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "宇宙港で切符を売る女。", "revealedBy": ["tales-underworld"] },
+      { "text": "[[asajj-ventress]]を用心棒として雇っていた。", "revealedBy": ["tales-underworld"] },
+      { "text": "その腕を見て、もっと儲かる仕事があるだろうと勧めた。", "revealedBy": ["tales-underworld"] },
+      { "text": "褒美に目がくらみ、隠れていた少年の居場所を帝国の兵に教えた。", "revealedBy": ["tales-underworld"] }
+    ]
+  },
+  {
+    "id": "niro",
+    "type": "character",
+    "names": [
+      { "text": "ニロ", "reading": "にろ", "en": "Niro" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "[[cad-bane]]の幼なじみ。のちに街の保安官となる。", "revealedBy": ["tales-underworld"] },
+      { "text": "子どものころ、路地で食べ物を漁って暮らしていた。", "revealedBy": ["tales-underworld"] },
+      { "text": "[[lazlo]]に使われた仕事で捕まり、二人は離れ離れになった。", "revealedBy": ["tales-underworld"] },
+      { "text": "法の側に回り、荒れた街を変えようと働いた。", "revealedBy": ["tales-underworld"] },
+      { "text": "[[arin]]を妻に迎え、その子[[isaac]]を自分の子として育てた。", "revealedBy": ["tales-underworld"] },
+      { "text": "逃げも隠れもせず、[[cad-bane]]と向かい合って撃ち合い、倒れた。", "revealedBy": ["tales-underworld"] },
+      { "text": "死に際に、奪われたのではないと言って子を指し示した。", "revealedBy": ["tales-underworld"] }
+    ]
+  },
+  {
+    "id": "arin",
+    "type": "character",
+    "names": [
+      { "text": "アリン", "reading": "ありん", "en": "Arin" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "[[cad-bane]]と連れ添っていた女。", "revealedBy": ["tales-underworld"] },
+      { "text": "[[lazlo]]の下で、彼の面倒を見るよう言いつけられていた。", "revealedBy": ["tales-underworld"] },
+      { "text": "子を宿していたが、仇討ちをやめない相手に言い出せなかった。", "revealedBy": ["tales-underworld"] },
+      { "text": "二人とも死ぬと見て、相手の銃を保安官の側へ投げた。", "revealedBy": ["tales-underworld"] },
+      { "text": "[[niro]]と結ばれ、二年前に亡くなっていた。", "revealedBy": ["tales-underworld"] }
+    ]
+  },
+  {
+    "id": "isaac",
+    "type": "character",
+    "names": [
+      { "text": "アイザック", "reading": "あいざっく", "en": "Isaac" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "[[niro]]が自分の子として育てていた少年。", "revealedBy": ["tales-underworld"] },
+      { "text": "本当は[[arin]]と[[cad-bane]]の子である。", "revealedBy": ["tales-underworld"] },
+      { "text": "育ての親の最期をその場で見た。", "revealedBy": ["tales-underworld"] },
+      { "text": "差し出された[[cad-bane]]の手を取らず、顔を背けた。", "revealedBy": ["tales-underworld"] }
+    ]
+  },
+  {
+    "id": "lazlo",
+    "type": "character",
+    "names": [
+      { "text": "ラズロ", "reading": "らずろ", "en": "Lazlo" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "つば広の帽子をかぶった、街の裏の元締め。", "revealedBy": ["tales-underworld"] },
+      { "text": "路地の子どもを「投資」と呼び、小銭を握らせて使った。", "revealedBy": ["tales-underworld"] },
+      { "text": "[[cad-bane]]を身内として引き入れ、育てた。", "revealedBy": ["tales-underworld"] },
+      { "text": "仕事の帰りに法の側の者に撃たれ、死んだ。", "revealedBy": ["tales-underworld"] },
+      { "text": "残された帽子は、[[cad-bane]]が受け継いだ。", "revealedBy": ["tales-underworld"] }
+    ]
+  },
+  {
+    "id": "tay-grutty",
+    "type": "character",
+    "names": [
+      { "text": "タイ・グラッティ", "reading": "たい・ぐらってぃ", "en": "Tay Grutty" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "[[cad-bane]]の古い仲間。", "revealedBy": ["tales-underworld"] },
+      { "text": "酒場で[[niro]]に銃を抜く振りをして、嘲った。", "revealedBy": ["tales-underworld"] },
+      { "text": "[[arin]]が[[niro]]と結ばれたことを、[[cad-bane]]に告げた。", "revealedBy": ["tales-underworld"] },
+      { "text": "屋根の上から撃ち下ろしたが、落とされた。", "revealedBy": ["tales-underworld"] }
+    ]
+  },
+  {
+    "id": "vance",
+    "type": "character",
+    "names": [
+      { "text": "ヴァンス", "reading": "ばんす", "en": "Vance" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "[[niro]]の下で働く保安官助手。", "revealedBy": ["tales-underworld"] },
+      { "text": "[[cad-bane]]が仇討ちに戻ってくると読み、身を引くよう勧めた。", "revealedBy": ["tales-underworld"] },
+      { "text": "人を撃ったことは一度もないと言っていた。", "revealedBy": ["tales-underworld"] },
+      { "text": "結局、認証を返して持ち場を離れた。", "revealedBy": ["tales-underworld"] }
+    ]
+  },
+  {
+    "id": "return-of-ventress",
+    "type": "event",
+    "names": [
+      { "text": "ヴェントレスの帰還", "reading": "べんとれすのきかん", "en": "Return of Ventress" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "死んだ[[asajj-ventress]]が、[[dathomir]]の地下で生き返った出来事。", "revealedBy": ["tales-underworld"] },
+      { "text": "[[quinlan-vos]]が遺体を水に沈め、[[obi-wan-kenobi]]と共に去った。", "revealedBy": ["tales-underworld"] },
+      { "text": "[[mother-talzin]]の声が、死の側に留まるか戻るかを選ばせた。", "revealedBy": ["tales-underworld"] },
+      { "text": "戻る代わりに、心から望むものを代価として取られた。", "revealedBy": ["tales-underworld"] }
+    ],
+    "date": { "year": -18, "precision": "approx" }
+  },
+
+  {
+    "id": "asajj-ventress",
+    "facts": [
+      { "text": "一度は命を落とし、[[dathomir]]の水の中から生き返った。", "revealedBy": ["tales-underworld"] },
+      { "text": "帝国の世では名を隠し、宇宙港の用心棒として働いていた。", "revealedBy": ["tales-underworld"] },
+      { "text": "黄色い刃の剣を使うようになった。", "revealedBy": ["tales-underworld"] },
+      { "text": "心を操る術で、帝国の兵を追い払うこともできた。", "revealedBy": ["tales-underworld"] },
+      { "text": "追われていた[[lyco-strata]]をかばい、隠していた素性を自ら明かした。", "revealedBy": ["tales-underworld"] },
+      { "text": "「どちらの側も間違っていた」と、元の味方に言い放った。", "revealedBy": ["tales-underworld"] },
+      { "text": "[[quinlan-vos]]を探していたが、やがて会わずに先へ進むことを選んだ。", "revealedBy": ["tales-underworld"] },
+      { "text": "[[lyco-strata]]を「友」と呼んだ。", "revealedBy": ["tales-underworld"] }
+    ]
+  },
+  {
+    "id": "cad-bane",
+    "names": [
+      { "text": "コルビー", "reading": "こるびー", "en": "Colby", "kind": "alias", "revealedBy": ["tales-underworld"] }
+    ],
+    "facts": [
+      { "text": "路地で食べ物を漁る子どもだった。親のことは覚えていない。", "revealedBy": ["tales-underworld"] },
+      { "text": "[[lazlo]]に小銭で使われ、そのまま裏の世界へ入った。", "revealedBy": ["tales-underworld"] },
+      { "text": "[[niro]]という幼なじみがいた。", "revealedBy": ["tales-underworld"] },
+      { "text": "育ての親を撃たれ、仇討ちのために戻った。", "revealedBy": ["tales-underworld"] },
+      { "text": "法の側の者を撃ち、[[arin]]の裏切りで捕らえられた。", "revealedBy": ["tales-underworld"] },
+      { "text": "牢を出たあと、幼なじみと向かい合って撃ち合い、勝った。", "revealedBy": ["tales-underworld"] },
+      { "text": "[[isaac]]が自分の子だと知ったが、手を取ってはもらえなかった。", "revealedBy": ["tales-underworld"] },
+      { "text": "つば広の帽子は、[[lazlo]]の遺したものである。", "revealedBy": ["tales-underworld"] }
+    ]
+  },
+  {
+    "id": "mother-talzin",
+    "facts": [
+      { "text": "死んだ者に声を届け、生き返らせることができた。", "revealedBy": ["tales-underworld"] },
+      { "text": "戻るための代価として、その者が心から望むものを求めた。", "revealedBy": ["tales-underworld"] }
+    ]
+  },
+  {
+    "id": "dathomir",
+    "facts": [
+      { "text": "地下に、水をたたえた古い神殿がある。", "revealedBy": ["tales-underworld"] },
+      { "text": "その水は、死んだ者を送り返すことがある。", "revealedBy": ["tales-underworld"] }
+    ]
+  },
+  {
+    "id": "nightsisters",
+    "facts": [
+      { "text": "一族が絶えたあとも、その術の名残が星に残っていた。", "revealedBy": ["tales-underworld"] }
+    ]
+  },
+  {
+    "id": "obi-wan-kenobi",
+    "facts": [
+      { "text": "[[asajj-ventress]]の遺体を[[dathomir]]へ運ぶ[[quinlan-vos]]に付き添った。", "revealedBy": ["tales-underworld"] }
+    ]
+  },
+  {
+    "id": "count-dooku",
+    "facts": [
+      { "text": "その下で働いた者を、戦後も恩人のように慕う者がいた。", "revealedBy": ["tales-underworld"] }
+    ]
+  },
+  {
+    "id": "separatists",
+    "facts": [
+      { "text": "負けたあとも、各地に信じ続ける者が残っていた。", "revealedBy": ["tales-underworld"] },
+      { "text": "その元の兵が、辺境で畑を耕していることもあった。", "revealedBy": ["tales-underworld"] }
+    ]
+  },
+  {
+    "id": "battle-droid",
+    "facts": [
+      { "text": "戦が終わったあと、止まったまま家の前に立たせられていることがある。", "revealedBy": ["tales-underworld"] }
+    ]
+  },
+  {
+    "id": "inquisitors",
+    "facts": [
+      { "text": "辺境の宇宙港にも現れ、逃げる者を追い詰めた。", "revealedBy": ["tales-underworld"] },
+      { "text": "二本の刃を回して戦う者がいた。", "revealedBy": ["tales-underworld"] }
+    ]
+  },
+  {
+    "id": "galactic-empire",
+    "facts": [
+      { "text": "[[the-force|フォース]]を使える者に褒美をかけ、密告を誘っていた。", "revealedBy": ["tales-underworld"] },
+      { "text": "新しい艦を造る工場を、辺境の星に置いていた。", "revealedBy": ["tales-underworld"] }
+    ]
+  },
+  {
+    "id": "jedi",
+    "facts": [
+      { "text": "生き残りは、素性を隠して逃げ場を探していた。", "revealedBy": ["tales-underworld"] },
+      { "text": "相手の言葉を聞くことも、その教えの一つである。", "revealedBy": ["tales-underworld"] }
+    ]
+  },
+  {
+    "id": "lightsaber",
+    "facts": [
+      { "text": "黄色い刃を持つものもある。", "revealedBy": ["tales-underworld"] }
+    ]
+  },
+  {
+    "id": "the-force",
+    "facts": [
+      { "text": "弱い心に言葉を信じ込ませる使い方があるが、効かない相手もいる。", "revealedBy": ["tales-underworld"] }
+    ]
+  }
+]

@@ -20,7 +20,7 @@
       { "text": "アサージ・ヴェントレス", "reading": "あさーじ・べんとれす", "en": "Asajj Ventress" }
     ],
     "facts": [
-      { "kind": "summary", "text": "[[count-dooku]]に仕える、頭に髪のない肌の白い暗殺者。", "revealedBy": ["tcw-film", "tcw-s1", "tcw-s3"] },
+      { "kind": "summary", "text": "[[count-dooku]]に仕える、頭に髪のない肌の白い暗殺者。", "revealedBy": ["tcw-film", "tcw-s1", "tcw-s3", "tales-underworld"] },
       { "text": "柄の曲がった[[lightsaber]]を二振り使う。", "revealedBy": ["tcw-film"] },
       { "text": "[[jabba-the-hutt]]の息子をさらう企てを実行した。", "revealedBy": ["tcw-film"] },
       { "text": "[[teth]]の修道院で[[anakin-skywalker]]と[[ahsoka-tano]]を迎え撃った。", "revealedBy": ["tcw-film"] },

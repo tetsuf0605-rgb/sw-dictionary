@@ -188,7 +188,7 @@
       { "text": "ライトセーバー", "reading": "らいとせーばー", "en": "Lightsaber" }
     ],
     "facts": [
-      { "kind": "summary", "text": "光の刃を持つ[[jedi]]の武器。", "revealedBy": ["ep1", "ep2", "ep4", "ep6", "tcw-film", "tcw-s1", "tcw-s2", "tcw-s3", "tcw-s4", "tcw-s5", "ep3", "obi-wan", "rebels-s1", "ep7", "ep8", "ep9", "skeleton-crew", "maul-shadow-lord"] },
+      { "kind": "summary", "text": "光の刃を持つ[[jedi]]の武器。", "revealedBy": ["ep1", "ep2", "ep4", "ep6", "tcw-film", "tcw-s1", "tcw-s2", "tcw-s3", "tcw-s4", "tcw-s5", "ep3", "obi-wan", "rebels-s1", "ep7", "ep8", "ep9", "skeleton-crew", "maul-shadow-lord", "tales-underworld"] },
       { "text": "[[obi-wan-kenobi]]は[[luke-skywalker]]に、父が使っていたライトセーバーを渡した。", "revealedBy": ["ep4"] }
     ]
   },

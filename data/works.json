@@ -559,10 +559,10 @@
     "series": "tales",
     "seriesTitle": "テイルズ・シリーズ（短編集）",
     "releaseDate": "2025-05-04",
-    "timeline": { "start": -19, "end": 9, "approx": true },
+    "timeline": { "start": -45, "end": -18, "approx": true },
     "canon": true,
     "animated": true,
-    "note": "複数の時代にまたがる短編集。年代は目安（要確認）"
+    "note": "複数の時代にまたがる短編集。前半はベントレス（18 BBY 以降）、後半はベインの若い日"
   },
   {
     "id": "maul-shadow-lord",
