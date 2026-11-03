@@ -1,0 +1,114 @@
+[
+  {
+    "id": "wim",
+    "type": "character",
+    "names": [
+      { "text": "ウィム", "reading": "うぃむ", "en": "Wim" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "冒険に憧れる少年。[[at-attin]]で育った。", "revealedBy": ["skeleton-crew"] },
+      { "text": "決まりきった暮らしから抜け出したいと思っていた。", "revealedBy": ["skeleton-crew"] },
+      { "text": "思い込みで動き、仲間を危ない目に遭わせることもあった。", "revealedBy": ["skeleton-crew"] }
+    ]
+  },
+  {
+    "id": "fern",
+    "type": "character",
+    "names": [
+      { "text": "ファーン", "reading": "ふぁーん", "en": "Fern" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "仕切りたがりの少女。", "revealedBy": ["skeleton-crew"] },
+      { "text": "言い出したら引かない。", "revealedBy": ["skeleton-crew"] },
+      { "text": "仲間をまとめる役を引き受けた。", "revealedBy": ["skeleton-crew"] }
+    ]
+  },
+  {
+    "id": "kb",
+    "type": "character",
+    "names": [
+      { "text": "ケイビー", "reading": "けいびー", "en": "KB" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "機械いじりの得意な少女。", "revealedBy": ["skeleton-crew"] },
+      { "text": "体の一部を機械で補っている。", "revealedBy": ["skeleton-crew"] },
+      { "text": "[[fern]]と組んで動くことが多い。", "revealedBy": ["skeleton-crew"] }
+    ]
+  },
+  {
+    "id": "neel",
+    "type": "character",
+    "names": [
+      { "text": "ニール", "reading": "にーる", "en": "Neel" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "鼻の長い、気の優しい少年。", "revealedBy": ["skeleton-crew"] },
+      { "text": "怖がりだが、肝心なところで仲間を助ける。", "revealedBy": ["skeleton-crew"] },
+      { "text": "家族を大事にしている。", "revealedBy": ["skeleton-crew"] }
+    ]
+  },
+  {
+    "id": "jod-na-nawood",
+    "type": "character",
+    "names": [
+      { "text": "ジョド・ナ・ナウッド", "reading": "じょど・な・なうっど", "en": "Jod Na Nawood" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "名をいくつも使い分ける男。", "revealedBy": ["skeleton-crew"] },
+      { "text": "[[jedi|ジェダイ]]だと名乗ったが、その腕前は怪しかった。", "revealedBy": ["skeleton-crew"] },
+      { "text": "[[lightsaber]]を手にしていた。", "revealedBy": ["skeleton-crew"] },
+      { "text": "子どもたちを使って[[at-attin]]へたどり着こうとした。", "revealedBy": ["skeleton-crew"] },
+      { "text": "宝のありかを探り続けていた。", "revealedBy": ["skeleton-crew"] }
+    ]
+  },
+  {
+    "id": "at-attin",
+    "type": "place",
+    "names": [
+      { "text": "アト・アティン", "reading": "あと・あてぃん", "en": "At Attin" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "外から見つけられないように守られた星。", "revealedBy": ["skeleton-crew"] },
+      { "text": "古い共和国のために、今も硬貨を作り続けていた。", "revealedBy": ["skeleton-crew"] },
+      { "text": "住む者たちは、外の世界のことをほとんど知らない。", "revealedBy": ["skeleton-crew"] },
+      { "text": "星を覆う盾と、それを管理する仕組みがあった。", "revealedBy": ["skeleton-crew"] }
+    ]
+  },
+  {
+    "id": "sm-33",
+    "type": "character",
+    "names": [
+      { "text": "SM-33", "reading": "えすえむさーてぃすりー", "en": "SM-33" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "船を一人で切り回す古いドロイド。", "revealedBy": ["skeleton-crew"] },
+      { "text": "海賊に仕えていたころの記憶を持つ。", "revealedBy": ["skeleton-crew"] },
+      { "text": "そのときの船長の言うことを聞く。", "revealedBy": ["skeleton-crew"] }
+    ]
+  },
+
+  {
+    "id": "new-republic",
+    "facts": [
+      { "text": "古い時代からの決まりで動き続けている星のことを、把握していなかった。", "revealedBy": ["skeleton-crew"] }
+    ]
+  },
+  {
+    "id": "jedi",
+    "facts": [
+      { "text": "名を騙る者が現れるほど、遠い語り草になっていた。", "revealedBy": ["skeleton-crew"] }
+    ]
+  },
+  {
+    "id": "lightsaber",
+    "facts": [
+      { "text": "持ち主でない者の手に渡っていることもある。", "revealedBy": ["skeleton-crew"] }
+    ]
+  },
+  {
+    "id": "the-force",
+    "facts": [
+      { "text": "使えると偽る者もいた。", "revealedBy": ["skeleton-crew"] }
+    ]
+  }
+]

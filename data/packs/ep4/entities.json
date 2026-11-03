@@ -143,7 +143,7 @@
       { "text": "ジェダイ騎士団", "reading": "じぇだいきしだん", "en": "Jedi Order", "revealedBy": ["ep4"], "kind": "alias" }
     ],
     "facts": [
-      { "kind": "summary", "text": "かつて銀河共和国の平和と正義を守った騎士団。[[the-force]]を使い、[[lightsaber]]を武器とする。", "revealedBy": ["ep4", "obi-wan", "rebels-s1", "rebels-s2", "rebels-s3", "rogue-one", "ep7", "ep8", "ep9", "mando-s1"] },
+      { "kind": "summary", "text": "かつて銀河共和国の平和と正義を守った騎士団。[[the-force]]を使い、[[lightsaber]]を武器とする。", "revealedBy": ["ep4", "obi-wan", "rebels-s1", "rebels-s2", "rebels-s3", "rogue-one", "ep7", "ep8", "ep9", "mando-s1", "skeleton-crew"] },
       { "text": "帝国の時代にはほぼ滅ぼされ、[[obi-wan-kenobi]]のような生き残りはわずかだった。", "revealedBy": ["ep4"] }
     ]
   },
@@ -188,7 +188,7 @@
       { "text": "ライトセーバー", "reading": "らいとせーばー", "en": "Lightsaber" }
     ],
     "facts": [
-      { "kind": "summary", "text": "光の刃を持つ[[jedi]]の武器。", "revealedBy": ["ep1", "ep2", "ep4", "ep6", "tcw-film", "tcw-s1", "tcw-s2", "tcw-s3", "tcw-s4", "tcw-s5", "ep3", "obi-wan", "rebels-s1", "ep7", "ep8", "ep9"] },
+      { "kind": "summary", "text": "光の刃を持つ[[jedi]]の武器。", "revealedBy": ["ep1", "ep2", "ep4", "ep6", "tcw-film", "tcw-s1", "tcw-s2", "tcw-s3", "tcw-s4", "tcw-s5", "ep3", "obi-wan", "rebels-s1", "ep7", "ep8", "ep9", "skeleton-crew"] },
       { "text": "[[obi-wan-kenobi]]は[[luke-skywalker]]に、父が使っていたライトセーバーを渡した。", "revealedBy": ["ep4"] }
     ]
   },
