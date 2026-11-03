@@ -6,7 +6,7 @@
       { "text": "インクイジター", "reading": "いんくいじたー", "en": "Inquisitors" }
     ],
     "facts": [
-      { "kind": "summary", "text": "生き残った[[jedi|ジェダイ]]を狩るために帝国が置いた一団。", "revealedBy": ["obi-wan", "rebels-s1", "rebels-s2"] },
+      { "kind": "summary", "text": "生き残った[[jedi|ジェダイ]]を狩るために帝国が置いた一団。", "revealedBy": ["obi-wan", "rebels-s1", "rebels-s2", "tales-empire"] },
       { "text": "黒い装束をまとい、円盤のように回る刃を持つ[[lightsaber]]を使う。", "revealedBy": ["obi-wan"] },
       { "text": "もとはジェダイだった者も含まれている。", "revealedBy": ["obi-wan"] },
       { "text": "[[darth-vader]]の下に置かれている。", "revealedBy": ["obi-wan"] }
@@ -19,7 +19,7 @@
       { "text": "グランド・インクイジター", "reading": "ぐらんど・いんくいじたー", "en": "Grand Inquisitor" }
     ],
     "facts": [
-      { "kind": "summary", "text": "[[inquisitors]]の長。青白い肌に鋭い目をした男。", "revealedBy": ["obi-wan", "rebels-s1"] },
+      { "kind": "summary", "text": "[[inquisitors]]の長。青白い肌に鋭い目をした男。", "revealedBy": ["obi-wan", "rebels-s1", "tales-empire"] },
       { "text": "逃げる者は必ず誰かを助けに戻る、という考えで網を張った。", "revealedBy": ["obi-wan"] },
       { "text": "[[reva]]に刺されて一度は倒れたが、生きていた。", "revealedBy": ["obi-wan"] }
     ]

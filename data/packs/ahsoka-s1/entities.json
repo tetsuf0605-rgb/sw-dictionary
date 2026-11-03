@@ -33,7 +33,7 @@
       { "text": "モーガン・エルズベス", "reading": "もーがん・えるずべす", "en": "Morgan Elsbeth" }
     ],
     "facts": [
-      { "kind": "summary", "text": "[[thrawn]]を探し続けてきた女。", "revealedBy": ["ahsoka-s1"] },
+      { "kind": "summary", "text": "[[thrawn]]を探し続けてきた女。", "revealedBy": ["ahsoka-s1", "tales-empire"] },
       { "text": "[[nightsisters]]の血を引いている。", "revealedBy": ["ahsoka-s1"] },
       { "text": "遠い銀河へ渡るための大きな環を造らせた。", "revealedBy": ["ahsoka-s1"] },
       { "text": "[[great-mothers]]に迎えられ、力を与えられた。", "revealedBy": ["ahsoka-s1"] }

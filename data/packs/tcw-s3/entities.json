@@ -31,7 +31,7 @@
       { "text": "ナイトシスター", "reading": "ないとしすたー", "en": "Nightsisters" }
     ],
     "facts": [
-      { "kind": "summary", "text": "[[dathomir]]に住む魔女の一族。緑の光を放つ独自の術を使う。", "revealedBy": ["tcw-s3", "tcw-s4"] },
+      { "kind": "summary", "text": "[[dathomir]]に住む魔女の一族。緑の光を放つ独自の術を使う。", "revealedBy": ["tcw-s3", "tcw-s4", "tales-empire"] },
       { "text": "薬と呪いを操り、人の体や心を作り変えることができる。", "revealedBy": ["tcw-s3"] },
       { "text": "男たちは離れた村で暮らし、求めに応じて差し出される。", "revealedBy": ["tcw-s3"] },
       { "text": "[[asajj-ventress]]はこの一族の出である。", "revealedBy": ["tcw-s3"] }
@@ -44,7 +44,7 @@
       { "text": "ダソミア", "reading": "だそみあ", "en": "Dathomir" }
     ],
     "facts": [
-      { "kind": "summary", "text": "赤い霧の立ちこめる星。[[nightsisters]]の故郷。", "revealedBy": ["tcw-s3", "tcw-s4"] },
+      { "kind": "summary", "text": "赤い霧の立ちこめる星。[[nightsisters]]の故郷。", "revealedBy": ["tcw-s3", "tcw-s4", "tales-empire"] },
       { "text": "魔女たちの住まいと、男たちの村が離れて置かれている。", "revealedBy": ["tcw-s3"] }
     ]
   },

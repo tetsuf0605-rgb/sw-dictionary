@@ -61,9 +61,9 @@
     ],
     "date": { "year": -20, "precision": "approx", "order": 1 },
     "facts": [
-      { "kind": "summary", "text": "[[general-grievous]]の軍が[[dathomir]]を襲い、[[nightsisters]]をほぼ滅ぼした出来事。", "revealedBy": ["tcw-s4"] },
+      { "kind": "summary", "text": "[[general-grievous]]の軍が[[dathomir]]を襲い、[[nightsisters]]をほぼ滅ぼした出来事。", "revealedBy": ["tcw-s4", "tales-empire"] },
       { "text": "[[count-dooku]]が[[asajj-ventress]]への報復として命じた。", "revealedBy": ["tcw-s4"] },
-      { "text": "魔女たちは術で抗ったが、数で押し切られた。", "revealedBy": ["tcw-s4"] }
+      { "text": "魔女たちは術で抗ったが、数で押し切られた。", "revealedBy": ["tcw-s4", "tales-empire"] }
     ]
   },
 

@@ -1,0 +1,104 @@
+[
+  {
+    "id": "corvus",
+    "type": "place",
+    "names": [
+      { "text": "コーヴァス", "reading": "こーばす", "en": "Corvus" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "枯れた木々に囲まれた、霧の立ちこめる星。", "revealedBy": ["tales-empire"] },
+      { "text": "[[morgan-elsbeth]]が治め、民から搾り取っていた。", "revealedBy": ["tales-empire"] },
+      { "text": "帝国のために、武器が作られていた。", "revealedBy": ["tales-empire"] }
+    ]
+  },
+
+  {
+    "id": "morgan-elsbeth",
+    "facts": [
+      { "text": "幼いころ[[dathomir]]で[[massacre-of-the-nightsisters|一族の滅亡]]を生き延びた。", "revealedBy": ["tales-empire"] },
+      { "text": "逃げ延びた先で、かくまってくれた者たちも失った。", "revealedBy": ["tales-empire"] },
+      { "text": "帝国に取り入り、艦を造る腕を買われた。", "revealedBy": ["tales-empire"] },
+      { "text": "[[thrawn]]と出会い、その下で働くようになった。", "revealedBy": ["tales-empire"] },
+      { "text": "[[corvus]]を治め、民を締めつけた。", "revealedBy": ["tales-empire"] },
+      { "text": "悲しみを怒りに変え、それを力にすることを選んだ。", "revealedBy": ["tales-empire"] }
+    ]
+  },
+  {
+    "id": "barriss-offee",
+    "facts": [
+      { "text": "[[order-66]]のとき牢にいたため、難を逃れた。", "revealedBy": ["tales-empire"] },
+      { "text": "[[inquisitors]]に迎えられ、かつての仲間を狩る側になった。", "revealedBy": ["tales-empire"] },
+      { "text": "[[grand-inquisitor]]のもとで腕を認められた。", "revealedBy": ["tales-empire"] },
+      { "text": "追い詰めた相手を前にして、手を止めた。", "revealedBy": ["tales-empire"] },
+      { "text": "尋問官をやめ、人を癒やす側に回った。", "revealedBy": ["tales-empire"] }
+    ]
+  },
+  {
+    "id": "inquisitors",
+    "facts": [
+      { "text": "堕ちた[[jedi|ジェダイ]]を集め、かつての同胞を狩らせていた。", "revealedBy": ["tales-empire"] },
+      { "text": "迷いを見せた者は、容赦なく始末された。", "revealedBy": ["tales-empire"] },
+      { "text": "そこを抜け出した者もいた。", "revealedBy": ["tales-empire"] }
+    ]
+  },
+  {
+    "id": "nightsisters",
+    "facts": [
+      { "text": "滅亡の日は、逃げ延びた子どもの目を通しても語られた。", "revealedBy": ["tales-empire"] }
+    ]
+  },
+  {
+    "id": "dathomir",
+    "facts": [
+      { "text": "襲撃のあとも、生き延びた者が身を隠していた。", "revealedBy": ["tales-empire"] }
+    ]
+  },
+  {
+    "id": "general-grievous",
+    "facts": [
+      { "text": "[[dathomir]]を襲ったとき、逃げる子どもたちも追い立てた。", "revealedBy": ["tales-empire"] }
+    ]
+  },
+  {
+    "id": "thrawn",
+    "facts": [
+      { "text": "[[morgan-elsbeth]]の腕を見いだし、手元に置いた。", "revealedBy": ["tales-empire"] }
+    ]
+  },
+  {
+    "id": "grand-inquisitor",
+    "facts": [
+      { "text": "新しい尋問官を鍛え、使えるかどうかを見極めていた。", "revealedBy": ["tales-empire"] }
+    ]
+  },
+  {
+    "id": "ahsoka-tano",
+    "facts": [
+      { "text": "[[corvus]]に現れ、[[morgan-elsbeth]]の前に立った。", "revealedBy": ["tales-empire"] }
+    ]
+  },
+  {
+    "id": "galactic-empire",
+    "facts": [
+      { "text": "行き場を失った者を取り込み、使えるあいだだけ使った。", "revealedBy": ["tales-empire"] }
+    ]
+  },
+  {
+    "id": "order-66",
+    "facts": [
+      { "text": "牢に入れられていたために、難を逃れた者もいた。", "revealedBy": ["tales-empire"] }
+    ]
+  },
+  {
+    "id": "jedi",
+    "facts": [
+      { "text": "生き残りの中には、狩る側に回った者もいた。", "revealedBy": ["tales-empire"] }
+    ]
+  },
+  {
+    "id": "the-force",
+    "facts": [
+      { "text": "悲しみや怒りを、そのまま力に変えることもできる。", "revealedBy": ["tales-empire"] }
+    ]
+  }
+]
