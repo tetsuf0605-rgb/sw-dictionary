@@ -1,0 +1,174 @@
+[
+  {
+    "id": "qira",
+    "type": "character",
+    "names": [
+      { "text": "キーラ", "reading": "きーら", "en": "Qi'ra" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "[[corellia]]の下町で育った女。[[han-solo]]の幼なじみ。", "revealedBy": ["solo"] },
+      { "text": "二人で星を出ようとしたが、彼女だけが残された。", "revealedBy": ["solo"] },
+      { "text": "裏社会に拾われ、[[crimson-dawn]]の中で上がっていった。", "revealedBy": ["solo"] },
+      { "text": "再会したときには、別の世界の人間になっていた。", "revealedBy": ["solo"] },
+      { "text": "[[dryden-vos]]を倒し、その座に就いた。", "revealedBy": ["solo"] }
+    ]
+  },
+  {
+    "id": "tobias-beckett",
+    "type": "character",
+    "names": [
+      { "text": "トバイアス・ベケット", "reading": "とばいあす・べけっと", "en": "Tobias Beckett" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "盗みを生業とする男。", "revealedBy": ["solo"] },
+      { "text": "[[han-solo]]に盗みの手ほどきをした。", "revealedBy": ["solo"] },
+      { "text": "誰も信じるな、と繰り返し言っていた。", "revealedBy": ["solo"] },
+      { "text": "最後は自ら、その言葉を証明してみせた。", "revealedBy": ["solo"] }
+    ]
+  },
+  {
+    "id": "dryden-vos",
+    "type": "character",
+    "names": [
+      { "text": "ドライデン・ヴォス", "reading": "どらいでん・ぼす", "en": "Dryden Vos" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "[[crimson-dawn]]を率いる男。昂ると顔に傷のような筋が浮き出る。", "revealedBy": ["solo"] },
+      { "text": "豪奢な船で人をもてなしながら、逆らう者は容赦なく始末する。", "revealedBy": ["solo"] },
+      { "text": "[[qira]]を手元に置いていた。", "revealedBy": ["solo"] }
+    ]
+  },
+  {
+    "id": "crimson-dawn",
+    "type": "organization",
+    "names": [
+      { "text": "クリムゾン・ドーン", "reading": "くりむぞん・どーん", "en": "Crimson Dawn" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "銀河の裏を仕切る組織の一つ。", "revealedBy": ["solo"] },
+      { "text": "賭場や密輸を握り、各地に手を伸ばしている。", "revealedBy": ["solo"] },
+      { "text": "[[dryden-vos]]が表に立っていた。", "revealedBy": ["solo"] },
+      { "text": "その背後には、めったに姿を見せない者がいた。", "revealedBy": ["solo"] }
+    ]
+  },
+  {
+    "id": "corellia",
+    "type": "place",
+    "names": [
+      { "text": "コレリア", "reading": "これりあ", "en": "Corellia" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "造船で栄えた星。[[han-solo]]の故郷。", "revealedBy": ["solo"] },
+      { "text": "下町の子どもは盗みをさせられ、星を出ることを夢見ていた。", "revealedBy": ["solo"] },
+      { "text": "帝国の造船所が置かれている。", "revealedBy": ["solo"] }
+    ]
+  },
+  {
+    "id": "kessel",
+    "type": "place",
+    "names": [
+      { "text": "ケッセル", "reading": "けっせる", "en": "Kessel" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "鉱山のある星。", "revealedBy": ["solo"] },
+      { "text": "過酷な採掘が行われ、働き手は鎖につながれていた。", "revealedBy": ["solo"] },
+      { "text": "[[coaxium]]が採れる。", "revealedBy": ["solo"] },
+      { "text": "近づけば帰れないと言われる航路の先にある。", "revealedBy": ["solo"] }
+    ]
+  },
+  {
+    "id": "kessel-run",
+    "type": "concept",
+    "names": [
+      { "text": "ケッセル・ラン", "reading": "けっせる・らん", "en": "Kessel Run" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "危険な航路を抜ける航程。短い道のりで飛べたことが、船乗りの自慢になる。", "revealedBy": ["ep4", "solo"] },
+      { "text": "[[han-solo]]は12パーセクで飛んだと自慢した。", "revealedBy": ["ep4"] },
+      { "text": "[[kessel]]から[[coaxium]]を運び出すための近道だった。", "revealedBy": ["solo"] },
+      { "text": "渦と、そこに潜む巨大な生き物の領域を突っ切る。", "revealedBy": ["solo"] },
+      { "text": "[[millennium-falcon]]がこれを飛び抜けた。", "revealedBy": ["solo"] }
+    ]
+  },
+  {
+    "id": "l3-37",
+    "type": "character",
+    "names": [
+      { "text": "L3-37", "reading": "えるすりーさーてぃせぶん", "en": "L3-37" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "[[lando-calrissian]]の相棒を務めるドロイド。", "revealedBy": ["solo"] },
+      { "text": "自分で自分を組み替えており、物言いもはっきりしている。", "revealedBy": ["solo"] },
+      { "text": "ドロイドの自由を唱え、[[kessel]]で蜂起を起こした。", "revealedBy": ["solo"] },
+      { "text": "壊れたのち、その頭脳が船に組み込まれた。", "revealedBy": ["solo"] }
+    ]
+  },
+  {
+    "id": "enfys-nest",
+    "type": "character",
+    "names": [
+      { "text": "エンフィス・ネスト", "reading": "えんふぃす・ねすと", "en": "Enfys Nest" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "覆面をつけ、一味を率いて盗みを襲う者。", "revealedBy": ["solo"] },
+      { "text": "正体は若い女だった。", "revealedBy": ["solo"] },
+      { "text": "奪うのは私腹のためではなく、抗う者たちのためだった。", "revealedBy": ["solo"] },
+      { "text": "手にした燃料が、やがて帝国に抗う種になると語った。", "revealedBy": ["solo"] }
+    ]
+  },
+  {
+    "id": "coaxium",
+    "type": "item",
+    "names": [
+      { "text": "コアクシウム", "reading": "こあくしうむ", "en": "Coaxium" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "船を速く飛ばすための希少な燃料。", "revealedBy": ["solo"] },
+      { "text": "扱いを誤れば大きく爆発する。", "revealedBy": ["solo"] },
+      { "text": "[[kessel]]で採れ、裏社会でも高く取り引きされる。", "revealedBy": ["solo"] }
+    ]
+  },
+
+  {
+    "id": "han-solo",
+    "facts": [
+      { "text": "[[corellia]]の下町で、盗みをして生きていた少年だった。", "revealedBy": ["solo"] },
+      { "text": "星を出るために帝国の募兵に紛れ込み、そこで今の名を与えられた。", "revealedBy": ["solo"] },
+      { "text": "[[tobias-beckett]]に盗みの手ほどきを受けた。", "revealedBy": ["solo"] },
+      { "text": "[[chewbacca]]と出会い、以来ずっと共にいる。", "revealedBy": ["solo"] },
+      { "text": "[[lando-calrissian]]から賭けで[[millennium-falcon]]を手に入れた。", "revealedBy": ["solo"] },
+      { "text": "[[kessel-run|危険な航程]]を自ら飛び抜けた。", "revealedBy": ["solo"] }
+    ]
+  },
+  {
+    "id": "chewbacca",
+    "facts": [
+      { "text": "帝国に捕らえられ、泥の底に閉じ込められていた。", "revealedBy": ["solo"] },
+      { "text": "[[han-solo]]に助けられ、以来そばにいる。", "revealedBy": ["solo"] },
+      { "text": "同じ種族の者たちを逃がした。", "revealedBy": ["solo"] }
+    ]
+  },
+  {
+    "id": "lando-calrissian",
+    "facts": [
+      { "text": "[[millennium-falcon]]を、もとは自分の船にしていた。", "revealedBy": ["solo"] },
+      { "text": "賭けに負けて[[han-solo]]に取られた。", "revealedBy": ["solo"] },
+      { "text": "身なりに凝り、外套をいくつも持っていた。", "revealedBy": ["solo"] },
+      { "text": "[[l3-37]]を相棒にしていた。", "revealedBy": ["solo"] }
+    ]
+  },
+  {
+    "id": "millennium-falcon",
+    "facts": [
+      { "text": "もとは[[lando-calrissian]]の船で、内装も整っていた。", "revealedBy": ["solo"] },
+      { "text": "[[kessel-run|危険な航程]]を飛び抜けた。", "revealedBy": ["solo"] },
+      { "text": "[[l3-37]]の頭脳が組み込まれている。", "revealedBy": ["solo"] }
+    ]
+  },
+  {
+    "id": "galactic-empire",
+    "facts": [
+      { "text": "辺境の星でも造船と採掘を進め、人を使い潰していた。", "revealedBy": ["solo"] }
+    ]
+  }
+]

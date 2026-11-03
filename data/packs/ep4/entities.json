@@ -32,7 +32,7 @@
       { "text": "ハン・ソロ", "reading": "はん・そろ", "en": "Han Solo" }
     ],
     "facts": [
-      { "kind": "summary", "text": "[[millennium-falcon]]の船長を務める密輸業者。相棒は[[chewbacca]]。", "revealedBy": ["ep4"] },
+      { "kind": "summary", "text": "[[millennium-falcon]]の船長を務める密輸業者。相棒は[[chewbacca]]。", "revealedBy": ["ep4", "solo"] },
       { "text": "報酬目当てで[[luke-skywalker]]たちを運ぶ仕事を引き受けたが、最後は[[battle-of-yavin]]に駆けつけてルークを援護した。", "revealedBy": ["ep4"] }
     ]
   },
@@ -44,7 +44,7 @@
       { "text": "チューイ", "reading": "ちゅーい", "en": "Chewie", "revealedBy": ["ep4"], "kind": "nickname" }
     ],
     "facts": [
-      { "kind": "summary", "text": "[[han-solo]]の相棒である、毛むくじゃらで大柄なウーキー。[[millennium-falcon]]の副操縦士。", "revealedBy": ["ep4", "ep6"] }
+      { "kind": "summary", "text": "[[han-solo]]の相棒である、毛むくじゃらで大柄なウーキー。[[millennium-falcon]]の副操縦士。", "revealedBy": ["ep4", "ep6", "solo"] }
     ]
   },
   {
@@ -166,7 +166,7 @@
       { "text": "ミレニアム・ファルコン", "reading": "みれにあむ・ふぁるこん", "en": "Millennium Falcon" }
     ],
     "facts": [
-      { "kind": "summary", "text": "[[han-solo]]が船長、[[chewbacca]]が副操縦士を務める改造貨物船。見た目はぼろいが非常に速い。", "revealedBy": ["ep4", "ep6"] },
+      { "kind": "summary", "text": "[[han-solo]]が船長、[[chewbacca]]が副操縦士を務める改造貨物船。見た目はぼろいが非常に速い。", "revealedBy": ["ep4", "ep6", "solo"] },
       { "text": "[[tatooine]]から[[luke-skywalker]]たちを乗せて飛び立ち、[[death-star]]からの脱出にも使われた。", "revealedBy": ["ep4"] }
     ]
   },
