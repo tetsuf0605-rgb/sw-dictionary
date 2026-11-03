@@ -1,0 +1,289 @@
+[
+  {
+    "id": "kai-brightstar",
+    "type": "character",
+    "names": [
+      { "text": "カイ・ブライトスター", "reading": "かい・ぶらいとすたー", "en": "Kai Brightstar" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "[[tenoo]]で修行する、幼い[[jedi|ジェダイ]]の弟子。", "revealedBy": ["young-jedi"] },
+      { "text": "[[lys-solay]]と[[nubs]]と、いつも三人で動いている。", "revealedBy": ["young-jedi"] },
+      { "text": "何でも一人でやろうとして、友に支えられることが多い。", "revealedBy": ["young-jedi"] },
+      { "text": "[[taborr-val-dorn]]に剣を盗まれたことがある。", "revealedBy": ["young-jedi"] },
+      { "text": "「暗いときでも、光は守る値打ちがある」と[[tenoo]]から呼びかけた。", "revealedBy": ["young-jedi"] },
+      { "text": "寺院を奪われたとき、残った弟子たちの先に立った。", "revealedBy": ["young-jedi"] }
+    ]
+  },
+  {
+    "id": "lys-solay",
+    "type": "character",
+    "names": [
+      { "text": "リス・ソレイ", "reading": "りす・それい", "en": "Lys Solay" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "[[tenoo]]で修行する、肌の青いパントーランの弟子。", "revealedBy": ["young-jedi"] },
+      { "text": "生き物の扱いに長け、よく手当てをしている。", "revealedBy": ["young-jedi"] },
+      { "text": "「ジェダイは、大きかろうと小さかろうと困っている生き物を助ける」と言う。", "revealedBy": ["young-jedi"] },
+      { "text": "[[kai-brightstar]]に「一人でやらなくていい、友はそのためにいる」と言った。", "revealedBy": ["young-jedi"] }
+    ]
+  },
+  {
+    "id": "nubs",
+    "type": "character",
+    "names": [
+      { "text": "ナブス", "reading": "なぶす", "en": "Nubs" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "毛むくじゃらで小さいが、弟子の中で一番力の強い子。", "revealedBy": ["young-jedi"] },
+      { "text": "プーバという種族で、共通の言葉は話さない。", "revealedBy": ["young-jedi"] },
+      { "text": "言いたいことは、[[kai-brightstar]]と[[lys-solay]]が言い添えてくれる。", "revealedBy": ["young-jedi"] },
+      { "text": "食べることが大好きで、食事の機会を逃さない。", "revealedBy": ["young-jedi"] }
+    ]
+  },
+  {
+    "id": "nash-durango",
+    "type": "character",
+    "names": [
+      { "text": "ナッシュ・デュランゴ", "reading": "なっしゅ・でゅらんご", "en": "Nash Durango" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "[[tenoo]]育ちの少女操縦士。機械いじりも得意。", "revealedBy": ["young-jedi"] },
+      { "text": "親が営む輸送屋を手伝い、[[crimson-firehawk]]で荷と人を運ぶ。", "revealedBy": ["young-jedi"] },
+      { "text": "[[rj-83]]を副操縦士と呼んでいる。", "revealedBy": ["young-jedi"] },
+      { "text": "[[coruscant]]から送られてきた弟子たちを[[tenoo]]へ運び、そのまま友になった。", "revealedBy": ["young-jedi"] },
+      { "text": "[[jedi|ジェダイ]]ではないが、三人の冒険にはいつも付き合っている。", "revealedBy": ["young-jedi"] }
+    ]
+  },
+  {
+    "id": "rj-83",
+    "type": "character",
+    "names": [
+      { "text": "RJ-83", "reading": "あーるじぇー・えいてぃーすりー", "en": "RJ-83" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "[[nash-durango]]の相棒のドロイド。", "revealedBy": ["young-jedi"] },
+      { "text": "船の手入れと操縦の手伝いをする。", "revealedBy": ["young-jedi"] },
+      { "text": "[[nash-durango]]と一緒に、船の手直しを進めている。", "revealedBy": ["young-jedi"] }
+    ]
+  },
+  {
+    "id": "zia-zaldor-zanna",
+    "type": "character",
+    "names": [
+      { "text": "ジーア・ザルドール・ザナ", "reading": "じーあ・ざるどーる・ざな", "en": "Zia Zaldor Zanna" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "[[tenoo]]の寺院で幼い弟子を教える[[jedi|ジェダイ]]・マスター。", "revealedBy": ["young-jedi"] },
+      { "text": "「誰の中にも光がある。互いにそれを見つけ合うのがジェダイの仕事」と教えた。", "revealedBy": ["young-jedi"] },
+      { "text": "人を助けた弟子を、まっすぐに褒める。", "revealedBy": ["young-jedi"] },
+      { "text": "[[wes-vinik]]を弟子として連れている。", "revealedBy": ["young-jedi"] }
+    ]
+  },
+  {
+    "id": "wes-vinik",
+    "type": "character",
+    "names": [
+      { "text": "ウェス・ヴィニック", "reading": "うぇす・びにっく", "en": "Wes Vinik" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "[[zia-zaldor-zanna]]の弟子である[[padawan|パダワン]]。", "revealedBy": ["young-jedi"] },
+      { "text": "幼い弟子たちより年上で、兄弟子として頼られている。", "revealedBy": ["young-jedi"] },
+      { "text": "ハット語を話せ、もめ事を言葉でおさめたことがある。", "revealedBy": ["young-jedi"] },
+      { "text": "寺院を奪われたとき、弟子たちをまとめて反撃に出た。", "revealedBy": ["young-jedi"] }
+    ]
+  },
+  {
+    "id": "taborr-val-dorn",
+    "type": "character",
+    "names": [
+      { "text": "タボール・ヴァル＝ドーン", "reading": "たぼーる・ばるどーん", "en": "Taborr Val Dorn" },
+      { "text": "サイラス・ヴーンディア", "reading": "さいらす・ぶーんでぃあ", "en": "Cyrus Vuundir", "kind": "alias", "revealedBy": ["young-jedi"] }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "[[tenoo]]のあたりを荒らす、少年の海賊。", "revealedBy": ["young-jedi"] },
+      { "text": "[[pord]]と[[eb-3]]を手下にしている。", "revealedBy": ["young-jedi"] },
+      { "text": "[[hap]]の店を繰り返し襲い、[[kai-brightstar]]たちと度々ぶつかった。", "revealedBy": ["young-jedi"] },
+      { "text": "本当はヴーンダラという星の王子で、親に隠れて海賊をしていた。", "revealedBy": ["young-jedi"] },
+      { "text": "素性を隠したまま、弟子たちと友になったこともある。", "revealedBy": ["young-jedi"] },
+      { "text": "[[ganguls|ガングル団]]とは互いに敵で、船を奪われかけたこともある。", "revealedBy": ["young-jedi"] },
+      { "text": "寺院が奪われたときは、手下を連れて弟子たちの側に加わった。", "revealedBy": ["young-jedi"] }
+    ]
+  },
+  {
+    "id": "pord",
+    "type": "character",
+    "names": [
+      { "text": "ポード", "reading": "ぽーど", "en": "Pord" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "[[taborr-val-dorn]]の手下である、若いガモーリアン。", "revealedBy": ["young-jedi"] },
+      { "text": "力仕事と、盗んだ荷の運び出しを任されている。", "revealedBy": ["young-jedi"] },
+      { "text": "市場で果物を盗んだこともある。", "revealedBy": ["young-jedi"] }
+    ]
+  },
+  {
+    "id": "eb-3",
+    "type": "character",
+    "names": [
+      { "text": "EB-3", "reading": "いーびー・すりー", "en": "EB-3" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "[[taborr-val-dorn]]の手下のドロイド。", "revealedBy": ["young-jedi"] },
+      { "text": "見つかるとすぐに慌てる。", "revealedBy": ["young-jedi"] },
+      { "text": "[[pord]]と組んで荷を運び出す役である。", "revealedBy": ["young-jedi"] }
+    ]
+  },
+  {
+    "id": "ganguls",
+    "type": "organization",
+    "names": [
+      { "text": "ガングル団", "reading": "がんぐるだん", "en": "Ganguls" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "[[tenoo]]で生まれた速度車の群れから、海賊になった一味。", "revealedBy": ["young-jedi"] },
+      { "text": "[[sellaccc-orryak]]が頭で、三人が中心である。", "revealedBy": ["young-jedi"] },
+      { "text": "小さな町を押さえ、住人の物を取り上げていたが、弟子たちに追い出された。", "revealedBy": ["young-jedi"] },
+      { "text": "辺境で一番恐れられる海賊になろうとして、仲間を集めていった。", "revealedBy": ["young-jedi"] },
+      { "text": "[[taborr-val-dorn]]の一味とも、しばしば争った。", "revealedBy": ["young-jedi"] }
+    ]
+  },
+  {
+    "id": "sellaccc-orryak",
+    "type": "character",
+    "names": [
+      { "text": "セラック・オリャーク", "reading": "せらっく・おりゃーく", "en": "Sellaccc Orryak" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "[[ganguls|ガングル団]]を率いるトランドーシャンの女。", "revealedBy": ["young-jedi"] },
+      { "text": "この星域から[[jedi|ジェダイ]]を追い出そうとした。", "revealedBy": ["young-jedi"] },
+      { "text": "[[tenoo]]の寺院を襲い、一度は奪い取った。", "revealedBy": ["young-jedi"] },
+      { "text": "「自分が止まっても、海賊はいくらでも出てくる」と言い放った。", "revealedBy": ["young-jedi"] }
+    ]
+  },
+  {
+    "id": "tenoo",
+    "type": "place",
+    "names": [
+      { "text": "テヌー", "reading": "てぬー", "en": "Tenoo" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "辺境にある森と川の星。[[jedi|ジェダイ]]の小さな寺院が置かれている。", "revealedBy": ["young-jedi"] },
+      { "text": "寺院は巨大な木を囲むように建てられている。", "revealedBy": ["young-jedi"] },
+      { "text": "クブロップ・スプリングスという町があり、市場と船着き場がある。", "revealedBy": ["young-jedi"] },
+      { "text": "[[yoda]]が、幼い弟子たちをこの星へ送った。", "revealedBy": ["young-jedi"] },
+      { "text": "海賊が出入りし、町が荒らされることもある。", "revealedBy": ["young-jedi"] }
+    ]
+  },
+  {
+    "id": "crimson-firehawk",
+    "type": "vehicle",
+    "names": [
+      { "text": "クリムゾン・ファイアホーク", "reading": "くりむぞん・ふぁいあほーく", "en": "Crimson Firehawk" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "[[nash-durango]]が操る小型の輸送船。", "revealedBy": ["young-jedi"] },
+      { "text": "親の輸送屋の船で、荷も人も運ぶ。", "revealedBy": ["young-jedi"] },
+      { "text": "[[nash-durango]]と[[rj-83]]が、たびたび手を加えて直している。", "revealedBy": ["young-jedi"] }
+    ]
+  },
+  {
+    "id": "hap",
+    "type": "character",
+    "names": [
+      { "text": "ハップ", "reading": "はっぷ", "en": "Hap" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "[[tenoo]]の町で店を営む料理人。", "revealedBy": ["young-jedi"] },
+      { "text": "[[nash-durango]]とは古い友である。", "revealedBy": ["young-jedi"] },
+      { "text": "海賊に繰り返し店を荒らされ、助けを求めた。", "revealedBy": ["young-jedi"] },
+      { "text": "来たのが幼い弟子たちだったので、はじめは落胆した。", "revealedBy": ["young-jedi"] },
+      { "text": "「誰でも、その人なりのやり方で人の役に立てる」と言う。", "revealedBy": ["young-jedi"] }
+    ]
+  },
+  {
+    "id": "starlight-beacon",
+    "type": "place",
+    "names": [
+      { "text": "スターライト・ビーコン", "reading": "すたーらいと・びーこん", "en": "Starlight Beacon" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "[[galactic-republic|共和国]]が辺境に築いた、巨大な宇宙の拠点。", "revealedBy": ["young-jedi"] },
+      { "text": "開所の式には、各地の[[jedi|ジェダイ]]と共和国の要人が集まった。", "revealedBy": ["young-jedi"] },
+      { "text": "辺境の人々に手を届けるための足場として掲げられた。", "revealedBy": ["young-jedi"] }
+    ]
+  },
+  {
+    "id": "lina-soh",
+    "type": "character",
+    "names": [
+      { "text": "リナ・ソー", "reading": "りな・そー", "en": "Lina Soh" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "この時代の[[galactic-republic|共和国]]の最高議長。", "revealedBy": ["young-jedi"] },
+      { "text": "[[starlight-beacon]]の開所を自ら宣した。", "revealedBy": ["young-jedi"] },
+      { "text": "辺境まで共和国の手を広げることに力を入れていた。", "revealedBy": ["young-jedi"] }
+    ]
+  },
+  {
+    "id": "battle-of-tenoo",
+    "type": "event",
+    "names": [
+      { "text": "テヌーの戦い", "reading": "てぬーのたたかい", "en": "Battle of Tenoo" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "海賊たちが[[tenoo]]の[[jedi|ジェダイ]]寺院を襲った出来事。", "revealedBy": ["young-jedi"] },
+      { "text": "[[sellaccc-orryak]]が[[ganguls|ガングル団]]を率い、ほかの海賊もまとめて攻め込んだ。", "revealedBy": ["young-jedi"] },
+      { "text": "寺院は一度は奪われ、弟子たちは追い出された。", "revealedBy": ["young-jedi"] },
+      { "text": "[[wes-vinik]]と[[kai-brightstar]]が残った者をまとめ、取り返した。", "revealedBy": ["young-jedi"] },
+      { "text": "町の人々や[[taborr-val-dorn]]の一味まで、助けに加わった。", "revealedBy": ["young-jedi"] }
+    ],
+    "date": { "year": -232, "precision": "approx" }
+  },
+
+  {
+    "id": "yoda",
+    "facts": [
+      { "text": "この時代はすでにジェダイの長であり、弟子をどこで学ばせるかを決めていた。", "revealedBy": ["young-jedi"] },
+      { "text": "幼い三人を、辺境の[[tenoo]]へ送った。", "revealedBy": ["young-jedi"] }
+    ]
+  },
+  {
+    "id": "jedi",
+    "facts": [
+      { "text": "幼い子を早くから迎え、[[coruscant]]の寺院で育てていた。", "revealedBy": ["young-jedi"] },
+      { "text": "辺境にも小さな寺院を置き、そこで弟子を学ばせた。", "revealedBy": ["young-jedi"] },
+      { "text": "困っている人を助けることが仕事だと、弟子に教えていた。", "revealedBy": ["young-jedi"] },
+      { "text": "この時代は、人々に歓迎される存在だった。", "revealedBy": ["young-jedi"] }
+    ]
+  },
+  {
+    "id": "padawan",
+    "facts": [
+      { "text": "幼いうちは、まだこの位につかず「弟子見習い」として学ぶ。", "revealedBy": ["young-jedi"] }
+    ]
+  },
+  {
+    "id": "galactic-republic",
+    "facts": [
+      { "text": "この時代は辺境まで手を広げ、各地に拠点を築こうとしていた。", "revealedBy": ["young-jedi"] }
+    ]
+  },
+  {
+    "id": "coruscant",
+    "facts": [
+      { "text": "[[jedi|ジェダイ]]の本山があり、幼い弟子たちはここから各地へ送られた。", "revealedBy": ["young-jedi"] }
+    ]
+  },
+  {
+    "id": "lightsaber",
+    "facts": [
+      { "text": "幼い弟子も、小ぶりなものを与えられて稽古する。", "revealedBy": ["young-jedi"] }
+    ]
+  },
+  {
+    "id": "the-force",
+    "facts": [
+      { "text": "幼い弟子でも、力を合わせれば大きなものを動かせる。", "revealedBy": ["young-jedi"] }
+    ]
+  }
+]

@@ -584,7 +584,7 @@
     "kind": "series",
     "group": "kids",
     "releaseDate": "2023-05-04",
-    "timeline": { "start": -232, "approx": true },
+    "timeline": { "start": -233, "end": -232, "approx": true },
     "canon": true,
     "animated": true,
     "note": "子ども向け。ハイ・リパブリック時代。全シーズンを1単位として扱う"

@@ -176,7 +176,7 @@
       { "text": "パダワン", "reading": "ぱだわん", "en": "Padawan" }
     ],
     "facts": [
-      { "kind": "summary", "text": "[[jedi|ジェダイ]]の弟子のこと。師に一人だけ付いて学ぶ。", "revealedBy": ["ep1", "ep2", "tcw-film", "tcw-s1", "tcw-s2", "tcw-s3", "tcw-s4", "tcw-s5"] },
+      { "kind": "summary", "text": "[[jedi|ジェダイ]]の弟子のこと。師に一人だけ付いて学ぶ。", "revealedBy": ["ep1", "ep2", "tcw-film", "tcw-s1", "tcw-s2", "tcw-s3", "tcw-s4", "tcw-s5", "young-jedi"] },
       { "text": "修行を終えると[[jedi-council]]に認められ、騎士となる。", "revealedBy": ["ep1", "ep2"] }
     ]
   },
