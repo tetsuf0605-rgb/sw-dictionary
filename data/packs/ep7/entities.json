@@ -33,7 +33,7 @@
       { "text": "ポー・ダメロン", "reading": "ぽー・だめろん", "en": "Poe Dameron" }
     ],
     "facts": [
-      { "kind": "summary", "text": "[[resistance]]随一の操縦士。", "revealedBy": ["ep7", "ep8", "ep9"] },
+      { "kind": "summary", "text": "[[resistance]]随一の操縦士。", "revealedBy": ["ep7", "ep8", "ep9", "resistance-s1"] },
       { "text": "口が達者で、物おじしない。", "revealedBy": ["ep7"] },
       { "text": "[[bb-8]]を相棒にしている。", "revealedBy": ["ep7"] },
       { "text": "[[luke-skywalker]]の手がかりを託されていた。", "revealedBy": ["ep7"] }
@@ -62,7 +62,7 @@
       { "text": "BB-8", "reading": "びーびーえいと", "en": "BB-8" }
     ],
     "facts": [
-      { "kind": "summary", "text": "球体が転がって進む小型ドロイド。", "revealedBy": ["ep7"] },
+      { "kind": "summary", "text": "球体が転がって進む小型ドロイド。", "revealedBy": ["ep7", "resistance-s1"] },
       { "text": "頭の部分だけが、転がる胴の上に乗っている。", "revealedBy": ["ep7"] },
       { "text": "[[poe-dameron]]から大事な手がかりを預かった。", "revealedBy": ["ep7"] }
     ]
@@ -124,7 +124,7 @@
       { "text": "ファースト・オーダー", "reading": "ふぁーすと・おーだー", "en": "First Order" }
     ],
     "facts": [
-      { "kind": "summary", "text": "[[galactic-empire]]の残党から生まれた勢力。", "revealedBy": ["ep7"] },
+      { "kind": "summary", "text": "[[galactic-empire]]の残党から生まれた勢力。", "revealedBy": ["ep7", "resistance-s1", "resistance-s2"] },
       { "text": "黒と白の軍を持ち、帝国のやり方を受け継いでいる。", "revealedBy": ["ep7"] },
       { "text": "子どもを集め、兵として育て上げる。", "revealedBy": ["ep7"] },
       { "text": "[[snoke]]を頂点とする。", "revealedBy": ["ep7"] },
@@ -138,7 +138,7 @@
       { "text": "レジスタンス", "reading": "れじすたんす", "en": "Resistance" }
     ],
     "facts": [
-      { "kind": "summary", "text": "[[first-order]]に抗う小さな軍。", "revealedBy": ["ep7", "ep8", "ep9"] },
+      { "kind": "summary", "text": "[[first-order]]に抗う小さな軍。", "revealedBy": ["ep7", "ep8", "ep9", "resistance-s1", "resistance-s2"] },
       { "text": "[[leia-organa]]が率いている。", "revealedBy": ["ep7"] },
       { "text": "[[new-republic]]から表立っては支えられていない。", "revealedBy": ["ep7"] },
       { "text": "古い型の戦闘機を使い続けている。", "revealedBy": ["ep7"] }
@@ -151,7 +151,7 @@
       { "text": "新共和国", "reading": "しんきょうわこく", "en": "New Republic" }
     ],
     "facts": [
-      { "kind": "summary", "text": "[[galactic-empire]]が倒れたあとに築かれた、銀河の統治体。", "revealedBy": ["ep7", "mando-s1", "mando-s3", "ahsoka-s1"] },
+      { "kind": "summary", "text": "[[galactic-empire]]が倒れたあとに築かれた、銀河の統治体。", "revealedBy": ["ep7", "mando-s1", "mando-s3", "ahsoka-s1", "resistance-s1", "resistance-s2"] },
       { "text": "軍を小さくし、[[first-order]]の力を軽く見ていた。", "revealedBy": ["ep7"] },
       { "text": "中枢を[[destruction-of-hosnian-system|一撃で失った]]。", "revealedBy": ["ep7"] }
     ]

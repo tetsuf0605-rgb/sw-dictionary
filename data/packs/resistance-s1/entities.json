@@ -1,0 +1,139 @@
+[
+  {
+    "id": "kazuda-xiono",
+    "type": "character",
+    "names": [
+      { "text": "カズダ・ジオノ", "reading": "かずだ・じおの", "en": "Kazuda Xiono" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "[[new-republic]]の操縦士だった若者。", "revealedBy": ["resistance-s1", "resistance-s2"] },
+      { "text": "腕は確かだが、そそっかしく口が軽い。", "revealedBy": ["resistance-s1"] },
+      { "text": "[[poe-dameron]]に見込まれ、[[colossus]]へ送り込まれた。", "revealedBy": ["resistance-s1"] },
+      { "text": "修理屋の見習いを装い、素性を隠していた。", "revealedBy": ["resistance-s1"] },
+      { "text": "父は新共和国の議員である。", "revealedBy": ["resistance-s1"] }
+    ]
+  },
+  {
+    "id": "jarek-yeager",
+    "type": "character",
+    "names": [
+      { "text": "ジャレク・イェーガー", "reading": "じゃれく・いぇーがー", "en": "Jarek Yeager" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "[[colossus]]で修理屋を営む男。", "revealedBy": ["resistance-s1", "resistance-s2"] },
+      { "text": "かつては[[rebel-alliance|反乱軍]]の操縦士だった。", "revealedBy": ["resistance-s1"] },
+      { "text": "過去を語らず、争いから離れて暮らしていた。", "revealedBy": ["resistance-s1"] },
+      { "text": "[[kazuda-xiono]]を雇い、その素性も察していた。", "revealedBy": ["resistance-s1"] }
+    ]
+  },
+  {
+    "id": "tam-ryvora",
+    "type": "character",
+    "names": [
+      { "text": "タム・リヴォラ", "reading": "たむ・りぼら", "en": "Tam Ryvora" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "[[jarek-yeager]]の店で働く整備士。", "revealedBy": ["resistance-s1", "resistance-s2"] },
+      { "text": "操縦士になることを夢見ていた。", "revealedBy": ["resistance-s1"] },
+      { "text": "仲間に隠し事をされていたと知り、背を向けた。", "revealedBy": ["resistance-s1"] },
+      { "text": "[[first-order]]の側へ渡った。", "revealedBy": ["resistance-s1"] }
+    ]
+  },
+  {
+    "id": "neeku-vozo",
+    "type": "character",
+    "names": [
+      { "text": "ニーク・ヴォゾ", "reading": "にーく・ぼぞ", "en": "Neeku Vozo" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "言葉を額面どおりに受け取る整備士。", "revealedBy": ["resistance-s1", "resistance-s2"] },
+      { "text": "機械の扱いに長けている。", "revealedBy": ["resistance-s1"] },
+      { "text": "悪気なく、秘密を漏らしてしまうことがある。", "revealedBy": ["resistance-s1"] }
+    ]
+  },
+  {
+    "id": "torra-doza",
+    "type": "character",
+    "names": [
+      { "text": "トーラ・ドーザ", "reading": "とーら・どーざ", "en": "Torra Doza" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "[[captain-doza]]の娘。腕のいい若い操縦士。", "revealedBy": ["resistance-s1", "resistance-s2"] },
+      { "text": "基地の外をほとんど知らずに育った。", "revealedBy": ["resistance-s1"] }
+    ]
+  },
+  {
+    "id": "captain-doza",
+    "type": "character",
+    "names": [
+      { "text": "ドーザ船長", "reading": "どーざせんちょう", "en": "Captain Doza" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "[[colossus]]を取り仕切る男。", "revealedBy": ["resistance-s1", "resistance-s2"] },
+      { "text": "もとは帝国の軍にいた。", "revealedBy": ["resistance-s1"] },
+      { "text": "基地を守るため、どちらの側にもつかずにいた。", "revealedBy": ["resistance-s1"] }
+    ]
+  },
+  {
+    "id": "synara-san",
+    "type": "character",
+    "names": [
+      { "text": "シナラ・サン", "reading": "しなら・さん", "en": "Synara San" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "[[colossus]]に流れ着いた女。", "revealedBy": ["resistance-s1", "resistance-s2"] },
+      { "text": "海賊の間者として送り込まれていた。", "revealedBy": ["resistance-s1"] },
+      { "text": "情が移り、立場に迷うようになった。", "revealedBy": ["resistance-s1"] }
+    ]
+  },
+  {
+    "id": "colossus",
+    "type": "place",
+    "names": [
+      { "text": "コロッサス", "reading": "ころっさす", "en": "Colossus" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "海の上に浮かぶ、大きな給油基地。", "revealedBy": ["resistance-s1", "resistance-s2"] },
+      { "text": "各地の船が立ち寄り、操縦士たちの競走も行われる。", "revealedBy": ["resistance-s1"] },
+      { "text": "海賊に繰り返し狙われていた。", "revealedBy": ["resistance-s1"] },
+      { "text": "やがて[[first-order]]に押さえられた。", "revealedBy": ["resistance-s1"] }
+    ]
+  },
+
+  {
+    "id": "poe-dameron",
+    "facts": [
+      { "text": "[[kazuda-xiono]]を見込み、辺境へ送り込んだ。", "revealedBy": ["resistance-s1"] }
+    ]
+  },
+  {
+    "id": "bb-8",
+    "facts": [
+      { "text": "しばらく[[kazuda-xiono]]に預けられていた。", "revealedBy": ["resistance-s1"] }
+    ]
+  },
+  {
+    "id": "galactic-empire",
+    "facts": [
+      { "text": "倒れてから長く経っても、かつて仕えていた者たちが各地で暮らしていた。", "revealedBy": ["resistance-s1"] }
+    ]
+  },
+  {
+    "id": "resistance",
+    "facts": [
+      { "text": "まだ小さく、各地に目を置いて動きを探っていた。", "revealedBy": ["resistance-s1"] }
+    ]
+  },
+  {
+    "id": "first-order",
+    "facts": [
+      { "text": "辺境の基地にも、取り込みの手を伸ばしていた。", "revealedBy": ["resistance-s1"] }
+    ]
+  },
+  {
+    "id": "new-republic",
+    "facts": [
+      { "text": "[[first-order]]の動きを軽く見ており、辺境に手が回っていなかった。", "revealedBy": ["resistance-s1"] }
+    ]
+  }
+]

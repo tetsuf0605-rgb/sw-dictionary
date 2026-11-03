@@ -1,0 +1,85 @@
+[
+  {
+    "id": "colossus",
+    "facts": [
+      { "text": "基地ごと海を離れ、星から星へ渡って逃げた。", "revealedBy": ["resistance-s2"] },
+      { "text": "行く先々で助けを求めたが、断られることが多かった。", "revealedBy": ["resistance-s2"] },
+      { "text": "やがて[[resistance]]に加わった。", "revealedBy": ["resistance-s2"] }
+    ]
+  },
+  {
+    "id": "kazuda-xiono",
+    "facts": [
+      { "text": "隠し事をやめ、自らの素性を明かした。", "revealedBy": ["resistance-s2"] },
+      { "text": "基地の者たちをまとめる立場になった。", "revealedBy": ["resistance-s2"] }
+    ]
+  },
+  {
+    "id": "tam-ryvora",
+    "facts": [
+      { "text": "[[first-order]]の操縦士として鍛えられた。", "revealedBy": ["resistance-s2"] },
+      { "text": "教えられたことと、自分の目で見たことの違いに気づいた。", "revealedBy": ["resistance-s2"] },
+      { "text": "仲間のもとへ戻った。", "revealedBy": ["resistance-s2"] }
+    ]
+  },
+  {
+    "id": "jarek-yeager",
+    "facts": [
+      { "text": "再び操縦桿を握り、前に立った。", "revealedBy": ["resistance-s2"] }
+    ]
+  },
+  {
+    "id": "neeku-vozo",
+    "facts": [
+      { "text": "逃げる基地の動力を、たびたび直して回った。", "revealedBy": ["resistance-s2"] }
+    ]
+  },
+  {
+    "id": "captain-doza",
+    "facts": [
+      { "text": "どちらにもつかない立場を捨て、抗う側を選んだ。", "revealedBy": ["resistance-s2"] }
+    ]
+  },
+  {
+    "id": "torra-doza",
+    "facts": [
+      { "text": "外の世界を知り、戦う側に加わった。", "revealedBy": ["resistance-s2"] }
+    ]
+  },
+  {
+    "id": "synara-san",
+    "facts": [
+      { "text": "海賊の側を離れ、基地の者たちと共に戦った。", "revealedBy": ["resistance-s2"] }
+    ]
+  },
+  {
+    "id": "destruction-of-hosnian-system",
+    "facts": [
+      { "text": "遠く離れた空からも、いくつもの光が消えるのが見えた。", "revealedBy": ["resistance-s2"] }
+    ]
+  },
+  {
+    "id": "first-order",
+    "facts": [
+      { "text": "従わない者は容赦なく潰し、逃げる者を追い回した。", "revealedBy": ["resistance-s2"] }
+    ]
+  },
+  {
+    "id": "galactic-empire",
+    "facts": [
+      { "text": "そのやり方は、新しい勢力にそのまま受け継がれていた。", "revealedBy": ["resistance-s2"] }
+    ]
+  },
+  {
+    "id": "resistance",
+    "facts": [
+      { "text": "各地のはぐれ者を迎え入れ、数を補っていた。", "revealedBy": ["resistance-s2"] }
+    ]
+  },
+  {
+    "id": "new-republic",
+    "facts": [
+      { "text": "中枢を失い、辺境の者にとって頼れるものではなくなった。", "revealedBy": ["resistance-s2"] }
+    ]
+  }
+]
