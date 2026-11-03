@@ -6,7 +6,7 @@
       { "text": "スローン大提督", "reading": "すろーんだいていとく", "en": "Grand Admiral Thrawn" }
     ],
     "facts": [
-      { "kind": "summary", "text": "青い肌に赤い目をした帝国の提督。", "revealedBy": ["rebels-s3"] },
+      { "kind": "summary", "text": "青い肌に赤い目をした帝国の提督。", "revealedBy": ["rebels-s3", "rebels-s4"] },
       { "text": "敵の残した絵や細工から、その者の考え方を読み取る。", "revealedBy": ["rebels-s3"] },
       { "text": "追い詰めてもすぐには潰さず、相手を泳がせて全体を暴く。", "revealedBy": ["rebels-s3"] },
       { "text": "落ち着いた物腰で、声を荒らげない。", "revealedBy": ["rebels-s3"] },
@@ -20,7 +20,7 @@
       { "text": "プライス総督", "reading": "ぷらいすそうとく", "en": "Governor Pryce" }
     ],
     "facts": [
-      { "kind": "summary", "text": "[[lothal]]を治める帝国の総督。", "revealedBy": ["rebels-s3"] },
+      { "kind": "summary", "text": "[[lothal]]を治める帝国の総督。", "revealedBy": ["rebels-s3", "rebels-s4"] },
       { "text": "手柄と地位に執着し、出世のためには手段を選ばない。", "revealedBy": ["rebels-s3"] }
     ]
   },

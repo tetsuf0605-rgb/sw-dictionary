@@ -1,0 +1,212 @@
+[
+  {
+    "id": "purrgil",
+    "type": "species",
+    "names": [
+      { "text": "パーギル", "reading": "ぱーぎる", "en": "Purrgil" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "宇宙を渡る、鯨のように巨大な生き物。", "revealedBy": ["rebels-s4"] },
+      { "text": "群れで現れ、星と星の間を自ら跳ぶ。", "revealedBy": ["rebels-s4"] },
+      { "text": "船を巻き込むこともあり、長く嫌われていた。", "revealedBy": ["rebels-s4"] },
+      { "text": "[[ezra-bridger]]の呼びかけに応えた。", "revealedBy": ["rebels-s4"] }
+    ]
+  },
+  {
+    "id": "loth-wolf",
+    "type": "species",
+    "names": [
+      { "text": "ロサールの狼", "reading": "ろさーるのおおかみ", "en": "Loth-wolf" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "[[lothal]]の草原に現れる、見上げるほど大きな狼。", "revealedBy": ["rebels-s4"] },
+      { "text": "人の言葉を話し、行くべき道を示す。", "revealedBy": ["rebels-s4"] },
+      { "text": "星の古い力とつながっているらしい。", "revealedBy": ["rebels-s4"] },
+      { "text": "[[ezra-bridger]]たちを隠された場所へ導いた。", "revealedBy": ["rebels-s4"] }
+    ]
+  },
+  {
+    "id": "jacen-syndulla",
+    "type": "character",
+    "names": [
+      { "text": "ジェイセン・シンドゥーラ", "reading": "じぇいせん・しんどぅーら", "en": "Jacen Syndulla" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "[[hera-syndulla]]の息子。", "revealedBy": ["rebels-s4"] },
+      { "text": "父は[[kanan-jarrus]]である。", "revealedBy": ["rebels-s4"] },
+      { "text": "帝国が倒れたあとの世に育った。", "revealedBy": ["rebels-s4"] }
+    ]
+  },
+  {
+    "id": "unification-of-mandalore",
+    "type": "event",
+    "names": [
+      { "text": "マンダロアの統一", "reading": "まんだろあのとういつ", "en": "Unification of Mandalore" }
+    ],
+    "date": { "year": -1, "precision": "approx" },
+    "facts": [
+      { "kind": "summary", "text": "[[bo-katan-kryze]]が[[darksaber]]を受け取り、[[mandalore]]の民をまとめた出来事。", "revealedBy": ["rebels-s4"] },
+      { "text": "[[sabine-wren]]が剣を差し出し、自らは退いた。", "revealedBy": ["rebels-s4"] },
+      { "text": "それぞれの立場にあった一族が、一つの旗のもとに集まった。", "revealedBy": ["rebels-s4"] }
+    ]
+  },
+  {
+    "id": "death-of-kanan",
+    "type": "event",
+    "names": [
+      { "text": "ケイナンの死", "reading": "けいなんのし", "en": "Death of Kanan" }
+    ],
+    "date": { "year": -1, "precision": "approx", "order": 1 },
+    "facts": [
+      { "kind": "summary", "text": "[[kanan-jarrus]]が仲間を救うために命を落とした出来事。", "revealedBy": ["rebels-s4"] },
+      { "text": "燃え上がる燃料施設で、炎を押しとどめた。", "revealedBy": ["rebels-s4"] },
+      { "text": "最期の一瞬、目が見えるようになった。", "revealedBy": ["rebels-s4"] },
+      { "text": "[[hera-syndulla]]たちはその場から逃げ延びた。", "revealedBy": ["rebels-s4"] }
+    ]
+  },
+  {
+    "id": "liberation-of-lothal",
+    "type": "event",
+    "names": [
+      { "text": "ロサールの解放", "reading": "ろさーるのかいほう", "en": "Liberation of Lothal" }
+    ],
+    "date": { "year": -1, "precision": "approx", "order": 2 },
+    "facts": [
+      { "kind": "summary", "text": "[[lothal]]から帝国が追い出された出来事。", "revealedBy": ["rebels-s4"] },
+      { "text": "[[ezra-bridger]]が[[thrawn]]の艦に乗り込み、[[purrgil]]の群れを呼んだ。", "revealedBy": ["rebels-s4"] },
+      { "text": "群れは艦をつかんで星の間へ跳び、二人とも行方が分からなくなった。", "revealedBy": ["rebels-s4"] },
+      { "text": "残された者たちが星を取り戻した。", "revealedBy": ["rebels-s4"] }
+    ]
+  },
+
+  {
+    "id": "kanan-jarrus",
+    "facts": [
+      { "text": "[[hera-syndulla]]と、言葉にしてこなかった思いを確かめ合った。", "revealedBy": ["rebels-s4"] },
+      { "text": "[[death-of-kanan|仲間を救うために]]命を落とした。", "revealedBy": ["rebels-s4"] },
+      { "text": "最期の一瞬だけ、目が見えるようになった。", "revealedBy": ["rebels-s4"] }
+    ]
+  },
+  {
+    "id": "ezra-bridger",
+    "facts": [
+      { "text": "師を失い、星を守る決心を固めた。", "revealedBy": ["rebels-s4"] },
+      { "text": "[[loth-wolf|狼]]に導かれ、時と場所がつながる場所へ入った。", "revealedBy": ["rebels-s4"] },
+      { "text": "そこから[[ahsoka-tano]]を引き戻した。", "revealedBy": ["rebels-s4"] },
+      { "text": "過去を変えようとはせず、戻ってきた。", "revealedBy": ["rebels-s4"] },
+      { "text": "[[purrgil]]を呼び、[[thrawn]]ごと星の間へ消えた。", "revealedBy": ["rebels-s4"] },
+      { "text": "去る前に、仲間へ別れの言葉を残した。", "revealedBy": ["rebels-s4"] }
+    ]
+  },
+  {
+    "id": "thrawn",
+    "facts": [
+      { "text": "[[lothal]]を上から焼こうとした。", "revealedBy": ["rebels-s4"] },
+      { "text": "[[ezra-bridger]]もろとも[[purrgil]]に連れ去られた。", "revealedBy": ["rebels-s4"] },
+      { "text": "行方は知れないままになった。", "revealedBy": ["rebels-s4"] }
+    ]
+  },
+  {
+    "id": "ahsoka-tano",
+    "facts": [
+      { "text": "時と場所がつながる場所を通って引き戻され、神殿での最期を免れた。", "revealedBy": ["rebels-s4"] },
+      { "text": "帝国が倒れたのち、[[sabine-wren]]と共に[[ezra-bridger]]を探しに出た。", "revealedBy": ["rebels-s4"] }
+    ]
+  },
+  {
+    "id": "bo-katan-kryze",
+    "facts": [
+      { "text": "[[darksaber]]を受け取り、[[mandalore]]の民をまとめた。", "revealedBy": ["rebels-s4"] }
+    ]
+  },
+  {
+    "id": "darksaber",
+    "facts": [
+      { "text": "[[sabine-wren]]の手から[[bo-katan-kryze]]へ渡された。", "revealedBy": ["rebels-s4"] }
+    ]
+  },
+  {
+    "id": "sabine-wren",
+    "facts": [
+      { "text": "一族と和解し、[[darksaber]]を[[bo-katan-kryze]]に託した。", "revealedBy": ["rebels-s4"] },
+      { "text": "[[lothal]]に残って星を守り続けた。", "revealedBy": ["rebels-s4"] },
+      { "text": "のちに[[ahsoka-tano]]と共に、行方の知れない仲間を探す旅に出た。", "revealedBy": ["rebels-s4"] }
+    ]
+  },
+  {
+    "id": "hera-syndulla",
+    "facts": [
+      { "text": "隊を率いる立場になり、大きな作戦にも加わった。", "revealedBy": ["rebels-s4"] },
+      { "text": "[[kanan-jarrus]]との子[[jacen-syndulla]]を授かった。", "revealedBy": ["rebels-s4"] }
+    ]
+  },
+  {
+    "id": "agent-kallus",
+    "facts": [
+      { "text": "正体が割れ、反乱軍の側へ逃げた。", "revealedBy": ["rebels-s4"] },
+      { "text": "帝国が倒れたあと、[[zeb-orrelios]]に連れられて静かな星を見た。", "revealedBy": ["rebels-s4"] }
+    ]
+  },
+  {
+    "id": "zeb-orrelios",
+    "facts": [
+      { "text": "同じ種族の生き残りたちの居場所を見つけた。", "revealedBy": ["rebels-s4"] }
+    ]
+  },
+  {
+    "id": "chopper",
+    "facts": [
+      { "text": "戦いのあとも[[hera-syndulla]]のそばにいた。", "revealedBy": ["rebels-s4"] }
+    ]
+  },
+  {
+    "id": "pryce",
+    "facts": [
+      { "text": "[[lothal]]を失い、自らも捕らえられた。", "revealedBy": ["rebels-s4"] }
+    ]
+  },
+  {
+    "id": "lothal",
+    "facts": [
+      { "text": "[[liberation-of-lothal|帝国から解放され]]、静かな日々が戻った。", "revealedBy": ["rebels-s4"] },
+      { "text": "[[loth-wolf|狼]]の棲む草原と、星の古い力が残る場所がある。", "revealedBy": ["rebels-s4"] }
+    ]
+  },
+  {
+    "id": "the-ghost",
+    "facts": [
+      { "text": "最後まで一味の住みかであり続けた。", "revealedBy": ["rebels-s4"] }
+    ]
+  },
+  {
+    "id": "lightsaber",
+    "facts": [
+      { "text": "持ち主から持ち主へ受け継がれることもある。", "revealedBy": ["rebels-s4"] }
+    ]
+  },
+  {
+    "id": "mandalore",
+    "facts": [
+      { "text": "[[unification-of-mandalore|一つの旗のもとに]]民がまとまった。", "revealedBy": ["rebels-s4"] }
+    ]
+  },
+  {
+    "id": "rebel-alliance",
+    "facts": [
+      { "text": "大きな作戦に向けて力をためていた。", "revealedBy": ["rebels-s4"] }
+    ]
+  },
+  {
+    "id": "galactic-empire",
+    "facts": [
+      { "text": "やがて倒れ、各地から兵が引き上げていった。", "revealedBy": ["rebels-s4"] }
+    ]
+  },
+  {
+    "id": "the-force",
+    "facts": [
+      { "text": "時と場所のつながりに触れられる場所がある、と示された。", "revealedBy": ["rebels-s4"] },
+      { "text": "過ぎたことを変えようとすれば、より大きなものを損なう。", "revealedBy": ["rebels-s4"] }
+    ]
+  }
+]

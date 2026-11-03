@@ -97,7 +97,7 @@
       { "text": "ダークセーバー", "reading": "だーくせーばー", "en": "Darksaber" }
     ],
     "facts": [
-      { "kind": "summary", "text": "黒い刃を持つ古い[[lightsaber]]。刃は平たく、先が尖っている。", "revealedBy": ["tcw-s2", "tcw-s5", "rebels-s3"] },
+      { "kind": "summary", "text": "黒い刃を持つ古い[[lightsaber]]。刃は平たく、先が尖っている。", "revealedBy": ["tcw-s2", "tcw-s5", "rebels-s3", "rebels-s4"] },
       { "text": "昔[[jedi|ジェダイ]]の神殿から持ち出されたものだと語られている。", "revealedBy": ["tcw-s2"] },
       { "text": "[[pre-vizsla]]がこれを振るい、[[death-watch]]を率いた。", "revealedBy": ["tcw-s2"] }
     ]
