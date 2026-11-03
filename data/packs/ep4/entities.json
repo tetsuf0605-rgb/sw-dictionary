@@ -68,7 +68,7 @@
       { "text": "ダース・ベイダー", "reading": "だーす・べいだー", "en": "Darth Vader" }
     ],
     "facts": [
-      { "kind": "summary", "text": "黒い甲冑と仮面に身を包んだ、[[galactic-empire]]の実力者。[[the-force]]のダークサイドを操る。", "revealedBy": ["ep4", "obi-wan", "rebels-s1", "rebels-s2", "rogue-one"] },
+      { "kind": "summary", "text": "黒い甲冑と仮面に身を包んだ、[[galactic-empire]]の実力者。[[the-force]]のダークサイドを操る。", "revealedBy": ["ep4", "obi-wan", "rebels-s1", "rebels-s2", "rogue-one", "maul-shadow-lord"] },
       { "text": "かつて[[obi-wan-kenobi]]の弟子だった。", "revealedBy": ["ep4"] },
       { "text": "[[leia-organa]]を捕らえ、[[death-star]]の設計図の行方を追った。", "revealedBy": ["ep4"] },
       { "text": "デス・スターで[[obi-wan-kenobi]]と再び剣を交え、これを討った。", "revealedBy": ["ep4"] },
@@ -118,7 +118,7 @@
       { "text": "帝国", "reading": "ていこく", "en": "the Empire", "revealedBy": ["ep4"], "kind": "alias" }
     ],
     "facts": [
-      { "kind": "summary", "text": "皇帝を頂点として銀河を支配する専制国家。", "revealedBy": ["ep4", "ep6", "ep3", "bad-batch-s1", "bad-batch-s2", "bad-batch-s3", "obi-wan", "rebels-s1", "rebels-s2", "rebels-s3", "rebels-s4", "andor-s1", "andor-s2", "rogue-one"] },
+      { "kind": "summary", "text": "皇帝を頂点として銀河を支配する専制国家。", "revealedBy": ["ep4", "ep6", "ep3", "bad-batch-s1", "bad-batch-s2", "bad-batch-s3", "obi-wan", "rebels-s1", "rebels-s2", "rebels-s3", "rebels-s4", "andor-s1", "andor-s2", "rogue-one", "maul-shadow-lord"] },
       { "text": "元老院は解散され、各地域は総督が直接統治することになった。", "revealedBy": ["ep4"] },
       { "text": "[[death-star]]を建造し、恐怖によって星系を従わせようとした。", "revealedBy": ["ep4"] }
     ]
@@ -188,7 +188,7 @@
       { "text": "ライトセーバー", "reading": "らいとせーばー", "en": "Lightsaber" }
     ],
     "facts": [
-      { "kind": "summary", "text": "光の刃を持つ[[jedi]]の武器。", "revealedBy": ["ep1", "ep2", "ep4", "ep6", "tcw-film", "tcw-s1", "tcw-s2", "tcw-s3", "tcw-s4", "tcw-s5", "ep3", "obi-wan", "rebels-s1", "ep7", "ep8", "ep9", "skeleton-crew"] },
+      { "kind": "summary", "text": "光の刃を持つ[[jedi]]の武器。", "revealedBy": ["ep1", "ep2", "ep4", "ep6", "tcw-film", "tcw-s1", "tcw-s2", "tcw-s3", "tcw-s4", "tcw-s5", "ep3", "obi-wan", "rebels-s1", "ep7", "ep8", "ep9", "skeleton-crew", "maul-shadow-lord"] },
       { "text": "[[obi-wan-kenobi]]は[[luke-skywalker]]に、父が使っていたライトセーバーを渡した。", "revealedBy": ["ep4"] }
     ]
   },

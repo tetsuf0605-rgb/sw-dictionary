@@ -33,7 +33,7 @@
       { "text": "ダース・モール", "reading": "だーす・もーる", "en": "Darth Maul" }
     ],
     "facts": [
-      { "kind": "summary", "text": "赤と黒の入れ墨と角を持つ[[sith|シス]]の戦士。[[darth-sidious]]の弟子。", "revealedBy": ["ep1"] },
+      { "kind": "summary", "text": "赤と黒の入れ墨と角を持つ[[sith|シス]]の戦士。[[darth-sidious]]の弟子。", "revealedBy": ["ep1", "maul-shadow-lord"] },
       { "text": "両端から刃が出る[[lightsaber]]を使う。", "revealedBy": ["ep1"] },
       { "text": "[[tatooine]]で[[qui-gon-jinn]]たちを襲い、のちに[[naboo]]で再び立ちはだかった。", "revealedBy": ["ep1"] },
       { "text": "クワイ＝ガンを討ったが、[[obi-wan-kenobi]]に斬られて深い縦穴へ落ちていった。", "revealedBy": ["ep1"] }

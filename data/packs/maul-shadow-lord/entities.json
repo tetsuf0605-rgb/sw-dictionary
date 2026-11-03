@@ -1,0 +1,220 @@
+[
+  {
+    "id": "janix",
+    "type": "place",
+    "names": [
+      { "text": "ジャニックス", "reading": "じゃにっくす", "en": "Janix" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "帝国の目が届きにくい、中間星域の星。", "revealedBy": ["maul-shadow-lord"] },
+      { "text": "高層の建物が立ち並ぶ大きな街がある。", "revealedBy": ["maul-shadow-lord"] },
+      { "text": "裏社会がはびこり、地元の警備隊がそれを追っていた。", "revealedBy": ["maul-shadow-lord"] },
+      { "text": "身を隠す[[jedi|ジェダイ]]の生き残りもいた。", "revealedBy": ["maul-shadow-lord"] },
+      { "text": "[[darth-maul]]が力を取り戻す場に選んだ。", "revealedBy": ["maul-shadow-lord"] }
+    ]
+  },
+  {
+    "id": "devon-izara",
+    "type": "character",
+    "names": [
+      { "text": "デヴォン・イザラ", "reading": "でぼん・いざら", "en": "Devon Izara" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "若いトワイレックのパダワン。", "revealedBy": ["maul-shadow-lord"] },
+      { "text": "師[[eeko-dio-daki]]と共に[[janix]]に身を隠していた。", "revealedBy": ["maul-shadow-lord"] },
+      { "text": "食べ物を得ようとして、地元の警備隊に捕らえられた。", "revealedBy": ["maul-shadow-lord"] },
+      { "text": "牢で[[darth-maul]]に見つかり、望まぬまま連れ去られた。", "revealedBy": ["maul-shadow-lord"] },
+      { "text": "師を[[darth-vader]]に討たれ、怒りに駆られた。", "revealedBy": ["maul-shadow-lord"] },
+      { "text": "復讐のために、マウルの説く道へ傾いていった。", "revealedBy": ["maul-shadow-lord"] }
+    ]
+  },
+  {
+    "id": "eeko-dio-daki",
+    "type": "character",
+    "names": [
+      { "text": "イーコ＝ディオ・ダキ", "reading": "いーこでぃお・だき", "en": "Eeko-Dio Daki" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "[[devon-izara]]の師であるジェダイ・マスター。", "revealedBy": ["maul-shadow-lord"] },
+      { "text": "帝国の世を逃れ、[[janix]]に隠れ住んでいた。", "revealedBy": ["maul-shadow-lord"] },
+      { "text": "恐れの中でも静かでいること、辛抱と知恵こそが力だと弟子に説いた。", "revealedBy": ["maul-shadow-lord"] },
+      { "text": "[[darth-maul]]の説く怒りの使い方に、真っ向から反対した。", "revealedBy": ["maul-shadow-lord"] },
+      { "text": "独りで[[darth-vader]]に立ち向かい、胸を貫かれた。", "revealedBy": ["maul-shadow-lord"] }
+    ]
+  },
+  {
+    "id": "rook-kast",
+    "type": "character",
+    "names": [
+      { "text": "ルーク・カスト", "reading": "るーく・かすと", "en": "Rook Kast" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "[[darth-maul]]に従うマンダロリアンの女。", "revealedBy": ["maul-shadow-lord"] },
+      { "text": "手下をまとめ、押し込みの先頭に立つ。", "revealedBy": ["maul-shadow-lord"] }
+    ]
+  },
+  {
+    "id": "eleventh-brother",
+    "type": "character",
+    "names": [
+      { "text": "第十一の兄弟", "reading": "だいじゅういちのきょうだい", "en": "Eleventh Brother" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "[[inquisitors]]の一人。", "revealedBy": ["maul-shadow-lord"] },
+      { "text": "[[janix]]で[[devon-izara]]を追い詰めた。", "revealedBy": ["maul-shadow-lord"] },
+      { "text": "[[darth-maul]]と弟子に押し返された。", "revealedBy": ["maul-shadow-lord"] }
+    ]
+  },
+  {
+    "id": "marrok",
+    "type": "character",
+    "names": [
+      { "text": "マロック", "reading": "まろっく", "en": "Marrok" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "面と黒い装束をまとった剣士。", "revealedBy": ["ahsoka-s1", "maul-shadow-lord"] },
+      { "text": "[[morgan-elsbeth]]に雇われ、[[ahsoka-tano]]と剣を交えた。", "revealedBy": ["ahsoka-s1"] },
+      { "text": "[[janix]]で追っ手に加わった。", "revealedBy": ["maul-shadow-lord"] },
+      { "text": "[[eeko-dio-daki]]に欺かれ、崖から落ちた。", "revealedBy": ["maul-shadow-lord"] }
+    ]
+  },
+  {
+    "id": "looti-vario",
+    "type": "character",
+    "names": [
+      { "text": "ルーティ・ヴァリオ", "reading": "るーてぃ・ばりお", "en": "Looti Vario" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "[[janix]]の裏社会に通じる男。", "revealedBy": ["maul-shadow-lord"] },
+      { "text": "はじめは[[darth-maul]]の狙いの一つだった。", "revealedBy": ["maul-shadow-lord"] },
+      { "text": "のちに逃げる一行の道案内を務めた。", "revealedBy": ["maul-shadow-lord"] },
+      { "text": "[[dryden-vos]]と連絡を取り合っていた。", "revealedBy": ["maul-shadow-lord"] }
+    ]
+  },
+  {
+    "id": "brander-lawson",
+    "type": "character",
+    "names": [
+      { "text": "ブランダー・ローソン", "reading": "ぶらんだー・ろーそん", "en": "Brander Lawson" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "息子と共に帝国から逃げる男。", "revealedBy": ["maul-shadow-lord"] },
+      { "text": "銃を手に、一行のしんがりを引き受けた。", "revealedBy": ["maul-shadow-lord"] },
+      { "text": "息子に別れを告げ、その場に残った。", "revealedBy": ["maul-shadow-lord"] }
+    ]
+  },
+  {
+    "id": "rylee-lawson",
+    "type": "character",
+    "names": [
+      { "text": "ライリー・ローソン", "reading": "らいりー・ろーそん", "en": "Rylee Lawson" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "[[brander-lawson]]の息子。", "revealedBy": ["maul-shadow-lord"] },
+      { "text": "銃を取り、父と並んで戦った。", "revealedBy": ["maul-shadow-lord"] },
+      { "text": "[[two-boots]]に連れられて逃げ延びた。", "revealedBy": ["maul-shadow-lord"] }
+    ]
+  },
+  {
+    "id": "two-boots",
+    "type": "character",
+    "names": [
+      { "text": "トゥー・ブーツ", "reading": "とぅー・ぶーつ", "en": "Two-Boots" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "逃げる一行に付き従うドロイド。", "revealedBy": ["maul-shadow-lord"] },
+      { "text": "帝国の大型の銃座を奪い、輸送艇を撃ち落とした。", "revealedBy": ["maul-shadow-lord"] },
+      { "text": "[[rylee-lawson]]を母のもとへ届けるよう託された。", "revealedBy": ["maul-shadow-lord"] }
+    ]
+  },
+
+  {
+    "id": "darth-maul",
+    "facts": [
+      { "text": "連れ去られたのち、裏社会で力を取り戻そうとしていた。", "revealedBy": ["maul-shadow-lord"] },
+      { "text": "[[janix]]で押し込みを重ね、手下を集めた。", "revealedBy": ["maul-shadow-lord"] },
+      { "text": "[[pyke-syndicate]]や[[crimson-dawn]]を、自分の不幸で肥えた者として狙った。", "revealedBy": ["maul-shadow-lord"] },
+      { "text": "牢にいた[[devon-izara]]を見つけ、連れ去った。", "revealedBy": ["maul-shadow-lord"] },
+      { "text": "自らを鍛えたのは[[darth-sidious]]だと明かした。", "revealedBy": ["maul-shadow-lord"] },
+      { "text": "[[darth-vader]]と刃を交え、建物を崩して逃れた。", "revealedBy": ["maul-shadow-lord"] },
+      { "text": "[[dryden-vos]]と手を結んだ。", "revealedBy": ["maul-shadow-lord"] }
+    ]
+  },
+  {
+    "id": "darth-vader",
+    "facts": [
+      { "text": "[[janix]]に現れ、逃げる者たちを執拗に追った。", "revealedBy": ["maul-shadow-lord"] },
+      { "text": "[[eeko-dio-daki]]を討った。", "revealedBy": ["maul-shadow-lord"] },
+      { "text": "[[darth-maul]]は、その正体を測りかねた。", "revealedBy": ["maul-shadow-lord"] }
+    ]
+  },
+  {
+    "id": "dryden-vos",
+    "facts": [
+      { "text": "[[darth-maul]]と取り引きし、窮地から救い出した。", "revealedBy": ["maul-shadow-lord"] },
+      { "text": "[[crimson-dawn]]を自分のものにするため、マウルを使えると踏んでいた。", "revealedBy": ["maul-shadow-lord"] }
+    ]
+  },
+  {
+    "id": "crimson-dawn",
+    "facts": [
+      { "text": "[[darth-maul]]に狙われていた。", "revealedBy": ["maul-shadow-lord"] },
+      { "text": "内側でも、主の座をめぐる駆け引きがあった。", "revealedBy": ["maul-shadow-lord"] }
+    ]
+  },
+  {
+    "id": "pyke-syndicate",
+    "facts": [
+      { "text": "[[darth-maul]]の狙いの一つだった。", "revealedBy": ["maul-shadow-lord"] }
+    ]
+  },
+  {
+    "id": "inquisitors",
+    "facts": [
+      { "text": "辺境の[[janix]]にも送り込まれていた。", "revealedBy": ["maul-shadow-lord"] }
+    ]
+  },
+  {
+    "id": "darth-sidious",
+    "facts": [
+      { "text": "[[darth-maul]]の口から、かつての師として語られた。", "revealedBy": ["maul-shadow-lord"] },
+      { "text": "[[jedi|ジェダイ]]を狩り尽くし、自ら頂点に立ったと語られた。", "revealedBy": ["maul-shadow-lord"] }
+    ]
+  },
+  {
+    "id": "sith",
+    "facts": [
+      { "text": "その教えを受けた者が、帝国の世にも生き残っていた。", "revealedBy": ["maul-shadow-lord"] }
+    ]
+  },
+  {
+    "id": "jedi",
+    "facts": [
+      { "text": "生き残りは辺境の星で、名を伏せて息を潜めていた。", "revealedBy": ["maul-shadow-lord"] }
+    ]
+  },
+  {
+    "id": "galactic-empire",
+    "facts": [
+      { "text": "辺境にも手を伸ばし、生き残りを狩っていた。", "revealedBy": ["maul-shadow-lord"] }
+    ]
+  },
+  {
+    "id": "mandalore",
+    "facts": [
+      { "text": "星を失った者の中には、裏社会に身を投じた者もいた。", "revealedBy": ["maul-shadow-lord"] }
+    ]
+  },
+  {
+    "id": "lightsaber",
+    "facts": [
+      { "text": "戦いの最中、師から弟子へ手渡されることもある。", "revealedBy": ["maul-shadow-lord"] }
+    ]
+  },
+  {
+    "id": "the-force",
+    "facts": [
+      { "text": "怒りを使えという教えと、静かでいよという教えがぶつかった。", "revealedBy": ["maul-shadow-lord"] }
+    ]
+  }
+]

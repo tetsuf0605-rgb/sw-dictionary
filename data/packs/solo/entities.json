@@ -45,7 +45,7 @@
       { "text": "クリムゾン・ドーン", "reading": "くりむぞん・どーん", "en": "Crimson Dawn" }
     ],
     "facts": [
-      { "kind": "summary", "text": "銀河の裏を仕切る組織の一つ。", "revealedBy": ["solo"] },
+      { "kind": "summary", "text": "銀河の裏を仕切る組織の一つ。", "revealedBy": ["solo", "maul-shadow-lord"] },
       { "text": "賭場や密輸を握り、各地に手を伸ばしている。", "revealedBy": ["solo"] },
       { "text": "[[dryden-vos]]が表に立っていた。", "revealedBy": ["solo"] },
       { "text": "その背後には、めったに姿を見せない者がいた。", "revealedBy": ["solo"] }
