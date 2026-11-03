@@ -6,7 +6,7 @@
       { "text": "ケイナン・ジャラス", "reading": "けいなん・じゃらす", "en": "Kanan Jarrus" }
     ],
     "facts": [
-      { "kind": "summary", "text": "一味の中で[[the-force]]を使う男。[[jedi|ジェダイ]]として学んだ過去を持つ。", "revealedBy": ["rebels-s1", "rebels-s2"] },
+      { "kind": "summary", "text": "一味の中で[[the-force]]を使う男。[[jedi|ジェダイ]]として学んだ過去を持つ。", "revealedBy": ["rebels-s1", "rebels-s2", "rebels-s3"] },
       { "text": "弟子だったころに師を失い、素性を隠して生きてきた。", "revealedBy": ["rebels-s1"] },
       { "text": "[[ezra-bridger]]を弟子に取り、教えることで自分も学び直した。", "revealedBy": ["rebels-s1"] },
       { "text": "[[lightsaber]]を分解し、ふだんは隠し持っていた。", "revealedBy": ["rebels-s1"] },
@@ -20,7 +20,7 @@
       { "text": "エズラ・ブリッジャー", "reading": "えずら・ぶりっじゃー", "en": "Ezra Bridger" }
     ],
     "facts": [
-      { "kind": "summary", "text": "[[lothal]]の孤児。盗みで食いつないでいた少年。", "revealedBy": ["rebels-s1", "rebels-s2"] },
+      { "kind": "summary", "text": "[[lothal]]の孤児。盗みで食いつないでいた少年。", "revealedBy": ["rebels-s1", "rebels-s2", "rebels-s3"] },
       { "text": "[[the-force]]の素質を見出され、[[kanan-jarrus]]の弟子になった。", "revealedBy": ["rebels-s1"] },
       { "text": "生き物の心に触れる力に長けていた。", "revealedBy": ["rebels-s1"] },
       { "text": "両親は帝国に連れ去られていた。", "revealedBy": ["rebels-s1"] },
@@ -34,7 +34,7 @@
       { "text": "ヘラ・シンドゥーラ", "reading": "へら・しんどぅーら", "en": "Hera Syndulla" }
     ],
     "facts": [
-      { "kind": "summary", "text": "[[the-ghost]]を操る女。一味をまとめている。", "revealedBy": ["rebels-s1", "rebels-s2"] },
+      { "kind": "summary", "text": "[[the-ghost]]を操る女。一味をまとめている。", "revealedBy": ["rebels-s1", "rebels-s2", "rebels-s3"] },
       { "text": "落ち着いた判断で、危うい場面を何度も切り抜けた。", "revealedBy": ["rebels-s1"] },
       { "text": "一味の知らないところで、外の大きな動きとつながっていた。", "revealedBy": ["rebels-s1"] }
     ]
@@ -46,7 +46,7 @@
       { "text": "サビーヌ・レン", "reading": "さびーぬ・れん", "en": "Sabine Wren" }
     ],
     "facts": [
-      { "kind": "summary", "text": "爆薬を扱い、甲冑や壁に絵を描く若い女。", "revealedBy": ["rebels-s1", "rebels-s2"] },
+      { "kind": "summary", "text": "爆薬を扱い、甲冑や壁に絵を描く若い女。", "revealedBy": ["rebels-s1", "rebels-s2", "rebels-s3"] },
       { "text": "[[mandalore]]の出である。", "revealedBy": ["rebels-s1"] },
       { "text": "帝国の学び舎にいたが、そこを離れた。", "revealedBy": ["rebels-s1"] },
       { "text": "仕掛けた爆薬の跡に、必ず自分の印を残す。", "revealedBy": ["rebels-s1"] }
@@ -84,7 +84,7 @@
       { "text": "ロサール", "reading": "ろさーる", "en": "Lothal" }
     ],
     "facts": [
-      { "kind": "summary", "text": "草原の広がる辺境の星。", "revealedBy": ["rebels-s1", "rebels-s2"] },
+      { "kind": "summary", "text": "草原の広がる辺境の星。", "revealedBy": ["rebels-s1", "rebels-s2", "rebels-s3"] },
       { "text": "帝国に工場を建てられ、住民は土地と仕事を取り上げられていた。", "revealedBy": ["rebels-s1"] },
       { "text": "[[ezra-bridger]]の故郷である。", "revealedBy": ["rebels-s1"] },
       { "text": "一味の働きの場になった。", "revealedBy": ["rebels-s1"] }
@@ -109,7 +109,7 @@
       { "text": "カラス局員", "reading": "からすきょくいん", "en": "Agent Kallus" }
     ],
     "facts": [
-      { "kind": "summary", "text": "一味を追う帝国の局員。", "revealedBy": ["rebels-s1", "rebels-s2"] },
+      { "kind": "summary", "text": "一味を追う帝国の局員。", "revealedBy": ["rebels-s1", "rebels-s2", "rebels-s3"] },
       { "text": "鋭い頭と腕を持ち、何度も一味を追い詰めた。", "revealedBy": ["rebels-s1"] },
       { "text": "[[zeb-orrelios]]の故郷を滅ぼした側にいたと自ら明かした。", "revealedBy": ["rebels-s1"] }
     ]

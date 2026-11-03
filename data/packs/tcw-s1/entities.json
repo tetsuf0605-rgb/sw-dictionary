@@ -103,7 +103,7 @@
       { "text": "ライロス", "reading": "らいろす", "en": "Ryloth" }
     ],
     "facts": [
-      { "kind": "summary", "text": "[[twilek|トワイレック]]の故郷である星。岩と砂の目立つ土地が広がる。", "revealedBy": ["tcw-s1"] },
+      { "kind": "summary", "text": "[[twilek|トワイレック]]の故郷である星。岩と砂の目立つ土地が広がる。", "revealedBy": ["tcw-s1", "rebels-s3"] },
       { "text": "[[separatists]]に占領され、宇宙を封鎖されて食糧が尽きかけた。", "revealedBy": ["tcw-s1"] },
       { "text": "星を預かった分離主義勢力の長は、住民を盾に取って抵抗した。", "revealedBy": ["tcw-s1"] },
       { "text": "地上では住民が武器を取り、抵抗の輪をつくっていた。", "revealedBy": ["tcw-s1"] },
@@ -117,7 +117,7 @@
       { "text": "トワイレック", "reading": "とわいれっく", "en": "Twi'lek" }
     ],
     "facts": [
-      { "kind": "summary", "text": "頭の後ろから2本の長い触手が伸びる種族。肌の色は個体によって違う。", "revealedBy": ["tcw-s1"] },
+      { "kind": "summary", "text": "頭の後ろから2本の長い触手が伸びる種族。肌の色は個体によって違う。", "revealedBy": ["tcw-s1", "rebels-s3"] },
       { "text": "[[ryloth]]を故郷とする。", "revealedBy": ["tcw-s1"] }
     ]
   },

@@ -1,0 +1,254 @@
+[
+  {
+    "id": "thrawn",
+    "type": "character",
+    "names": [
+      { "text": "スローン大提督", "reading": "すろーんだいていとく", "en": "Grand Admiral Thrawn" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "青い肌に赤い目をした帝国の提督。", "revealedBy": ["rebels-s3"] },
+      { "text": "敵の残した絵や細工から、その者の考え方を読み取る。", "revealedBy": ["rebels-s3"] },
+      { "text": "追い詰めてもすぐには潰さず、相手を泳がせて全体を暴く。", "revealedBy": ["rebels-s3"] },
+      { "text": "落ち着いた物腰で、声を荒らげない。", "revealedBy": ["rebels-s3"] },
+      { "text": "[[battle-of-atollon|反乱軍の基地]]を突き止めた。", "revealedBy": ["rebels-s3"] }
+    ]
+  },
+  {
+    "id": "pryce",
+    "type": "character",
+    "names": [
+      { "text": "プライス総督", "reading": "ぷらいすそうとく", "en": "Governor Pryce" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "[[lothal]]を治める帝国の総督。", "revealedBy": ["rebels-s3"] },
+      { "text": "手柄と地位に執着し、出世のためには手段を選ばない。", "revealedBy": ["rebels-s3"] }
+    ]
+  },
+  {
+    "id": "bendu",
+    "type": "character",
+    "names": [
+      { "text": "ベンドゥ", "reading": "べんどぅ", "en": "Bendu" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "明にも暗にも与しない、岩のように巨大な古い存在。", "revealedBy": ["rebels-s3"] },
+      { "text": "自らを「真ん中にいる者」と呼ぶ。", "revealedBy": ["rebels-s3"] },
+      { "text": "[[kanan-jarrus]]に、見えないことの意味を説いた。", "revealedBy": ["rebels-s3"] },
+      { "text": "怒らせると、嵐のように荒れ狂う。", "revealedBy": ["rebels-s3"] },
+      { "text": "[[atollon]]に長く眠っていた。", "revealedBy": ["rebels-s3"] }
+    ]
+  },
+  {
+    "id": "mon-mothma",
+    "type": "character",
+    "names": [
+      { "text": "モン・モスマ", "reading": "もん・もすま", "en": "Mon Mothma" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "元老院を離れ、公然と帝国に抗う旗を掲げた議員。", "revealedBy": ["rebels-s3"] },
+      { "text": "落ち着いた声で、各地の勢力に呼びかけた。", "revealedBy": ["rebels-s3"] },
+      { "text": "追われる身となったが、散らばっていた勢力をまとめ上げた。", "revealedBy": ["rebels-s3"] },
+      { "text": "[[rebel-alliance]]の旗印になった。", "revealedBy": ["rebels-s3"] }
+    ]
+  },
+  {
+    "id": "atollon",
+    "type": "place",
+    "names": [
+      { "text": "アトロン", "reading": "あとろん", "en": "Atollon" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "赤茶けた荒れ地の広がる星。", "revealedBy": ["rebels-s3"] },
+      { "text": "反乱軍が基地を置いていた。", "revealedBy": ["rebels-s3"] },
+      { "text": "大きな蜘蛛のような生き物が棲む。", "revealedBy": ["rebels-s3"] },
+      { "text": "[[bendu]]が眠っていた。", "revealedBy": ["rebels-s3"] }
+    ]
+  },
+  {
+    "id": "cham-syndulla",
+    "type": "character",
+    "names": [
+      { "text": "チャム・シンドゥーラ", "reading": "ちゃむ・しんどぅーら", "en": "Cham Syndulla" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "[[ryloth]]で抵抗を率いる男。[[hera-syndulla]]の父。", "revealedBy": ["rebels-s3"] },
+      { "text": "故郷を取り戻すことだけを見ており、娘とは考えが合わなかった。", "revealedBy": ["rebels-s3"] },
+      { "text": "反目しながらも、共に帝国の艦を奪った。", "revealedBy": ["rebels-s3"] }
+    ]
+  },
+  {
+    "id": "founding-of-the-rebel-alliance",
+    "type": "event",
+    "names": [
+      { "text": "反乱同盟軍の成立", "reading": "はんらんどうめいぐんのせいりつ", "en": "Founding of the Rebel Alliance" }
+    ],
+    "date": { "year": -2, "precision": "approx" },
+    "facts": [
+      { "kind": "summary", "text": "散らばっていた反乱の勢力が、一つの同盟にまとまった出来事。", "revealedBy": ["rebels-s3"] },
+      { "text": "[[mon-mothma]]が公に帝国を非難し、旗を掲げた。", "revealedBy": ["rebels-s3"] },
+      { "text": "各地の小さな部隊が、一つの指揮のもとに入った。", "revealedBy": ["rebels-s3"] }
+    ]
+  },
+  {
+    "id": "battle-of-atollon",
+    "type": "event",
+    "names": [
+      { "text": "アトロンの戦い", "reading": "あとろんのたたかい", "en": "Battle of Atollon" }
+    ],
+    "date": { "year": -2, "precision": "approx", "order": 1 },
+    "facts": [
+      { "kind": "summary", "text": "[[thrawn]]が[[atollon]]の反乱軍基地を突き止め、艦隊で囲んだ戦い。", "revealedBy": ["rebels-s3"] },
+      { "text": "多くの艦と人が失われた。", "revealedBy": ["rebels-s3"] },
+      { "text": "[[bendu]]が荒れ狂い、両の軍を巻き込んだ。", "revealedBy": ["rebels-s3"] },
+      { "text": "わずかな者が囲みを破って逃げ延びた。", "revealedBy": ["rebels-s3"] }
+    ]
+  },
+  {
+    "id": "death-of-maul",
+    "type": "event",
+    "names": [
+      { "text": "モールの最期", "reading": "もーるのさいご", "en": "Death of Maul" }
+    ],
+    "date": { "year": -2, "precision": "approx", "order": 2 },
+    "facts": [
+      { "kind": "summary", "text": "[[tatooine]]の砂漠で、[[darth-maul]]と[[obi-wan-kenobi]]が決着をつけた出来事。", "revealedBy": ["rebels-s3"] },
+      { "text": "モールは長く探し続けた相手を、ついに見つけ出した。", "revealedBy": ["rebels-s3"] },
+      { "text": "剣を交えたのは、ほんの数合だった。", "revealedBy": ["rebels-s3"] },
+      { "text": "倒れたモールは、オビ＝ワンが何かを守っていることを察した。", "revealedBy": ["rebels-s3"] }
+    ]
+  },
+
+  {
+    "id": "darth-maul",
+    "facts": [
+      { "text": "[[obi-wan-kenobi]]を探し続け、ついに砂漠にたどり着いた。", "revealedBy": ["rebels-s3"] },
+      { "text": "[[ezra-bridger]]を使って、その居場所を突き止めようとした。", "revealedBy": ["rebels-s3"] },
+      { "text": "[[death-of-maul|最期]]は、かつての敵の腕に抱かれた。", "revealedBy": ["rebels-s3"] }
+    ]
+  },
+  {
+    "id": "obi-wan-kenobi",
+    "facts": [
+      { "text": "砂漠で[[darth-maul]]と決着をつけた。", "revealedBy": ["rebels-s3"] },
+      { "text": "守っているものがあると、ひとことだけ認めた。", "revealedBy": ["rebels-s3"] }
+    ]
+  },
+  {
+    "id": "darksaber",
+    "facts": [
+      { "text": "[[sabine-wren]]の手に渡り、使い方が学び直された。", "revealedBy": ["rebels-s3"] },
+      { "text": "[[mandalore]]の民をまとめる印として扱われた。", "revealedBy": ["rebels-s3"] }
+    ]
+  },
+  {
+    "id": "sabine-wren",
+    "facts": [
+      { "text": "[[darksaber]]を託され、戦い方を身につけた。", "revealedBy": ["rebels-s3"] },
+      { "text": "故郷へ戻り、一族と向き合う決心をした。", "revealedBy": ["rebels-s3"] }
+    ]
+  },
+  {
+    "id": "agent-kallus",
+    "names": [
+      { "text": "フルクラム", "reading": "ふるくらむ", "en": "Fulcrum", "revealedBy": ["rebels-s3"], "kind": "alias" }
+    ],
+    "facts": [
+      { "text": "帝国の内側から、反乱軍へ知らせを送るようになった。", "revealedBy": ["rebels-s3"] },
+      { "text": "符丁を受け継ぎ、危ない橋を渡り続けた。", "revealedBy": ["rebels-s3"] },
+      { "text": "[[thrawn]]に目をつけられた。", "revealedBy": ["rebels-s3"] }
+    ]
+  },
+  {
+    "id": "rebel-alliance",
+    "facts": [
+      { "text": "[[founding-of-the-rebel-alliance|散らばっていた勢力]]が一つにまとまって生まれた。", "revealedBy": ["rebels-s3"] },
+      { "text": "[[mon-mothma]]が旗印になった。", "revealedBy": ["rebels-s3"] },
+      { "text": "初めは小さく、帝国の艦隊には遠く及ばなかった。", "revealedBy": ["rebels-s3"] }
+    ]
+  },
+  {
+    "id": "ezra-bridger",
+    "facts": [
+      { "text": "力を早く得ようとして、危うい道に近づいた。", "revealedBy": ["rebels-s3"] },
+      { "text": "[[darth-maul]]に利用された。", "revealedBy": ["rebels-s3"] }
+    ]
+  },
+  {
+    "id": "kanan-jarrus",
+    "facts": [
+      { "text": "[[bendu]]に学び、見えないままでも戦えるようになった。", "revealedBy": ["rebels-s3"] }
+    ]
+  },
+  {
+    "id": "hera-syndulla",
+    "facts": [
+      { "text": "父[[cham-syndulla]]と向き合い、互いのやり方を認め合った。", "revealedBy": ["rebels-s3"] }
+    ]
+  },
+  {
+    "id": "saw-gerrera",
+    "facts": [
+      { "text": "同盟とは別に動き、帝国の隠し事を独自に追っていた。", "revealedBy": ["rebels-s3"] }
+    ]
+  },
+  {
+    "id": "ryloth",
+    "facts": [
+      { "text": "帝国の世になっても、[[cham-syndulla]]たちが抵抗を続けていた。", "revealedBy": ["rebels-s3"] }
+    ]
+  },
+  {
+    "id": "twilek",
+    "facts": [
+      { "text": "帝国の下でも、故郷を取り戻そうとする者たちがいた。", "revealedBy": ["rebels-s3"] }
+    ]
+  },
+  {
+    "id": "lothal",
+    "facts": [
+      { "text": "[[pryce]]が治め、締めつけが強まった。", "revealedBy": ["rebels-s3"] }
+    ]
+  },
+  {
+    "id": "tatooine",
+    "facts": [
+      { "text": "[[death-of-maul|二人の決着]]の場になった。", "revealedBy": ["rebels-s3"] }
+    ]
+  },
+  {
+    "id": "mandalore",
+    "facts": [
+      { "text": "[[darksaber]]を持つ者が民をまとめる、という考えが語られた。", "revealedBy": ["rebels-s3"] }
+    ]
+  },
+  {
+    "id": "jedi",
+    "facts": [
+      { "text": "生き残りは、師から弟子へ細々と技を伝えていた。", "revealedBy": ["rebels-s3"] }
+    ]
+  },
+  {
+    "id": "lightsaber",
+    "facts": [
+      { "text": "黒い刃のものを含め、使い手ごとに形も扱いも違う。", "revealedBy": ["rebels-s3"] }
+    ]
+  },
+  {
+    "id": "the-ghost",
+    "facts": [
+      { "text": "[[rebel-alliance]]の一隊として、各地の作戦に加わった。", "revealedBy": ["rebels-s3"] }
+    ]
+  },
+  {
+    "id": "the-force",
+    "facts": [
+      { "text": "明と暗のどちらにも与しない、真ん中に立つものもある。", "revealedBy": ["rebels-s3"] }
+    ]
+  },
+  {
+    "id": "galactic-empire",
+    "facts": [
+      { "text": "腕の立つ提督を呼び戻し、反乱の根を断とうとした。", "revealedBy": ["rebels-s3"] }
+    ]
+  }
+]

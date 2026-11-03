@@ -95,7 +95,7 @@
       { "text": "タトゥイーン", "reading": "たとぅいーん", "en": "Tatooine" }
     ],
     "facts": [
-      { "kind": "summary", "text": "銀河の外縁にある砂漠の惑星。2つの太陽が昇る。", "revealedBy": ["ep1", "ep2", "ep4", "tcw-film", "ep3", "obi-wan"] },
+      { "kind": "summary", "text": "銀河の外縁にある砂漠の惑星。2つの太陽が昇る。", "revealedBy": ["ep1", "ep2", "ep4", "tcw-film", "ep3", "obi-wan", "rebels-s3"] },
       { "text": "[[luke-skywalker]]が育ち、[[obi-wan-kenobi]]が隠れ住んでいた星。", "revealedBy": ["ep4"] }
     ]
   },
@@ -118,7 +118,7 @@
       { "text": "帝国", "reading": "ていこく", "en": "the Empire", "revealedBy": ["ep4"], "kind": "alias" }
     ],
     "facts": [
-      { "kind": "summary", "text": "皇帝を頂点として銀河を支配する専制国家。", "revealedBy": ["ep4", "ep6", "ep3", "bad-batch-s1", "bad-batch-s2", "bad-batch-s3", "obi-wan", "rebels-s1", "rebels-s2"] },
+      { "kind": "summary", "text": "皇帝を頂点として銀河を支配する専制国家。", "revealedBy": ["ep4", "ep6", "ep3", "bad-batch-s1", "bad-batch-s2", "bad-batch-s3", "obi-wan", "rebels-s1", "rebels-s2", "rebels-s3"] },
       { "text": "元老院は解散され、各地域は総督が直接統治することになった。", "revealedBy": ["ep4"] },
       { "text": "[[death-star]]を建造し、恐怖によって星系を従わせようとした。", "revealedBy": ["ep4"] }
     ]
@@ -131,7 +131,7 @@
       { "text": "反乱軍", "reading": "はんらんぐん", "en": "the Rebellion", "revealedBy": ["ep4"], "kind": "alias" }
     ],
     "facts": [
-      { "kind": "summary", "text": "[[galactic-empire]]の支配に抵抗する勢力。各地で帝国と戦っている。", "revealedBy": ["ep4", "ep6"] },
+      { "kind": "summary", "text": "[[galactic-empire]]の支配に抵抗する勢力。各地で帝国と戦っている。", "revealedBy": ["ep4", "ep6", "rebels-s3"] },
       { "text": "[[death-star]]の設計図を手に入れ、[[battle-of-yavin]]で弱点を突いてこれを破壊した。", "revealedBy": ["ep4"] }
     ]
   },
@@ -177,7 +177,7 @@
       { "text": "フォース", "reading": "ふぉーす", "en": "the Force" }
     ],
     "facts": [
-      { "kind": "summary", "text": "あらゆる生き物が生み出し、銀河を満たしているエネルギーの場。[[jedi]]はこれを感じ取り、力として用いる。", "revealedBy": ["ep1", "ep2", "ep4", "tcw-film", "tcw-s1", "tcw-s2", "tcw-s3", "tcw-s4", "ep3", "tcw-s6", "obi-wan", "rebels-s1", "rebels-s2"] },
+      { "kind": "summary", "text": "あらゆる生き物が生み出し、銀河を満たしているエネルギーの場。[[jedi]]はこれを感じ取り、力として用いる。", "revealedBy": ["ep1", "ep2", "ep4", "tcw-film", "tcw-s1", "tcw-s2", "tcw-s3", "tcw-s4", "ep3", "tcw-s6", "obi-wan", "rebels-s1", "rebels-s2", "rebels-s3"] },
       { "text": "光の側面（ライトサイド）と暗黒の側面（ダークサイド）がある。", "revealedBy": ["ep4", "ep6"] }
     ]
   },
