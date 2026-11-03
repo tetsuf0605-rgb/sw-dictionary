@@ -20,7 +20,7 @@
       { "text": "フィン", "reading": "ふぃん", "en": "Finn" }
     ],
     "facts": [
-      { "kind": "summary", "text": "[[first-order]]の兵として育てられ、そこを抜けた男。", "revealedBy": ["ep7", "ep8"] },
+      { "kind": "summary", "text": "[[first-order]]の兵として育てられ、そこを抜けた男。", "revealedBy": ["ep7", "ep8", "ep9"] },
       { "text": "番号で呼ばれていたが、[[poe-dameron]]に名を付けられた。", "revealedBy": ["ep7"] },
       { "text": "初めての戦いで、撃つことを拒んだ。", "revealedBy": ["ep7"] },
       { "text": "逃げるつもりだったが、[[rey]]を助けるために戻った。", "revealedBy": ["ep7"] }
@@ -33,7 +33,7 @@
       { "text": "ポー・ダメロン", "reading": "ぽー・だめろん", "en": "Poe Dameron" }
     ],
     "facts": [
-      { "kind": "summary", "text": "[[resistance]]随一の操縦士。", "revealedBy": ["ep7", "ep8"] },
+      { "kind": "summary", "text": "[[resistance]]随一の操縦士。", "revealedBy": ["ep7", "ep8", "ep9"] },
       { "text": "口が達者で、物おじしない。", "revealedBy": ["ep7"] },
       { "text": "[[bb-8]]を相棒にしている。", "revealedBy": ["ep7"] },
       { "text": "[[luke-skywalker]]の手がかりを託されていた。", "revealedBy": ["ep7"] }
@@ -47,7 +47,7 @@
       { "text": "ベン・ソロ", "reading": "べん・そろ", "en": "Ben Solo", "revealedBy": ["ep7"], "kind": "alias" }
     ],
     "facts": [
-      { "kind": "summary", "text": "仮面をつけ、横に刃の突き出た赤い[[lightsaber]]を振るう男。", "revealedBy": ["ep7", "ep8"] },
+      { "kind": "summary", "text": "仮面をつけ、横に刃の突き出た赤い[[lightsaber]]を振るう男。", "revealedBy": ["ep7", "ep8", "ep9"] },
       { "text": "[[darth-vader]]を仰ぎ、その焼け残った仮面に語りかけていた。", "revealedBy": ["ep7"] },
       { "text": "[[han-solo]]と[[leia-organa]]の息子である。", "revealedBy": ["ep7"] },
       { "text": "[[luke-skywalker]]のもとで学んだが、そむいて去った。", "revealedBy": ["ep7"] },
@@ -138,7 +138,7 @@
       { "text": "レジスタンス", "reading": "れじすたんす", "en": "Resistance" }
     ],
     "facts": [
-      { "kind": "summary", "text": "[[first-order]]に抗う小さな軍。", "revealedBy": ["ep7", "ep8"] },
+      { "kind": "summary", "text": "[[first-order]]に抗う小さな軍。", "revealedBy": ["ep7", "ep8", "ep9"] },
       { "text": "[[leia-organa]]が率いている。", "revealedBy": ["ep7"] },
       { "text": "[[new-republic]]から表立っては支えられていない。", "revealedBy": ["ep7"] },
       { "text": "古い型の戦闘機を使い続けている。", "revealedBy": ["ep7"] }

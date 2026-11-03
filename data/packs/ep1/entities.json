@@ -63,7 +63,7 @@
     ],
     "sameAs": [
       { "id": "darth-sidious", "revealedBy": ["ep3"], "note": "正体" },
-      { "id": "the-emperor", "revealedBy": ["ep3"], "note": "のちの姿" }
+      { "id": "the-emperor", "revealedBy": ["ep3", "ep9"], "note": "のちの姿" }
     ]
   },
   {

@@ -1,0 +1,257 @@
+[
+  {
+    "id": "exegol",
+    "type": "place",
+    "names": [
+      { "text": "エクセゴル", "reading": "えくせごる", "en": "Exegol" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "星図に載っていない、雷の走る暗い星。", "revealedBy": ["ep9"] },
+      { "text": "[[sith|シス]]の古い言い伝えに残る隠れ処だった。", "revealedBy": ["ep9"] },
+      { "text": "地の底に巨大な広間があり、顔を隠した者たちが集まっていた。", "revealedBy": ["ep9"] },
+      { "text": "[[sith-wayfinder|道しるべ]]なしにはたどり着けない。", "revealedBy": ["ep9"] },
+      { "text": "[[battle-of-exegol|最後の戦い]]の舞台になった。", "revealedBy": ["ep9"] }
+    ]
+  },
+  {
+    "id": "final-order",
+    "type": "organization",
+    "names": [
+      { "text": "ファイナル・オーダー", "reading": "ふぁいなる・おーだー", "en": "Final Order" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "[[exegol]]に隠されていた巨大な艦隊。", "revealedBy": ["ep9"] },
+      { "text": "一隻ごとに星を砕く砲を備えていた。", "revealedBy": ["ep9"] },
+      { "text": "長い年月をかけて、密かに造られていた。", "revealedBy": ["ep9"] },
+      { "text": "空の上の中継を失い、まとまりを欠いた。", "revealedBy": ["ep9"] }
+    ]
+  },
+  {
+    "id": "sith-wayfinder",
+    "type": "item",
+    "names": [
+      { "text": "シスの道しるべ", "reading": "しすのみちしるべ", "en": "Sith Wayfinder" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "[[exegol]]への道を示す、手のひらほどの品。", "revealedBy": ["ep9"] },
+      { "text": "二つしか残っていないとされた。", "revealedBy": ["ep9"] },
+      { "text": "一つは[[kylo-ren]]の手に、もう一つは古い残骸の中にあった。", "revealedBy": ["ep9"] }
+    ]
+  },
+  {
+    "id": "kef-bir",
+    "type": "place",
+    "names": [
+      { "text": "ケフ・バー", "reading": "けふ・ばー", "en": "Kef Bir" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "荒れた海に覆われた月。", "revealedBy": ["ep9"] },
+      { "text": "[[death-star]]の残骸が、波に洗われたまま残っている。", "revealedBy": ["ep9"] },
+      { "text": "[[jannah]]たちが暮らしていた。", "revealedBy": ["ep9"] }
+    ]
+  },
+  {
+    "id": "jannah",
+    "type": "character",
+    "names": [
+      { "text": "ジャナー", "reading": "じゃなー", "en": "Jannah" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "かつて[[first-order]]の兵だった女。", "revealedBy": ["ep9"] },
+      { "text": "仲間と共に命令に背き、隊を離れていた。", "revealedBy": ["ep9"] },
+      { "text": "[[kef-bir]]で暮らしていた。", "revealedBy": ["ep9"] }
+    ]
+  },
+  {
+    "id": "zorii-bliss",
+    "type": "character",
+    "names": [
+      { "text": "ゾーリ・ブリス", "reading": "ぞーり・ぶりす", "en": "Zorii Bliss" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "兜で顔を隠した、裏の商売の女。", "revealedBy": ["ep9"] },
+      { "text": "[[poe-dameron]]の昔なじみ。", "revealedBy": ["ep9"] },
+      { "text": "古い借りを返すように手を貸した。", "revealedBy": ["ep9"] }
+    ]
+  },
+  {
+    "id": "babu-frik",
+    "type": "character",
+    "names": [
+      { "text": "バブ・フリック", "reading": "ばぶ・ふりっく", "en": "Babu Frik" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "手のひらに乗るほど小さな技師。", "revealedBy": ["ep9"] },
+      { "text": "ドロイドの中身をいじることにかけては、並ぶ者がない。", "revealedBy": ["ep9"] },
+      { "text": "[[c-3po]]の記憶に手を入れた。", "revealedBy": ["ep9"] }
+    ]
+  },
+  {
+    "id": "battle-of-exegol",
+    "type": "event",
+    "names": [
+      { "text": "エクセゴルの戦い", "reading": "えくせごるのたたかい", "en": "Battle of Exegol" }
+    ],
+    "date": { "year": 35, "precision": "exact" },
+    "facts": [
+      { "kind": "summary", "text": "[[exegol]]で[[resistance]]と[[final-order]]が戦った出来事。", "revealedBy": ["ep9"] },
+      { "text": "呼びかけに応じた各地の船が、思いがけない数で集まった。", "revealedBy": ["ep9"] },
+      { "text": "[[rey]]が[[palpatine]]と向き合った。", "revealedBy": ["ep9"] },
+      { "text": "艦隊は崩れ、[[first-order]]の企ては潰えた。", "revealedBy": ["ep9"] }
+    ]
+  },
+
+  {
+    "id": "palpatine",
+    "facts": [
+      { "text": "死んだはずが、生きていた。", "revealedBy": ["ep9"] },
+      { "text": "[[exegol]]の底で、朽ちかけた体を機械に吊られて待っていた。", "revealedBy": ["ep9"] },
+      { "text": "[[kylo-ren]]を呼び寄せ、[[rey]]を連れてくるよう命じた。", "revealedBy": ["ep9"] },
+      { "text": "[[rey]]は自らの孫だと明かした。", "revealedBy": ["ep9"] },
+      { "text": "二人の力を奪って若がえろうとした。", "revealedBy": ["ep9"] },
+      { "text": "最後は自らの放った雷に焼かれて滅びた。", "revealedBy": ["ep9"] }
+    ]
+  },
+  {
+    "id": "the-emperor",
+    "facts": [
+      { "text": "[[exegol]]で再び姿を現した。", "revealedBy": ["ep9"] },
+      { "text": "シスのすべてが自らの内にあると語った。", "revealedBy": ["ep9"] }
+    ]
+  },
+  {
+    "id": "rey",
+    "names": [
+      { "text": "レイ・スカイウォーカー", "reading": "れい・すかいうぉーかー", "en": "Rey Skywalker", "revealedBy": ["ep9"], "kind": "alias" }
+    ],
+    "facts": [
+      { "text": "[[palpatine]]の孫だと知らされた。", "revealedBy": ["ep9"] },
+      { "text": "自らの内にある闇に怯えた。", "revealedBy": ["ep9"] },
+      { "text": "自分の[[lightsaber]]を組み上げた。", "revealedBy": ["ep9"] },
+      { "text": "[[kylo-ren]]と力を分け合い、互いを生かした。", "revealedBy": ["ep9"] },
+      { "text": "戦いのあと[[tatooine]]を訪れ、スカイウォーカーの名を名乗った。", "revealedBy": ["ep9"] }
+    ]
+  },
+  {
+    "id": "kylo-ren",
+    "facts": [
+      { "text": "[[sith-wayfinder|道しるべ]]をたどって[[exegol]]へ行き、[[palpatine]]に会った。", "revealedBy": ["ep9"] },
+      { "text": "母の呼びかけと父の面影に触れ、ベン・ソロに戻った。", "revealedBy": ["ep9"] },
+      { "text": "仮面を捨て、[[rey]]を助けに向かった。", "revealedBy": ["ep9"] },
+      { "text": "自らの命を分け与えて消えた。", "revealedBy": ["ep9"] }
+    ]
+  },
+  {
+    "id": "leia-organa",
+    "facts": [
+      { "text": "若いころ[[jedi|ジェダイ]]の修行をしていたことが語られた。", "revealedBy": ["ep9"] },
+      { "text": "[[rey]]を弟子として鍛えていた。", "revealedBy": ["ep9"] },
+      { "text": "最後の力で息子に呼びかけ、そのまま息を引き取った。", "revealedBy": ["ep9"] }
+    ]
+  },
+  {
+    "id": "luke-skywalker",
+    "facts": [
+      { "text": "姿を現し、[[rey]]に剣と覚悟を渡した。", "revealedBy": ["ep9"] },
+      { "text": "海に沈めた船を、自らの力で引き上げてみせた。", "revealedBy": ["ep9"] }
+    ]
+  },
+  {
+    "id": "finn",
+    "facts": [
+      { "text": "元は兵だった者たちと行き会い、同じ道を選んだ者がいると知った。", "revealedBy": ["ep9"] },
+      { "text": "[[rey]]に伝えたいことがあると言い続けた。", "revealedBy": ["ep9"] }
+    ]
+  },
+  {
+    "id": "poe-dameron",
+    "facts": [
+      { "text": "[[leia-organa]]のあとを継いで将になった。", "revealedBy": ["ep9"] },
+      { "text": "昔は裏の商売に手を染めていた。", "revealedBy": ["ep9"] }
+    ]
+  },
+  {
+    "id": "c-3po",
+    "facts": [
+      { "text": "禁じられた言葉を読むため、記憶を失うことを自ら受け入れた。", "revealedBy": ["ep9"] },
+      { "text": "のちに[[r2-d2]]から記憶を戻された。", "revealedBy": ["ep9"] }
+    ]
+  },
+  {
+    "id": "r2-d2",
+    "facts": [
+      { "text": "[[c-3po]]の失われた記憶を、控えから戻した。", "revealedBy": ["ep9"] }
+    ]
+  },
+  {
+    "id": "chewbacca",
+    "facts": [
+      { "text": "一度は失われたと思われたが、生きていた。", "revealedBy": ["ep9"] },
+      { "text": "終わりに勲章を受けた。", "revealedBy": ["ep9"] }
+    ]
+  },
+  {
+    "id": "lando-calrissian",
+    "facts": [
+      { "text": "長く身を隠していたが、呼びかけに応えて各地の船を連れてきた。", "revealedBy": ["ep9"] }
+    ]
+  },
+  {
+    "id": "hux",
+    "facts": [
+      { "text": "[[kylo-ren]]への憎しみから、敵に手を貸した。", "revealedBy": ["ep9"] },
+      { "text": "見つかって撃たれた。", "revealedBy": ["ep9"] }
+    ]
+  },
+  {
+    "id": "resistance",
+    "facts": [
+      { "text": "数は少ないままだったが、呼びかけに応えた船が各地から集まった。", "revealedBy": ["ep9"] }
+    ]
+  },
+  {
+    "id": "first-order",
+    "facts": [
+      { "text": "[[final-order]]を得て、銀河を力で押さえようとした。", "revealedBy": ["ep9"] },
+      { "text": "艦隊の崩壊と共に潰えた。", "revealedBy": ["ep9"] }
+    ]
+  },
+  {
+    "id": "death-star",
+    "facts": [
+      { "text": "残骸が[[kef-bir]]の海に沈んでいる。", "revealedBy": ["ep9"] }
+    ]
+  },
+  {
+    "id": "sith",
+    "facts": [
+      { "text": "[[exegol]]に隠れ処を持っていた。", "revealedBy": ["ep9"] },
+      { "text": "滅びたはずが、陰で続いていた。", "revealedBy": ["ep9"] }
+    ]
+  },
+  {
+    "id": "jedi",
+    "facts": [
+      { "text": "過去のジェダイたちの声が、[[rey]]を支えた。", "revealedBy": ["ep9"] }
+    ]
+  },
+  {
+    "id": "the-force",
+    "facts": [
+      { "text": "力を分け与えて、人を癒やすこともできる。", "revealedBy": ["ep9"] },
+      { "text": "多くの声が、一人を導くこともある。", "revealedBy": ["ep9"] }
+    ]
+  },
+  {
+    "id": "lightsaber",
+    "facts": [
+      { "text": "黄色い刃のものもある。", "revealedBy": ["ep9"] }
+    ]
+  },
+  {
+    "id": "tatooine",
+    "facts": [
+      { "text": "[[rey]]が旅の終わりに訪れ、二本の剣を砂に埋めた。", "revealedBy": ["ep9"] }
+    ]
+  }
+]
