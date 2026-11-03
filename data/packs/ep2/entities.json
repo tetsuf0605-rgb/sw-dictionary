@@ -152,7 +152,7 @@
       { "text": "タスケン・レイダー", "reading": "たすけん・れいだー", "en": "Tusken Raider" }
     ],
     "facts": [
-      { "kind": "summary", "text": "[[tatooine]]の荒野に暮らす、布で全身を覆った民。", "revealedBy": ["ep2"] },
+      { "kind": "summary", "text": "[[tatooine]]の荒野に暮らす、布で全身を覆った民。", "revealedBy": ["ep2", "boba-fett"] },
       { "text": "群れで動き、入植者の農場や旅人を襲うことがある。", "revealedBy": ["ep2"] },
       { "text": "[[shmi-skywalker]]をさらい、その息子[[anakin-skywalker]]に一族を討たれた。", "revealedBy": ["ep2"] }
     ]

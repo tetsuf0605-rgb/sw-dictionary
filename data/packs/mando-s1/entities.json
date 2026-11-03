@@ -7,7 +7,7 @@
       { "text": "マンダロリアン", "reading": "まんだろりあん", "en": "The Mandalorian", "revealedBy": ["mando-s1"], "kind": "alias" }
     ],
     "facts": [
-      { "kind": "summary", "text": "顔を人に見せない賞金稼ぎ。[[beskar]]の甲冑を身につけている。", "revealedBy": ["mando-s1", "mando-s2"] },
+      { "kind": "summary", "text": "顔を人に見せない賞金稼ぎ。[[beskar]]の甲冑を身につけている。", "revealedBy": ["mando-s1", "mando-s2", "boba-fett"] },
       { "text": "幼いころ戦火で親を失い、[[the-way|掟]]を守る者たちに育てられた。", "revealedBy": ["mando-s1"] },
       { "text": "一度かぶった兜を、人前では決して脱がない。", "revealedBy": ["mando-s1"] },
       { "text": "引き渡した[[the-child]]を連れ戻し、追われる身になった。", "revealedBy": ["mando-s1"] },

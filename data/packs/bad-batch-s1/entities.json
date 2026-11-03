@@ -21,7 +21,7 @@
       { "text": "フェネック・シャンド", "reading": "ふぇねっく・しゃんど", "en": "Fennec Shand" }
     ],
     "facts": [
-      { "kind": "summary", "text": "腕利きの賞金稼ぎ。長い髪を結い上げている。", "revealedBy": ["bad-batch-s1"] },
+      { "kind": "summary", "text": "腕利きの賞金稼ぎ。長い髪を結い上げている。", "revealedBy": ["bad-batch-s1", "mando-s2", "boba-fett"] },
       { "text": "[[omega]]を生け捕りにするよう雇われた。", "revealedBy": ["bad-batch-s1"] },
       { "text": "雇い主をすぐには明かさず、のちに[[nala-se]]だったと分かった。", "revealedBy": ["bad-batch-s1"] },
       { "text": "腕は確かで、[[bad-batch]]を何度も追い詰めた。", "revealedBy": ["bad-batch-s1"] }

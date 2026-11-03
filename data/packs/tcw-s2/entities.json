@@ -6,7 +6,7 @@
       { "text": "キャド・ベイン", "reading": "きゃど・べいん", "en": "Cad Bane" }
     ],
     "facts": [
-      { "kind": "summary", "text": "つば広の帽子をかぶった青い肌の賞金稼ぎ。金のためなら何でも請け負う。", "revealedBy": ["tcw-s1", "tcw-s2"] },
+      { "kind": "summary", "text": "つば広の帽子をかぶった青い肌の賞金稼ぎ。金のためなら何でも請け負う。", "revealedBy": ["tcw-s1", "tcw-s2", "boba-fett"] },
       { "text": "二丁の銃を素早く抜き、腕ずくの仕事も厭わない。", "revealedBy": ["tcw-s1", "tcw-s2"] },
       { "text": "[[galactic-senate]]の議場に乗り込んで議員を人質に取り、[[ziro-the-hutt]]を牢から出させた。", "revealedBy": ["tcw-s1"] },
       { "text": "[[count-dooku]]に雇われて動いた。", "revealedBy": ["tcw-s2"] },

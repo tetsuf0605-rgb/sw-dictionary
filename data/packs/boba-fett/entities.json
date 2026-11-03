@@ -1,0 +1,164 @@
+[
+  {
+    "id": "black-krrsantan",
+    "type": "character",
+    "names": [
+      { "text": "ブラック・クラッサンタン", "reading": "ぶらっく・くらっさんたん", "en": "Black Krrsantan" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "黒い毛の大柄な賞金稼ぎ。", "revealedBy": ["boba-fett"] },
+      { "text": "口をきかず、腕ずくで仕事を片づける。", "revealedBy": ["boba-fett"] },
+      { "text": "雇い主を変え、[[boba-fett]]の側についた。", "revealedBy": ["boba-fett"] }
+    ]
+  },
+  {
+    "id": "rancor",
+    "type": "species",
+    "names": [
+      { "text": "ランコア", "reading": "らんこあ", "en": "Rancor" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "牙と爪を持つ、見上げるほど大きな獣。", "revealedBy": ["ep6", "boba-fett"] },
+      { "text": "[[jabbas-palace]]の地下に飼われ、逆らった者を落として食わせていた。", "revealedBy": ["ep6"] },
+      { "text": "贈り物として[[boba-fett]]に渡された。", "revealedBy": ["boba-fett"] },
+      { "text": "育てた者には懐き、乗りこなすこともできる。", "revealedBy": ["boba-fett"] },
+      { "text": "[[battle-of-mos-espa|町の戦い]]で解き放たれた。", "revealedBy": ["boba-fett"] }
+    ]
+  },
+  {
+    "id": "peli-motto",
+    "type": "character",
+    "names": [
+      { "text": "ペリ・モットー", "reading": "ぺり・もっとー", "en": "Peli Motto" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "[[tatooine]]で船を整備する女。", "revealedBy": ["boba-fett"] },
+      { "text": "小さなドロイドたちを使って仕事をする。", "revealedBy": ["boba-fett"] },
+      { "text": "[[din-djarin]]に新しい船を用意した。", "revealedBy": ["boba-fett"] }
+    ]
+  },
+  {
+    "id": "battle-of-mos-espa",
+    "type": "event",
+    "names": [
+      { "text": "モス・エスパの戦い", "reading": "もす・えすぱのたたかい", "en": "Battle of Mos Espa" }
+    ],
+    "date": { "year": 9, "precision": "approx" },
+    "facts": [
+      { "kind": "summary", "text": "[[mos-espa]]をめぐって[[boba-fett]]たちと[[pyke-syndicate]]が戦った出来事。", "revealedBy": ["boba-fett"] },
+      { "text": "町の者たちは、どちらにつくかを迫られた。", "revealedBy": ["boba-fett"] },
+      { "text": "[[rancor]]が解き放たれ、町を踏み荒らした。", "revealedBy": ["boba-fett"] },
+      { "text": "[[cad-bane]]が[[boba-fett]]の前に立ちはだかった。", "revealedBy": ["boba-fett"] }
+    ]
+  },
+
+  {
+    "id": "boba-fett",
+    "facts": [
+      { "text": "砂に飲まれたあと甲冑を失い、[[tusken-raider]]に捕らえられた。", "revealedBy": ["boba-fett"] },
+      { "text": "やがて一族に迎えられ、砂漠の暮らしを共にした。", "revealedBy": ["boba-fett"] },
+      { "text": "その一族を皆殺しにされ、報いを求めるようになった。", "revealedBy": ["boba-fett"] },
+      { "text": "[[jabbas-palace]]の主となり、恐怖ではなく敬意で治めると言った。", "revealedBy": ["boba-fett"] },
+      { "text": "[[rancor]]を乗りこなした。", "revealedBy": ["boba-fett"] }
+    ]
+  },
+  {
+    "id": "fennec-shand",
+    "facts": [
+      { "text": "[[boba-fett]]の右腕として動いた。", "revealedBy": ["boba-fett"] },
+      { "text": "汚れ仕事は一人で静かに片づけた。", "revealedBy": ["boba-fett"] }
+    ]
+  },
+  {
+    "id": "tusken-raider",
+    "facts": [
+      { "text": "砂漠を渡る作法と、独自の戦い方を持つ。", "revealedBy": ["boba-fett"] },
+      { "text": "よそ者を一族として迎え入れることもある。", "revealedBy": ["boba-fett"] },
+      { "text": "一族の一つが、裏社会の手で皆殺しにされた。", "revealedBy": ["boba-fett"] }
+    ]
+  },
+  {
+    "id": "cad-bane",
+    "facts": [
+      { "text": "年老いてなお、帽子と早撃ちは変わらなかった。", "revealedBy": ["boba-fett"] },
+      { "text": "[[pyke-syndicate]]に雇われた。", "revealedBy": ["boba-fett"] },
+      { "text": "[[cobb-vanth]]を撃った。", "revealedBy": ["boba-fett"] },
+      { "text": "[[boba-fett]]と正面から向き合った。", "revealedBy": ["boba-fett"] }
+    ]
+  },
+  {
+    "id": "din-djarin",
+    "facts": [
+      { "text": "[[darksaber]]を扱いあぐね、振るうたびに重さに引かれた。", "revealedBy": ["boba-fett"] },
+      { "text": "掟を破ったため、仲間のもとへは戻れなくなった。", "revealedBy": ["boba-fett"] },
+      { "text": "新しい小型の戦闘機を手に入れた。", "revealedBy": ["boba-fett"] },
+      { "text": "[[grogu]]に会いに行った。", "revealedBy": ["boba-fett"] }
+    ]
+  },
+  {
+    "id": "grogu",
+    "facts": [
+      { "text": "鍛えを受けていたが、迷いを抱えていた。", "revealedBy": ["boba-fett"] },
+      { "text": "甲冑と光の剣のどちらかを選ばされ、甲冑を選んだ。", "revealedBy": ["boba-fett"] },
+      { "text": "[[din-djarin]]のもとへ戻った。", "revealedBy": ["boba-fett"] }
+    ]
+  },
+  {
+    "id": "luke-skywalker",
+    "facts": [
+      { "text": "[[grogu]]を預かり、鍛えていた。", "revealedBy": ["boba-fett"] },
+      { "text": "執着を断つよう求めた。", "revealedBy": ["boba-fett"] },
+      { "text": "選ばせるために、甲冑と光の剣を差し出した。", "revealedBy": ["boba-fett"] }
+    ]
+  },
+  {
+    "id": "ahsoka-tano",
+    "facts": [
+      { "text": "[[luke-skywalker]]のもとを訪れた。", "revealedBy": ["boba-fett"] },
+      { "text": "教える側の迷いを見抜き、言葉をかけた。", "revealedBy": ["boba-fett"] }
+    ]
+  },
+  {
+    "id": "pyke-syndicate",
+    "facts": [
+      { "text": "[[tatooine]]で薬物の商いを広げようとした。", "revealedBy": ["boba-fett"] },
+      { "text": "[[tusken-raider]]の一族を皆殺しにした。", "revealedBy": ["boba-fett"] }
+    ]
+  },
+  {
+    "id": "cobb-vanth",
+    "facts": [
+      { "text": "[[pyke-syndicate]]に立ち向かい、[[cad-bane]]に撃たれた。", "revealedBy": ["boba-fett"] }
+    ]
+  },
+  {
+    "id": "jabbas-palace",
+    "facts": [
+      { "text": "[[boba-fett]]が新しい主となった。", "revealedBy": ["boba-fett"] }
+    ]
+  },
+  {
+    "id": "mos-espa",
+    "facts": [
+      { "text": "[[battle-of-mos-espa|戦い]]の舞台になった。", "revealedBy": ["boba-fett"] }
+    ]
+  },
+  {
+    "id": "tatooine",
+    "facts": [
+      { "text": "ハットの親玉がいなくなったあと、裏社会の力が入り乱れていた。", "revealedBy": ["boba-fett"] }
+    ]
+  },
+  {
+    "id": "beskar",
+    "facts": [
+      { "text": "甲冑のほか、槍や剣にも鍛えられる。", "revealedBy": ["boba-fett"] }
+    ]
+  },
+  {
+    "id": "darksaber",
+    "facts": [
+      { "text": "持ち主に合わぬうちは、振るうたびに重く引かれる。", "revealedBy": ["boba-fett"] }
+    ]
+  }
+]

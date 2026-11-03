@@ -163,7 +163,7 @@
       { "text": "モス・エスパ", "reading": "もす・えすぱ", "en": "Mos Espa" }
     ],
     "facts": [
-      { "kind": "summary", "text": "[[tatooine]]の砂漠にある町。[[podracer|ポッドレース]]の競技場がある。", "revealedBy": ["ep1"] }
+      { "kind": "summary", "text": "[[tatooine]]の砂漠にある町。[[podracer|ポッドレース]]の競技場がある。", "revealedBy": ["ep1", "ep2", "boba-fett"] }
     ]
   },
 

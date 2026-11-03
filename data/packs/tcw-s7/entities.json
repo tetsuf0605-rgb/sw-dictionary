@@ -64,7 +64,7 @@
       { "text": "パイク・シンジケート", "reading": "ぱいく・しんじけーと", "en": "Pyke Syndicate" }
     ],
     "facts": [
-      { "kind": "summary", "text": "裏社会で薬物の商いを仕切る組織。", "revealedBy": ["tcw-s7"] },
+      { "kind": "summary", "text": "裏社会で薬物の商いを仕切る組織。", "revealedBy": ["tcw-s7", "boba-fett"] },
       { "text": "細長い顔つきと深いフードが目立つ。", "revealedBy": ["tcw-s7"] },
       { "text": "[[coruscant]]の底にも手を伸ばしていた。", "revealedBy": ["tcw-s7"] },
       { "text": "[[darth-maul]]の手駒の一つになっていた。", "revealedBy": ["tcw-s7"] }
