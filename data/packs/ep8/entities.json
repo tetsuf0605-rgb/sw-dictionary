@@ -1,0 +1,241 @@
+[
+  {
+    "id": "rose-tico",
+    "type": "character",
+    "names": [
+      { "text": "ローズ・ティコ", "reading": "ろーず・てぃこ", "en": "Rose Tico" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "[[resistance]]の整備士。", "revealedBy": ["ep8"] },
+      { "text": "姉を戦いで失ったばかりだった。", "revealedBy": ["ep8"] },
+      { "text": "逃げようとした[[finn]]を捕まえ、そのまま共に動くことになった。", "revealedBy": ["ep8"] },
+      { "text": "憎むものを倒すのではなく、愛するものを守ることだと言った。", "revealedBy": ["ep8"] }
+    ]
+  },
+  {
+    "id": "holdo",
+    "type": "character",
+    "names": [
+      { "text": "ホルド提督", "reading": "ほるどていとく", "en": "Vice Admiral Holdo" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "[[leia-organa]]に代わって艦隊を預かった女提督。", "revealedBy": ["ep8"] },
+      { "text": "紫の髪と静かな物腰で、考えを容易に明かさない。", "revealedBy": ["ep8"] },
+      { "text": "[[poe-dameron]]と激しく衝突した。", "revealedBy": ["ep8"] },
+      { "text": "最後は艦ごと敵の艦隊に突っ込み、仲間の逃げ道を開いた。", "revealedBy": ["ep8"] }
+    ]
+  },
+  {
+    "id": "ahch-to",
+    "type": "place",
+    "names": [
+      { "text": "アク＝トゥー", "reading": "あくとぅー", "en": "Ahch-To" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "海に浮かぶ岩の島。[[jedi|ジェダイ]]の始まりの地とされる。", "revealedBy": ["ep8"] },
+      { "text": "古い木の中に[[jedi-texts|書物]]が納められていた。", "revealedBy": ["ep8"] },
+      { "text": "[[luke-skywalker]]が身を隠していた。", "revealedBy": ["ep8"] },
+      { "text": "島を世話する者たちと、海鳥のような生き物が住む。", "revealedBy": ["ep8"] }
+    ]
+  },
+  {
+    "id": "crait",
+    "type": "place",
+    "names": [
+      { "text": "クレイト", "reading": "くれいと", "en": "Crait" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "白い塩に覆われ、その下が赤い土の星。", "revealedBy": ["ep8"] },
+      { "text": "古い反乱軍の基地が残っていた。", "revealedBy": ["ep8"] },
+      { "text": "走れば塩が削れ、赤い筋が引かれる。", "revealedBy": ["ep8"] },
+      { "text": "[[battle-of-crait|戦い]]の舞台になった。", "revealedBy": ["ep8"] }
+    ]
+  },
+  {
+    "id": "jedi-texts",
+    "type": "item",
+    "names": [
+      { "text": "ジェダイの古い書物", "reading": "じぇだいのふるいしょもつ", "en": "Jedi Texts" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "[[jedi|ジェダイ]]の始まりから伝わる、手書きの古い書物。", "revealedBy": ["ep8"] },
+      { "text": "[[ahch-to]]の木の中に納められていた。", "revealedBy": ["ep8"] },
+      { "text": "[[yoda]]は、読まれもしない書物だと笑った。", "revealedBy": ["ep8"] },
+      { "text": "[[rey]]が持ち出した。", "revealedBy": ["ep8"] }
+    ]
+  },
+  {
+    "id": "canto-bight",
+    "type": "place",
+    "names": [
+      { "text": "カント・バイト", "reading": "かんと・ばいと", "en": "Canto Bight" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "賭博場の立ち並ぶ、きらびやかな海辺の街。", "revealedBy": ["ep8"] },
+      { "text": "戦争で武器を売って儲けた者たちが集まる。", "revealedBy": ["ep8"] },
+      { "text": "裏では子どもが働かされ、生き物が虐げられていた。", "revealedBy": ["ep8"] }
+    ]
+  },
+  {
+    "id": "battle-of-crait",
+    "type": "event",
+    "names": [
+      { "text": "クレイトの戦い", "reading": "くれいとのたたかい", "en": "Battle of Crait" }
+    ],
+    "date": { "year": 34, "precision": "exact", "order": 2 },
+    "facts": [
+      { "kind": "summary", "text": "[[crait]]の古い基地に追い詰められた[[resistance]]が、[[first-order]]と戦った出来事。", "revealedBy": ["ep8"] },
+      { "text": "塩の平原を、旧式の機体で突っ込むほかなかった。", "revealedBy": ["ep8"] },
+      { "text": "[[luke-skywalker]]が現れ、[[kylo-ren]]と向き合った。", "revealedBy": ["ep8"] },
+      { "text": "わずかな生き残りが[[millennium-falcon]]で逃げ延びた。", "revealedBy": ["ep8"] }
+    ]
+  },
+  {
+    "id": "death-of-luke",
+    "type": "event",
+    "names": [
+      { "text": "ルークの最期", "reading": "るーくのさいご", "en": "Death of Luke" }
+    ],
+    "date": { "year": 34, "precision": "exact", "order": 3 },
+    "facts": [
+      { "kind": "summary", "text": "[[luke-skywalker]]が力を使い果たし、[[the-force]]と一つになった出来事。", "revealedBy": ["ep8"] },
+      { "text": "島にいながら、遠い星に自らの姿を映していた。", "revealedBy": ["ep8"] },
+      { "text": "仲間を逃がすだけの時を稼いだ。", "revealedBy": ["ep8"] },
+      { "text": "二つの日が沈むのを見ながら消えた。", "revealedBy": ["ep8"] }
+    ]
+  },
+
+  {
+    "id": "luke-skywalker",
+    "facts": [
+      { "text": "弟子だった甥の内に闇を見て、一瞬だけ剣を抜きかけた。", "revealedBy": ["ep8"] },
+      { "text": "そのことを悔い、すべてを捨てて[[ahch-to|島]]に隠れた。", "revealedBy": ["ep8"] },
+      { "text": "[[the-force]]との間を、自ら断っていた。", "revealedBy": ["ep8"] },
+      { "text": "[[rey]]を追い返そうとしたが、やがて手ほどきをした。", "revealedBy": ["ep8"] },
+      { "text": "[[jedi|ジェダイ]]は終わるべきだと言った。", "revealedBy": ["ep8"] },
+      { "text": "[[death-of-luke|力を使い果たし]]、フォースと一つになった。", "revealedBy": ["ep8"] }
+    ]
+  },
+  {
+    "id": "rey",
+    "facts": [
+      { "text": "[[luke-skywalker]]に教えを乞うたが、はじめは拒まれた。", "revealedBy": ["ep8"] },
+      { "text": "[[kylo-ren]]と心がつながり、互いの姿が見えるようになった。", "revealedBy": ["ep8"] },
+      { "text": "カイロ・レンに、両親はとるに足らぬ者たちだったと告げられた。", "revealedBy": ["ep8"] },
+      { "text": "彼を引き戻せると信じたが、かなわなかった。", "revealedBy": ["ep8"] },
+      { "text": "[[jedi-texts|書物]]を持ち出した。", "revealedBy": ["ep8"] }
+    ]
+  },
+  {
+    "id": "kylo-ren",
+    "facts": [
+      { "text": "仮面を自ら砕いた。", "revealedBy": ["ep8"] },
+      { "text": "[[snoke]]を討ち、[[first-order]]の頂点に立った。", "revealedBy": ["ep8"] },
+      { "text": "[[rey]]に共に来るよう求め、断られた。", "revealedBy": ["ep8"] },
+      { "text": "[[luke-skywalker]]の姿に剣を向けたが、届かなかった。", "revealedBy": ["ep8"] }
+    ]
+  },
+  {
+    "id": "snoke",
+    "facts": [
+      { "text": "[[rey]]と[[kylo-ren]]の心をつないだのは自分だと語った。", "revealedBy": ["ep8"] },
+      { "text": "弟子の手で討たれた。", "revealedBy": ["ep8"] }
+    ]
+  },
+  {
+    "id": "leia-organa",
+    "facts": [
+      { "text": "艦の外へ投げ出されたが、自らの力で戻ってきた。", "revealedBy": ["ep8"] },
+      { "text": "[[holdo]]に艦隊を託した。", "revealedBy": ["ep8"] },
+      { "text": "兄の最期を感じ取った。", "revealedBy": ["ep8"] }
+    ]
+  },
+  {
+    "id": "yoda",
+    "facts": [
+      { "text": "姿を見せ、[[luke-skywalker]]を諭した。", "revealedBy": ["ep8"] },
+      { "text": "[[jedi-texts|書物]]を納めた古い木に、雷を落とした。", "revealedBy": ["ep8"] },
+      { "text": "失敗こそが最良の師だと言った。", "revealedBy": ["ep8"] }
+    ]
+  },
+  {
+    "id": "finn",
+    "facts": [
+      { "text": "[[rose-tico]]と共に[[canto-bight]]へ渡った。", "revealedBy": ["ep8"] },
+      { "text": "[[phasma]]と決着をつけた。", "revealedBy": ["ep8"] },
+      { "text": "捨て身で突っ込もうとして、止められた。", "revealedBy": ["ep8"] }
+    ]
+  },
+  {
+    "id": "poe-dameron",
+    "facts": [
+      { "text": "独断で動き、多くの仲間を失った。", "revealedBy": ["ep8"] },
+      { "text": "[[holdo]]に反発したが、のちに考えを改めた。", "revealedBy": ["ep8"] }
+    ]
+  },
+  {
+    "id": "phasma",
+    "facts": [
+      { "text": "[[finn]]と[[battle-of-crait|最後の戦い]]の直前に決着をつけた。", "revealedBy": ["ep8"] }
+    ]
+  },
+  {
+    "id": "resistance",
+    "facts": [
+      { "text": "艦隊をほとんど失い、一隻に収まるほどの人数まで減った。", "revealedBy": ["ep8"] },
+      { "text": "各地へ助けを求めたが、どこからも応えはなかった。", "revealedBy": ["ep8"] }
+    ]
+  },
+  {
+    "id": "first-order",
+    "facts": [
+      { "text": "[[kylo-ren]]が頂点に立った。", "revealedBy": ["ep8"] },
+      { "text": "光の速さで逃げる艦を追う術を手にしていた。", "revealedBy": ["ep8"] }
+    ]
+  },
+  {
+    "id": "the-force",
+    "facts": [
+      { "text": "遠く離れた者どうしの心を、つなぐことがある。", "revealedBy": ["ep8"] },
+      { "text": "自らの姿を、遠い星に映すこともできる。", "revealedBy": ["ep8"] },
+      { "text": "明と暗の釣り合いとして語られた。", "revealedBy": ["ep8"] }
+    ]
+  },
+  {
+    "id": "jedi",
+    "facts": [
+      { "text": "[[luke-skywalker]]は、騎士団は終わるべきだと言った。", "revealedBy": ["ep8"] },
+      { "text": "書物は焼けたように見えたが、残されていた。", "revealedBy": ["ep8"] }
+    ]
+  },
+  {
+    "id": "lightsaber",
+    "facts": [
+      { "text": "[[luke-skywalker]]の古い剣が、[[rey]]と[[kylo-ren]]の間で割れた。", "revealedBy": ["ep8"] }
+    ]
+  },
+  {
+    "id": "millennium-falcon",
+    "facts": [
+      { "text": "[[battle-of-crait|最後の戦い]]で、わずかな生き残りを乗せて飛び立った。", "revealedBy": ["ep8"] }
+    ]
+  },
+  {
+    "id": "chewbacca",
+    "facts": [
+      { "text": "[[ahch-to]]で、島の生き物たちに取り囲まれた。", "revealedBy": ["ep8"] }
+    ]
+  },
+  {
+    "id": "r2-d2",
+    "facts": [
+      { "text": "古い記録を映し、[[luke-skywalker]]の心を動かした。", "revealedBy": ["ep8"] }
+    ]
+  },
+  {
+    "id": "c-3po",
+    "facts": [
+      { "text": "[[leia-organa]]のそばで、最後まで指揮を支えた。", "revealedBy": ["ep8"] }
+    ]
+  }
+]
