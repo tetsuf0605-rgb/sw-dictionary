@@ -1,0 +1,204 @@
+[
+  {
+    "id": "cassian-andor",
+    "type": "character",
+    "names": [
+      { "text": "カシアン・アンドー", "reading": "かしあん・あんどー", "en": "Cassian Andor" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "盗みと渡り歩きで生きてきた男。", "revealedBy": ["andor-s1"] },
+      { "text": "生き別れた妹を探し続けている。", "revealedBy": ["andor-s1"] },
+      { "text": "帝国に雇われた警備の者を殺したことから、追われる身になった。", "revealedBy": ["andor-s1"] },
+      { "text": "[[luthen-rael]]に見出され、[[aldhani-heist|強奪]]に加わった。", "revealedBy": ["andor-s1"] },
+      { "text": "身に覚えのない罪で[[narkina-5]]に送られ、そこから脱け出した。", "revealedBy": ["andor-s1"] },
+      { "text": "育ての母の死をきっかけに、戦う側へ身を投じた。", "revealedBy": ["andor-s1"] }
+    ]
+  },
+  {
+    "id": "luthen-rael",
+    "type": "character",
+    "names": [
+      { "text": "ルーセン・レール", "reading": "るーせん・れーる", "en": "Luthen Rael" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "骨董商を装い、反乱を陰で組み立てる男。", "revealedBy": ["andor-s1"] },
+      { "text": "[[coruscant]]に店を構え、表と裏の顔を使い分ける。", "revealedBy": ["andor-s1"] },
+      { "text": "勝ち目のためなら、味方であっても切り捨てる。", "revealedBy": ["andor-s1"] },
+      { "text": "自分は決して見ることのない夜明けのために働いている、と語った。", "revealedBy": ["andor-s1"] },
+      { "text": "[[mon-mothma]]に金の道を作らせていた。", "revealedBy": ["andor-s1"] }
+    ]
+  },
+  {
+    "id": "dedra-meero",
+    "type": "character",
+    "names": [
+      { "text": "デドラ・ミーロ", "reading": "でどら・みーろ", "en": "Dedra Meero" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "反乱の糸を手繰る[[isb]]の局員。", "revealedBy": ["andor-s1"] },
+      { "text": "上役に軽んじられながら、独自に筋を追い続けた。", "revealedBy": ["andor-s1"] },
+      { "text": "ばらばらに見えた事件を、一つの絵としてつなげた。", "revealedBy": ["andor-s1"] },
+      { "text": "手がかりのためなら、人を痛めつけることもためらわない。", "revealedBy": ["andor-s1"] }
+    ]
+  },
+  {
+    "id": "maarva-andor",
+    "type": "character",
+    "names": [
+      { "text": "マーヴァ・アンドー", "reading": "まーば・あんどー", "en": "Maarva Andor" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "[[cassian-andor]]の育ての母。", "revealedBy": ["andor-s1"] },
+      { "text": "[[ferrix]]で機械を拾い集めて暮らしていた。", "revealedBy": ["andor-s1"] },
+      { "text": "逃げるより、留まって抗うことを選んだ。", "revealedBy": ["andor-s1"] },
+      { "text": "自らの葬いの場で、録りためた言葉を町に遺した。", "revealedBy": ["andor-s1"] }
+    ]
+  },
+  {
+    "id": "ferrix",
+    "type": "place",
+    "names": [
+      { "text": "フェリックス", "reading": "ふぇりっくす", "en": "Ferrix" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "鉄を打つ音が町じゅうに響く星。", "revealedBy": ["andor-s1"] },
+      { "text": "修理と商いで成り立ち、よそ者にも寛容だった。", "revealedBy": ["andor-s1"] },
+      { "text": "帝国に押さえ込まれ、締めつけが強まった。", "revealedBy": ["andor-s1"] },
+      { "text": "[[ferrix-uprising|葬列]]が蜂起に変わった。", "revealedBy": ["andor-s1"] }
+    ]
+  },
+  {
+    "id": "isb",
+    "type": "organization",
+    "names": [
+      { "text": "帝国保安局", "reading": "ていこくほあんきょく", "en": "Imperial Security Bureau" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "帝国の治安と諜報を担う組織。", "revealedBy": ["andor-s1"] },
+      { "text": "総督や軍とは別に動き、互いに手柄を争う。", "revealedBy": ["andor-s1"] },
+      { "text": "小さな反抗も見逃さず、記録を積み上げていく。", "revealedBy": ["andor-s1"] },
+      { "text": "[[dedra-meero]]はここの局員である。", "revealedBy": ["andor-s1"] }
+    ]
+  },
+  {
+    "id": "syril-karn",
+    "type": "character",
+    "names": [
+      { "text": "シリル・カーン", "reading": "しりる・かーん", "en": "Syril Karn" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "[[cassian-andor]]を追うことに取りつかれた男。", "revealedBy": ["andor-s1"] },
+      { "text": "はじめは企業の治安部隊にいたが、失態で職を失った。", "revealedBy": ["andor-s1"] },
+      { "text": "母と暮らしながら、帝国で新しい働き口を得た。", "revealedBy": ["andor-s1"] },
+      { "text": "筋を通すことに固執し、周りとかみ合わない。", "revealedBy": ["andor-s1"] }
+    ]
+  },
+  {
+    "id": "bix-caleen",
+    "type": "character",
+    "names": [
+      { "text": "ビックス・カリーン", "reading": "びっくす・かりーん", "en": "Bix Caleen" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "[[ferrix]]で部品の商いをする女。[[cassian-andor]]の旧友。", "revealedBy": ["andor-s1"] },
+      { "text": "彼を[[luthen-rael]]につないだ。", "revealedBy": ["andor-s1"] },
+      { "text": "捕らえられ、[[isb]]にひどい尋問を受けた。", "revealedBy": ["andor-s1"] }
+    ]
+  },
+  {
+    "id": "narkina-5",
+    "type": "place",
+    "names": [
+      { "text": "ナルキナ5", "reading": "なるきなふぁいぶ", "en": "Narkina 5" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "海の上に建つ帝国の監獄。", "revealedBy": ["andor-s1"] },
+      { "text": "囚人は部品を組む作業を際限なく課される。", "revealedBy": ["andor-s1"] },
+      { "text": "床に電気が流れ、逆らえば痛みで押さえ込まれる。", "revealedBy": ["andor-s1"] },
+      { "text": "誰も出られないと知った囚人たちが、一斉に立ち上がった。", "revealedBy": ["andor-s1"] }
+    ]
+  },
+  {
+    "id": "aldhani",
+    "type": "place",
+    "names": [
+      { "text": "アルダーニ", "reading": "あるだーに", "en": "Aldhani" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "高地と谷の広がる星。", "revealedBy": ["andor-s1"] },
+      { "text": "数年に一度、空いっぱいに光の帯が渡る。", "revealedBy": ["andor-s1"] },
+      { "text": "帝国が谷に金庫を置いていた。", "revealedBy": ["andor-s1"] },
+      { "text": "もとの住人は土地を追われていた。", "revealedBy": ["andor-s1"] }
+    ]
+  },
+  {
+    "id": "aldhani-heist",
+    "type": "event",
+    "names": [
+      { "text": "アルダーニの強奪", "reading": "あるだーにのごうだつ", "en": "Aldhani Heist" }
+    ],
+    "date": { "year": -5, "precision": "approx", "order": 1 },
+    "facts": [
+      { "kind": "summary", "text": "[[aldhani]]の帝国の金庫から、ひと区域ぶんの給金がそっくり奪われた出来事。", "revealedBy": ["andor-s1"] },
+      { "text": "空を渡る光に紛れて、少人数が乗り込んだ。", "revealedBy": ["andor-s1"] },
+      { "text": "多くが命を落とし、[[cassian-andor]]は金を持って去った。", "revealedBy": ["andor-s1"] },
+      { "text": "帝国はこれを口実に、各地の締めつけを強めた。", "revealedBy": ["andor-s1"] }
+    ]
+  },
+  {
+    "id": "ferrix-uprising",
+    "type": "event",
+    "names": [
+      { "text": "フェリックスの蜂起", "reading": "ふぇりっくすのほうき", "en": "Ferrix Uprising" }
+    ],
+    "date": { "year": -5, "precision": "approx", "order": 2 },
+    "facts": [
+      { "kind": "summary", "text": "[[ferrix]]の町が、葬列をきっかけに帝国へ立ち向かった出来事。", "revealedBy": ["andor-s1"] },
+      { "text": "[[maarva-andor]]の遺した言葉が、集まった人々を動かした。", "revealedBy": ["andor-s1"] },
+      { "text": "鉄を打つ音が合図になった。", "revealedBy": ["andor-s1"] },
+      { "text": "[[isb]]の手の者が取り押さえられ、町は一時その手を離れた。", "revealedBy": ["andor-s1"] }
+    ]
+  },
+
+  {
+    "id": "mon-mothma",
+    "facts": [
+      { "text": "表では[[galactic-senate]]の議員として振る舞っていた。", "revealedBy": ["andor-s1"] },
+      { "text": "裏で反乱に金を回し、家族にも打ち明けられずにいた。", "revealedBy": ["andor-s1"] },
+      { "text": "金の出どころを隠すために、望まぬ取り引きへ踏み込んだ。", "revealedBy": ["andor-s1"] },
+      { "text": "帝国のもとで声を上げ続ける、数少ない議員だった。", "revealedBy": ["andor-s1"] }
+    ]
+  },
+  {
+    "id": "saw-gerrera",
+    "facts": [
+      { "text": "ほかの抵抗勢力と組むことを拒み、自分の流儀を曲げなかった。", "revealedBy": ["andor-s1"] },
+      { "text": "分かれ争う抵抗勢力の名を並べ立て、どれとも違うと言い切った。", "revealedBy": ["andor-s1"] }
+    ]
+  },
+  {
+    "id": "galactic-senate",
+    "facts": [
+      { "text": "帝国のもとでも開かれ、わずかな議員が声を上げていた。", "revealedBy": ["andor-s1"] }
+    ]
+  },
+  {
+    "id": "coruscant",
+    "facts": [
+      { "text": "[[isb]]の庁舎が置かれ、[[luthen-rael]]の店もこの街にあった。", "revealedBy": ["andor-s1"] }
+    ]
+  },
+  {
+    "id": "galactic-empire",
+    "facts": [
+      { "text": "小さな反抗を口実に、各地の締めつけを強めた。", "revealedBy": ["andor-s1"] },
+      { "text": "罪を重くして人を監獄へ送り、ただ働きをさせた。", "revealedBy": ["andor-s1"] }
+    ]
+  },
+  {
+    "id": "rebel-alliance",
+    "facts": [
+      { "text": "このころはまだ、互いに争うばらばらの集まりでしかなかった。", "revealedBy": ["andor-s1"] }
+    ]
+  }
+]
