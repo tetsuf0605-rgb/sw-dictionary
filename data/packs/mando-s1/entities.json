@@ -1,0 +1,205 @@
+[
+  {
+    "id": "din-djarin",
+    "type": "character",
+    "names": [
+      { "text": "ディン・ジャリン", "reading": "でぃん・じゃりん", "en": "Din Djarin" },
+      { "text": "マンダロリアン", "reading": "まんだろりあん", "en": "The Mandalorian", "revealedBy": ["mando-s1"], "kind": "alias" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "顔を人に見せない賞金稼ぎ。[[beskar]]の甲冑を身につけている。", "revealedBy": ["mando-s1"] },
+      { "text": "幼いころ戦火で親を失い、[[the-way|掟]]を守る者たちに育てられた。", "revealedBy": ["mando-s1"] },
+      { "text": "一度かぶった兜を、人前では決して脱がない。", "revealedBy": ["mando-s1"] },
+      { "text": "引き渡した[[the-child]]を連れ戻し、追われる身になった。", "revealedBy": ["mando-s1"] },
+      { "text": "名を明かすことは、めったにない。", "revealedBy": ["mando-s1"] }
+    ]
+  },
+  {
+    "id": "the-child",
+    "type": "character",
+    "names": [
+      { "text": "ザ・チャイルド", "reading": "ざ・ちゃいるど", "en": "The Child" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "揺りかごに乗せられた、大きな耳と丸い目の幼子。", "revealedBy": ["mando-s1"] },
+      { "text": "50年を生きているが、見た目はまだ幼い。", "revealedBy": ["mando-s1"] },
+      { "text": "[[the-force]]の力を使い、物を浮かせたり傷を癒やしたりする。", "revealedBy": ["mando-s1"] },
+      { "text": "帝国の残党に追われていた。", "revealedBy": ["mando-s1"] },
+      { "text": "[[din-djarin]]が預かることになった。", "revealedBy": ["mando-s1"] },
+      { "text": "名は明かされないままだった。", "revealedBy": ["mando-s1"] }
+    ]
+  },
+  {
+    "id": "ig-11",
+    "type": "character",
+    "names": [
+      { "text": "IG-11", "reading": "あいじーいれぶん", "en": "IG-11" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "細身の賞金稼ぎのドロイド。", "revealedBy": ["mando-s1"] },
+      { "text": "捕らえられそうになると、自らを壊すよう作られている。", "revealedBy": ["mando-s1"] },
+      { "text": "[[kuiil]]に組み直され、守り手として動くようになった。", "revealedBy": ["mando-s1"] },
+      { "text": "[[the-child]]たちを守るために、自ら壊れた。", "revealedBy": ["mando-s1"] }
+    ]
+  },
+  {
+    "id": "kuiil",
+    "type": "character",
+    "names": [
+      { "text": "クイール", "reading": "くいーる", "en": "Kuiil" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "[[din-djarin]]に手を貸した、辺境に暮らす老人。", "revealedBy": ["mando-s1"] },
+      { "text": "長く帝国に使われ、年季を終えて自由になった。", "revealedBy": ["mando-s1"] },
+      { "text": "言いたいことを言い終えると、決まった一言で話を締める。", "revealedBy": ["mando-s1"] },
+      { "text": "ドロイドを直すことに長けていた。", "revealedBy": ["mando-s1"] },
+      { "text": "帝国の兵に撃たれた。", "revealedBy": ["mando-s1"] }
+    ]
+  },
+  {
+    "id": "cara-dune",
+    "type": "character",
+    "names": [
+      { "text": "カラ・デューン", "reading": "から・でゅーん", "en": "Cara Dune" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "元は[[rebel-alliance|反乱軍]]の兵だった女。", "revealedBy": ["mando-s1"] },
+      { "text": "戦いが終わったあと、行き場をなくしていた。", "revealedBy": ["mando-s1"] },
+      { "text": "腕っぷしが強く、重い銃を扱う。", "revealedBy": ["mando-s1"] },
+      { "text": "[[din-djarin]]と組むようになった。", "revealedBy": ["mando-s1"] }
+    ]
+  },
+  {
+    "id": "greef-karga",
+    "type": "character",
+    "names": [
+      { "text": "グリーフ・カルガ", "reading": "ぐりーふ・かるが", "en": "Greef Karga" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "[[bounty-hunters-guild]]を仕切る男。", "revealedBy": ["mando-s1"] },
+      { "text": "金のためなら、手のひらを返すことをためらわない。", "revealedBy": ["mando-s1"] },
+      { "text": "[[the-child]]の件で、一度は[[din-djarin]]を狙った。", "revealedBy": ["mando-s1"] },
+      { "text": "のちに手を組み直した。", "revealedBy": ["mando-s1"] }
+    ]
+  },
+  {
+    "id": "moff-gideon",
+    "type": "character",
+    "names": [
+      { "text": "モフ・ギデオン", "reading": "もふ・ぎでおん", "en": "Moff Gideon" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "帝国の残党を率いる男。", "revealedBy": ["mando-s1"] },
+      { "text": "[[the-child]]を執拗に追っていた。", "revealedBy": ["mando-s1"] },
+      { "text": "[[din-djarin]]の素性と本名を知っていた。", "revealedBy": ["mando-s1"] },
+      { "text": "[[darksaber]]を手にしていた。", "revealedBy": ["mando-s1"] }
+    ]
+  },
+  {
+    "id": "the-armorer",
+    "type": "character",
+    "names": [
+      { "text": "アーマラー", "reading": "あーまらー", "en": "The Armorer" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "[[beskar]]の甲冑を打つ女。", "revealedBy": ["mando-s1"] },
+      { "text": "角のついた兜をかぶっている。", "revealedBy": ["mando-s1"] },
+      { "text": "[[the-way|掟]]を説き、仲間の進む道を示す。", "revealedBy": ["mando-s1"] },
+      { "text": "[[din-djarin]]に[[the-child]]を託した。", "revealedBy": ["mando-s1"] }
+    ]
+  },
+  {
+    "id": "beskar",
+    "type": "item",
+    "names": [
+      { "text": "ベスカー", "reading": "べすかー", "en": "Beskar" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "打ち直して使える、きわめて硬い金属。", "revealedBy": ["mando-s1"] },
+      { "text": "光の刃も撃たれた弾もはじき返す。", "revealedBy": ["mando-s1"] },
+      { "text": "マンダロリアンの甲冑は、これで作られる。", "revealedBy": ["mando-s1"] },
+      { "text": "帝国が大量に奪い、溶かして蓄えていた。", "revealedBy": ["mando-s1"] }
+    ]
+  },
+  {
+    "id": "the-way",
+    "type": "concept",
+    "names": [
+      { "text": "マンダロリアンの掟", "reading": "まんだろりあんのおきて", "en": "The Way" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "顔を見せないことを含む、マンダロリアンの守る決まり。", "revealedBy": ["mando-s1"] },
+      { "text": "「これが掟だ」と互いに言い交わす。", "revealedBy": ["mando-s1"] },
+      { "text": "戦火で親を失った子を、一族として迎え入れる。", "revealedBy": ["mando-s1"] },
+      { "text": "守る者たちは、地下に身を隠して暮らしていた。", "revealedBy": ["mando-s1"] }
+    ]
+  },
+  {
+    "id": "nevarro",
+    "type": "place",
+    "names": [
+      { "text": "ネヴァロ", "reading": "ねばろ", "en": "Nevarro" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "溶岩の流れた跡が残る星。", "revealedBy": ["mando-s1"] },
+      { "text": "[[bounty-hunters-guild]]の拠点がある。", "revealedBy": ["mando-s1"] },
+      { "text": "帝国の残党が居座っていた。", "revealedBy": ["mando-s1"] }
+    ]
+  },
+  {
+    "id": "bounty-hunters-guild",
+    "type": "organization",
+    "names": [
+      { "text": "賞金稼ぎの組合", "reading": "しょうきんかせぎのくみあい", "en": "Bounty Hunters' Guild" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "賞金稼ぎに仕事を回す組合。", "revealedBy": ["mando-s1"] },
+      { "text": "仕事ごとに札が渡され、相手の居場所が分かるようになっている。", "revealedBy": ["mando-s1"] },
+      { "text": "掟を破った者は、組合中から追われる。", "revealedBy": ["mando-s1"] }
+    ]
+  },
+
+  {
+    "id": "darksaber",
+    "facts": [
+      { "text": "[[moff-gideon]]の手にあった。", "revealedBy": ["mando-s1"] }
+    ]
+  },
+  {
+    "id": "lightsaber",
+    "facts": [
+      { "text": "[[darksaber]]のような古い一振りが、思わぬ手に渡っていることもある。", "revealedBy": ["mando-s1"] }
+    ]
+  },
+  {
+    "id": "mandalore",
+    "facts": [
+      { "text": "帝国に焼かれ、民は散り散りになったと語られる。", "revealedBy": ["mando-s1"] }
+    ]
+  },
+  {
+    "id": "new-republic",
+    "facts": [
+      { "text": "帝国の残党を追ってはいたが、辺境までは手が回っていなかった。", "revealedBy": ["mando-s1"] },
+      { "text": "罪人を運ぶ船を飛ばしていた。", "revealedBy": ["mando-s1"] }
+    ]
+  },
+  {
+    "id": "galactic-empire",
+    "facts": [
+      { "text": "倒れたのちも、残党が辺境で力を保っていた。", "revealedBy": ["mando-s1"] }
+    ]
+  },
+  {
+    "id": "the-force",
+    "facts": [
+      { "text": "幼い者にも宿り、物を浮かせたり傷を癒やしたりできる。", "revealedBy": ["mando-s1"] }
+    ]
+  },
+  {
+    "id": "jedi",
+    "facts": [
+      { "text": "このころには語り草になっており、知る者は少なかった。", "revealedBy": ["mando-s1"] }
+    ]
+  }
+]
