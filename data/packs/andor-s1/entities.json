@@ -6,7 +6,7 @@
       { "text": "カシアン・アンドー", "reading": "かしあん・あんどー", "en": "Cassian Andor" }
     ],
     "facts": [
-      { "kind": "summary", "text": "盗みと渡り歩きで生きてきた男。", "revealedBy": ["andor-s1"] },
+      { "kind": "summary", "text": "盗みと渡り歩きで生きてきた男。", "revealedBy": ["andor-s1", "andor-s2"] },
       { "text": "生き別れた妹を探し続けている。", "revealedBy": ["andor-s1"] },
       { "text": "帝国に雇われた警備の者を殺したことから、追われる身になった。", "revealedBy": ["andor-s1"] },
       { "text": "[[luthen-rael]]に見出され、[[aldhani-heist|強奪]]に加わった。", "revealedBy": ["andor-s1"] },
@@ -21,7 +21,7 @@
       { "text": "ルーセン・レール", "reading": "るーせん・れーる", "en": "Luthen Rael" }
     ],
     "facts": [
-      { "kind": "summary", "text": "骨董商を装い、反乱を陰で組み立てる男。", "revealedBy": ["andor-s1"] },
+      { "kind": "summary", "text": "骨董商を装い、反乱を陰で組み立てる男。", "revealedBy": ["andor-s1", "andor-s2"] },
       { "text": "[[coruscant]]に店を構え、表と裏の顔を使い分ける。", "revealedBy": ["andor-s1"] },
       { "text": "勝ち目のためなら、味方であっても切り捨てる。", "revealedBy": ["andor-s1"] },
       { "text": "自分は決して見ることのない夜明けのために働いている、と語った。", "revealedBy": ["andor-s1"] },
@@ -35,7 +35,7 @@
       { "text": "デドラ・ミーロ", "reading": "でどら・みーろ", "en": "Dedra Meero" }
     ],
     "facts": [
-      { "kind": "summary", "text": "反乱の糸を手繰る[[isb]]の局員。", "revealedBy": ["andor-s1"] },
+      { "kind": "summary", "text": "反乱の糸を手繰る[[isb]]の局員。", "revealedBy": ["andor-s1", "andor-s2"] },
       { "text": "上役に軽んじられながら、独自に筋を追い続けた。", "revealedBy": ["andor-s1"] },
       { "text": "ばらばらに見えた事件を、一つの絵としてつなげた。", "revealedBy": ["andor-s1"] },
       { "text": "手がかりのためなら、人を痛めつけることもためらわない。", "revealedBy": ["andor-s1"] }
@@ -74,7 +74,7 @@
       { "text": "帝国保安局", "reading": "ていこくほあんきょく", "en": "Imperial Security Bureau" }
     ],
     "facts": [
-      { "kind": "summary", "text": "帝国の治安と諜報を担う組織。", "revealedBy": ["andor-s1"] },
+      { "kind": "summary", "text": "帝国の治安と諜報を担う組織。", "revealedBy": ["andor-s1", "andor-s2"] },
       { "text": "総督や軍とは別に動き、互いに手柄を争う。", "revealedBy": ["andor-s1"] },
       { "text": "小さな反抗も見逃さず、記録を積み上げていく。", "revealedBy": ["andor-s1"] },
       { "text": "[[dedra-meero]]はここの局員である。", "revealedBy": ["andor-s1"] }
@@ -87,7 +87,7 @@
       { "text": "シリル・カーン", "reading": "しりる・かーん", "en": "Syril Karn" }
     ],
     "facts": [
-      { "kind": "summary", "text": "[[cassian-andor]]を追うことに取りつかれた男。", "revealedBy": ["andor-s1"] },
+      { "kind": "summary", "text": "[[cassian-andor]]を追うことに取りつかれた男。", "revealedBy": ["andor-s1", "andor-s2"] },
       { "text": "はじめは企業の治安部隊にいたが、失態で職を失った。", "revealedBy": ["andor-s1"] },
       { "text": "母と暮らしながら、帝国で新しい働き口を得た。", "revealedBy": ["andor-s1"] },
       { "text": "筋を通すことに固執し、周りとかみ合わない。", "revealedBy": ["andor-s1"] }

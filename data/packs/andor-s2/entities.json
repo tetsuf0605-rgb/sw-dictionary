@@ -1,0 +1,194 @@
+[
+  {
+    "id": "ghorman",
+    "type": "place",
+    "names": [
+      { "text": "ゴーマン", "reading": "ごーまん", "en": "Ghorman" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "織物で知られる星。細い糸を吐く生き物を育てている。", "revealedBy": ["andor-s2"] },
+      { "text": "帝国が地下の資源に目をつけた。", "revealedBy": ["andor-s2"] },
+      { "text": "住民は誇り高く、帝国のやり方に抗い続けた。", "revealedBy": ["andor-s2"] },
+      { "text": "広場で[[ghorman-massacre|惨劇]]が起きた。", "revealedBy": ["andor-s2"] }
+    ]
+  },
+  {
+    "id": "krennic",
+    "type": "character",
+    "names": [
+      { "text": "クレニック", "reading": "くれにっく", "en": "Krennic" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "帝国の大きな計画を率いる長官。白い外套を羽織る。", "revealedBy": ["andor-s2"] },
+      { "text": "[[ghorman]]から資源を取り出す筋道を立てた。", "revealedBy": ["andor-s2"] },
+      { "text": "住民の抵抗を自ら仕組み、鎮圧の口実にした。", "revealedBy": ["andor-s2"] },
+      { "text": "巨大な兵器のために、各地から材料を集めていた。", "revealedBy": ["andor-s2"] }
+    ]
+  },
+  {
+    "id": "k-2so",
+    "type": "character",
+    "names": [
+      { "text": "K-2SO", "reading": "けーつーえすおー", "en": "K-2SO" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "鹵獲され、反乱軍の手で組み直された帝国の大型ドロイド。", "revealedBy": ["andor-s2"] },
+      { "text": "歯に衣着せぬ物言いをする。", "revealedBy": ["andor-s2"] },
+      { "text": "[[cassian-andor]]と組むようになった。", "revealedBy": ["andor-s2"] }
+    ]
+  },
+  {
+    "id": "yavin-4",
+    "type": "place",
+    "names": [
+      { "text": "ヤヴィン4", "reading": "やびんふぉー", "en": "Yavin 4" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "密林に覆われた衛星。古い石の神殿が残る。", "revealedBy": ["andor-s2"] },
+      { "text": "反乱軍が基地を置いた。", "revealedBy": ["andor-s2"] },
+      { "text": "散らばっていた勢力が、ここに集まるようになった。", "revealedBy": ["andor-s2"] }
+    ]
+  },
+  {
+    "id": "kleya",
+    "type": "character",
+    "names": [
+      { "text": "クレヤ", "reading": "くれや", "en": "Kleya" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "[[luthen-rael]]と組んで動く女。", "revealedBy": ["andor-s2"] },
+      { "text": "店を切り回しながら、連絡の筋をすべて握っていた。", "revealedBy": ["andor-s2"] },
+      { "text": "幼いころにルーセンに拾われた。", "revealedBy": ["andor-s2"] },
+      { "text": "最後まで組織を守り抜いた。", "revealedBy": ["andor-s2"] }
+    ]
+  },
+  {
+    "id": "partagaz",
+    "type": "character",
+    "names": [
+      { "text": "パータガズ", "reading": "ぱーたがず", "en": "Partagaz" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "[[isb]]を取り仕切る長。", "revealedBy": ["andor-s2"] },
+      { "text": "部下を競わせ、手柄と失態を厳しく量る。", "revealedBy": ["andor-s2"] },
+      { "text": "筋の通らない報告を嫌う。", "revealedBy": ["andor-s2"] }
+    ]
+  },
+  {
+    "id": "ghorman-massacre",
+    "type": "event",
+    "names": [
+      { "text": "ゴーマンの虐殺", "reading": "ごーまんのぎゃくさつ", "en": "Ghorman Massacre" }
+    ],
+    "date": { "year": -2, "precision": "approx", "order": 3 },
+    "facts": [
+      { "kind": "summary", "text": "[[ghorman]]の広場に集まった人々が、帝国の兵に撃たれた出来事。", "revealedBy": ["andor-s2"] },
+      { "text": "帝国は、先に手を出させるよう仕向けていた。", "revealedBy": ["andor-s2"] },
+      { "text": "多くの住民が死に、帝国は反乱側のしわざだと発表した。", "revealedBy": ["andor-s2"] },
+      { "text": "この報せが銀河に伝わり、抗う側へ人を動かした。", "revealedBy": ["andor-s2"] }
+    ]
+  },
+  {
+    "id": "mon-mothma-denunciation",
+    "type": "event",
+    "names": [
+      { "text": "モン・モスマの告発", "reading": "もん・もすまのこくはつ", "en": "Mon Mothma's Denunciation" }
+    ],
+    "date": { "year": -2, "precision": "approx", "order": 4 },
+    "facts": [
+      { "kind": "summary", "text": "[[mon-mothma]]が[[galactic-senate]]で皇帝を名指しで非難した出来事。", "revealedBy": ["andor-s2"] },
+      { "text": "[[ghorman-massacre|広場の惨劇]]は皇帝の仕業だと言い切った。", "revealedBy": ["andor-s2"] },
+      { "text": "議場を出たその足で姿を消し、反乱の側へ移った。", "revealedBy": ["andor-s2"] }
+    ]
+  },
+  {
+    "id": "death-of-luthen",
+    "type": "event",
+    "names": [
+      { "text": "ルーセンの最期", "reading": "るーせんのさいご", "en": "Death of Luthen" }
+    ],
+    "date": { "year": -2, "precision": "approx", "order": 5 },
+    "facts": [
+      { "kind": "summary", "text": "[[luthen-rael]]が帝国に追い詰められ、命を落とした出来事。", "revealedBy": ["andor-s2"] },
+      { "text": "捕らわれても、最後まで口を割ることを拒んだ。", "revealedBy": ["andor-s2"] },
+      { "text": "[[kleya]]が組織を引き継いだ。", "revealedBy": ["andor-s2"] }
+    ]
+  },
+
+  {
+    "id": "mon-mothma",
+    "facts": [
+      { "text": "[[mon-mothma-denunciation|元老院で皇帝を名指しで非難し]]、その足で身を隠した。", "revealedBy": ["andor-s2"] },
+      { "text": "[[yavin-4]]に集う勢力の顔になった。", "revealedBy": ["andor-s2"] }
+    ]
+  },
+  {
+    "id": "luthen-rael",
+    "facts": [
+      { "text": "[[ghorman]]をめぐる帝国の筋書きを、早くから見抜いていた。", "revealedBy": ["andor-s2"] },
+      { "text": "[[death-of-luthen|最期]]まで、組織について何も明かさなかった。", "revealedBy": ["andor-s2"] }
+    ]
+  },
+  {
+    "id": "cassian-andor",
+    "facts": [
+      { "text": "反乱の中核として、危ない任務をいくつもこなした。", "revealedBy": ["andor-s2"] },
+      { "text": "[[k-2so]]と組むようになった。", "revealedBy": ["andor-s2"] },
+      { "text": "[[yavin-4]]から、次の任務へ向かった。", "revealedBy": ["andor-s2"] }
+    ]
+  },
+  {
+    "id": "dedra-meero",
+    "facts": [
+      { "text": "[[ghorman]]の筋書きに深く関わった。", "revealedBy": ["andor-s2"] },
+      { "text": "立場を失い、自らも囚われの身になった。", "revealedBy": ["andor-s2"] }
+    ]
+  },
+  {
+    "id": "syril-karn",
+    "facts": [
+      { "text": "[[ghorman]]に送り込まれ、そこで命を落とした。", "revealedBy": ["andor-s2"] },
+      { "text": "自分が何に使われていたのかを、最後になって知った。", "revealedBy": ["andor-s2"] }
+    ]
+  },
+  {
+    "id": "bix-caleen",
+    "facts": [
+      { "text": "傷を抱えたまま[[cassian-andor]]のそばにいたが、やがて離れた。", "revealedBy": ["andor-s2"] }
+    ]
+  },
+  {
+    "id": "isb",
+    "facts": [
+      { "text": "[[ghorman]]の筋書きを組み立てた。", "revealedBy": ["andor-s2"] },
+      { "text": "[[partagaz]]が取り仕切っていた。", "revealedBy": ["andor-s2"] }
+    ]
+  },
+  {
+    "id": "rebel-alliance",
+    "facts": [
+      { "text": "[[yavin-4]]を拠点に、少しずつまとまっていった。", "revealedBy": ["andor-s2"] },
+      { "text": "[[mon-mothma]]が表に立つ顔になった。", "revealedBy": ["andor-s2"] }
+    ]
+  },
+  {
+    "id": "saw-gerrera",
+    "facts": [
+      { "text": "相変わらず独自に動き、[[cassian-andor]]と行き会った。", "revealedBy": ["andor-s2"] }
+    ]
+  },
+  {
+    "id": "galactic-senate",
+    "facts": [
+      { "text": "皇帝を名指しで非難する声が、ついに議場で上がった。", "revealedBy": ["andor-s2"] }
+    ]
+  },
+  {
+    "id": "galactic-empire",
+    "facts": [
+      { "text": "自ら仕組んだ惨劇を、反乱側のしわざとして銀河に伝えた。", "revealedBy": ["andor-s2"] },
+      { "text": "資源を奪うために、星ひとつを犠牲にした。", "revealedBy": ["andor-s2"] },
+      { "text": "巨大な兵器の材料を、各地から密かに集めていた。", "revealedBy": ["andor-s2"] }
+    ]
+  }
+]

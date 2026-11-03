@@ -45,7 +45,7 @@
       { "text": "モン・モスマ", "reading": "もん・もすま", "en": "Mon Mothma" }
     ],
     "facts": [
-      { "kind": "summary", "text": "元老院を離れ、公然と帝国に抗う旗を掲げた議員。", "revealedBy": ["rebels-s3", "andor-s1"] },
+      { "kind": "summary", "text": "元老院を離れ、公然と帝国に抗う旗を掲げた議員。", "revealedBy": ["rebels-s3", "andor-s1", "andor-s2"] },
       { "text": "落ち着いた声で、各地の勢力に呼びかけた。", "revealedBy": ["rebels-s3"] },
       { "text": "追われる身となったが、散らばっていた勢力をまとめ上げた。", "revealedBy": ["rebels-s3"] },
       { "text": "[[rebel-alliance]]の旗印になった。", "revealedBy": ["rebels-s3"] }
