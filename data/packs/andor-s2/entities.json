@@ -19,7 +19,7 @@
       { "text": "クレニック", "reading": "くれにっく", "en": "Krennic" }
     ],
     "facts": [
-      { "kind": "summary", "text": "帝国の大きな計画を率いる長官。白い外套を羽織る。", "revealedBy": ["andor-s2"] },
+      { "kind": "summary", "text": "帝国の大きな計画を率いる長官。白い外套を羽織る。", "revealedBy": ["andor-s2", "rogue-one"] },
       { "text": "[[ghorman]]から資源を取り出す筋道を立てた。", "revealedBy": ["andor-s2"] },
       { "text": "住民の抵抗を自ら仕組み、鎮圧の口実にした。", "revealedBy": ["andor-s2"] },
       { "text": "巨大な兵器のために、各地から材料を集めていた。", "revealedBy": ["andor-s2"] }
@@ -32,7 +32,7 @@
       { "text": "K-2SO", "reading": "けーつーえすおー", "en": "K-2SO" }
     ],
     "facts": [
-      { "kind": "summary", "text": "鹵獲され、反乱軍の手で組み直された帝国の大型ドロイド。", "revealedBy": ["andor-s2"] },
+      { "kind": "summary", "text": "鹵獲され、反乱軍の手で組み直された帝国の大型ドロイド。", "revealedBy": ["andor-s2", "rogue-one"] },
       { "text": "歯に衣着せぬ物言いをする。", "revealedBy": ["andor-s2"] },
       { "text": "[[cassian-andor]]と組むようになった。", "revealedBy": ["andor-s2"] }
     ]
@@ -44,7 +44,7 @@
       { "text": "ヤヴィン4", "reading": "やびんふぉー", "en": "Yavin 4" }
     ],
     "facts": [
-      { "kind": "summary", "text": "密林に覆われた衛星。古い石の神殿が残る。", "revealedBy": ["andor-s2"] },
+      { "kind": "summary", "text": "密林に覆われた衛星。古い石の神殿が残る。", "revealedBy": ["andor-s2", "rogue-one"] },
       { "text": "反乱軍が基地を置いた。", "revealedBy": ["andor-s2"] },
       { "text": "散らばっていた勢力が、ここに集まるようになった。", "revealedBy": ["andor-s2"] }
     ]

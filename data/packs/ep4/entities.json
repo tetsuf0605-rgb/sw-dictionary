@@ -68,7 +68,7 @@
       { "text": "ダース・ベイダー", "reading": "だーす・べいだー", "en": "Darth Vader" }
     ],
     "facts": [
-      { "kind": "summary", "text": "黒い甲冑と仮面に身を包んだ、[[galactic-empire]]の実力者。[[the-force]]のダークサイドを操る。", "revealedBy": ["ep4", "obi-wan", "rebels-s1", "rebels-s2"] },
+      { "kind": "summary", "text": "黒い甲冑と仮面に身を包んだ、[[galactic-empire]]の実力者。[[the-force]]のダークサイドを操る。", "revealedBy": ["ep4", "obi-wan", "rebels-s1", "rebels-s2", "rogue-one"] },
       { "text": "かつて[[obi-wan-kenobi]]の弟子だった。", "revealedBy": ["ep4"] },
       { "text": "[[leia-organa]]を捕らえ、[[death-star]]の設計図の行方を追った。", "revealedBy": ["ep4"] },
       { "text": "デス・スターで[[obi-wan-kenobi]]と再び剣を交え、これを討った。", "revealedBy": ["ep4"] },
@@ -118,7 +118,7 @@
       { "text": "帝国", "reading": "ていこく", "en": "the Empire", "revealedBy": ["ep4"], "kind": "alias" }
     ],
     "facts": [
-      { "kind": "summary", "text": "皇帝を頂点として銀河を支配する専制国家。", "revealedBy": ["ep4", "ep6", "ep3", "bad-batch-s1", "bad-batch-s2", "bad-batch-s3", "obi-wan", "rebels-s1", "rebels-s2", "rebels-s3", "rebels-s4", "andor-s1", "andor-s2"] },
+      { "kind": "summary", "text": "皇帝を頂点として銀河を支配する専制国家。", "revealedBy": ["ep4", "ep6", "ep3", "bad-batch-s1", "bad-batch-s2", "bad-batch-s3", "obi-wan", "rebels-s1", "rebels-s2", "rebels-s3", "rebels-s4", "andor-s1", "andor-s2", "rogue-one"] },
       { "text": "元老院は解散され、各地域は総督が直接統治することになった。", "revealedBy": ["ep4"] },
       { "text": "[[death-star]]を建造し、恐怖によって星系を従わせようとした。", "revealedBy": ["ep4"] }
     ]
@@ -131,7 +131,7 @@
       { "text": "反乱軍", "reading": "はんらんぐん", "en": "the Rebellion", "revealedBy": ["ep4"], "kind": "alias" }
     ],
     "facts": [
-      { "kind": "summary", "text": "[[galactic-empire]]の支配に抵抗する勢力。各地で帝国と戦っている。", "revealedBy": ["ep4", "ep6", "rebels-s3", "rebels-s4", "andor-s1", "andor-s2"] },
+      { "kind": "summary", "text": "[[galactic-empire]]の支配に抵抗する勢力。各地で帝国と戦っている。", "revealedBy": ["ep4", "ep6", "rebels-s3", "rebels-s4", "andor-s1", "andor-s2", "rogue-one"] },
       { "text": "[[death-star]]の設計図を手に入れ、[[battle-of-yavin]]で弱点を突いてこれを破壊した。", "revealedBy": ["ep4"] }
     ]
   },
@@ -143,7 +143,7 @@
       { "text": "ジェダイ騎士団", "reading": "じぇだいきしだん", "en": "Jedi Order", "revealedBy": ["ep4"], "kind": "alias" }
     ],
     "facts": [
-      { "kind": "summary", "text": "かつて銀河共和国の平和と正義を守った騎士団。[[the-force]]を使い、[[lightsaber]]を武器とする。", "revealedBy": ["ep4", "obi-wan", "rebels-s1", "rebels-s2"] },
+      { "kind": "summary", "text": "かつて銀河共和国の平和と正義を守った騎士団。[[the-force]]を使い、[[lightsaber]]を武器とする。", "revealedBy": ["ep4", "obi-wan", "rebels-s1", "rebels-s2", "rebels-s3", "rogue-one"] },
       { "text": "帝国の時代にはほぼ滅ぼされ、[[obi-wan-kenobi]]のような生き残りはわずかだった。", "revealedBy": ["ep4"] }
     ]
   },
@@ -154,7 +154,7 @@
       { "text": "デス・スター", "reading": "です・すたー", "en": "Death Star" }
     ],
     "facts": [
-      { "kind": "summary", "text": "惑星を一撃で破壊できる主砲を備えた、[[galactic-empire]]の月ほどもある宇宙要塞。", "revealedBy": ["ep4"] },
+      { "kind": "summary", "text": "惑星を一撃で破壊できる主砲を備えた、[[galactic-empire]]の月ほどもある宇宙要塞。", "revealedBy": ["ep4", "rogue-one"] },
       { "text": "威力を示すため[[alderaan]]を破壊した。", "revealedBy": ["ep4"] },
       { "text": "排熱口という小さな弱点があり、[[battle-of-yavin]]で[[luke-skywalker]]の放った魚雷によって爆発した。", "revealedBy": ["ep4"] }
     ]
@@ -198,7 +198,7 @@
     "names": [
       { "text": "ヤヴィンの戦い", "reading": "やゔぃんのたたかい", "en": "Battle of Yavin" }
     ],
-    "date": { "year": 0, "precision": "exact" },
+    "date": { "year": 0, "precision": "exact", "order": 3 },
     "facts": [
       { "kind": "summary", "text": "[[rebel-alliance]]が[[death-star]]を破壊した戦い。", "revealedBy": ["ep4"] },
       { "text": "ヤヴィン第4衛星の反乱軍基地に迫るデス・スターに対し、小型戦闘機の部隊が攻撃をかけ、[[luke-skywalker]]の一撃で勝利した。", "revealedBy": ["ep4"] },

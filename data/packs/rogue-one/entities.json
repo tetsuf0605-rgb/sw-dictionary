@@ -1,0 +1,265 @@
+[
+  {
+    "id": "jyn-erso",
+    "type": "character",
+    "names": [
+      { "text": "ジン・アーソ", "reading": "じん・あーそ", "en": "Jyn Erso" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "父を帝国に奪われ、一人で生きてきた女。", "revealedBy": ["rogue-one"] },
+      { "text": "幼いころ[[saw-gerrera]]に引き取られ、戦い方を身につけた。", "revealedBy": ["rogue-one"] },
+      { "text": "やがて置き去りにされ、名を変えて渡り歩いていた。", "revealedBy": ["rogue-one"] },
+      { "text": "父の遺した言葉を頼りに、[[death-star]]の弱点を探した。", "revealedBy": ["rogue-one"] },
+      { "text": "決めきれない反乱軍を動かし、[[battle-of-scarif|設計図を奪う戦い]]に身を投じた。", "revealedBy": ["rogue-one"] }
+    ]
+  },
+  {
+    "id": "galen-erso",
+    "type": "character",
+    "names": [
+      { "text": "ゲイレン・アーソ", "reading": "げいれん・あーそ", "en": "Galen Erso" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "[[death-star]]を設計した科学者。[[jyn-erso]]の父。", "revealedBy": ["rogue-one"] },
+      { "text": "身を隠していたが帝国に連れ戻され、計画を進めさせられた。", "revealedBy": ["rogue-one"] },
+      { "text": "逆らえないまま、設計の中にひそかな弱点を仕込んだ。", "revealedBy": ["rogue-one"] },
+      { "text": "娘に向けた言伝を、信じられる者に託した。", "revealedBy": ["rogue-one"] },
+      { "text": "[[krennic]]に見張られ続けた。", "revealedBy": ["rogue-one"] }
+    ]
+  },
+  {
+    "id": "chirrut-imwe",
+    "type": "character",
+    "names": [
+      { "text": "チアルート・イムウェ", "reading": "ちあるーと・いむうぇ", "en": "Chirrut Îmwe" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "目の見えない武人。杖ひとつで戦う。", "revealedBy": ["rogue-one"] },
+      { "text": "自らは[[the-force]]と共にあると唱え続ける。", "revealedBy": ["rogue-one"] },
+      { "text": "[[guardians-of-the-whills]]の一人だった。", "revealedBy": ["rogue-one"] },
+      { "text": "[[jedha]]の聖地を守って生きてきた。", "revealedBy": ["rogue-one"] },
+      { "text": "[[battle-of-scarif|戦い]]では、信じるままに歩いて装置を入れた。", "revealedBy": ["rogue-one"] }
+    ]
+  },
+  {
+    "id": "baze-malbus",
+    "type": "character",
+    "names": [
+      { "text": "ベイズ・マルバス", "reading": "べいず・まるばす", "en": "Baze Malbus" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "[[chirrut-imwe]]の相棒。重い銃を担ぐ大柄な男。", "revealedBy": ["rogue-one"] },
+      { "text": "信心を失っており、皮肉な物言いをする。", "revealedBy": ["rogue-one"] },
+      { "text": "相棒を失ったのち、その言葉を自ら口にした。", "revealedBy": ["rogue-one"] }
+    ]
+  },
+  {
+    "id": "bodhi-rook",
+    "type": "character",
+    "names": [
+      { "text": "ボーディー・ルック", "reading": "ぼーでぃー・るっく", "en": "Bodhi Rook" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "帝国から離れた輸送機の操縦士。", "revealedBy": ["rogue-one"] },
+      { "text": "[[galen-erso]]の言伝を運んだ。", "revealedBy": ["rogue-one"] },
+      { "text": "怯えながらも、肝心なところでは前に出た。", "revealedBy": ["rogue-one"] }
+    ]
+  },
+  {
+    "id": "jedha",
+    "type": "place",
+    "names": [
+      { "text": "ジェダ", "reading": "じぇだ", "en": "Jedha" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "砂と寒さに覆われた、古い聖地のある星。", "revealedBy": ["rogue-one"] },
+      { "text": "[[kyber-crystal]]が採れ、帝国が掘り出していた。", "revealedBy": ["rogue-one"] },
+      { "text": "[[guardians-of-the-whills]]が守ってきた街がある。", "revealedBy": ["rogue-one"] },
+      { "text": "[[saw-gerrera]]の一味が、帝国と街なかで撃ち合っていた。", "revealedBy": ["rogue-one"] },
+      { "text": "[[destruction-of-jedha|街ごと消し飛ばされた]]。", "revealedBy": ["rogue-one"] }
+    ]
+  },
+  {
+    "id": "scarif",
+    "type": "place",
+    "names": [
+      { "text": "スカリフ", "reading": "すかりふ", "en": "Scarif" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "海と白い砂浜の広がる星。", "revealedBy": ["rogue-one"] },
+      { "text": "帝国の記録庫が置かれ、星ごと盾で覆われている。", "revealedBy": ["rogue-one"] },
+      { "text": "[[battle-of-scarif|戦い]]の舞台になった。", "revealedBy": ["rogue-one"] }
+    ]
+  },
+  {
+    "id": "guardians-of-the-whills",
+    "type": "organization",
+    "names": [
+      { "text": "ウィルズの守人", "reading": "うぃるずのもりびと", "en": "Guardians of the Whills" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "[[jedha]]の聖地を守ってきた者たち。", "revealedBy": ["rogue-one"] },
+      { "text": "[[jedi|ジェダイ]]ではないが、[[the-force]]を信じている。", "revealedBy": ["rogue-one"] },
+      { "text": "帝国に聖地を奪われ、散り散りになった。", "revealedBy": ["rogue-one"] }
+    ]
+  },
+  {
+    "id": "admiral-raddus",
+    "type": "character",
+    "names": [
+      { "text": "ラダス提督", "reading": "らだすていとく", "en": "Admiral Raddus" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "反乱軍の艦隊を率いる提督。", "revealedBy": ["rogue-one"] },
+      { "text": "評議会の決を待たず、[[battle-of-scarif|スカリフ]]へ艦隊を出した。", "revealedBy": ["rogue-one"] }
+    ]
+  },
+  {
+    "id": "destruction-of-jedha",
+    "type": "event",
+    "names": [
+      { "text": "ジェダの破壊", "reading": "じぇだのはかい", "en": "Destruction of Jedha" }
+    ],
+    "date": { "year": 0, "precision": "exact", "order": 1 },
+    "facts": [
+      { "kind": "summary", "text": "[[death-star]]が初めて使われ、[[jedha]]の街が消し飛ばされた出来事。", "revealedBy": ["rogue-one"] },
+      { "text": "主砲は低い出力で撃たれたが、それでも街と山を吹き飛ばした。", "revealedBy": ["rogue-one"] },
+      { "text": "帝国は、坑道の事故だったと伝えた。", "revealedBy": ["rogue-one"] },
+      { "text": "兵器が本物だと、反乱軍に知れ渡った。", "revealedBy": ["rogue-one"] }
+    ]
+  },
+  {
+    "id": "battle-of-scarif",
+    "type": "event",
+    "names": [
+      { "text": "スカリフの戦い", "reading": "すかりふのたたかい", "en": "Battle of Scarif" }
+    ],
+    "date": { "year": 0, "precision": "exact", "order": 2 },
+    "facts": [
+      { "kind": "summary", "text": "[[scarif]]の記録庫から[[death-star]]の設計図を奪った戦い。", "revealedBy": ["rogue-one"] },
+      { "text": "[[jyn-erso]]たちが、評議会の決を待たずに乗り込んだ。", "revealedBy": ["rogue-one"] },
+      { "text": "[[admiral-raddus]]の艦隊が追って加勢した。", "revealedBy": ["rogue-one"] },
+      { "text": "設計図は送り出されたが、乗り込んだ者は誰も戻らなかった。", "revealedBy": ["rogue-one"] },
+      { "text": "星は[[death-star]]の主砲に焼かれた。", "revealedBy": ["rogue-one"] }
+    ]
+  },
+
+  {
+    "id": "death-star",
+    "facts": [
+      { "text": "[[galen-erso]]が設計した。", "revealedBy": ["rogue-one"] },
+      { "text": "動力には[[kyber-crystal]]が使われている。", "revealedBy": ["rogue-one"] },
+      { "text": "設計の中に、作り手がひそかに仕込んだ弱点があった。", "revealedBy": ["rogue-one"] },
+      { "text": "[[destruction-of-jedha|初めて使われ]]、街ひとつを消し飛ばした。", "revealedBy": ["rogue-one"] },
+      { "text": "[[battle-of-scarif|設計図を奪われた]]。", "revealedBy": ["rogue-one"] }
+    ]
+  },
+  {
+    "id": "kyber-crystal",
+    "facts": [
+      { "text": "大きなものは、兵器の動力にもなる。", "revealedBy": ["rogue-one"] },
+      { "text": "[[jedha]]で帝国が大がかりに掘り出していた。", "revealedBy": ["rogue-one"] }
+    ]
+  },
+  {
+    "id": "krennic",
+    "facts": [
+      { "text": "[[death-star]]の完成を、自らの手柄にしようとした。", "revealedBy": ["rogue-one"] },
+      { "text": "[[galen-erso]]を連れ戻し、見張り続けた。", "revealedBy": ["rogue-one"] },
+      { "text": "手柄を[[tarkin]]に取り上げられた。", "revealedBy": ["rogue-one"] },
+      { "text": "[[scarif]]で倒れた。", "revealedBy": ["rogue-one"] }
+    ]
+  },
+  {
+    "id": "saw-gerrera",
+    "facts": [
+      { "text": "[[jedha]]で一味を率い、帝国と街なかで撃ち合っていた。", "revealedBy": ["rogue-one"] },
+      { "text": "体を痛めつくし、機械の助けで生きていた。", "revealedBy": ["rogue-one"] },
+      { "text": "[[jyn-erso]]を幼いころ引き取り、のちに手放した。", "revealedBy": ["rogue-one"] },
+      { "text": "逃げることを選ばず、街と共に最期を迎えた。", "revealedBy": ["rogue-one"] }
+    ]
+  },
+  {
+    "id": "cassian-andor",
+    "facts": [
+      { "text": "反乱軍の情報将校として、汚れ仕事も担っていた。", "revealedBy": ["rogue-one"] },
+      { "text": "[[jyn-erso]]と共に[[scarif]]へ向かった。", "revealedBy": ["rogue-one"] },
+      { "text": "戻らなかった。", "revealedBy": ["rogue-one"] }
+    ]
+  },
+  {
+    "id": "k-2so",
+    "facts": [
+      { "text": "[[battle-of-scarif|記録庫]]で仲間を守り、動かなくなった。", "revealedBy": ["rogue-one"] }
+    ]
+  },
+  {
+    "id": "darth-vader",
+    "facts": [
+      { "text": "設計図を追い、暗い通路で反乱兵をなぎ倒した。", "revealedBy": ["rogue-one"] },
+      { "text": "[[krennic]]に釘を刺した。", "revealedBy": ["rogue-one"] }
+    ]
+  },
+  {
+    "id": "tarkin",
+    "facts": [
+      { "text": "[[death-star]]の指揮を[[krennic]]から取り上げた。", "revealedBy": ["rogue-one"] },
+      { "text": "[[jedha]]と[[scarif]]への砲撃を命じた。", "revealedBy": ["rogue-one"] }
+    ]
+  },
+  {
+    "id": "leia-organa",
+    "facts": [
+      { "text": "送り出された設計図を受け取った。", "revealedBy": ["rogue-one"] }
+    ]
+  },
+  {
+    "id": "mon-mothma",
+    "facts": [
+      { "text": "割れた評議会をまとめきれなかった。", "revealedBy": ["rogue-one"] }
+    ]
+  },
+  {
+    "id": "bail-organa",
+    "facts": [
+      { "text": "信じられる者を使いに出すと言い、[[leia-organa]]を頼った。", "revealedBy": ["rogue-one"] }
+    ]
+  },
+  {
+    "id": "rebel-alliance",
+    "facts": [
+      { "text": "評議会は割れ、帝国と正面から戦うかどうかを決めきれなかった。", "revealedBy": ["rogue-one"] },
+      { "text": "決を待たずに出た者たちが、結果として流れを作った。", "revealedBy": ["rogue-one"] }
+    ]
+  },
+  {
+    "id": "yavin-4",
+    "facts": [
+      { "text": "反乱軍の評議会が開かれた。", "revealedBy": ["rogue-one"] }
+    ]
+  },
+  {
+    "id": "lightsaber",
+    "facts": [
+      { "text": "[[darth-vader]]が暗い通路で振るった。", "revealedBy": ["rogue-one"] }
+    ]
+  },
+  {
+    "id": "the-force",
+    "facts": [
+      { "text": "[[jedi|ジェダイ]]でなくとも、これを信じて生きる者がいる。", "revealedBy": ["rogue-one"] }
+    ]
+  },
+  {
+    "id": "jedi",
+    "facts": [
+      { "text": "このころには、すでに伝説のように語られていた。", "revealedBy": ["rogue-one"] }
+    ]
+  },
+  {
+    "id": "galactic-empire",
+    "facts": [
+      { "text": "聖地を掘り返し、結晶を兵器のために運び出していた。", "revealedBy": ["rogue-one"] }
+    ]
+  }
+]

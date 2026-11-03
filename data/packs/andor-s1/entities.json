@@ -6,7 +6,7 @@
       { "text": "カシアン・アンドー", "reading": "かしあん・あんどー", "en": "Cassian Andor" }
     ],
     "facts": [
-      { "kind": "summary", "text": "盗みと渡り歩きで生きてきた男。", "revealedBy": ["andor-s1", "andor-s2"] },
+      { "kind": "summary", "text": "盗みと渡り歩きで生きてきた男。", "revealedBy": ["andor-s1", "andor-s2", "rogue-one"] },
       { "text": "生き別れた妹を探し続けている。", "revealedBy": ["andor-s1"] },
       { "text": "帝国に雇われた警備の者を殺したことから、追われる身になった。", "revealedBy": ["andor-s1"] },
       { "text": "[[luthen-rael]]に見出され、[[aldhani-heist|強奪]]に加わった。", "revealedBy": ["andor-s1"] },
