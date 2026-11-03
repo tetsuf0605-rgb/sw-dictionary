@@ -59,7 +59,7 @@
       { "text": "ゼブ・オレリオス", "reading": "ぜぶ・おれりおす", "en": "Zeb Orrelios" }
     ],
     "facts": [
-      { "kind": "summary", "text": "大柄で毛深い[[lasat|ラサット]]の戦士。", "revealedBy": ["rebels-s1", "rebels-s2", "rebels-s4"] },
+      { "kind": "summary", "text": "大柄で毛深い[[lasat|ラサット]]の戦士。", "revealedBy": ["rebels-s1", "rebels-s2", "rebels-s4", "mando-grogu"] },
       { "text": "故郷を帝国に滅ぼされ、数少ない生き残りの一人である。", "revealedBy": ["rebels-s1"] },
       { "text": "棒状の武器を使う。", "revealedBy": ["rebels-s1"] },
       { "text": "[[ezra-bridger]]とは口げんかが絶えない。", "revealedBy": ["rebels-s1"] }

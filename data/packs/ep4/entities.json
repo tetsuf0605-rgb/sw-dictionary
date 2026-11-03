@@ -118,7 +118,7 @@
       { "text": "帝国", "reading": "ていこく", "en": "the Empire", "revealedBy": ["ep4"], "kind": "alias" }
     ],
     "facts": [
-      { "kind": "summary", "text": "皇帝を頂点として銀河を支配する専制国家。", "revealedBy": ["ep4", "ep6", "ep3", "bad-batch-s1", "bad-batch-s2", "bad-batch-s3", "obi-wan", "rebels-s1", "rebels-s2", "rebels-s3", "rebels-s4", "andor-s1", "andor-s2", "rogue-one", "maul-shadow-lord"] },
+      { "kind": "summary", "text": "皇帝を頂点として銀河を支配する専制国家。", "revealedBy": ["ep4", "ep6", "ep3", "bad-batch-s1", "bad-batch-s2", "bad-batch-s3", "obi-wan", "rebels-s1", "rebels-s2", "rebels-s3", "rebels-s4", "andor-s1", "andor-s2", "rogue-one", "maul-shadow-lord", "mando-grogu"] },
       { "text": "元老院は解散され、各地域は総督が直接統治することになった。", "revealedBy": ["ep4"] },
       { "text": "[[death-star]]を建造し、恐怖によって星系を従わせようとした。", "revealedBy": ["ep4"] }
     ]

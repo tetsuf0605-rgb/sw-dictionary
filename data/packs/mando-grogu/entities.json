@@ -1,0 +1,313 @@
+[
+  {
+    "id": "rotta",
+    "type": "character",
+    "names": [
+      { "text": "ロッタ", "reading": "ろった", "en": "Rotta" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "[[jabba-the-hutt]]の息子。", "revealedBy": ["tcw-film", "mando-grogu"] },
+      { "text": "幼いころ攫われ、[[anakin-skywalker]]と[[ahsoka-tano]]に助け出された。", "revealedBy": ["tcw-film"] },
+      { "text": "道中で病に倒れかけたが、父のもとへ送り返された。", "revealedBy": ["tcw-film"] },
+      { "text": "大人になり、[[shakari]]の闘技場で剣闘士として人気を得ていた。", "revealedBy": ["mando-grogu"] },
+      { "text": "父の影から出ることを望み、自分の力で名を上げようとしていた。", "revealedBy": ["mando-grogu"] },
+      { "text": "[[hutt-twins|双子]]に命を狙われていた。父の跡取りだからである。", "revealedBy": ["mando-grogu"] },
+      { "text": "[[din-djarin]]と闘技場で戦わされたが、のちに肩を並べて獣と戦った。", "revealedBy": ["mando-grogu"] },
+      { "text": "最後は[[new-republic|新共和国]]に力を貸す道を選んだ。", "revealedBy": ["mando-grogu"] }
+    ]
+  },
+  {
+    "id": "janu",
+    "type": "character",
+    "names": [
+      { "text": "ジャヌ", "reading": "じゃぬ", "en": "Janu" },
+      { "text": "コマンダー・コイン", "reading": "こまんだー・こいん", "en": "Commander Coin", "revealedBy": ["mando-grogu"] }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "[[shakari]]の裏を仕切る男。闘技場の主でもある。", "revealedBy": ["mando-grogu"] },
+      { "text": "露店の商人から上納金を取り立てていた。", "revealedBy": ["mando-grogu"] },
+      { "text": "[[rotta]]に自由を約束しながら、最後の試合で殺すつもりでいた。", "revealedBy": ["mando-grogu"] },
+      { "text": "浜辺の屋敷を[[galactic-empire|帝国]]の兵に守らせていた。", "revealedBy": ["mando-grogu"] },
+      { "text": "姿を見せない帝国の残党の指揮官と、同じ人物だった。", "revealedBy": ["mando-grogu"] },
+      { "text": "[[din-djarin]]に捕らえられ、[[new-republic|新共和国]]に引き渡された。", "revealedBy": ["mando-grogu"] },
+      { "text": "取り調べで、[[hutt-twins|双子]]が両方に情報を流していたことを明かした。", "revealedBy": ["mando-grogu"] }
+    ]
+  },
+  {
+    "id": "colonel-ward",
+    "type": "character",
+    "names": [
+      { "text": "ウォード大佐", "reading": "うぉーどたいさ", "en": "Colonel Ward" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "[[adelphi-base]]の戦闘機隊を率いる[[new-republic|新共和国]]の将校。", "revealedBy": ["mando-grogu"] },
+      { "text": "[[din-djarin]]に、帝国の残党を狩る仕事を回していた。", "revealedBy": ["mando-grogu"] },
+      { "text": "生け捕りにしろという指示を守らない[[din-djarin]]に、たびたび不満を漏らした。", "revealedBy": ["mando-grogu"] },
+      { "text": "[[hutt-twins|双子]]との取り引きを進めていたが、裏切りに気づいた。", "revealedBy": ["mando-grogu"] },
+      { "text": "「新共和国は味方を置いていかない」と言い、機隊を率いて助けに向かった。", "revealedBy": ["mando-grogu"] }
+    ]
+  },
+  {
+    "id": "hutt-twins",
+    "type": "character",
+    "names": [
+      { "text": "ハットの双子", "reading": "はっとのふたご", "en": "The Twins" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "[[nal-hutta]]の宮殿に座る、[[hutt|ハット]]の兄と妹。", "revealedBy": ["mando-grogu"] },
+      { "text": "[[rotta]]の叔父と叔母にあたる。", "revealedBy": ["mando-grogu"] },
+      { "text": "[[jabba-the-hutt]]の跡を継ぐために、その息子を消そうとしていた。", "revealedBy": ["mando-grogu"] },
+      { "text": "[[new-republic|新共和国]]に帝国の残党の情報を売りながら、残党にも新共和国の動きを売っていた。", "revealedBy": ["mando-grogu"] },
+      { "text": "[[din-djarin]]を捕らえ、見せ物のように兜を剥いだ。", "revealedBy": ["mando-grogu"] },
+      { "text": "宮殿の下の池で飼っていた獣に、自分たちが落ちて食われた。", "revealedBy": ["mando-grogu"] }
+    ]
+  },
+  {
+    "id": "embo",
+    "type": "character",
+    "names": [
+      { "text": "エンボ", "reading": "えんぼ", "en": "Embo" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "笠のような兜をかぶった賞金稼ぎ。", "revealedBy": ["tcw-s2", "mando-grogu"] },
+      { "text": "クローン戦争のころ、雇われて農民の村を海賊から守ったことがある。", "revealedBy": ["tcw-s2"] },
+      { "text": "兜は盾にも投げる武器にもなる。", "revealedBy": ["tcw-s2", "mando-grogu"] },
+      { "text": "[[hutt-twins|双子]]に雇われ、[[din-djarin]]を狙った。", "revealedBy": ["mando-grogu"] },
+      { "text": "[[keibu]]という獣を連れている。", "revealedBy": ["mando-grogu"] },
+      { "text": "雨の夜に[[nevarro]]の家を襲い、[[din-djarin]]を網で捕らえた。", "revealedBy": ["mando-grogu"] },
+      { "text": "雇い主が倒れたあとは、戦いを続けずに去った。", "revealedBy": ["mando-grogu"] }
+    ]
+  },
+  {
+    "id": "keibu",
+    "type": "character",
+    "names": [
+      { "text": "ケイブ", "reading": "けいぶ", "en": "Keibu" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "[[embo]]が連れている、牙の鋭い獣。", "revealedBy": ["mando-grogu"] },
+      { "text": "匂いで人を探し出す。", "revealedBy": ["mando-grogu"] },
+      { "text": "[[grogu]]に[[the-force|フォース]]で宥められ、頭を撫でさせた。", "revealedBy": ["mando-grogu"] },
+      { "text": "主が撃たれると、すぐにその側へ走った。", "revealedBy": ["mando-grogu"] }
+    ]
+  },
+  {
+    "id": "gatori",
+    "type": "character",
+    "names": [
+      { "text": "ガトーリ", "reading": "がとーり", "en": "Gatori" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "[[nal-hutta]]の川辺に小屋を構える漁師。", "revealedBy": ["mando-grogu"] },
+      { "text": "魚を盗んだ[[grogu]]を責めず、代わりに一匹与えた。", "revealedBy": ["mando-grogu"] },
+      { "text": "追っ手が来たとき、[[grogu]]を箱の陰に隠してやった。", "revealedBy": ["mando-grogu"] },
+      { "text": "草を混ぜて毒の解き薬を作り、急ぐよう言い添えて[[grogu]]に渡した。", "revealedBy": ["mando-grogu"] }
+    ]
+  },
+  {
+    "id": "hogsbreth",
+    "type": "character",
+    "names": [
+      { "text": "ホッグスブレス", "reading": "ほっぐすぶれす", "en": "Hogsbreth" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "[[janu]]の下で荒事を引き受ける男。二本の角を持つ。", "revealedBy": ["mando-grogu"] },
+      { "text": "酒場で[[din-djarin]]に角を折られた。", "revealedBy": ["mando-grogu"] },
+      { "text": "闘技場では主の隣に座り、見物を取り仕切った。", "revealedBy": ["mando-grogu"] },
+      { "text": "最後は屋敷での撃ち合いで倒れた。", "revealedBy": ["mando-grogu"] }
+    ]
+  },
+  {
+    "id": "hugo-durant",
+    "type": "character",
+    "names": [
+      { "text": "ヒューゴ・デュラント", "reading": "ひゅーご・でゅらんと", "en": "Hugo Durant" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "[[shakari]]の市場で揚げ物を売る料理人。", "revealedBy": ["mando-grogu"] },
+      { "text": "十二人の子がおり、[[janu]]に上納金を取られていた。", "revealedBy": ["mando-grogu"] },
+      { "text": "小銭と引き換えに、[[din-djarin]]へ居場所を教えた。", "revealedBy": ["mando-grogu"] },
+      { "text": "[[grogu]]は、この店の揚げ物をすっかり気に入った。", "revealedBy": ["mando-grogu"] }
+    ]
+  },
+  {
+    "id": "minch",
+    "type": "character",
+    "names": [
+      { "text": "ミンチ", "reading": "みんち", "en": "Minch" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "手のひらに乗るほど小さな技師たちの頭。", "revealedBy": ["mando-grogu"] },
+      { "text": "[[din-djarin]]の新しい船を組み直した。", "revealedBy": ["mando-grogu"] },
+      { "text": "[[grogu]]とよく気が合っている。", "revealedBy": ["mando-grogu"] },
+      { "text": "[[embo]]の獣にくわえられ、連れ去られた。", "revealedBy": ["mando-grogu"] },
+      { "text": "仲間と小さな船で[[nal-hutta]]へ飛び、[[grogu]]と共に[[din-djarin]]を助けた。", "revealedBy": ["mando-grogu"] }
+    ]
+  },
+  {
+    "id": "droid-gotra",
+    "type": "organization",
+    "names": [
+      { "text": "ドロイド・ゴトラ", "reading": "どろいど・ごとら", "en": "Droid Gotra" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "クローン戦争を生き延びた戦闘ドロイドたちの一団。", "revealedBy": ["mando-grogu"] },
+      { "text": "[[hutt|ハット]]に雇われ、その宮殿と空を守っていた。", "revealedBy": ["mando-grogu"] },
+      { "text": "戦闘機も操り、[[new-republic|新共和国]]の機隊と撃ち合った。", "revealedBy": ["mando-grogu"] }
+    ]
+  },
+  {
+    "id": "shakari",
+    "type": "place",
+    "names": [
+      { "text": "シャカリ", "reading": "しゃかり", "en": "Shakari" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "街と市場が広がる月。闘技場で知られている。", "revealedBy": ["mando-grogu"] },
+      { "text": "[[janu]]が裏を仕切り、商人から上納金を取っていた。", "revealedBy": ["mando-grogu"] },
+      { "text": "塩の結晶がここでは財産として扱われる。", "revealedBy": ["mando-grogu"] },
+      { "text": "闘技場の囲いが破れ、放たれた獣が街を荒らした。", "revealedBy": ["mando-grogu"] }
+    ]
+  },
+  {
+    "id": "nal-hutta",
+    "type": "place",
+    "names": [
+      { "text": "ナル・ハッタ", "reading": "なる・はった", "en": "Nal Hutta" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "[[hutt|ハット]]たちの故郷。沼と森に覆われている。", "revealedBy": ["mando-grogu"] },
+      { "text": "[[hutt-twins|双子]]の大きな宮殿が建っていた。", "revealedBy": ["mando-grogu"] },
+      { "text": "宮殿の下には、獣を飼う池と下水の道がある。", "revealedBy": ["mando-grogu"] },
+      { "text": "沼の川辺には、静かに暮らす者もいる。", "revealedBy": ["mando-grogu"] }
+    ]
+  },
+  {
+    "id": "phostera",
+    "type": "place",
+    "names": [
+      { "text": "フォステラ", "reading": "ふぉすてら", "en": "Phostera" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "辺境にある、雪と氷に覆われた星。", "revealedBy": ["mando-grogu"] },
+      { "text": "山の中に[[galactic-empire|帝国]]の残党の拠点があった。", "revealedBy": ["mando-grogu"] },
+      { "text": "残党の指揮官が、土地の長たちから守り代を取り立てていた。", "revealedBy": ["mando-grogu"] },
+      { "text": "[[din-djarin]]と[[grogu]]が、雪原で歩行兵器を追った。", "revealedBy": ["mando-grogu"] }
+    ]
+  },
+  {
+    "id": "adelphi-base",
+    "type": "place",
+    "names": [
+      { "text": "アデルフィ基地", "reading": "あでるふぃきち", "en": "Adelphi Base" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "[[new-republic|新共和国]]の戦闘機隊が置かれた基地。", "revealedBy": ["mando-grogu"] },
+      { "text": "[[colonel-ward]]がここの隊を率いている。", "revealedBy": ["mando-grogu"] },
+      { "text": "操縦士たちが集まる酒場があり、仕事の話もそこで交わされる。", "revealedBy": ["mando-grogu"] }
+    ]
+  },
+  {
+    "id": "fall-of-the-hutt-palace",
+    "type": "event",
+    "names": [
+      { "text": "ハット宮殿の崩壊", "reading": "はっときゅうでんのほうかい", "en": "Fall of the Hutt Palace" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "[[nal-hutta]]にあった[[hutt-twins|双子]]の宮殿が落ちた出来事。", "revealedBy": ["mando-grogu"] },
+      { "text": "[[din-djarin]]が、捕らわれた[[rotta]]を取り戻すために単身で乗り込んだ。", "revealedBy": ["mando-grogu"] },
+      { "text": "[[hutt-twins|双子]]は、自ら飼っていた獣に食われた。", "revealedBy": ["mando-grogu"] },
+      { "text": "[[new-republic|新共和国]]の戦闘機隊が宮殿を砲撃し、建物は沈んだ。", "revealedBy": ["mando-grogu"] },
+      { "text": "これで[[jabba-the-hutt]]の跡目をめぐる争いも終わった。", "revealedBy": ["mando-grogu"] }
+    ],
+    "date": { "year": 14, "precision": "approx" }
+  },
+
+  {
+    "id": "din-djarin",
+    "facts": [
+      { "text": "[[new-republic|新共和国]]に雇われ、帝国の残党を狩る仕事を請け負っていた。", "revealedBy": ["mando-grogu"] },
+      { "text": "[[grogu]]を弟子として連れ、二人で仕事をこなすようになった。", "revealedBy": ["mando-grogu"] },
+      { "text": "「老いた者が幼い者を守り、やがて幼い者が老いた者を守る」と[[grogu]]に語った。", "revealedBy": ["mando-grogu"] },
+      { "text": "[[rotta]]を闘技場で殺さず、自由を買ったと言い張った。", "revealedBy": ["mando-grogu"] },
+      { "text": "[[hutt-twins|双子]]に兜を剥がれ、辱められた。", "revealedBy": ["mando-grogu"] },
+      { "text": "池の獣に胸を噛まれ、毒で倒れた。", "revealedBy": ["mando-grogu"] },
+      { "text": "[[grogu]]の持ち帰った薬で助かり、一人で宮殿へ戻った。", "revealedBy": ["mando-grogu"] }
+    ]
+  },
+  {
+    "id": "grogu",
+    "facts": [
+      { "text": "[[din-djarin]]の弟子として、仕事に連れられるようになった。", "revealedBy": ["mando-grogu"] },
+      { "text": "[[the-force|フォース]]で機械をばらし、物を投げ、獣を宥めた。", "revealedBy": ["mando-grogu"] },
+      { "text": "船の支度を任されたが、うっかり弾を撃ってしまった。", "revealedBy": ["mando-grogu"] },
+      { "text": "まだ言葉を話せず、身振りと表情で伝えていた。", "revealedBy": ["mando-grogu"] },
+      { "text": "倒れた[[din-djarin]]を洞のような木に隠し、数日のあいだ守り続けた。", "revealedBy": ["mando-grogu"] },
+      { "text": "[[gatori]]から薬をもらい、育ての親を助けた。", "revealedBy": ["mando-grogu"] }
+    ]
+  },
+  {
+    "id": "zeb-orrelios",
+    "facts": [
+      { "text": "帝国が倒れたあとは、[[new-republic|新共和国]]の兵として働いていた。", "revealedBy": ["mando-grogu"] },
+      { "text": "[[din-djarin]]の仕事に付き添い、船から援護した。", "revealedBy": ["mando-grogu"] },
+      { "text": "[[rotta]]にも気さくに接し、酒をおごると言った。", "revealedBy": ["mando-grogu"] }
+    ]
+  },
+  {
+    "id": "razor-crest",
+    "facts": [
+      { "text": "失われたあと、同じ型の船が[[new-republic|新共和国]]から前払いとして与えられた。", "revealedBy": ["mando-grogu"] },
+      { "text": "新しい船は[[minch]]たちの手で組み直された。", "revealedBy": ["mando-grogu"] }
+    ]
+  },
+  {
+    "id": "new-republic",
+    "facts": [
+      { "text": "各地に散った帝国の残党を、一人ずつ追っていた。", "revealedBy": ["mando-grogu"] },
+      { "text": "裏社会に通じる者を雇い、情報と引き換えに手を借りていた。", "revealedBy": ["mando-grogu"] },
+      { "text": "[[hutt|ハット]]との取り引きが、裏切られていたと分かった。", "revealedBy": ["mando-grogu"] }
+    ]
+  },
+  {
+    "id": "nevarro",
+    "facts": [
+      { "text": "街の外れに[[din-djarin]]の住まいがある。", "revealedBy": ["mando-grogu"] },
+      { "text": "小さな技師たちが店を構えており、船の直しを引き受ける。", "revealedBy": ["mando-grogu"] }
+    ]
+  },
+  {
+    "id": "hutt",
+    "facts": [
+      { "text": "帝国が倒れたあとも、裏社会で大きな顔をしていた。", "revealedBy": ["mando-grogu"] },
+      { "text": "跡目をめぐって、身内で殺し合うこともある。", "revealedBy": ["mando-grogu"] },
+      { "text": "体が大きすぎて、小さな船には乗れない。", "revealedBy": ["mando-grogu"] }
+    ]
+  },
+  {
+    "id": "jabba-the-hutt",
+    "facts": [
+      { "text": "死後、その裏の商いをめぐって身内が争った。", "revealedBy": ["mando-grogu"] },
+      { "text": "息子の[[rotta]]は、父に似た者にはなるまいと考えていた。", "revealedBy": ["mando-grogu"] }
+    ]
+  },
+  {
+    "id": "beskar",
+    "facts": [
+      { "text": "黒市では高く売れるため、甲冑ごと狙われることがある。", "revealedBy": ["mando-grogu"] }
+    ]
+  },
+  {
+    "id": "galactic-empire",
+    "facts": [
+      { "text": "倒れたあとも、残党の指揮官たちが各地で兵を抱えていた。", "revealedBy": ["mando-grogu"] },
+      { "text": "残党は裏社会と通じ、互いに情報を流していた。", "revealedBy": ["mando-grogu"] }
+    ]
+  },
+  {
+    "id": "the-force",
+    "facts": [
+      { "text": "幼い者にも、獣の気を落ち着かせるような使い方ができる。", "revealedBy": ["mando-grogu"] }
+    ]
+  }
+]

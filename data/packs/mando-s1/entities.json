@@ -7,7 +7,7 @@
       { "text": "マンダロリアン", "reading": "まんだろりあん", "en": "The Mandalorian", "revealedBy": ["mando-s1"], "kind": "alias" }
     ],
     "facts": [
-      { "kind": "summary", "text": "顔を人に見せない賞金稼ぎ。[[beskar]]の甲冑を身につけている。", "revealedBy": ["mando-s1", "mando-s2", "boba-fett", "mando-s3"] },
+      { "kind": "summary", "text": "顔を人に見せない賞金稼ぎ。[[beskar]]の甲冑を身につけている。", "revealedBy": ["mando-s1", "mando-s2", "boba-fett", "mando-s3", "mando-grogu"] },
       { "text": "幼いころ戦火で親を失い、[[the-way|掟]]を守る者たちに育てられた。", "revealedBy": ["mando-s1"] },
       { "text": "一度かぶった兜を、人前では決して脱がない。", "revealedBy": ["mando-s1"] },
       { "text": "引き渡した[[the-child]]を連れ戻し、追われる身になった。", "revealedBy": ["mando-s1"] },
@@ -115,7 +115,7 @@
       { "text": "ベスカー", "reading": "べすかー", "en": "Beskar" }
     ],
     "facts": [
-      { "kind": "summary", "text": "打ち直して使える、きわめて硬い金属。", "revealedBy": ["mando-s1", "mando-s2", "boba-fett", "mando-s3"] },
+      { "kind": "summary", "text": "打ち直して使える、きわめて硬い金属。", "revealedBy": ["mando-s1", "mando-s2", "boba-fett", "mando-s3", "mando-grogu"] },
       { "text": "光の刃も撃たれた弾もはじき返す。", "revealedBy": ["mando-s1"] },
       { "text": "マンダロリアンの甲冑は、これで作られる。", "revealedBy": ["mando-s1"] },
       { "text": "帝国が大量に奪い、溶かして蓄えていた。", "revealedBy": ["mando-s1"] }
@@ -141,7 +141,7 @@
       { "text": "ネヴァロ", "reading": "ねばろ", "en": "Nevarro" }
     ],
     "facts": [
-      { "kind": "summary", "text": "溶岩の流れた跡が残る星。", "revealedBy": ["mando-s1"] },
+      { "kind": "summary", "text": "溶岩の流れた跡が残る星。", "revealedBy": ["mando-s1", "mando-grogu"] },
       { "text": "[[bounty-hunters-guild]]の拠点がある。", "revealedBy": ["mando-s1"] },
       { "text": "帝国の残党が居座っていた。", "revealedBy": ["mando-s1"] }
     ]
