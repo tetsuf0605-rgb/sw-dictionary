@@ -166,5 +166,227 @@
       { "text": "中に巨大な結晶があり、触れた者を焼くほどの力を持つ。", "revealedBy": ["visions-v1"] },
       { "text": "その結晶は奪われ、敵の砲に積まれた。", "revealedBy": ["visions-ninth-jedi"] }
     ]
+  },
+  {
+    "id": "ronin",
+    "type": "character",
+    "names": [
+      { "text": "ローニン", "reading": "ろーにん", "en": "The Ronin" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "笠をかぶり、諸国を独りで渡り歩く剣士。", "revealedBy": ["visions-v1", "visions-v3"] },
+      { "text": "ならず者に襲われた村のために、刃を抜いた。", "revealedBy": ["visions-v1"] },
+      { "text": "自分を「ただの流れ者」と言う。", "revealedBy": ["visions-v1"] },
+      { "text": "赤い刃を隠し持ち、かつてはシスだった身である。", "revealedBy": ["visions-v1"] },
+      { "text": "倒した相手の結晶を、首飾りにして集めている。", "revealedBy": ["visions-v1"] },
+      { "text": "[[r5-d56]]という小さなドロイドを連れている。", "revealedBy": ["visions-v1", "visions-v3"] },
+      { "text": "「シスを狩る元シス」と裏社会で呼ばれていた。", "revealedBy": ["visions-v3"] },
+      { "text": "かつて斬ったジェダイの縁から、[[grand-master]]に追われることになった。", "revealedBy": ["visions-v3"] }
+    ]
+  },
+  {
+    "id": "r5-d56",
+    "type": "character",
+    "names": [
+      { "text": "R5-D56", "reading": "あーるふぁいぶ・でぃーふぃふてぃしっくす", "en": "R5-D56" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "[[ronin]]に付き従う、傘を背負った小さなドロイド。", "revealedBy": ["visions-v1", "visions-v3"] },
+      { "text": "主の無愛想さに、いちいち文句をつける。", "revealedBy": ["visions-v1"] },
+      { "text": "賭場で細工をして見つかり、大騒ぎの元になった。", "revealedBy": ["visions-v3"] }
+    ]
+  },
+  {
+    "id": "jay",
+    "type": "character",
+    "names": [
+      { "text": "ジェイ", "reading": "じぇい", "en": "Jay" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "ジェダイの弟子だった若者。のちに楽団の歌い手になる。", "revealedBy": ["visions-v1"] },
+      { "text": "兵たちが突然向きを変えて襲ってきた日に、逃げ落ちた。", "revealedBy": ["visions-v1"] },
+      { "text": "落ちた先で[[geezer-odajion]]に拾われた。", "revealedBy": ["visions-v1"] },
+      { "text": "剣を楽器に持ち替え、舞台に立つようになった。", "revealedBy": ["visions-v1"] }
+    ]
+  },
+  {
+    "id": "geezer-odajion",
+    "type": "character",
+    "names": [
+      { "text": "ギーザー・オダジオン", "reading": "ぎーざー・おだじおん", "en": "Geezer Odajion" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "楽団を率いるハット。首に賞金がかかっている。", "revealedBy": ["visions-v1"] },
+      { "text": "楽器に火を噴く仕掛けを隠している。", "revealedBy": ["visions-v1"] },
+      { "text": "賞金稼ぎに脅されても笑い飛ばした。", "revealedBy": ["visions-v1"] },
+      { "text": "[[jay]]を歌い手として迎え入れた。", "revealedBy": ["visions-v1"] }
+    ]
+  },
+  {
+    "id": "karre",
+    "type": "character",
+    "names": [
+      { "text": "カーレ", "reading": "かーれ", "en": "Karre" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "暗黒面の側に生まれ育った双子の兄。", "revealedBy": ["visions-v1"] },
+      { "text": "妹[[am]]と共に、兵器として育てられた。", "revealedBy": ["visions-v1"] },
+      { "text": "巨大な艦の力の源である結晶を奪い、逃げ出した。", "revealedBy": ["visions-v1"] },
+      { "text": "妹と宇宙で刃を交え、縛りから抜け出した。", "revealedBy": ["visions-v1"] }
+    ]
+  },
+  {
+    "id": "am",
+    "type": "character",
+    "names": [
+      { "text": "アム", "reading": "あむ", "en": "Am" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "暗黒面の側に生まれ育った双子の妹。", "revealedBy": ["visions-v1"] },
+      { "text": "巨大な艦を仕上げ、その力を振るう日を待っていた。", "revealedBy": ["visions-v1"] },
+      { "text": "裏切った兄[[karre]]を自ら追った。", "revealedBy": ["visions-v1"] },
+      { "text": "艦そのものを身にまとって戦った。", "revealedBy": ["visions-v1"] }
+    ]
+  },
+  {
+    "id": "f",
+    "type": "character",
+    "names": [
+      { "text": "F", "reading": "えふ", "en": "F" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "面で顔を隠して旅する、ジェダイの生き残り。", "revealedBy": ["visions-v1", "visions-v3"] },
+      { "text": "どこへ行くにも用心し、素性を隠している。", "revealedBy": ["visions-v1"] },
+      { "text": "森の星で、祝言の場に起きた騒ぎに巻き込まれた。", "revealedBy": ["visions-v1"] },
+      { "text": "村の若い二人を助けるために刃を抜いた。", "revealedBy": ["visions-v1"] },
+      { "text": "災害から逃げる人々を、素性を隠したまま助けた。", "revealedBy": ["visions-v3"] },
+      { "text": "難民船が帝国に止められ、過去と向き合うことになった。", "revealedBy": ["visions-v3"] }
+    ]
+  },
+  {
+    "id": "haru",
+    "type": "character",
+    "names": [
+      { "text": "ハル", "reading": "はる", "en": "Haru" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "森の星で祝言を挙げようとしていた娘。", "revealedBy": ["visions-v1"] },
+      { "text": "この星では、フォースを「マギナ」と呼ぶ。", "revealedBy": ["visions-v1"] },
+      { "text": "「我らは空であり、森であり、川である」と唱えた。", "revealedBy": ["visions-v1"] },
+      { "text": "両の親を亡くしており、土地と一つになったと信じている。", "revealedBy": ["visions-v1"] }
+    ]
+  },
+  {
+    "id": "t0-b1",
+    "type": "character",
+    "names": [
+      { "text": "T0-B1", "reading": "とぅーびーわん", "en": "T0-B1" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "ジェダイになることを夢見る、人の形のドロイドの子。", "revealedBy": ["visions-v1"] },
+      { "text": "[[professor-mitaka]]に造られ、子として育てられた。", "revealedBy": ["visions-v1"] },
+      { "text": "荒れた星を緑に変える仕事を手伝っていた。", "revealedBy": ["visions-v1"] },
+      { "text": "入るなと言われていた地下で、造り主の過去を知った。", "revealedBy": ["visions-v1"] }
+    ]
+  },
+  {
+    "id": "professor-mitaka",
+    "type": "character",
+    "names": [
+      { "text": "ミタカ教授", "reading": "みたかきょうじゅ", "en": "Professor Mitaka" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "[[t0-b1]]たちを造り、「子どもたち」と呼ぶ学者。", "revealedBy": ["visions-v1"] },
+      { "text": "荒れた星を住める土地に変えようとしていた。", "revealedBy": ["visions-v1"] },
+      { "text": "地下に近づくことを固く禁じていた。", "revealedBy": ["visions-v1"] },
+      { "text": "外の銀河は恐ろしく危ういと言って、子を家に留めた。", "revealedBy": ["visions-v1"] }
+    ]
+  },
+  {
+    "id": "tajin-crosser",
+    "type": "character",
+    "names": [
+      { "text": "タジン・クロッサー", "reading": "たじん・くろっさー", "en": "Tajin Crosser" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "争いを好まないジェダイ・マスター。", "revealedBy": ["visions-v1"] },
+      { "text": "弟子[[dan-gvash]]を連れて辺境を見回っていた。", "revealedBy": ["visions-v1"] },
+      { "text": "「災いの種は、穏やかな土では見落としやすい」と説いた。", "revealedBy": ["visions-v1"] },
+      { "text": "辺境の星に、昔のものと思われた気配を感じ取った。", "revealedBy": ["visions-v1"] }
+    ]
+  },
+  {
+    "id": "dan-gvash",
+    "type": "character",
+    "names": [
+      { "text": "ダン・グヴァッシュ", "reading": "だん・ぐばっしゅ", "en": "Dan Gvash" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "[[tajin-crosser]]の弟子。血気の盛んな若者。", "revealedBy": ["visions-v1"] },
+      { "text": "辺境の見回りばかりで手応えがないと不満を言った。", "revealedBy": ["visions-v1"] },
+      { "text": "師に「急ぎすぎる」とたしなめられた。", "revealedBy": ["visions-v1"] }
+    ]
+  },
+  {
+    "id": "lop",
+    "type": "character",
+    "names": [
+      { "text": "ロップ", "reading": "ろっぷ", "en": "Lop" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "長い耳を持つ娘。拾われて家の子となった。", "revealedBy": ["visions-v1"] },
+      { "text": "帝国に飲まれていく星で、独り生き延びていた。", "revealedBy": ["visions-v1"] },
+      { "text": "家に伝わる剣を受け継いだ。", "revealedBy": ["visions-v1"] },
+      { "text": "育ての父と[[ocho]]の対立の間に立たされた。", "revealedBy": ["visions-v1"] }
+    ]
+  },
+  {
+    "id": "ocho",
+    "type": "character",
+    "names": [
+      { "text": "オチョー", "reading": "おちょー", "en": "Ocho" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "家の長の娘。[[lop]]の姉にあたる。", "revealedBy": ["visions-v1"] },
+      { "text": "帝国に抗うかどうかで、父と真っ向から割れた。", "revealedBy": ["visions-v1"] },
+      { "text": "星の行く末のためだと言って、帝国の側に立った。", "revealedBy": ["visions-v1"] }
+    ]
+  },
+  {
+    "id": "tsubaki",
+    "type": "character",
+    "names": [
+      { "text": "ツバキ", "reading": "つばき", "en": "Tsubaki" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "青い刃を持つジェダイの騎士。", "revealedBy": ["visions-v1"] },
+      { "text": "[[princess-misa]]の身に起きたことを聞いて駆けつけた。", "revealedBy": ["visions-v1"] },
+      { "text": "頭を割るような幻に、たびたび襲われていた。", "revealedBy": ["visions-v1"] },
+      { "text": "姫を救うため、[[masago]]の誘いに手をかけた。", "revealedBy": ["visions-v1"] }
+    ]
+  },
+  {
+    "id": "princess-misa",
+    "type": "character",
+    "names": [
+      { "text": "ミサ姫", "reading": "みさひめ", "en": "Princess Misa" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "城を奪われた国の姫。弓を手に立ち上がった。", "revealedBy": ["visions-v1"] },
+      { "text": "父を[[masago]]に討たれた。", "revealedBy": ["visions-v1"] },
+      { "text": "[[tsubaki]]と共に、城を取り戻す旅に出た。", "revealedBy": ["visions-v1"] }
+    ]
+  },
+  {
+    "id": "masago",
+    "type": "character",
+    "names": [
+      { "text": "マサゴ", "reading": "まさご", "en": "Masago" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "王家に紛れ込んでいたシスの長。", "revealedBy": ["visions-v1"] },
+      { "text": "城を手中にし、姫の父を討った。", "revealedBy": ["visions-v1"] },
+      { "text": "死者を戻す術を餌に、[[tsubaki]]を誘った。", "revealedBy": ["visions-v1"] }
+    ]
   }
 ]

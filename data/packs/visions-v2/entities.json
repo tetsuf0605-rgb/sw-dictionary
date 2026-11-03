@@ -1,0 +1,145 @@
+[
+  {
+    "id": "lola",
+    "type": "character",
+    "names": [
+      { "text": "ロラ", "reading": "ろら", "en": "Lola" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "シスの弟子だった女。今は独りで絵を描いて暮らしている。", "revealedBy": ["visions-v2"] },
+      { "text": "片腕は作り物に替わっている。", "revealedBy": ["visions-v2"] },
+      { "text": "どれだけ明るい色を置いても、黒い滲みが浮き出てきてしまう。", "revealedBy": ["visions-v2"] },
+      { "text": "かつての師に居場所を突き止められた。", "revealedBy": ["visions-v2"] }
+    ]
+  },
+  {
+    "id": "daal",
+    "type": "character",
+    "names": [
+      { "text": "ダール", "reading": "だーる", "en": "Daal" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "工場に住み込みで働く娘。", "revealedBy": ["visions-v2"] },
+      { "text": "来る日も来る日も同じ仕事に、嫌気がさしていた。", "revealedBy": ["visions-v2"] },
+      { "text": "友と速度車を盗み、化け物が出るという洞へ向かった。", "revealedBy": ["visions-v2"] },
+      { "text": "洞で出会ったものに、その後の生き方を変えられた。", "revealedBy": ["visions-v2"] }
+    ]
+  },
+  {
+    "id": "koten",
+    "type": "character",
+    "names": [
+      { "text": "コテン", "reading": "こてん", "en": "Koten" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "荒らされた星に隠れて生きる姉。", "revealedBy": ["visions-v2"] },
+      { "text": "妹[[tichina]]に手出しをさせず、水を惜しんで暮らしていた。", "revealedBy": ["visions-v2"] },
+      { "text": "一族のただ二人の生き残りである。", "revealedBy": ["visions-v2"] },
+      { "text": "見つかったとき、ついに自分から戦う側に回った。", "revealedBy": ["visions-v2"] }
+    ]
+  },
+  {
+    "id": "tichina",
+    "type": "character",
+    "names": [
+      { "text": "ティチナ", "reading": "てぃちな", "en": "Tichina" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "星に残された幼い妹。フォースを使える。", "revealedBy": ["visions-v2"] },
+      { "text": "空を覆う雲の向こうの星を見たがっていた。", "revealedBy": ["visions-v2"] },
+      { "text": "亡き母の石に水を供え、岩の絵を動かしてみせた。", "revealedBy": ["visions-v2"] },
+      { "text": "姉[[koten]]の止めるのを振り切って、敵機に手を伸ばした。", "revealedBy": ["visions-v2"] }
+    ]
+  },
+  {
+    "id": "anni",
+    "type": "character",
+    "names": [
+      { "text": "アニー", "reading": "あにー", "en": "Anni" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "飛行学校で学ぶトワイレックの娘。", "revealedBy": ["visions-v2"] },
+      { "text": "世話焼きな母を、人前では気恥ずかしく思っている。", "revealedBy": ["visions-v2"] },
+      { "text": "家族で組む競走に、母と古い船で出ることになった。", "revealedBy": ["visions-v2"] },
+      { "text": "荒れた空と古い船に揉まれ、母との仲が試された。", "revealedBy": ["visions-v2"] }
+    ]
+  },
+  {
+    "id": "ara",
+    "type": "character",
+    "names": [
+      { "text": "アラ", "reading": "あら", "en": "Ara" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "石から先を読む術を学ぶ娘。機械にも強い。", "revealedBy": ["visions-v2"] },
+      { "text": "読み取った幻を、ジェダイに伝えるべきだと考えていた。", "revealedBy": ["visions-v2"] },
+      { "text": "まだ意志が足りず、読みが欠けると師に言われた。", "revealedBy": ["visions-v2"] },
+      { "text": "若いジェダイと組み、戦の流れを変える旅に出た。", "revealedBy": ["visions-v2"] }
+    ]
+  },
+  {
+    "id": "loie",
+    "type": "character",
+    "names": [
+      { "text": "ロイエ", "reading": "ろいえ", "en": "Loi'e" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "帝国の兵が集まる店の、看板の踊り手。", "revealedBy": ["visions-v2"] },
+      { "text": "舞いながら客の話を聞き取り、抗う側へ流していた。", "revealedBy": ["visions-v2"] },
+      { "text": "若い仲間を「まだ待て」と抑えていた。", "revealedBy": ["visions-v2"] },
+      { "text": "ある将校の顔を見て、過去と向き合うことになった。", "revealedBy": ["visions-v2"] }
+    ]
+  },
+  {
+    "id": "charuk",
+    "type": "character",
+    "names": [
+      { "text": "チャルク", "reading": "ちゃるく", "en": "Charuk" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "妹を連れて村を逃げ出した兄。", "revealedBy": ["visions-v2"] },
+      { "text": "帝国に焼かれた村に、父を残してきた。", "revealedBy": ["visions-v2"] },
+      { "text": "怯える妹[[rani]]に、言葉遊びをさせて気を紛らせた。", "revealedBy": ["visions-v2"] }
+    ]
+  },
+  {
+    "id": "rani",
+    "type": "character",
+    "names": [
+      { "text": "ラニ", "reading": "らに", "en": "Rani" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "[[charuk]]の妹。フォースを使える幼い娘。", "revealedBy": ["visions-v2"] },
+      { "text": "父の笛を大事に持ち歩いている。", "revealedBy": ["visions-v2"] },
+      { "text": "「抗わなければよかった」と言って、帝国の狙いを兄に尋ねた。", "revealedBy": ["visions-v2"] },
+      { "text": "逃げ込んだ店で、同じ力を持つ者たちに出会った。", "revealedBy": ["visions-v2"] }
+    ]
+  },
+  {
+    "id": "crux",
+    "type": "character",
+    "names": [
+      { "text": "クラックス", "reading": "くらっくす", "en": "Crux" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "結晶を掘らされていた囚人の若者。", "revealedBy": ["visions-v2"] },
+      { "text": "鞭打たれる仲間を見ても、黙って耐えるほかなかった。", "revealedBy": ["visions-v2"] },
+      { "text": "掘らされた穴は、やがて人を閉じ込める壁になった。", "revealedBy": ["visions-v2"] },
+      { "text": "仲間を連れて穴から出るために、危ない策を立てた。", "revealedBy": ["visions-v2"] }
+    ]
+  },
+  {
+    "id": "aau",
+    "type": "character",
+    "names": [
+      { "text": "アウ", "reading": "あう", "en": "Aau" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "歌うことを禁じられて育った、角を持つ娘。", "revealedBy": ["visions-v2"] },
+      { "text": "その声は、近くの坑の結晶を揺らしてしまう。", "revealedBy": ["visions-v2"] },
+      { "text": "父から、厳しく口をつぐむよう言われていた。", "revealedBy": ["visions-v2"] },
+      { "text": "この星の結晶は、かつて暗黒面に汚されて赤く濁っていた。", "revealedBy": ["visions-v2"] },
+      { "text": "それでも歌いたい気持ちを抑えきれなかった。", "revealedBy": ["visions-v2"] }
+    ]
+  }
+]

@@ -59,5 +59,82 @@
       { "text": "[[lah-kara]]を生け捕りにして、仲間を誘い出そうとした。", "revealedBy": ["visions-v3"] },
       { "text": "[[teto]]の船に乗り込み、脱出艇を取り逃がした。", "revealedBy": ["visions-v3"] }
     ]
+  },
+  {
+    "id": "grand-master",
+    "type": "character",
+    "names": [
+      { "text": "グランド・マスター", "reading": "ぐらんど・ますたー", "en": "The Grand Master" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "ジェダイを率いながら、仇討ちに取り憑かれた者。", "revealedBy": ["visions-v3"] },
+      { "text": "手下を各地に放ち、[[ronin]]の行方を探らせていた。", "revealedBy": ["visions-v3"] },
+      { "text": "居場所が割れると、自ら一人乗りの船で向かった。", "revealedBy": ["visions-v3"] }
+    ]
+  },
+  {
+    "id": "princess-crane",
+    "type": "character",
+    "names": [
+      { "text": "クレイン", "reading": "くれいん", "en": "Crane" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "姫の身分を捨てて、抗う側に加わった女。", "revealedBy": ["visions-v3"] },
+      { "text": "「姫と呼ぶな」と言って、偵察の役を買って出た。", "revealedBy": ["visions-v3"] },
+      { "text": "昔の暮らしの名残である小さなドロイドを連れている。", "revealedBy": ["visions-v3"] },
+      { "text": "雪の星で、追われる子を守って立った。", "revealedBy": ["visions-v3"] }
+    ]
+  },
+  {
+    "id": "sevn",
+    "type": "character",
+    "names": [
+      { "text": "セヴン", "reading": "せぶん", "en": "Sevn" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "どこにも属さない賞金稼ぎの女。", "revealedBy": ["visions-v3"] },
+      { "text": "顔の左に傷がある。幼い日に、剣を持つ者に家を焼かれた。", "revealedBy": ["visions-v3"] },
+      { "text": "相棒のドロイドに「暗殺の仕掛け」を入れてしまったことを悔いている。", "revealedBy": ["visions-v3"] },
+      { "text": "怪しい商人の仕事を請け、思わぬ結末を招いた。", "revealedBy": ["visions-v3"] }
+    ]
+  },
+  {
+    "id": "yuko",
+    "type": "character",
+    "names": [
+      { "text": "ユウコ", "reading": "ゆうこ", "en": "Yuko" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "親を失い、ドロイドに育てられている少年。", "revealedBy": ["visions-v3"] },
+      { "text": "熊の形をしたドロイドが、親の代わりに世話をしていた。", "revealedBy": ["visions-v3"] },
+      { "text": "そのドロイドを連れ去られ、街の子と組んで取り返しに行った。", "revealedBy": ["visions-v3"] },
+      { "text": "探す道の先に、長く失われていた宝があった。", "revealedBy": ["visions-v3"] }
+    ]
+  },
+  {
+    "id": "chita",
+    "type": "character",
+    "names": [
+      { "text": "チータ", "reading": "ちーた", "en": "Chita" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "桃色の髪をした密輸屋。", "revealedBy": ["visions-v3"] },
+      { "text": "船の代金を払えず、自分の船を押さえられていた。", "revealedBy": ["visions-v3"] },
+      { "text": "金に詰まり、帝国から逃げる者を助け出す仕事を請けた。", "revealedBy": ["visions-v3"] },
+      { "text": "その相手は、滅ぼされた王家にただ一人残った者だった。", "revealedBy": ["visions-v3"] }
+    ]
+  },
+  {
+    "id": "nakime",
+    "type": "character",
+    "names": [
+      { "text": "ナキメ", "reading": "なきめ", "en": "Nakime" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "気の短いジェダイの弟子。", "revealedBy": ["visions-v3"] },
+      { "text": "シスとの戦いで両の目を焼かれ、谷底へ落ちた。", "revealedBy": ["visions-v3"] },
+      { "text": "見えないまま、幾日もの試しを一人で越えていった。", "revealedBy": ["visions-v3"] },
+      { "text": "暗黒面の誘いを退けることが、その試しだった。", "revealedBy": ["visions-v3"] }
+    ]
   }
 ]
