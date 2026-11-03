@@ -6,7 +6,7 @@
       { "text": "アソーカ・タノ", "reading": "あそーか・たの", "en": "Ahsoka Tano" }
     ],
     "facts": [
-      { "kind": "summary", "text": "[[yoda]]の計らいで[[anakin-skywalker]]の弟子となった少女。頭から伸びる角と長い飾りを持つ。", "revealedBy": ["tcw-film", "tcw-s1", "tcw-s2", "tcw-s3", "tcw-s4", "tcw-s5", "rebels-s2"] },
+      { "kind": "summary", "text": "[[yoda]]の計らいで[[anakin-skywalker]]の弟子となった少女。頭から伸びる角と長い飾りを持つ。", "revealedBy": ["tcw-film", "tcw-s1", "tcw-s2", "tcw-s3", "tcw-s4", "tcw-s5", "rebels-s2", "tales-jedi"] },
       { "text": "物おじせずに言い返す性分で、師と言い合うことが多かった。", "revealedBy": ["tcw-film"] },
       { "text": "[[lightsaber]]を逆手に持って戦う。", "revealedBy": ["tcw-film"] },
       { "text": "[[teth]]での救出に同行し、[[jabba-the-hutt]]の息子を背負って運んだ。", "revealedBy": ["tcw-film"] },

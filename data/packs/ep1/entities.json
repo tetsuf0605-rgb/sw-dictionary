@@ -96,7 +96,7 @@
       { "text": "メイス・ウィンドゥ", "reading": "めいす・うぃんどぅ", "en": "Mace Windu" }
     ],
     "facts": [
-      { "kind": "summary", "text": "[[jedi-council]]の中心にいるジェダイ・マスター。", "revealedBy": ["ep1", "tcw-s2"] },
+      { "kind": "summary", "text": "[[jedi-council]]の中心にいるジェダイ・マスター。", "revealedBy": ["ep1", "ep2", "tales-jedi"] },
       { "text": "[[yoda]]と共に[[anakin-skywalker]]を見極め、訓練を認めなかった。", "revealedBy": ["ep1"] }
     ]
   },
@@ -221,7 +221,7 @@
       { "text": "ジェダイ評議会", "reading": "じぇだいひょうぎかい", "en": "Jedi Council" }
     ],
     "facts": [
-      { "kind": "summary", "text": "[[coruscant]]の塔に集う、[[jedi|ジェダイ]]の長老たちの会議。", "revealedBy": ["ep1", "ep2", "tcw-s5", "ep3", "tcw-s6"] },
+      { "kind": "summary", "text": "[[coruscant]]の塔に集う、[[jedi|ジェダイ]]の長老たちの会議。", "revealedBy": ["ep1", "ep2", "tcw-s5", "ep3", "tcw-s6", "tales-jedi"] },
       { "text": "[[anakin-skywalker]]の内に恐れを見て取り、訓練を認めなかった。", "revealedBy": ["ep1"] },
       { "text": "[[qui-gon-jinn]]の死後、[[obi-wan-kenobi]]がアナキンを教えることを許した。", "revealedBy": ["ep1"] }
     ]

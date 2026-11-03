@@ -1,0 +1,151 @@
+[
+  {
+    "id": "yaddle",
+    "type": "character",
+    "names": [
+      { "text": "ヤドル", "reading": "やどる", "en": "Yaddle" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "[[yoda]]と同じ種族の、小柄なジェダイ・マスター。", "revealedBy": ["tales-jedi"] },
+      { "text": "[[jedi-council]]に席を持っていた。", "revealedBy": ["tales-jedi"] },
+      { "text": "[[count-dooku]]の変わりように気づき、独りで問いただしに行った。", "revealedBy": ["tales-jedi"] },
+      { "text": "引き返す道はまだあると説いたが、その手にかけられた。", "revealedBy": ["tales-jedi"] }
+    ]
+  },
+  {
+    "id": "shili",
+    "type": "place",
+    "names": [
+      { "text": "シャイリ", "reading": "しゃいり", "en": "Shili" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "背の高い草が一面に広がる星。[[ahsoka-tano]]の故郷。", "revealedBy": ["tales-jedi"] },
+      { "text": "村の者たちは、草むらに潜む獣を恐れて暮らしていた。", "revealedBy": ["tales-jedi"] }
+    ]
+  },
+  {
+    "id": "pav-ti",
+    "type": "character",
+    "names": [
+      { "text": "パヴ＝ティ", "reading": "ぱばてぃ", "en": "Pav-ti" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "[[ahsoka-tano]]の母。", "revealedBy": ["tales-jedi"] },
+      { "text": "村の狩りを率いていた。", "revealedBy": ["tales-jedi"] },
+      { "text": "幼い娘が獣の心に触れるのを見て、その力に気づいた。", "revealedBy": ["tales-jedi"] }
+    ]
+  },
+
+  {
+    "id": "count-dooku",
+    "facts": [
+      { "text": "かつては[[jedi|ジェダイ]]として、[[qui-gon-jinn]]を弟子に取っていた。", "revealedBy": ["tales-jedi"] },
+      { "text": "力のない者が虐げられるのを見て、[[galactic-senate]]のありように苛立っていた。", "revealedBy": ["tales-jedi"] },
+      { "text": "騎士団が元老院に従うばかりであることに、失望を深めていった。", "revealedBy": ["tales-jedi"] },
+      { "text": "友であったジェダイの死をきっかけに、心が離れた。", "revealedBy": ["tales-jedi"] },
+      { "text": "正そうとして人を手にかけ、後戻りできなくなった。", "revealedBy": ["tales-jedi"] },
+      { "text": "問いただしに来た[[yaddle]]を討った。", "revealedBy": ["tales-jedi"] },
+      { "text": "[[darth-sidious]]の弟子となった。", "revealedBy": ["tales-jedi"] }
+    ]
+  },
+  {
+    "id": "qui-gon-jinn",
+    "facts": [
+      { "text": "[[count-dooku]]の弟子だった。", "revealedBy": ["tales-jedi"] },
+      { "text": "力のない者の側に立つことを、師から学んだ。", "revealedBy": ["tales-jedi"] },
+      { "text": "師の変わりように気づきながら、確かめきれなかった。", "revealedBy": ["tales-jedi"] }
+    ]
+  },
+  {
+    "id": "ahsoka-tano",
+    "facts": [
+      { "text": "[[shili]]の村で生まれた。", "revealedBy": ["tales-jedi"] },
+      { "text": "生まれた日、村を襲う獣の気配を言い当てた。", "revealedBy": ["tales-jedi"] },
+      { "text": "母[[pav-ti]]との狩りで、生き物の心に触れる力を見せた。", "revealedBy": ["tales-jedi"] },
+      { "text": "[[anakin-skywalker]]の不意打ちの訓練に鍛えられた。", "revealedBy": ["tales-jedi"] },
+      { "text": "[[order-66]]のあと、名を伏せて辺境の村で畑を耕していた。", "revealedBy": ["tales-jedi"] },
+      { "text": "[[bail-organa]]に見つけ出され、抗う側へ戻った。", "revealedBy": ["tales-jedi"] }
+    ]
+  },
+  {
+    "id": "anakin-skywalker",
+    "facts": [
+      { "text": "弟子を不意打ちで鍛え、[[captain-rex]]たちにも手伝わせた。", "revealedBy": ["tales-jedi"] },
+      { "text": "その厳しいやり方が、のちに弟子の命を救った。", "revealedBy": ["tales-jedi"] }
+    ]
+  },
+  {
+    "id": "bail-organa",
+    "facts": [
+      { "text": "身を隠していた[[ahsoka-tano]]を見つけ出した。", "revealedBy": ["tales-jedi"] },
+      { "text": "抗うには仲間が要ると説いた。", "revealedBy": ["tales-jedi"] }
+    ]
+  },
+  {
+    "id": "darth-sidious",
+    "facts": [
+      { "text": "騎士団を離れた[[count-dooku]]を迎え入れた。", "revealedBy": ["tales-jedi"] }
+    ]
+  },
+  {
+    "id": "mace-windu",
+    "facts": [
+      { "text": "[[count-dooku]]と共に、友であるジェダイの死を悼んだ。", "revealedBy": ["tales-jedi"] },
+      { "text": "騎士団のやり方を疑う言葉を、受け流した。", "revealedBy": ["tales-jedi"] }
+    ]
+  },
+  {
+    "id": "yoda",
+    "facts": [
+      { "text": "若いころの[[count-dooku]]を知っていた。", "revealedBy": ["tales-jedi"] }
+    ]
+  },
+  {
+    "id": "captain-rex",
+    "facts": [
+      { "text": "将の思いつきの訓練に付き合わされた。", "revealedBy": ["tales-jedi"] }
+    ]
+  },
+  {
+    "id": "jedi-council",
+    "facts": [
+      { "text": "[[yaddle]]も席を持っていた。", "revealedBy": ["tales-jedi"] }
+    ]
+  },
+  {
+    "id": "coruscant",
+    "facts": [
+      { "text": "[[jedi|ジェダイ]]の神殿と[[galactic-senate]]の議場が、同じ街に並び立っていた。", "revealedBy": ["tales-jedi"] }
+    ]
+  },
+  {
+    "id": "jedi",
+    "facts": [
+      { "text": "元老院に従うばかりで、民の苦しみに目を向けていないという声が内からも出ていた。", "revealedBy": ["tales-jedi"] }
+    ]
+  },
+  {
+    "id": "galactic-senate",
+    "facts": [
+      { "text": "議員の腐敗が見過ごされ、力のない者が泣き寝入りしていた。", "revealedBy": ["tales-jedi"] }
+    ]
+  },
+  {
+    "id": "order-66",
+    "facts": [
+      { "text": "生き延びた者は名を伏せ、辺境で静かに暮らすほかなかった。", "revealedBy": ["tales-jedi"] }
+    ]
+  },
+  {
+    "id": "clone-trooper",
+    "facts": [
+      { "text": "将や弟子の訓練に付き合わされることもあった。", "revealedBy": ["tales-jedi"] }
+    ]
+  },
+  {
+    "id": "the-force",
+    "facts": [
+      { "text": "幼い子にも宿り、生き物の心に触れさせることがある。", "revealedBy": ["tales-jedi"] }
+    ]
+  }
+]
