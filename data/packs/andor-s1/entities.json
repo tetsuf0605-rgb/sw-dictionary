@@ -100,7 +100,7 @@
       { "text": "ビックス・カリーン", "reading": "びっくす・かりーん", "en": "Bix Caleen" }
     ],
     "facts": [
-      { "kind": "summary", "text": "[[ferrix]]で部品の商いをする女。[[cassian-andor]]の旧友。", "revealedBy": ["andor-s1"] },
+      { "kind": "summary", "text": "[[ferrix|フェリックス]]で部品の商いをする女。[[cassian-andor|キャシアン・アンドー]]の旧友。", "revealedBy": ["andor-s1", "andor-s2"] },
       { "text": "彼を[[luthen-rael]]につないだ。", "revealedBy": ["andor-s1"] },
       { "text": "捕らえられ、[[isb]]にひどい尋問を受けた。", "revealedBy": ["andor-s1"] }
     ]

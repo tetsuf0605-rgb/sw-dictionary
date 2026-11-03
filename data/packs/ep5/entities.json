@@ -6,7 +6,8 @@
       { "text": "ヨーダ", "reading": "よーだ", "en": "Yoda" }
     ],
     "facts": [
-      { "kind": "summary", "text": "[[dagobah]]の沼地にひっそりと暮らす、小柄で高齢のジェダイ・マスター。", "revealedBy": ["ep5"] },
+      { "kind": "summary", "text": "小柄で高齢のジェダイ・マスター。言葉の順を入れ替えて話す。", "revealedBy": ["ep5", "ep6", "ep1", "ep2", "ep3", "tcw-film", "tcw-s1", "tcw-s2", "tcw-s3", "tcw-s4", "tcw-s5", "tcw-s6", "rebels-s2", "ep8", "tales-jedi", "young-jedi"] },
+      { "text": "[[dagobah]]の沼地に、ひっそりと暮らしていた。", "revealedBy": ["ep5"] },
       { "text": "800年にわたりジェダイを教えてきたと語り、[[luke-skywalker]]を弟子にとった。", "revealedBy": ["ep5"] },
       { "text": "[[the-force]]は肉体の大きさとは関係なく、信じる心によって引き出せるとルークに教えた。", "revealedBy": ["ep5"] }
     ]
@@ -18,7 +19,7 @@
       { "text": "ランド・カルリジアン", "reading": "らんど・かるりじあん", "en": "Lando Calrissian" }
     ],
     "facts": [
-      { "kind": "summary", "text": "[[cloud-city]]の統治者で、[[han-solo]]の古い友人。かつて[[millennium-falcon]]の持ち主だった。", "revealedBy": ["ep5"] },
+      { "kind": "summary", "text": "[[cloud-city|クラウド・シティ]]の統治者で、[[han-solo|ハン・ソロ]]の古い友人。かつて[[millennium-falcon|ミレニアム・ファルコン]]の持ち主だった。", "revealedBy": ["ep5", "ep6", "ep9"] },
       { "text": "帝国に脅されてハンたちを引き渡したが、のちに離反して[[leia-organa]]たちの脱出を助けた。", "revealedBy": ["ep5"] }
     ]
   },
@@ -40,7 +41,7 @@
       { "text": "ダゴバ", "reading": "だごば", "en": "Dagobah" }
     ],
     "facts": [
-      { "kind": "summary", "text": "霧と沼に覆われた辺境の惑星。[[yoda]]が隠れ住んでいた。", "revealedBy": ["ep5"] }
+      { "kind": "summary", "text": "霧と沼に覆われた辺境の惑星。[[yoda]]が隠れ住んでいた。", "revealedBy": ["ep5", "ep6"] }
     ]
   },
   {

@@ -6,7 +6,7 @@
       { "text": "クワイ＝ガン・ジン", "reading": "くわいがん・じん", "en": "Qui-Gon Jinn" }
     ],
     "facts": [
-      { "kind": "summary", "text": "[[obi-wan-kenobi]]を弟子に持つジェダイ・マスター。[[jedi-council]]の方針にしばしば異を唱えた。", "revealedBy": ["ep1", "tcw-s6"] },
+      { "kind": "summary", "text": "[[obi-wan-kenobi|オビ＝ワン・ケノービ]]を弟子に持つジェダイ・マスター。[[jedi-council|ジェダイ評議会]]の方針にしばしば異を唱えた。", "revealedBy": ["ep1", "tcw-s6", "obi-wan", "tales-jedi"] },
       { "text": "[[tatooine]]で[[anakin-skywalker]]と出会い、[[the-chosen-one]]だと考えて訓練を望んだ。", "revealedBy": ["ep1"] },
       { "text": "[[naboo]]で[[darth-maul]]と剣を交え、討たれた。", "revealedBy": ["ep1"] },
       { "text": "死の間際、オビ＝ワンにアナキンを導くよう託した。", "revealedBy": ["ep1"] }
@@ -20,7 +20,7 @@
       { "text": "アミダラ女王", "reading": "あみだらじょおう", "en": "Queen Amidala", "revealedBy": ["ep1"], "kind": "title" }
     ],
     "facts": [
-      { "kind": "summary", "text": "[[naboo]]の若き女王。白塗りの化粧と儀礼服で人前に立つ。", "revealedBy": ["ep1"] },
+      { "kind": "summary", "text": "[[naboo]]の若き女王。白塗りの化粧と儀礼服で人前に立つ。", "revealedBy": ["ep1", "ep2", "ep3"] },
       { "text": "侍女のふりをして身の回りに紛れ、素顔で行動することがあった。", "revealedBy": ["ep1"] },
       { "text": "[[trade-federation]]による封鎖を訴えるため[[coruscant]]へ渡り、[[galactic-senate]]に窮状を訴えた。", "revealedBy": ["ep1"] },
       { "text": "元老院が動かないと見るや故郷へ戻り、[[gungan|ガンガン]]と手を結んで反撃に出た。", "revealedBy": ["ep1"] }
@@ -33,7 +33,7 @@
       { "text": "ダース・モール", "reading": "だーす・もーる", "en": "Darth Maul" }
     ],
     "facts": [
-      { "kind": "summary", "text": "赤と黒の入れ墨と角を持つ[[sith|シス]]の戦士。[[darth-sidious]]の弟子。", "revealedBy": ["ep1", "maul-shadow-lord"] },
+      { "kind": "summary", "text": "赤と黒の入れ墨と角を持つ[[sith|シス]]の戦士。[[darth-sidious]]の弟子。", "revealedBy": ["ep1", "maul-shadow-lord", "tcw-s5"] },
       { "text": "両端から刃が出る[[lightsaber]]を使う。", "revealedBy": ["ep1"] },
       { "text": "[[tatooine]]で[[qui-gon-jinn]]たちを襲い、のちに[[naboo]]で再び立ちはだかった。", "revealedBy": ["ep1"] },
       { "text": "クワイ＝ガンを討ったが、[[obi-wan-kenobi]]に斬られて深い縦穴へ落ちていった。", "revealedBy": ["ep1"] }
@@ -46,7 +46,7 @@
       { "text": "ダース・シディアス", "reading": "だーす・しでぃあす", "en": "Darth Sidious" }
     ],
     "facts": [
-      { "kind": "summary", "text": "フードを深くかぶり、通信越しにしか姿を見せない[[sith|シス]]の長。", "revealedBy": ["ep1", "ep3"] },
+      { "kind": "summary", "text": "フードを深くかぶり、通信越しにしか姿を見せない[[sith|シス]]の長。", "revealedBy": ["ep1", "ep3", "ep2", "tcw-s3", "tcw-s5", "tcw-s6", "tales-jedi"] },
       { "text": "[[trade-federation]]に[[naboo]]の封鎖と侵攻を指示した。", "revealedBy": ["ep1"] },
       { "text": "[[darth-maul]]を弟子として従えている。", "revealedBy": ["ep1"] }
     ]
@@ -58,7 +58,7 @@
       { "text": "パルパティーン", "reading": "ぱるぱてぃーん", "en": "Palpatine" }
     ],
     "facts": [
-      { "kind": "summary", "text": "[[naboo]]選出の元老院議員。物腰の柔らかい政治家として[[padme-amidala]]に助言した。", "revealedBy": ["ep1", "ep3"] },
+      { "kind": "summary", "text": "[[naboo]]選出の元老院議員。物腰の柔らかい政治家として[[padme-amidala]]に助言した。", "revealedBy": ["ep1", "ep3", "ep2"] },
       { "text": "[[galactic-senate]]の停滞を突いて最高議長の不信任を促し、自らその座に就いた。", "revealedBy": ["ep1"] }
     ],
     "sameAs": [
@@ -73,7 +73,7 @@
       { "text": "ジャー・ジャー・ビンクス", "reading": "じゃーじゃー・びんくす", "en": "Jar Jar Binks" }
     ],
     "facts": [
-      { "kind": "summary", "text": "[[otoh-gunga]]を追放されていた[[gungan|ガンガン]]。独特な話し方をする。", "revealedBy": ["ep1"] },
+      { "kind": "summary", "text": "[[otoh-gunga|オタ・ガンガ]]を追放されていた[[gungan|ガンガン]]。独特な話し方をする。", "revealedBy": ["ep1", "ep2", "tcw-s1"] },
       { "text": "[[qui-gon-jinn]]に助けられ、一行の道案内として同行した。", "revealedBy": ["ep1"] },
       { "text": "[[battle-of-naboo]]では、ガンガンの軍に加わって地上戦に出た。", "revealedBy": ["ep1"] }
     ]
@@ -85,7 +85,7 @@
       { "text": "シミ・スカイウォーカー", "reading": "しみ・すかいうぉーかー", "en": "Shmi Skywalker" }
     ],
     "facts": [
-      { "kind": "summary", "text": "[[anakin-skywalker]]の母。[[mos-espa]]で息子と共に[[watto]]に仕えていた。", "revealedBy": ["ep1"] },
+      { "kind": "summary", "text": "[[anakin-skywalker]]の母。[[mos-espa]]で息子と共に[[watto]]に仕えていた。", "revealedBy": ["ep1", "ep2"] },
       { "text": "息子だけが自由になり、自身は[[tatooine]]に残った。", "revealedBy": ["ep1"] }
     ]
   },
@@ -96,7 +96,7 @@
       { "text": "メイス・ウィンドゥ", "reading": "めいす・うぃんどぅ", "en": "Mace Windu" }
     ],
     "facts": [
-      { "kind": "summary", "text": "[[jedi-council]]の中心にいるジェダイ・マスター。", "revealedBy": ["ep1", "ep2", "tales-jedi"] },
+      { "kind": "summary", "text": "[[jedi-council]]の中心にいるジェダイ・マスター。", "revealedBy": ["ep1", "ep2", "tales-jedi", "ep3", "tcw-s2"] },
       { "text": "[[yoda]]と共に[[anakin-skywalker]]を見極め、訓練を認めなかった。", "revealedBy": ["ep1"] }
     ]
   },
@@ -107,7 +107,7 @@
       { "text": "ワトー", "reading": "わとー", "en": "Watto" }
     ],
     "facts": [
-      { "kind": "summary", "text": "[[mos-espa]]で部品屋を営む、羽で飛ぶ商人。", "revealedBy": ["ep1"] },
+      { "kind": "summary", "text": "[[mos-espa]]で部品屋を営む、羽で飛ぶ商人。", "revealedBy": ["ep1", "ep2"] },
       { "text": "[[anakin-skywalker]]と[[shmi-skywalker]]を所有しており、賭けに負けて少年を手放した。", "revealedBy": ["ep1"] }
     ]
   },
@@ -130,7 +130,7 @@
       { "text": "ナブー", "reading": "なぶー", "en": "Naboo" }
     ],
     "facts": [
-      { "kind": "summary", "text": "湖と草原に恵まれた緑の惑星。地上に人間が、水中に[[gungan|ガンガン]]が暮らす。", "revealedBy": ["ep1"] },
+      { "kind": "summary", "text": "湖と草原に恵まれた緑の惑星。地上に人間が、水中に[[gungan|ガンガン]]が暮らす。", "revealedBy": ["ep1", "ep2", "ep3", "tcw-s4"] },
       { "text": "[[trade-federation]]に封鎖されたうえ、軍を送り込まれて占領された。", "revealedBy": ["ep1"] },
       { "text": "[[battle-of-naboo]]の舞台になった。", "revealedBy": ["ep1"] }
     ]
@@ -153,7 +153,9 @@
       { "text": "オタ・ガンガ", "reading": "おた・がんが", "en": "Otoh Gunga" }
     ],
     "facts": [
-      { "kind": "summary", "text": "[[naboo]]の湖の底にある[[gungan|ガンガン]]の都市。泡のような建物が連なる。", "revealedBy": ["ep1"] }
+      { "kind": "summary", "text": "[[naboo]]の湖の底にある[[gungan|ガンガン]]の都市。泡のような建物が連なる。", "revealedBy": ["ep1"] },
+      { "text": "[[jar-jar-binks]]は、ここを追放されていた。", "revealedBy": ["ep1"] },
+      { "text": "水をはじく力の場で囲まれており、中では息ができる。", "revealedBy": ["ep1"] }
     ]
   },
   {
@@ -174,7 +176,7 @@
       { "text": "銀河共和国", "reading": "ぎんがきょうわこく", "en": "Galactic Republic" }
     ],
     "facts": [
-      { "kind": "summary", "text": "多くの星系が加わる銀河の統治体。[[coruscant]]を中心とする。", "revealedBy": ["ep1", "ep2", "tcw-film", "tcw-s1", "tcw-s2", "tcw-s3", "tcw-s4", "tcw-s5", "ep3"] },
+      { "kind": "summary", "text": "多くの星系が加わる銀河の統治体。[[coruscant]]を中心とする。", "revealedBy": ["ep1", "ep2", "tcw-film", "tcw-s1", "tcw-s2", "tcw-s3", "tcw-s4", "tcw-s5", "ep3", "tcw-s6", "tcw-s7"] },
       { "text": "手続きと駆け引きに追われ、[[naboo]]の危機にすぐ動けなかった。", "revealedBy": ["ep1"] },
       { "text": "[[jedi|ジェダイ]]は共和国の求めに応じて調停役を務めていた。", "revealedBy": ["ep1"] }
     ]
@@ -209,7 +211,7 @@
       { "text": "シス", "reading": "しす", "en": "Sith" }
     ],
     "facts": [
-      { "kind": "summary", "text": "[[the-force]]のダークサイドを使う一派。千年ものあいだ絶えたと思われていた。", "revealedBy": ["ep1", "ep3"] },
+      { "kind": "summary", "text": "[[the-force]]のダークサイドを使う一派。千年ものあいだ絶えたと思われていた。", "revealedBy": ["ep1", "ep3", "tcw-s6", "rebels-s2", "ep9", "acolyte"] },
       { "text": "[[yoda]]によれば、常に二人だけが存在する。師と、弟子である。", "revealedBy": ["ep1"] },
       { "text": "[[darth-maul]]の出現によって、[[jedi-council]]は生き残りがいると知った。", "revealedBy": ["ep1"] }
     ]
@@ -221,7 +223,7 @@
       { "text": "ジェダイ評議会", "reading": "じぇだいひょうぎかい", "en": "Jedi Council" }
     ],
     "facts": [
-      { "kind": "summary", "text": "[[coruscant]]の塔に集う、[[jedi|ジェダイ]]の長老たちの会議。", "revealedBy": ["ep1", "ep2", "tcw-s5", "ep3", "tcw-s6", "tales-jedi"] },
+      { "kind": "summary", "text": "[[coruscant]]の塔に集う、[[jedi|ジェダイ]]の長老たちの会議。", "revealedBy": ["ep1", "ep2", "tcw-s5", "ep3", "tcw-s6", "tales-jedi", "tcw-s2"] },
       { "text": "[[anakin-skywalker]]の内に恐れを見て取り、訓練を認めなかった。", "revealedBy": ["ep1"] },
       { "text": "[[qui-gon-jinn]]の死後、[[obi-wan-kenobi]]がアナキンを教えることを許した。", "revealedBy": ["ep1"] }
     ]
@@ -258,7 +260,7 @@
       { "text": "バトル・ドロイド", "reading": "ばとる・どろいど", "en": "Battle Droid" }
     ],
     "facts": [
-      { "kind": "summary", "text": "[[trade-federation]]が大量に投入した、細身の人型戦闘ドロイド。", "revealedBy": ["ep1", "ep2"] },
+      { "kind": "summary", "text": "[[trade-federation|通商連合]]が大量に投入した、細身の人型戦闘ドロイド。", "revealedBy": ["ep1", "ep2", "ep3", "tcw-s5", "tales-underworld"] },
       { "text": "軌道上の指令船から統制されており、そこを断たれると一斉に止まった。", "revealedBy": ["ep1"] }
     ]
   },
@@ -281,7 +283,7 @@
       { "text": "選ばれし者", "reading": "えらばれしもの", "en": "the Chosen One" }
     ],
     "facts": [
-      { "kind": "summary", "text": "[[the-force]]に均衡をもたらすと古い予言に語られる存在。", "revealedBy": ["ep1"] },
+      { "kind": "summary", "text": "[[the-force]]に均衡をもたらすと古い予言に語られる存在。", "revealedBy": ["ep1", "ep3", "tcw-s3"] },
       { "text": "[[qui-gon-jinn]]は[[anakin-skywalker]]がそれだと信じたが、[[jedi-council]]は慎重だった。", "revealedBy": ["ep1"] }
     ]
   },

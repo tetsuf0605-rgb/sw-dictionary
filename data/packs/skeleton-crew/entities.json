@@ -43,6 +43,7 @@
     ],
     "facts": [
       { "kind": "summary", "text": "鼻の長い、気の優しい少年。", "revealedBy": ["skeleton-crew"] },
+      { "text": "[[wim]]たちと共に、船で星の外へ出てしまった。", "revealedBy": ["skeleton-crew"] },
       { "text": "怖がりだが、肝心なところで仲間を助ける。", "revealedBy": ["skeleton-crew"] },
       { "text": "家族を大事にしている。", "revealedBy": ["skeleton-crew"] }
     ]
@@ -82,6 +83,7 @@
     ],
     "facts": [
       { "kind": "summary", "text": "船を一人で切り回す古いドロイド。", "revealedBy": ["skeleton-crew"] },
+      { "text": "[[wim]]たち子どもを、新しい船長として扱った。", "revealedBy": ["skeleton-crew"] },
       { "text": "海賊に仕えていたころの記憶を持つ。", "revealedBy": ["skeleton-crew"] },
       { "text": "そのときの船長の言うことを聞く。", "revealedBy": ["skeleton-crew"] }
     ]

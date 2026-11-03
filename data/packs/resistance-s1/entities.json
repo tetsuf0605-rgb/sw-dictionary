@@ -47,6 +47,7 @@
     ],
     "facts": [
       { "kind": "summary", "text": "言葉を額面どおりに受け取る整備士。", "revealedBy": ["resistance-s1", "resistance-s2"] },
+      { "text": "[[jarek-yeager]]の店で働いている。", "revealedBy": ["resistance-s1"] },
       { "text": "機械の扱いに長けている。", "revealedBy": ["resistance-s1"] },
       { "text": "悪気なく、秘密を漏らしてしまうことがある。", "revealedBy": ["resistance-s1"] }
     ]

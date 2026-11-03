@@ -6,7 +6,7 @@
       { "text": "皇帝", "reading": "こうてい", "en": "the Emperor" }
     ],
     "facts": [
-      { "kind": "summary", "text": "[[galactic-empire]]の頂点に立つ老いた支配者。[[the-force]]のダークサイドを深く操る。", "revealedBy": ["ep6"] },
+      { "kind": "summary", "text": "[[galactic-empire]]の頂点に立つ老いた支配者。[[the-force]]のダークサイドを深く操る。", "revealedBy": ["ep6", "ep3", "bad-batch-s3"] },
       { "text": "[[darth-vader]]を従え、[[luke-skywalker]]を自分の弟子にしようとした。", "revealedBy": ["ep6"] },
       { "text": "反乱軍をおびき寄せるため、建造中の[[death-star-2]]に自ら乗り込んで待ち構えた。", "revealedBy": ["ep6"] },
       { "text": "ルークを怒らせてダークサイドへ堕とそうとし、拒まれると稲妻のような力で痛めつけた。", "revealedBy": ["ep6"] },
@@ -20,7 +20,7 @@
       { "text": "ジャバ・ザ・ハット", "reading": "じゃば・ざ・はっと", "en": "Jabba the Hutt" }
     ],
     "facts": [
-      { "kind": "summary", "text": "[[tatooine]]を拠点に裏の商売を仕切る[[hutt|ハット]]の親玉。", "revealedBy": ["ep6", "tcw-film"] },
+      { "kind": "summary", "text": "[[tatooine|タトゥイーン]]を拠点に裏の商売を仕切る[[hutt|ハット]]の親玉。", "revealedBy": ["ep6", "tcw-film", "tcw-s2"] },
       { "text": "カーボン凍結された[[han-solo]]を[[jabbas-palace|宮殿]]の壁に飾り、見せ物にしていた。", "revealedBy": ["ep6"] },
       { "text": "助けに来た[[luke-skywalker]]たちを[[sarlacc]]に落として処刑しようとした。", "revealedBy": ["ep6"] },
       { "text": "そばに鎖でつないでいた[[leia-organa]]に、その鎖で絞め殺された。", "revealedBy": ["ep6"] }
@@ -67,7 +67,7 @@
       { "text": "ジャバの宮殿", "reading": "じゃばのきゅうでん", "en": "Jabba's Palace" }
     ],
     "facts": [
-      { "kind": "summary", "text": "[[tatooine]]の砂漠に建つ[[jabba-the-hutt]]の砦。", "revealedBy": ["ep6", "tcw-film"] },
+      { "kind": "summary", "text": "[[tatooine|タトゥイーン]]の砂漠に建つ[[jabba-the-hutt|ジャバ・ザ・ハット]]の砦。", "revealedBy": ["ep6", "tcw-film", "boba-fett"] },
       { "text": "[[han-solo]]を救い出すため、[[luke-skywalker]]の仲間たちが一人ずつ忍び込んだ。", "revealedBy": ["ep6"] }
     ]
   },
@@ -101,7 +101,9 @@
       { "text": "サルラック", "reading": "さるらっく", "en": "Sarlacc" }
     ],
     "facts": [
-      { "kind": "summary", "text": "[[tatooine]]の砂漠にあいた大穴にひそむ巨大な生き物。", "revealedBy": ["ep6"] }
+      { "kind": "summary", "text": "[[tatooine]]の砂漠にあいた大穴にひそむ巨大な生き物。", "revealedBy": ["ep6"] },
+      { "text": "[[jabba-the-hutt]]は、逆らった者をここへ落とした。", "revealedBy": ["ep6"] },
+      { "text": "落ちた者は、長いあいだ生きたまま消えていくという。", "revealedBy": ["ep6"] }
     ]
   },
 

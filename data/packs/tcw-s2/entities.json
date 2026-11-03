@@ -6,7 +6,7 @@
       { "text": "キャド・ベイン", "reading": "きゃど・べいん", "en": "Cad Bane" }
     ],
     "facts": [
-      { "kind": "summary", "text": "つば広の帽子をかぶった青い肌の賞金稼ぎ。金のためなら何でも請け負う。", "revealedBy": ["tcw-s1", "tcw-s2", "boba-fett"] },
+      { "kind": "summary", "text": "つば広の帽子をかぶった青い肌の賞金稼ぎ。金のためなら何でも請け負う。", "revealedBy": ["tcw-s1", "tcw-s2", "boba-fett", "tcw-s4"] },
       { "text": "二丁の銃を素早く抜き、腕ずくの仕事も厭わない。", "revealedBy": ["tcw-s1", "tcw-s2"] },
       { "text": "[[galactic-senate]]の議場に乗り込んで議員を人質に取り、[[ziro-the-hutt]]を牢から出させた。", "revealedBy": ["tcw-s1"] },
       { "text": "[[count-dooku]]に雇われて動いた。", "revealedBy": ["tcw-s2"] },
@@ -21,7 +21,7 @@
       { "text": "ホンド・オナカ", "reading": "ほんど・おなか", "en": "Hondo Ohnaka" }
     ],
     "facts": [
-      { "kind": "summary", "text": "[[florrum]]を根城にする海賊団の頭。", "revealedBy": ["tcw-s2"] },
+      { "kind": "summary", "text": "[[florrum|フロラム]]を根城にする海賊団の頭。", "revealedBy": ["tcw-s2", "rebels-s2"] },
       { "text": "金になるなら誰とでも取り引きし、敵にも味方にもなる。", "revealedBy": ["tcw-s2"] },
       { "text": "[[count-dooku]]を捕らえ、身代金を取ろうとした。", "revealedBy": ["tcw-s2"] },
       { "text": "身代金の受け渡しに来た[[anakin-skywalker]]と[[obi-wan-kenobi]]も一緒に閉じ込めた。", "revealedBy": ["tcw-s2"] }
@@ -45,7 +45,8 @@
       { "text": "マンダロア", "reading": "まんだろあ", "en": "Mandalore" }
     ],
     "facts": [
-      { "kind": "summary", "text": "戦いの歴史を持つ星。今は戦いを捨て、中立を掲げている。", "revealedBy": ["tcw-s2", "tcw-s5", "tcw-s7", "mando-s3"] },
+      { "kind": "summary", "text": "戦いの歴史を持つ星。マンダロリアンの故郷である。", "revealedBy": ["tcw-s2", "tcw-s5", "tcw-s7", "mando-s3", "tcw-s3", "rebels-s1", "rebels-s3", "rebels-s4", "mando-s1", "mando-s2", "maul-shadow-lord"] },
+      { "text": "この時代は戦いを捨て、中立を掲げている。", "revealedBy": ["tcw-s2", "tcw-s5"] },
       { "text": "透明な覆いに守られた都市があり、人々はその中で暮らす。", "revealedBy": ["tcw-s2"] },
       { "text": "[[satine-kryze]]が治めている。", "revealedBy": ["tcw-s2"] },
       { "text": "[[galactic-republic]]にも[[separatists]]にもつかない道を選んでいた。", "revealedBy": ["tcw-s2"] },
@@ -59,7 +60,7 @@
       { "text": "サティーン・クライズ", "reading": "さてぃーん・くらいず", "en": "Satine Kryze" }
     ],
     "facts": [
-      { "kind": "summary", "text": "[[mandalore]]を治める公爵。戦いを捨てた中立の道を貫こうとする。", "revealedBy": ["tcw-s2", "tcw-s5"] },
+      { "kind": "summary", "text": "[[mandalore]]を治める公爵。戦いを捨てた中立の道を貫こうとする。", "revealedBy": ["tcw-s2", "tcw-s5", "tcw-s3"] },
       { "text": "[[obi-wan-kenobi]]とは古くからの知り合いで、互いに特別な感情を残している。", "revealedBy": ["tcw-s2"] },
       { "text": "[[death-watch]]に命を狙われた。", "revealedBy": ["tcw-s2"] },
       { "text": "共和国が星に軍を入れようとする動きに抗った。", "revealedBy": ["tcw-s2"] }
@@ -124,7 +125,7 @@
       { "text": "バリス・オフィー", "reading": "ばりす・おふぃー", "en": "Barriss Offee" }
     ],
     "facts": [
-      { "kind": "summary", "text": "[[luminara-unduli]]の弟子。落ち着いた物腰の若いジェダイ。", "revealedBy": ["tcw-s2"] },
+      { "kind": "summary", "text": "[[luminara-unduli|ルミナーラ・アンドゥリ]]の弟子。落ち着いた物腰の若いジェダイ。", "revealedBy": ["tcw-s2", "tcw-s5", "tales-empire"] },
       { "text": "[[ahsoka-tano]]と組んで[[geonosis]]の武器工場を壊した。", "revealedBy": ["tcw-s2"] },
       { "text": "地下の巣で虫に体を操られ、仲間に刃を向けた。", "revealedBy": ["tcw-s2"] }
     ]

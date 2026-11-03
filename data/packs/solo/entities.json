@@ -111,6 +111,7 @@
     ],
     "facts": [
       { "kind": "summary", "text": "覆面をつけ、一味を率いて盗みを襲う者。", "revealedBy": ["solo"] },
+      { "text": "最後には[[han-solo]]に燃料を託した。", "revealedBy": ["solo"] },
       { "text": "正体は若い女だった。", "revealedBy": ["solo"] },
       { "text": "奪うのは私腹のためではなく、抗う者たちのためだった。", "revealedBy": ["solo"] },
       { "text": "手にした燃料が、やがて帝国に抗う種になると語った。", "revealedBy": ["solo"] }

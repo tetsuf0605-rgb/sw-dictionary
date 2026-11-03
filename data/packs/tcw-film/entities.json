@@ -6,7 +6,8 @@
       { "text": "アソーカ・タノ", "reading": "あそーか・たの", "en": "Ahsoka Tano" }
     ],
     "facts": [
-      { "kind": "summary", "text": "[[yoda]]の計らいで[[anakin-skywalker]]の弟子となった少女。頭から伸びる角と長い飾りを持つ。", "revealedBy": ["tcw-film", "tcw-s1", "tcw-s2", "tcw-s3", "tcw-s4", "tcw-s5", "rebels-s2", "tales-jedi"] },
+      { "kind": "summary", "text": "頭から伸びる角と長い飾りを持つトグルータ。[[anakin-skywalker|アナキン・スカイウォーカー]]の弟子。", "revealedBy": ["tcw-film", "tcw-s1", "tcw-s2", "tcw-s3", "tcw-s4", "tcw-s5", "rebels-s2", "tales-jedi", "rebels-s1", "rebels-s4", "tcw-s7", "mando-s2", "boba-fett", "ahsoka-s1", "tales-empire"] },
+      { "text": "[[yoda]]の計らいで、その弟子となった。", "revealedBy": ["tcw-film"] },
       { "text": "物おじせずに言い返す性分で、師と言い合うことが多かった。", "revealedBy": ["tcw-film"] },
       { "text": "[[lightsaber]]を逆手に持って戦う。", "revealedBy": ["tcw-film"] },
       { "text": "[[teth]]での救出に同行し、[[jabba-the-hutt]]の息子を背負って運んだ。", "revealedBy": ["tcw-film"] },
@@ -20,7 +21,7 @@
       { "text": "アサージ・ヴェントレス", "reading": "あさーじ・べんとれす", "en": "Asajj Ventress" }
     ],
     "facts": [
-      { "kind": "summary", "text": "[[count-dooku]]に仕える、頭に髪のない肌の白い暗殺者。", "revealedBy": ["tcw-film", "tcw-s1", "tcw-s3", "tales-underworld"] },
+      { "kind": "summary", "text": "[[count-dooku]]に仕える、頭に髪のない肌の白い暗殺者。", "revealedBy": ["tcw-film", "tcw-s1", "tcw-s3", "tales-underworld", "tcw-s4"] },
       { "text": "柄の曲がった[[lightsaber]]を二振り使う。", "revealedBy": ["tcw-film"] },
       { "text": "[[jabba-the-hutt]]の息子をさらう企てを実行した。", "revealedBy": ["tcw-film"] },
       { "text": "[[teth]]の修道院で[[anakin-skywalker]]と[[ahsoka-tano]]を迎え撃った。", "revealedBy": ["tcw-film"] },
@@ -34,7 +35,7 @@
       { "text": "レックス", "reading": "れっくす", "en": "Rex" }
     ],
     "facts": [
-      { "kind": "summary", "text": "[[anakin-skywalker]]のもとで戦う[[clone-trooper|クローン兵]]の隊長。", "revealedBy": ["tcw-film", "tcw-s1", "tcw-s2", "tcw-s3", "tcw-s4", "ep3", "tcw-s6", "tcw-s7"] },
+      { "kind": "summary", "text": "[[anakin-skywalker|アナキン・スカイウォーカー]]のもとで戦う[[clone-trooper|クローン兵]]の隊長。", "revealedBy": ["tcw-film", "tcw-s1", "tcw-s2", "tcw-s3", "tcw-s4", "ep3", "tcw-s6", "tcw-s7", "rebels-s2", "tales-jedi", "bad-batch-s1", "bad-batch-s2"] },
       { "text": "青い模様を入れた装甲を身につけ、二丁の銃を使う。", "revealedBy": ["tcw-film"] },
       { "text": "[[teth]]の崖を登る作戦に加わった。", "revealedBy": ["tcw-film"] }
     ]
@@ -46,7 +47,7 @@
       { "text": "ジーロ・ザ・ハット", "reading": "じーろ・ざ・はっと", "en": "Ziro the Hutt" }
     ],
     "facts": [
-      { "kind": "summary", "text": "[[coruscant]]の裏社会に居を構える[[hutt|ハット]]。[[jabba-the-hutt]]の叔父にあたる。", "revealedBy": ["tcw-film", "tcw-s2"] },
+      { "kind": "summary", "text": "[[coruscant|コルサント]]の裏社会に居を構える[[hutt|ハット]]。[[jabba-the-hutt|ジャバ・ザ・ハット]]の叔父にあたる。", "revealedBy": ["tcw-film", "tcw-s2", "tcw-s1"] },
       { "text": "甥の子をさらう企てで[[count-dooku]]と通じていた。", "revealedBy": ["tcw-film"] },
       { "text": "[[padme-amidala]]に企てを暴かれ、捕らえられた。", "revealedBy": ["tcw-film"] }
     ]

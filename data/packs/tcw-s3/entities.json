@@ -6,7 +6,7 @@
       { "text": "サヴァージ・オプレス", "reading": "さばーじ・おぷれす", "en": "Savage Opress" }
     ],
     "facts": [
-      { "kind": "summary", "text": "[[nightsisters]]の術で作り変えられた、角を持つ大柄な戦士。", "revealedBy": ["tcw-s3", "tcw-s4"] },
+      { "kind": "summary", "text": "[[nightsisters|ナイトシスター]]の術で作り変えられた、角を持つ大柄な戦士。", "revealedBy": ["tcw-s3", "tcw-s4", "tcw-s5"] },
       { "text": "[[asajj-ventress]]に選ばれ、魔女の術で体と力を作り変えられた。", "revealedBy": ["tcw-s3"] },
       { "text": "[[count-dooku]]の弟子として差し出され、血なまぐさい任務を担った。", "revealedBy": ["tcw-s3"] },
       { "text": "両端から刃の出る[[lightsaber]]を使う。", "revealedBy": ["tcw-s3"] },
@@ -70,7 +70,8 @@
       { "text": "ターキン総督", "reading": "たーきんそうとく", "en": "Grand Moff Tarkin", "revealedBy": ["ep4"], "kind": "title" }
     ],
     "facts": [
-      { "kind": "summary", "text": "[[galactic-republic]]の将校。痩せた顔つきで、情に流されない。", "revealedBy": ["tcw-s3"] },
+      { "kind": "summary", "text": "痩せた顔つきの軍人。情に流されない。", "revealedBy": ["tcw-s3", "ep4", "rogue-one", "bad-batch-s1"] },
+      { "text": "[[galactic-republic]]の将校として戦っていた。", "revealedBy": ["tcw-s3"] },
       { "text": "牢からの脱出で[[anakin-skywalker]]たちと行動を共にした。", "revealedBy": ["tcw-s3"] },
       { "text": "[[jedi|ジェダイ]]のやり方を手ぬるいと考えていた。", "revealedBy": ["tcw-s3"] },
       { "text": "[[galactic-empire]]の高官として[[death-star]]の指揮を執った。", "revealedBy": ["ep4"] },
@@ -100,7 +101,7 @@
       { "text": "エコー", "reading": "えこー", "en": "Echo" }
     ],
     "facts": [
-      { "kind": "summary", "text": "[[fives]]と同じ部隊で育った[[clone-trooper|クローン兵]]。", "revealedBy": ["tcw-s3"] },
+      { "kind": "summary", "text": "[[fives|ファイブス]]と同じ部隊で育った[[clone-trooper|クローン兵]]。", "revealedBy": ["tcw-s3", "tcw-s7", "bad-batch-s1", "bad-batch-s2", "bad-batch-s3"] },
       { "text": "決まりを守ることにこだわる性分。", "revealedBy": ["tcw-s3"] },
       { "text": "ファイブスと共に精鋭の部隊に選ばれた。", "revealedBy": ["tcw-s3"] },
       { "text": "牢からの脱出の最中に爆発に巻き込まれ、戻らなかった。", "revealedBy": ["tcw-s3"] }

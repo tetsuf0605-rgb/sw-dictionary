@@ -6,7 +6,8 @@
       { "text": "ソウ・ゲレラ", "reading": "そう・げれら", "en": "Saw Gerrera" }
     ],
     "facts": [
-      { "kind": "summary", "text": "故郷の[[onderon]]を取り戻そうとする若い抵抗者。", "revealedBy": ["tcw-s5"] },
+      { "kind": "summary", "text": "故郷を取り戻すために武器を取った抵抗者。", "revealedBy": ["tcw-s5", "rebels-s3", "rogue-one", "bad-batch-s1", "andor-s1", "andor-s2"] },
+      { "text": "[[onderon]]の出で、若い日から戦っていた。", "revealedBy": ["tcw-s5"] },
       { "text": "姉妹と共に仲間を集め、[[jedi|ジェダイ]]に戦い方を教わった。", "revealedBy": ["tcw-s5"] },
       { "text": "捕らえられ、痛めつけられても口を割らなかった。", "revealedBy": ["tcw-s5"] },
       { "text": "手段を選ばないやり方をめぐって、仲間とも意見が割れた。", "revealedBy": ["tcw-s5"] }
@@ -32,7 +33,8 @@
       { "text": "ボ＝カタン・クライズ", "reading": "ぼかたん・くらいず", "en": "Bo-Katan Kryze" }
     ],
     "facts": [
-      { "kind": "summary", "text": "[[death-watch]]の戦士。[[satine-kryze]]の妹にあたる。", "revealedBy": ["tcw-s5"] },
+      { "kind": "summary", "text": "マンダロアの戦士。[[satine-kryze|サティーン・クライズ]]の妹にあたる。", "revealedBy": ["tcw-s5", "rebels-s4", "tcw-s7", "mando-s2", "mando-s3"] },
+      { "text": "[[death-watch]]の戦士だった。", "revealedBy": ["tcw-s5"] },
       { "text": "青い甲冑を身につけ、背の飛行装置で戦う。", "revealedBy": ["tcw-s5"] },
       { "text": "よそ者に[[mandalore]]を明け渡すことに反対し、[[darth-maul]]に背いた。", "revealedBy": ["tcw-s5"] },
       { "text": "[[obi-wan-kenobi]]を逃がし、姉を助けようとしたが間に合わなかった。", "revealedBy": ["tcw-s5"] }

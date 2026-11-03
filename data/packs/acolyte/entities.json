@@ -113,6 +113,7 @@
     ],
     "facts": [
       { "kind": "summary", "text": "騎士団の中で高い位にあるジェダイ。", "revealedBy": ["acolyte"] },
+      { "text": "[[sol]]の報せを受けて、事の収め方を決めた。", "revealedBy": ["acolyte"] },
       { "text": "事の収め方を決める立場にいた。", "revealedBy": ["acolyte"] },
       { "text": "騎士団の体面を守ることを選んだ。", "revealedBy": ["acolyte"] }
     ]

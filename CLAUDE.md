@@ -53,6 +53,7 @@ npm test               # Vitest
 npm run data:validate  # データ検証（エラーがあれば終了コード 1）
 npm run data:build     # data/ を結合して public/data/db.json を生成
 npm run data:preview -- --watched ep4,ep5 --entity darth-vader   # 指定の視聴状況で見える内容を表示
+npm run data:audit     # データの棚卸し（要約の抜け・薄い項目・孤立項目を並べる）
 ```
 
 ## 絶対に守る不変条件（ネタバレ防止）

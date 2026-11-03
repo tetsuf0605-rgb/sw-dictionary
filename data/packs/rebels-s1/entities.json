@@ -84,7 +84,7 @@
       { "text": "ロサール", "reading": "ろさーる", "en": "Lothal" }
     ],
     "facts": [
-      { "kind": "summary", "text": "草原の広がる辺境の星。", "revealedBy": ["rebels-s1", "rebels-s2", "rebels-s3", "rebels-s4"] },
+      { "kind": "summary", "text": "草原の広がる辺境の星。", "revealedBy": ["rebels-s1", "rebels-s2", "rebels-s3", "rebels-s4", "ahsoka-s1"] },
       { "text": "帝国に工場を建てられ、住民は土地と仕事を取り上げられていた。", "revealedBy": ["rebels-s1"] },
       { "text": "[[ezra-bridger]]の故郷である。", "revealedBy": ["rebels-s1"] },
       { "text": "一味の働きの場になった。", "revealedBy": ["rebels-s1"] }
@@ -97,7 +97,7 @@
       { "text": "ゴースト", "reading": "ごーすと", "en": "Ghost" }
     ],
     "facts": [
-      { "kind": "summary", "text": "[[hera-syndulla]]が操る貨物船。一味の住みかでもある。", "revealedBy": ["rebels-s1", "rebels-s2"] },
+      { "kind": "summary", "text": "[[hera-syndulla]]が操る貨物船。一味の住みかでもある。", "revealedBy": ["rebels-s1", "rebels-s2", "rebels-s3", "rebels-s4", "ahsoka-s1"] },
       { "text": "腹に小型の船を抱えており、切り離して使える。", "revealedBy": ["rebels-s1"] },
       { "text": "帝国の網を何度もくぐり抜けてきた。", "revealedBy": ["rebels-s1"] }
     ]
@@ -134,6 +134,7 @@
     "date": { "year": -5, "precision": "approx" },
     "facts": [
       { "kind": "summary", "text": "各地の小さな抵抗が、少しずつつながり始めた時期。", "revealedBy": ["rebels-s1"] },
+      { "text": "[[the-ghost]]の一味の動きも、その一つだった。", "revealedBy": ["rebels-s1"] },
       { "text": "辺境の星で一味が帝国に逆らい、その噂が広まった。", "revealedBy": ["rebels-s1"] },
       { "text": "符丁で呼ばれる人物が、散らばった者たちをつないでいた。", "revealedBy": ["rebels-s1"] },
       { "text": "まだ一つの軍と呼べるものではなかった。", "revealedBy": ["rebels-s1"] }

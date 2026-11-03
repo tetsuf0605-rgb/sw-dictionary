@@ -6,7 +6,7 @@
       { "text": "ベイル・オーガナ", "reading": "べいる・おーがな", "en": "Bail Organa" }
     ],
     "facts": [
-      { "kind": "summary", "text": "[[alderaan]]選出の議員。穏やかな物腰で、[[jedi|ジェダイ]]に味方した。", "revealedBy": ["ep3", "obi-wan"] },
+      { "kind": "summary", "text": "[[alderaan|オルデラン]]選出の議員。穏やかな物腰で、[[jedi|ジェダイ]]に味方した。", "revealedBy": ["ep3", "obi-wan", "rebels-s2", "rogue-one", "tales-jedi"] },
       { "text": "[[galactic-republic]]が作り変えられていくことに、最後まで抗った。", "revealedBy": ["ep3"] },
       { "text": "生き延びた[[yoda]]と[[obi-wan-kenobi]]をかくまい、逃がした。", "revealedBy": ["ep3"] },
       { "text": "生まれたばかりの[[leia-organa]]を引き取り、娘として育てることにした。", "revealedBy": ["ep3"] }
@@ -71,7 +71,7 @@
     ],
     "date": { "year": -19, "precision": "exact", "order": 1 },
     "facts": [
-      { "kind": "summary", "text": "[[clone-trooper|クローン兵]]に向けて出された、[[jedi|ジェダイ]]を討てという指令。", "revealedBy": ["ep3", "tcw-s7", "tales-jedi"] },
+      { "kind": "summary", "text": "[[clone-trooper|クローン兵]]に向けて出された、[[jedi|ジェダイ]]を討てという指令。", "revealedBy": ["ep3", "tcw-s7", "tales-jedi", "tales-empire"] },
       { "text": "[[darth-sidious]]が銀河中の部隊へ同時に伝えた。", "revealedBy": ["ep3"] },
       { "text": "兵は迷いなく従い、それまで共に戦ってきた将を背後から撃った。", "revealedBy": ["ep3"] },
       { "text": "各地で同時に行われ、[[jedi|ジェダイ]]はほとんど討たれた。", "revealedBy": ["ep3"] }

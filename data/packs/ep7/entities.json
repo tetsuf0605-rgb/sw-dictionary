@@ -124,7 +124,7 @@
       { "text": "ファースト・オーダー", "reading": "ふぁーすと・おーだー", "en": "First Order" }
     ],
     "facts": [
-      { "kind": "summary", "text": "[[galactic-empire]]の残党から生まれた勢力。", "revealedBy": ["ep7", "resistance-s1", "resistance-s2"] },
+      { "kind": "summary", "text": "[[galactic-empire|銀河帝国]]の残党から生まれた勢力。", "revealedBy": ["ep7", "resistance-s1", "resistance-s2", "ep8", "ep9"] },
       { "text": "黒と白の軍を持ち、帝国のやり方を受け継いでいる。", "revealedBy": ["ep7"] },
       { "text": "子どもを集め、兵として育て上げる。", "revealedBy": ["ep7"] },
       { "text": "[[snoke]]を頂点とする。", "revealedBy": ["ep7"] },
@@ -151,7 +151,7 @@
       { "text": "新共和国", "reading": "しんきょうわこく", "en": "New Republic" }
     ],
     "facts": [
-      { "kind": "summary", "text": "[[galactic-empire]]が倒れたあとに築かれた、銀河の統治体。", "revealedBy": ["ep7", "mando-s1", "mando-s3", "ahsoka-s1", "resistance-s1", "resistance-s2", "mando-grogu"] },
+      { "kind": "summary", "text": "[[galactic-empire|銀河帝国]]が倒れたあとに築かれた、銀河の統治体。", "revealedBy": ["ep7", "mando-s1", "mando-s3", "ahsoka-s1", "resistance-s1", "resistance-s2", "mando-grogu", "skeleton-crew"] },
       { "text": "軍を小さくし、[[first-order]]の力を軽く見ていた。", "revealedBy": ["ep7"] },
       { "text": "中枢を[[destruction-of-hosnian-system|一撃で失った]]。", "revealedBy": ["ep7"] }
     ]

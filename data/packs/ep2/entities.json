@@ -7,7 +7,7 @@
       { "text": "ダース・ティラナス", "reading": "だーす・てぃらなす", "en": "Darth Tyranus", "revealedBy": ["ep2"], "kind": "alias" }
     ],
     "facts": [
-      { "kind": "summary", "text": "かつて[[jedi|ジェダイ]]だった剣士で、[[separatists]]を率いる指導者。", "revealedBy": ["ep2", "tcw-film", "tcw-s1", "tcw-s2", "tcw-s3", "tcw-s4", "tcw-s5", "ep3", "tcw-s6"] },
+      { "kind": "summary", "text": "かつて[[jedi|ジェダイ]]だった剣士で、[[separatists]]を率いる指導者。", "revealedBy": ["ep2", "tcw-film", "tcw-s1", "tcw-s2", "tcw-s3", "tcw-s4", "tcw-s5", "ep3", "tcw-s6", "tales-underworld"] },
       { "text": "騎士団を去った人物として知られ、[[jedi-council]]は暗殺に手を染めるとは考えなかった。", "revealedBy": ["ep2"] },
       { "text": "柄の曲がった[[lightsaber]]を使い、指先から稲妻を放つ。", "revealedBy": ["ep2"] },
       { "text": "捕らえた[[obi-wan-kenobi]]に、[[galactic-senate]]は[[sith|シス]]の長に操られていると語った。", "revealedBy": ["ep2"] },
@@ -47,7 +47,7 @@
       { "text": "オーウェン・ラーズ", "reading": "おーうぇん・らーず", "en": "Owen Lars" }
     ],
     "facts": [
-      { "kind": "summary", "text": "[[tatooine]]の水分農場で暮らす若者。[[cliegg-lars]]の息子。", "revealedBy": ["ep2"] },
+      { "kind": "summary", "text": "[[tatooine|タトゥイーン]]の水分農場で暮らす若者。[[cliegg-lars|クリーグ・ラーズ]]の息子。", "revealedBy": ["ep2", "ep3", "obi-wan"] },
       { "text": "父が[[shmi-skywalker]]を妻に迎えたため、[[anakin-skywalker]]とは義理の兄弟にあたる。", "revealedBy": ["ep2"] },
       { "text": "[[beru]]と共に農場の仕事を担っていた。", "revealedBy": ["ep2"] }
     ]
@@ -59,7 +59,7 @@
       { "text": "ベルー", "reading": "べるー", "en": "Beru" }
     ],
     "facts": [
-      { "kind": "summary", "text": "[[owen-lars]]と共に[[tatooine]]の水分農場で暮らす女性。", "revealedBy": ["ep2"] },
+      { "kind": "summary", "text": "[[owen-lars]]と共に[[tatooine]]の水分農場で暮らす女性。", "revealedBy": ["ep2", "ep3", "obi-wan"] },
       { "text": "訪ねてきた[[anakin-skywalker]]たちを農場に迎えた。", "revealedBy": ["ep2"] }
     ]
   },
@@ -82,7 +82,7 @@
       { "text": "ヌート・ガンレイ", "reading": "ぬーと・がんれい", "en": "Nute Gunray" }
     ],
     "facts": [
-      { "kind": "summary", "text": "[[trade-federation]]を率いる総督。", "revealedBy": ["ep1", "ep2"] },
+      { "kind": "summary", "text": "[[trade-federation|通商連合]]を率いる総督。", "revealedBy": ["ep1", "ep2", "tcw-s1"] },
       { "text": "[[darth-sidious]]の指示を受けて[[naboo]]を封鎖し、軍を送って占領した。", "revealedBy": ["ep1"] },
       { "text": "[[battle-of-naboo]]の末に捕らえられた。", "revealedBy": ["ep1"] },
       { "text": "[[separatists]]に加わり、協力の条件として[[padme-amidala]]の死を求めた。", "revealedBy": ["ep2"] },
@@ -125,7 +125,7 @@
       { "text": "分離主義勢力", "reading": "ぶんりしゅぎせいりょく", "en": "Separatists" }
     ],
     "facts": [
-      { "kind": "summary", "text": "[[galactic-republic]]からの離脱を唱える星系や企業の集まり。[[count-dooku]]が率いる。", "revealedBy": ["ep2", "tcw-film", "tcw-s1", "tcw-s2", "tcw-s3", "tcw-s4", "tcw-s5", "ep3"] },
+      { "kind": "summary", "text": "[[galactic-republic]]からの離脱を唱える星系や企業の集まり。[[count-dooku]]が率いる。", "revealedBy": ["ep2", "tcw-film", "tcw-s1", "tcw-s2", "tcw-s3", "tcw-s4", "tcw-s5", "ep3", "tcw-s6"] },
       { "text": "[[trade-federation]]などの大きな企業が加わり、それぞれの[[battle-droid|ドロイド軍]]を戦力として差し出した。", "revealedBy": ["ep2"] },
       { "text": "[[geonosis]]に指導者が集まり、共和国と戦う取り決めを交わした。", "revealedBy": ["ep2"] },
       { "text": "共和国との対立は[[clone-wars]]に至った。", "revealedBy": ["ep2"] }
@@ -138,7 +138,7 @@
       { "text": "クローン・トルーパー", "reading": "くろーん・とるーぱー", "en": "Clone Trooper" }
     ],
     "facts": [
-      { "kind": "summary", "text": "[[kamino]]で造られた、同じ顔と体を持つ兵士たち。", "revealedBy": ["ep2", "tcw-s3", "tcw-s6", "bad-batch-s1"] },
+      { "kind": "summary", "text": "[[kamino|カミーノ]]で造られた、同じ顔と体を持つ兵士たち。", "revealedBy": ["ep2", "tcw-s3", "tcw-s6", "bad-batch-s1", "ep3", "tcw-film", "tcw-s1", "tcw-s2", "tcw-s4", "tcw-s7", "tales-jedi", "bad-batch-s2", "bad-batch-s3"] },
       { "text": "元になったのは[[jango-fett]]である。", "revealedBy": ["ep2"] },
       { "text": "成長を速める処置を受け、命令に忠実に従うよう育てられた。", "revealedBy": ["ep2"] },
       { "text": "白い装甲を身につけ、[[jedi|ジェダイ]]の指揮のもとで戦った。", "revealedBy": ["ep2"] },

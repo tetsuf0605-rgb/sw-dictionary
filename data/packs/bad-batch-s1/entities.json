@@ -6,7 +6,7 @@
       { "text": "オメガ", "reading": "おめが", "en": "Omega" }
     ],
     "facts": [
-      { "kind": "summary", "text": "[[kamino]]の施設で育った少女。[[bad-batch]]に加わる。", "revealedBy": ["bad-batch-s1"] },
+      { "kind": "summary", "text": "[[kamino|カミーノ]]の施設で育った少女。[[bad-batch|バッド・バッチ]]に加わる。", "revealedBy": ["bad-batch-s1", "bad-batch-s2", "bad-batch-s3"] },
       { "text": "兵たちと同じ元から生まれた者である。", "revealedBy": ["bad-batch-s1"] },
       { "text": "施設の中しか知らず、外の世界を初めて目にした。", "revealedBy": ["bad-batch-s1"] },
       { "text": "物覚えがよく、機械の扱いも弓も手早く身につけた。", "revealedBy": ["bad-batch-s1"] },
@@ -47,7 +47,7 @@
       { "text": "ナラ・セ", "reading": "なら・せ", "en": "Nala Se" }
     ],
     "facts": [
-      { "kind": "summary", "text": "[[kamino]]の科学者。クローンを造る仕事を長く担ってきた。", "revealedBy": ["bad-batch-s1"] },
+      { "kind": "summary", "text": "[[kamino|カミーノ]]の科学者。クローンを造る仕事を長く担ってきた。", "revealedBy": ["bad-batch-s1", "bad-batch-s2", "bad-batch-s3"] },
       { "text": "[[omega]]を気にかけ、施設から逃がそうとした。", "revealedBy": ["bad-batch-s1"] },
       { "text": "帝国に技術を求められ、連れ去られた。", "revealedBy": ["bad-batch-s1"] }
     ]
