@@ -1,0 +1,176 @@
+[
+  {
+    "id": "grogu",
+    "type": "character",
+    "names": [
+      { "text": "グローグー", "reading": "ぐろーぐー", "en": "Grogu" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "[[the-child|あの幼子]]の本当の名。", "revealedBy": ["mando-s2"] },
+      { "text": "[[ahsoka-tano]]が名を呼び、来し方を読み取った。", "revealedBy": ["mando-s2"] },
+      { "text": "昔[[jedi|ジェダイ]]の神殿で育てられ、多くを教わっていた。", "revealedBy": ["mando-s2"] },
+      { "text": "神殿が襲われた日に連れ出され、そのあとの記憶に蓋をしていた。", "revealedBy": ["mando-s2"] },
+      { "text": "見晴らしの石に触れ、遠くへ呼びかけた。", "revealedBy": ["mando-s2"] },
+      { "text": "呼びかけに応えて現れた剣士に預けられた。", "revealedBy": ["mando-s2"] }
+    ],
+    "sameAs": [
+      { "id": "the-child", "revealedBy": ["mando-s2"], "note": "本当の名" }
+    ]
+  },
+  {
+    "id": "dark-troopers",
+    "type": "vehicle",
+    "names": [
+      { "text": "ダークトルーパー", "reading": "だーくとるーぱー", "en": "Dark Troopers" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "全身が機械でできた、黒い大型の兵。", "revealedBy": ["mando-s2"] },
+      { "text": "生身の兵よりはるかに力が強く、撃たれてもひるまない。", "revealedBy": ["mando-s2"] },
+      { "text": "[[moff-gideon]]の艦に積み込まれていた。", "revealedBy": ["mando-s2"] },
+      { "text": "緑の刃を持つ剣士が現れ、ことごとく斬り伏せられた。", "revealedBy": ["mando-s2"] }
+    ]
+  },
+  {
+    "id": "razor-crest",
+    "type": "vehicle",
+    "names": [
+      { "text": "レイザー・クレスト", "reading": "れいざー・くれすと", "en": "Razor Crest" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "[[din-djarin]]の古い輸送船。", "revealedBy": ["mando-s2"] },
+      { "text": "傷みが目立ち、たびたび直しながら飛んでいた。", "revealedBy": ["mando-s2"] },
+      { "text": "砲撃を受けて失われた。", "revealedBy": ["mando-s2"] }
+    ]
+  },
+  {
+    "id": "cobb-vanth",
+    "type": "character",
+    "names": [
+      { "text": "コブ・ヴァンス", "reading": "こぶ・ばんす", "en": "Cobb Vanth" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "[[tatooine]]の辺境の町を守る保安官。", "revealedBy": ["mando-s2"] },
+      { "text": "[[boba-fett]]の甲冑を手に入れ、身につけていた。", "revealedBy": ["mando-s2"] },
+      { "text": "町を襲う大きな獣を、[[din-djarin]]と共に討った。", "revealedBy": ["mando-s2"] }
+    ]
+  },
+  {
+    "id": "migs-mayfeld",
+    "type": "character",
+    "names": [
+      { "text": "メイフェルド", "reading": "めいふぇるど", "en": "Migs Mayfeld" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "元は帝国の兵だった男。", "revealedBy": ["mando-s2"] },
+      { "text": "口が悪く、どこにも属さない。", "revealedBy": ["mando-s2"] },
+      { "text": "帝国の施設に潜り込む手引きをした。", "revealedBy": ["mando-s2"] },
+      { "text": "かつての上官を前にして、引き金を引いた。", "revealedBy": ["mando-s2"] }
+    ]
+  },
+
+  {
+    "id": "the-child",
+    "facts": [
+      { "text": "本当の名が明かされた。", "revealedBy": ["mando-s2"] }
+    ]
+  },
+  {
+    "id": "din-djarin",
+    "facts": [
+      { "text": "[[bo-katan-kryze]]から[[mandalore]]の事情を聞かされた。", "revealedBy": ["mando-s2"] },
+      { "text": "[[grogu]]を託せる相手を探して各地を回った。", "revealedBy": ["mando-s2"] },
+      { "text": "[[moff-gideon]]を破り、[[darksaber]]を手にした。", "revealedBy": ["mando-s2"] },
+      { "text": "別れの場で、[[grogu]]に自ら顔を見せた。", "revealedBy": ["mando-s2"] }
+    ]
+  },
+  {
+    "id": "bo-katan-kryze",
+    "facts": [
+      { "text": "仲間と共に、帝国の艦を襲っていた。", "revealedBy": ["mando-s2"] },
+      { "text": "[[darksaber]]を取り戻そうとしていた。", "revealedBy": ["mando-s2"] },
+      { "text": "剣は勝ち取った者にしか渡らない、と言った。", "revealedBy": ["mando-s2"] }
+    ]
+  },
+  {
+    "id": "ahsoka-tano",
+    "facts": [
+      { "text": "森の星で、現地を苦しめる総督と戦っていた。", "revealedBy": ["mando-s2"] },
+      { "text": "[[grogu]]の名を呼び、その来し方を読み取った。", "revealedBy": ["mando-s2"] },
+      { "text": "執着を恐れ、自ら教えることは断った。", "revealedBy": ["mando-s2"] },
+      { "text": "[[thrawn]]の行方を追っていた。", "revealedBy": ["mando-s2"] }
+    ]
+  },
+  {
+    "id": "boba-fett",
+    "facts": [
+      { "text": "生きていた。", "revealedBy": ["mando-s2"] },
+      { "text": "砂に飲まれたあと、自力で這い出ていた。", "revealedBy": ["mando-s2"] },
+      { "text": "[[fennec-shand]]と組んで動いている。", "revealedBy": ["mando-s2"] },
+      { "text": "父から受け継いだ甲冑を取り戻した。", "revealedBy": ["mando-s2"] }
+    ]
+  },
+  {
+    "id": "fennec-shand",
+    "facts": [
+      { "text": "瀕死のところを[[boba-fett]]に助けられた。", "revealedBy": ["mando-s2"] },
+      { "text": "以来、その側に付いている。", "revealedBy": ["mando-s2"] }
+    ]
+  },
+  {
+    "id": "moff-gideon",
+    "facts": [
+      { "text": "[[dark-troopers]]を率いていた。", "revealedBy": ["mando-s2"] },
+      { "text": "[[grogu]]を捕らえ、その血を調べていた。", "revealedBy": ["mando-s2"] },
+      { "text": "[[darksaber]]を[[din-djarin]]に奪われ、捕らえられた。", "revealedBy": ["mando-s2"] }
+    ]
+  },
+  {
+    "id": "darksaber",
+    "facts": [
+      { "text": "[[din-djarin]]が勝負の末に手にした。", "revealedBy": ["mando-s2"] },
+      { "text": "勝ち取った者にしか渡らない、とマンダロリアンは考える。", "revealedBy": ["mando-s2"] }
+    ]
+  },
+  {
+    "id": "thrawn",
+    "facts": [
+      { "text": "行方知れずのままで、[[ahsoka-tano]]に探されていた。", "revealedBy": ["mando-s2"] }
+    ]
+  },
+  {
+    "id": "lightsaber",
+    "facts": [
+      { "text": "緑の刃のものを振るう剣士が現れた。", "revealedBy": ["mando-s2"] }
+    ]
+  },
+  {
+    "id": "mandalore",
+    "facts": [
+      { "text": "帝国の手で大きく焼かれたと語られた。", "revealedBy": ["mando-s2"] }
+    ]
+  },
+  {
+    "id": "beskar",
+    "facts": [
+      { "text": "槍の形に鍛えられたものもある。", "revealedBy": ["mando-s2"] }
+    ]
+  },
+  {
+    "id": "tatooine",
+    "facts": [
+      { "text": "辺境の町が、大きな獣に悩まされていた。", "revealedBy": ["mando-s2"] }
+    ]
+  },
+  {
+    "id": "the-force",
+    "facts": [
+      { "text": "遠くへ呼びかけ、応える者を待つことができる。", "revealedBy": ["mando-s2"] }
+    ]
+  },
+  {
+    "id": "jedi",
+    "facts": [
+      { "text": "生き残りがどこかにいると語られていた。", "revealedBy": ["mando-s2"] }
+    ]
+  }
+]
