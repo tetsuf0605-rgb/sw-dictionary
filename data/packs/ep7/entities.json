@@ -1,0 +1,293 @@
+[
+  {
+    "id": "rey",
+    "type": "character",
+    "names": [
+      { "text": "レイ", "reading": "れい", "en": "Rey" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "[[jakku]]で廃品を集めて暮らす娘。", "revealedBy": ["ep7"] },
+      { "text": "自分を置いていった家族を待ち続けていた。", "revealedBy": ["ep7"] },
+      { "text": "船の操縦と修理に長けている。", "revealedBy": ["ep7"] },
+      { "text": "[[the-force]]の力が自分にあることを知った。", "revealedBy": ["ep7"] },
+      { "text": "[[luke-skywalker]]を探し当て、古い剣を差し出した。", "revealedBy": ["ep7"] }
+    ]
+  },
+  {
+    "id": "finn",
+    "type": "character",
+    "names": [
+      { "text": "フィン", "reading": "ふぃん", "en": "Finn" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "[[first-order]]の兵として育てられ、そこを抜けた男。", "revealedBy": ["ep7"] },
+      { "text": "番号で呼ばれていたが、[[poe-dameron]]に名を付けられた。", "revealedBy": ["ep7"] },
+      { "text": "初めての戦いで、撃つことを拒んだ。", "revealedBy": ["ep7"] },
+      { "text": "逃げるつもりだったが、[[rey]]を助けるために戻った。", "revealedBy": ["ep7"] }
+    ]
+  },
+  {
+    "id": "poe-dameron",
+    "type": "character",
+    "names": [
+      { "text": "ポー・ダメロン", "reading": "ぽー・だめろん", "en": "Poe Dameron" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "[[resistance]]随一の操縦士。", "revealedBy": ["ep7"] },
+      { "text": "口が達者で、物おじしない。", "revealedBy": ["ep7"] },
+      { "text": "[[bb-8]]を相棒にしている。", "revealedBy": ["ep7"] },
+      { "text": "[[luke-skywalker]]の手がかりを託されていた。", "revealedBy": ["ep7"] }
+    ]
+  },
+  {
+    "id": "kylo-ren",
+    "type": "character",
+    "names": [
+      { "text": "カイロ・レン", "reading": "かいろ・れん", "en": "Kylo Ren" },
+      { "text": "ベン・ソロ", "reading": "べん・そろ", "en": "Ben Solo", "revealedBy": ["ep7"], "kind": "alias" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "仮面をつけ、横に刃の突き出た赤い[[lightsaber]]を振るう男。", "revealedBy": ["ep7"] },
+      { "text": "[[darth-vader]]を仰ぎ、その焼け残った仮面に語りかけていた。", "revealedBy": ["ep7"] },
+      { "text": "[[han-solo]]と[[leia-organa]]の息子である。", "revealedBy": ["ep7"] },
+      { "text": "[[luke-skywalker]]のもとで学んだが、そむいて去った。", "revealedBy": ["ep7"] },
+      { "text": "[[snoke]]に仕えている。", "revealedBy": ["ep7"] },
+      { "text": "父を自らの手にかけた。", "revealedBy": ["ep7"] }
+    ]
+  },
+  {
+    "id": "bb-8",
+    "type": "character",
+    "names": [
+      { "text": "BB-8", "reading": "びーびーえいと", "en": "BB-8" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "球体が転がって進む小型ドロイド。", "revealedBy": ["ep7"] },
+      { "text": "頭の部分だけが、転がる胴の上に乗っている。", "revealedBy": ["ep7"] },
+      { "text": "[[poe-dameron]]から大事な手がかりを預かった。", "revealedBy": ["ep7"] }
+    ]
+  },
+  {
+    "id": "snoke",
+    "type": "character",
+    "names": [
+      { "text": "スノーク", "reading": "すのーく", "en": "Snoke" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "[[first-order]]の最高指導者。", "revealedBy": ["ep7"] },
+      { "text": "大きく映した姿でしか現れない。", "revealedBy": ["ep7"] },
+      { "text": "傷だらけの、痩せた姿をしている。", "revealedBy": ["ep7"] },
+      { "text": "[[kylo-ren]]を手元で導いている。", "revealedBy": ["ep7"] }
+    ]
+  },
+  {
+    "id": "hux",
+    "type": "character",
+    "names": [
+      { "text": "ハックス将軍", "reading": "はっくすしょうぐん", "en": "General Hux" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "[[starkiller-base]]を預かる若い将軍。", "revealedBy": ["ep7"] },
+      { "text": "並んだ兵の前で熱く演説する。", "revealedBy": ["ep7"] },
+      { "text": "[[kylo-ren]]と功を競っている。", "revealedBy": ["ep7"] }
+    ]
+  },
+  {
+    "id": "phasma",
+    "type": "character",
+    "names": [
+      { "text": "ファズマ隊長", "reading": "ふぁずまたいちょう", "en": "Captain Phasma" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "銀色の甲冑をまとう[[first-order]]の隊長。", "revealedBy": ["ep7"] },
+      { "text": "兵たちを厳しく束ねている。", "revealedBy": ["ep7"] }
+    ]
+  },
+  {
+    "id": "maz-kanata",
+    "type": "character",
+    "names": [
+      { "text": "マズ・カナタ", "reading": "まず・かなた", "en": "Maz Kanata" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "千年を生きてきた小柄な酒場の主。", "revealedBy": ["ep7"] },
+      { "text": "大きな丸い眼鏡をかけている。", "revealedBy": ["ep7"] },
+      { "text": "古い城を酒場にして、各地の無法者を集めていた。", "revealedBy": ["ep7"] },
+      { "text": "[[luke-skywalker]]の古い[[lightsaber]]を預かっていた。", "revealedBy": ["ep7"] },
+      { "text": "目を見れば、その人の内にあるものが分かると言う。", "revealedBy": ["ep7"] }
+    ]
+  },
+  {
+    "id": "first-order",
+    "type": "organization",
+    "names": [
+      { "text": "ファースト・オーダー", "reading": "ふぁーすと・おーだー", "en": "First Order" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "[[galactic-empire]]の残党から生まれた勢力。", "revealedBy": ["ep7"] },
+      { "text": "黒と白の軍を持ち、帝国のやり方を受け継いでいる。", "revealedBy": ["ep7"] },
+      { "text": "子どもを集め、兵として育て上げる。", "revealedBy": ["ep7"] },
+      { "text": "[[snoke]]を頂点とする。", "revealedBy": ["ep7"] },
+      { "text": "[[new-republic]]の目の届かないところで、力を蓄えていた。", "revealedBy": ["ep7"] }
+    ]
+  },
+  {
+    "id": "resistance",
+    "type": "organization",
+    "names": [
+      { "text": "レジスタンス", "reading": "れじすたんす", "en": "Resistance" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "[[first-order]]に抗う小さな軍。", "revealedBy": ["ep7"] },
+      { "text": "[[leia-organa]]が率いている。", "revealedBy": ["ep7"] },
+      { "text": "[[new-republic]]から表立っては支えられていない。", "revealedBy": ["ep7"] },
+      { "text": "古い型の戦闘機を使い続けている。", "revealedBy": ["ep7"] }
+    ]
+  },
+  {
+    "id": "new-republic",
+    "type": "organization",
+    "names": [
+      { "text": "新共和国", "reading": "しんきょうわこく", "en": "New Republic" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "[[galactic-empire]]が倒れたあとに築かれた、銀河の統治体。", "revealedBy": ["ep7"] },
+      { "text": "軍を小さくし、[[first-order]]の力を軽く見ていた。", "revealedBy": ["ep7"] },
+      { "text": "中枢を[[destruction-of-hosnian-system|一撃で失った]]。", "revealedBy": ["ep7"] }
+    ]
+  },
+  {
+    "id": "starkiller-base",
+    "type": "vehicle",
+    "names": [
+      { "text": "スターキラー基地", "reading": "すたーきらーきち", "en": "Starkiller Base" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "星を丸ごと削って造られた[[first-order]]の兵器。", "revealedBy": ["ep7"] },
+      { "text": "恒星の力を吸い取り、一度に複数の星を撃ち抜く。", "revealedBy": ["ep7"] },
+      { "text": "[[destruction-of-hosnian-system|一撃]]で新共和国の中枢を消し去った。", "revealedBy": ["ep7"] },
+      { "text": "[[battle-of-starkiller-base|攻め込まれ]]、自ら吸った力で崩れた。", "revealedBy": ["ep7"] }
+    ]
+  },
+  {
+    "id": "jakku",
+    "type": "place",
+    "names": [
+      { "text": "ジャクー", "reading": "じゃくー", "en": "Jakku" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "砂と、朽ちた艦の残骸に覆われた星。", "revealedBy": ["ep7"] },
+      { "text": "昔ここで大きな戦いがあり、残骸はそのころのものである。", "revealedBy": ["ep7"] },
+      { "text": "廃品を集めて食いつなぐ者たちが住む。", "revealedBy": ["ep7"] },
+      { "text": "[[rey]]が暮らしていた。", "revealedBy": ["ep7"] }
+    ]
+  },
+  {
+    "id": "destruction-of-hosnian-system",
+    "type": "event",
+    "names": [
+      { "text": "ホズニアン星系の破壊", "reading": "ほずにあんせいけいのはかい", "en": "Destruction of the Hosnian System" }
+    ],
+    "date": { "year": 34, "precision": "exact" },
+    "facts": [
+      { "kind": "summary", "text": "[[starkiller-base]]の一撃で、[[new-republic]]の中枢が消し去られた出来事。", "revealedBy": ["ep7"] },
+      { "text": "いくつもの星が、銀河の各地から見える光となって消えた。", "revealedBy": ["ep7"] },
+      { "text": "議会と艦隊の多くが、同時に失われた。", "revealedBy": ["ep7"] }
+    ]
+  },
+  {
+    "id": "battle-of-starkiller-base",
+    "type": "event",
+    "names": [
+      { "text": "スターキラー基地の戦い", "reading": "すたーきらーきちのたたかい", "en": "Battle of Starkiller Base" }
+    ],
+    "date": { "year": 34, "precision": "exact", "order": 1 },
+    "facts": [
+      { "kind": "summary", "text": "[[resistance]]が[[starkiller-base]]を破壊した戦い。", "revealedBy": ["ep7"] },
+      { "text": "盾を内側から落とし、わずかな戦闘機で弱点を突いた。", "revealedBy": ["ep7"] },
+      { "text": "[[han-solo]]が息子の手にかかった。", "revealedBy": ["ep7"] },
+      { "text": "[[rey]]と[[finn]]が[[kylo-ren]]と剣を交えた。", "revealedBy": ["ep7"] }
+    ]
+  },
+
+  {
+    "id": "han-solo",
+    "facts": [
+      { "text": "密輸に戻っており、[[millennium-falcon]]も手放していた。", "revealedBy": ["ep7"] },
+      { "text": "息子のことがもとで、[[leia-organa]]とは離れて暮らしていた。", "revealedBy": ["ep7"] },
+      { "text": "息子を連れ戻そうとして、その手にかかった。", "revealedBy": ["ep7"] }
+    ]
+  },
+  {
+    "id": "leia-organa",
+    "facts": [
+      { "text": "[[resistance]]を率いる将軍になっていた。", "revealedBy": ["ep7"] },
+      { "text": "息子のことで[[han-solo]]と離れていた。", "revealedBy": ["ep7"] },
+      { "text": "兄を探し続けていた。", "revealedBy": ["ep7"] }
+    ]
+  },
+  {
+    "id": "luke-skywalker",
+    "facts": [
+      { "text": "弟子に背かれたのち、姿を消していた。", "revealedBy": ["ep7"] },
+      { "text": "行方の手がかりは、断片しか残されていなかった。", "revealedBy": ["ep7"] },
+      { "text": "海に囲まれた島で見つかった。", "revealedBy": ["ep7"] }
+    ]
+  },
+  {
+    "id": "chewbacca",
+    "facts": [
+      { "text": "[[han-solo]]と共に、密輸の暮らしに戻っていた。", "revealedBy": ["ep7"] }
+    ]
+  },
+  {
+    "id": "millennium-falcon",
+    "facts": [
+      { "text": "奪われて[[jakku]]で埃をかぶっていたが、再び飛んだ。", "revealedBy": ["ep7"] }
+    ]
+  },
+  {
+    "id": "r2-d2",
+    "facts": [
+      { "text": "長く眠ったようになっていたが、終わりに目を覚ました。", "revealedBy": ["ep7"] },
+      { "text": "[[luke-skywalker]]の行方の手がかりを、内に持っていた。", "revealedBy": ["ep7"] }
+    ]
+  },
+  {
+    "id": "c-3po",
+    "facts": [
+      { "text": "[[resistance]]で通訳と情報の取りまとめを担っていた。", "revealedBy": ["ep7"] }
+    ]
+  },
+  {
+    "id": "darth-vader",
+    "facts": [
+      { "text": "焼け残った仮面が、[[kylo-ren]]のもとに置かれていた。", "revealedBy": ["ep7"] }
+    ]
+  },
+  {
+    "id": "galactic-empire",
+    "facts": [
+      { "text": "倒れたのち、その残党から[[first-order]]が生まれた。", "revealedBy": ["ep7"] }
+    ]
+  },
+  {
+    "id": "lightsaber",
+    "facts": [
+      { "text": "[[luke-skywalker]]の古い剣が、[[maz-kanata]]のもとに伝わっていた。", "revealedBy": ["ep7"] },
+      { "text": "横に刃の突き出た、十字の形のものもある。", "revealedBy": ["ep7"] }
+    ]
+  },
+  {
+    "id": "jedi",
+    "facts": [
+      { "text": "このころには、作り話のように語られていた。", "revealedBy": ["ep7"] }
+    ]
+  },
+  {
+    "id": "the-force",
+    "facts": [
+      { "text": "長く絶えていたように見えた力が、新しい者の中で目を覚ました。", "revealedBy": ["ep7"] }
+    ]
+  }
+]

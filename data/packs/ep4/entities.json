@@ -32,7 +32,7 @@
       { "text": "ハン・ソロ", "reading": "はん・そろ", "en": "Han Solo" }
     ],
     "facts": [
-      { "kind": "summary", "text": "[[millennium-falcon]]の船長を務める密輸業者。相棒は[[chewbacca]]。", "revealedBy": ["ep4", "solo"] },
+      { "kind": "summary", "text": "[[millennium-falcon]]の船長を務める密輸業者。相棒は[[chewbacca]]。", "revealedBy": ["ep4", "solo", "ep7"] },
       { "text": "報酬目当てで[[luke-skywalker]]たちを運ぶ仕事を引き受けたが、最後は[[battle-of-yavin]]に駆けつけてルークを援護した。", "revealedBy": ["ep4"] }
     ]
   },
@@ -44,7 +44,7 @@
       { "text": "チューイ", "reading": "ちゅーい", "en": "Chewie", "revealedBy": ["ep4"], "kind": "nickname" }
     ],
     "facts": [
-      { "kind": "summary", "text": "[[han-solo]]の相棒である、毛むくじゃらで大柄なウーキー。[[millennium-falcon]]の副操縦士。", "revealedBy": ["ep4", "ep6", "solo"] }
+      { "kind": "summary", "text": "[[han-solo]]の相棒である、毛むくじゃらで大柄なウーキー。[[millennium-falcon]]の副操縦士。", "revealedBy": ["ep4", "ep6", "solo", "ep7"] }
     ]
   },
   {
@@ -143,7 +143,7 @@
       { "text": "ジェダイ騎士団", "reading": "じぇだいきしだん", "en": "Jedi Order", "revealedBy": ["ep4"], "kind": "alias" }
     ],
     "facts": [
-      { "kind": "summary", "text": "かつて銀河共和国の平和と正義を守った騎士団。[[the-force]]を使い、[[lightsaber]]を武器とする。", "revealedBy": ["ep4", "obi-wan", "rebels-s1", "rebels-s2", "rebels-s3", "rogue-one"] },
+      { "kind": "summary", "text": "かつて銀河共和国の平和と正義を守った騎士団。[[the-force]]を使い、[[lightsaber]]を武器とする。", "revealedBy": ["ep4", "obi-wan", "rebels-s1", "rebels-s2", "rebels-s3", "rogue-one", "ep7"] },
       { "text": "帝国の時代にはほぼ滅ぼされ、[[obi-wan-kenobi]]のような生き残りはわずかだった。", "revealedBy": ["ep4"] }
     ]
   },
@@ -166,7 +166,7 @@
       { "text": "ミレニアム・ファルコン", "reading": "みれにあむ・ふぁるこん", "en": "Millennium Falcon" }
     ],
     "facts": [
-      { "kind": "summary", "text": "[[han-solo]]が船長、[[chewbacca]]が副操縦士を務める改造貨物船。見た目はぼろいが非常に速い。", "revealedBy": ["ep4", "ep6", "solo"] },
+      { "kind": "summary", "text": "[[han-solo]]が船長、[[chewbacca]]が副操縦士を務める改造貨物船。見た目はぼろいが非常に速い。", "revealedBy": ["ep4", "ep6", "solo", "ep7"] },
       { "text": "[[tatooine]]から[[luke-skywalker]]たちを乗せて飛び立ち、[[death-star]]からの脱出にも使われた。", "revealedBy": ["ep4"] }
     ]
   },
@@ -177,7 +177,7 @@
       { "text": "フォース", "reading": "ふぉーす", "en": "the Force" }
     ],
     "facts": [
-      { "kind": "summary", "text": "あらゆる生き物が生み出し、銀河を満たしているエネルギーの場。[[jedi]]はこれを感じ取り、力として用いる。", "revealedBy": ["ep1", "ep2", "ep4", "tcw-film", "tcw-s1", "tcw-s2", "tcw-s3", "tcw-s4", "ep3", "tcw-s6", "obi-wan", "rebels-s1", "rebels-s2", "rebels-s3"] },
+      { "kind": "summary", "text": "あらゆる生き物が生み出し、銀河を満たしているエネルギーの場。[[jedi]]はこれを感じ取り、力として用いる。", "revealedBy": ["ep1", "ep2", "ep4", "tcw-film", "tcw-s1", "tcw-s2", "tcw-s3", "tcw-s4", "ep3", "tcw-s6", "obi-wan", "rebels-s1", "rebels-s2", "rebels-s3", "rogue-one", "ep7"] },
       { "text": "光の側面（ライトサイド）と暗黒の側面（ダークサイド）がある。", "revealedBy": ["ep4", "ep6"] }
     ]
   },
@@ -188,7 +188,7 @@
       { "text": "ライトセーバー", "reading": "らいとせーばー", "en": "Lightsaber" }
     ],
     "facts": [
-      { "kind": "summary", "text": "光の刃を持つ[[jedi]]の武器。", "revealedBy": ["ep1", "ep2", "ep4", "ep6", "tcw-film", "tcw-s1", "tcw-s2", "tcw-s3", "tcw-s4", "tcw-s5", "ep3", "obi-wan", "rebels-s1"] },
+      { "kind": "summary", "text": "光の刃を持つ[[jedi]]の武器。", "revealedBy": ["ep1", "ep2", "ep4", "ep6", "tcw-film", "tcw-s1", "tcw-s2", "tcw-s3", "tcw-s4", "tcw-s5", "ep3", "obi-wan", "rebels-s1", "ep7"] },
       { "text": "[[obi-wan-kenobi]]は[[luke-skywalker]]に、父が使っていたライトセーバーを渡した。", "revealedBy": ["ep4"] }
     ]
   },
@@ -212,7 +212,7 @@
       { "text": "R2-D2", "reading": "あーるつーでぃーつー", "en": "R2-D2" }
     ],
     "facts": [
-      { "kind": "summary", "text": "筒形の小型ドロイド。言葉は話さず、電子音で意思を伝える。", "revealedBy": ["ep1", "ep2", "ep4", "tcw-film"] },
+      { "kind": "summary", "text": "筒形の小型ドロイド。言葉は話さず、電子音で意思を伝える。", "revealedBy": ["ep1", "ep2", "ep4", "tcw-film", "ep7"] },
       { "text": "[[leia-organa]]から[[death-star]]の設計図を託され、[[tatooine]]に降り立った。", "revealedBy": ["ep4"] },
       { "text": "[[obi-wan-kenobi]]を探して一人で砂漠へ出て行き、[[luke-skywalker]]たちを引き寄せた。", "revealedBy": ["ep4"] },
       { "text": "[[battle-of-yavin]]ではルークの戦闘機に乗り込み、被弾しながらも機体を支えた。", "revealedBy": ["ep4"] }
@@ -226,7 +226,7 @@
       { "text": "スリーピオ", "reading": "すりーぴーお", "en": "Threepio", "revealedBy": ["ep4"], "kind": "nickname" }
     ],
     "facts": [
-      { "kind": "summary", "text": "人型の通訳ドロイド。600万種類を超える言語を扱えると語る。", "revealedBy": ["ep4"] },
+      { "kind": "summary", "text": "人型の通訳ドロイド。600万種類を超える言語を扱えると語る。", "revealedBy": ["ep4", "ep7"] },
       { "text": "[[r2-d2]]と共に脱出ポッドで[[tatooine]]に降り、[[luke-skywalker]]の家に買われた。", "revealedBy": ["ep4"] },
       { "text": "相棒の身を案じては嘆き、行く先々で騒ぎを起こした。", "revealedBy": ["ep4"] }
     ]
