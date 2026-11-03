@@ -1,0 +1,167 @@
+[
+  {
+    "id": "osha",
+    "type": "character",
+    "names": [
+      { "text": "オーシャ", "reading": "おーしゃ", "en": "Osha" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "騎士団を離れ、船の外回りの仕事で食べている女。", "revealedBy": ["acolyte"] },
+      { "text": "幼いころ[[brendok]]で育った。", "revealedBy": ["acolyte"] },
+      { "text": "[[sol]]に引き取られ、弟子として学んだ。", "revealedBy": ["acolyte"] },
+      { "text": "修行を続けられず、自ら去った。", "revealedBy": ["acolyte"] },
+      { "text": "双子の[[mae]]は死んだものと思っていた。", "revealedBy": ["acolyte"] }
+    ]
+  },
+  {
+    "id": "mae",
+    "type": "character",
+    "names": [
+      { "text": "メイ", "reading": "めい", "en": "Mae" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "[[osha]]の双子の姉妹。", "revealedBy": ["acolyte"] },
+      { "text": "武器を持たないジェダイを討つと決めていた。", "revealedBy": ["acolyte"] },
+      { "text": "[[indara]]を手にかけた。", "revealedBy": ["acolyte"] },
+      { "text": "[[qimir]]に導かれて腕を磨いた。", "revealedBy": ["acolyte"] },
+      { "text": "幼い日の出来事について、姉妹とは違う記憶を持っていた。", "revealedBy": ["acolyte"] }
+    ]
+  },
+  {
+    "id": "sol",
+    "type": "character",
+    "names": [
+      { "text": "ソル", "reading": "そる", "en": "Sol" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "穏やかな物腰のジェダイ・マスター。", "revealedBy": ["acolyte"] },
+      { "text": "[[osha]]を弟子として引き取った。", "revealedBy": ["acolyte"] },
+      { "text": "[[brendok]]で起きたことについて、長く口をつぐんでいた。", "revealedBy": ["acolyte"] },
+      { "text": "終わりに、自らの過ちを認めた。", "revealedBy": ["acolyte"] }
+    ]
+  },
+  {
+    "id": "qimir",
+    "type": "character",
+    "names": [
+      { "text": "キミール", "reading": "きみーる", "en": "Qimir" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "薬を商う、人のよさそうな男。", "revealedBy": ["acolyte"] },
+      { "text": "その正体は、面をかぶって闇の力を使う者だった。", "revealedBy": ["acolyte"] },
+      { "text": "弟子を求めて[[mae]]に近づいていた。", "revealedBy": ["acolyte"] },
+      { "text": "騎士団に知られず、思うままに生きることを望んでいた。", "revealedBy": ["acolyte"] },
+      { "text": "終わりに、もう一人の者が姿を見せた。", "revealedBy": ["acolyte"] }
+    ]
+  },
+  {
+    "id": "indara",
+    "type": "character",
+    "names": [
+      { "text": "インダーラ", "reading": "いんだーら", "en": "Indara" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "酒場で[[mae]]に討たれたジェダイ・マスター。", "revealedBy": ["acolyte"] },
+      { "text": "幼い双子のことを知る一人だった。", "revealedBy": ["acolyte"] }
+    ]
+  },
+  {
+    "id": "brendok",
+    "type": "place",
+    "names": [
+      { "text": "ブレンドク", "reading": "ぶれんどく", "en": "Brendok" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "深い森に覆われた星。", "revealedBy": ["acolyte"] },
+      { "text": "[[witches-of-brendok]]が隠れ住んでいた。", "revealedBy": ["acolyte"] },
+      { "text": "[[osha]]と[[mae]]が生まれ育った。", "revealedBy": ["acolyte"] },
+      { "text": "[[tragedy-of-brendok|惨劇]]の舞台になった。", "revealedBy": ["acolyte"] }
+    ]
+  },
+  {
+    "id": "witches-of-brendok",
+    "type": "organization",
+    "names": [
+      { "text": "ブレンドクの魔女たち", "reading": "ぶれんどくのまじょたち", "en": "Witches of Brendok" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "[[the-force]]を騎士団とは別のやり方で使う一団。", "revealedBy": ["acolyte"] },
+      { "text": "すべてをつなぐものを「糸」と呼んだ。", "revealedBy": ["acolyte"] },
+      { "text": "外から来た者を拒み、人目を避けて暮らしていた。", "revealedBy": ["acolyte"] },
+      { "text": "[[mother-aniseya]]が率いていた。", "revealedBy": ["acolyte"] },
+      { "text": "[[tragedy-of-brendok|惨劇]]でほとんどが失われた。", "revealedBy": ["acolyte"] }
+    ]
+  },
+  {
+    "id": "mother-aniseya",
+    "type": "character",
+    "names": [
+      { "text": "マザー・アニセヤ", "reading": "まざー・あにせや", "en": "Mother Aniseya" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "[[witches-of-brendok]]を率いる長。", "revealedBy": ["acolyte"] },
+      { "text": "双子の母にあたる。", "revealedBy": ["acolyte"] },
+      { "text": "娘たちの行く先を、自ら決めようとはしなかった。", "revealedBy": ["acolyte"] },
+      { "text": "惨劇の中で命を落とした。", "revealedBy": ["acolyte"] }
+    ]
+  },
+  {
+    "id": "vernestra-rwoh",
+    "type": "character",
+    "names": [
+      { "text": "ヴァーネストラ・ロウ", "reading": "ばーねすとら・ろう", "en": "Vernestra Rwoh" }
+    ],
+    "facts": [
+      { "kind": "summary", "text": "騎士団の中で高い位にあるジェダイ。", "revealedBy": ["acolyte"] },
+      { "text": "事の収め方を決める立場にいた。", "revealedBy": ["acolyte"] },
+      { "text": "騎士団の体面を守ることを選んだ。", "revealedBy": ["acolyte"] }
+    ]
+  },
+  {
+    "id": "tragedy-of-brendok",
+    "type": "event",
+    "names": [
+      { "text": "ブレンドクの惨劇", "reading": "ぶれんどくのさんげき", "en": "Tragedy of Brendok" }
+    ],
+    "date": { "year": -148, "precision": "approx" },
+    "facts": [
+      { "kind": "summary", "text": "[[brendok]]で[[witches-of-brendok]]のほとんどが失われた出来事。", "revealedBy": ["acolyte"] },
+      { "text": "双子をめぐって、騎士団と魔女たちが向き合った。", "revealedBy": ["acolyte"] },
+      { "text": "火が広がり、多くが命を落とした。", "revealedBy": ["acolyte"] },
+      { "text": "何が起きたのかは、長く伏せられていた。", "revealedBy": ["acolyte"] }
+    ]
+  },
+
+  {
+    "id": "jedi",
+    "facts": [
+      { "text": "この時代には各地に手が届き、争いの少ない世が続いていた。", "revealedBy": ["acolyte"] },
+      { "text": "体面を守るために、起きたことを伏せることもあった。", "revealedBy": ["acolyte"] }
+    ]
+  },
+  {
+    "id": "sith",
+    "facts": [
+      { "text": "絶えたとされていた時代にも、人知れず続いていた。", "revealedBy": ["acolyte"] },
+      { "text": "面をかぶり、素性を隠して動く者がいた。", "revealedBy": ["acolyte"] }
+    ]
+  },
+  {
+    "id": "the-force",
+    "facts": [
+      { "text": "騎士団とは別のやり方で使う者たちもいる。", "revealedBy": ["acolyte"] }
+    ]
+  },
+  {
+    "id": "lightsaber",
+    "facts": [
+      { "text": "赤い刃を持つものが、人知れず使われていた。", "revealedBy": ["acolyte"] }
+    ]
+  },
+  {
+    "id": "coruscant",
+    "facts": [
+      { "text": "この時代にも、[[jedi|ジェダイ]]の神殿が置かれていた。", "revealedBy": ["acolyte"] }
+    ]
+  }
+]
